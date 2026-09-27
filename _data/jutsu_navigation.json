@@ -1,0 +1,194 @@
+{
+  "groups": [
+    {
+      "title": "GETTING STARTED",
+      "items": [
+        {
+          "title": "Jutsu Rules",
+          "url": "/rules/jutsu/rules/",
+          "slug": "rules"
+        },
+        {
+          "title": "The Eight Gates",
+          "url": "/rules/jutsu/eight-gates/",
+          "slug": "eight-gates"
+        },
+        {
+          "title": "Shadow Clones",
+          "url": "/rules/jutsu/shadow-clones/",
+          "slug": "shadow-clones"
+        },
+        {
+          "title": "Natural Chakra & Sage Mode",
+          "url": "/rules/jutsu/natural-chakra/",
+          "slug": "natural-chakra"
+        }
+      ]
+    },
+    {
+      "title": "TAIJUTSU",
+      "items": [
+        {
+          "title": "Unarmed Taijutsu",
+          "url": "/rules/jutsu/unarmed/",
+          "slug": "unarmed"
+        },
+        {
+          "title": "Combo Taijutsu",
+          "url": "/rules/jutsu/combo/",
+          "slug": "combo"
+        },
+        {
+          "title": "Grapple Taijutsu",
+          "url": "/rules/jutsu/grapple/",
+          "slug": "grapple"
+        }
+      ]
+    },
+    {
+      "title": "NINJUTSU & ELEMENTS",
+      "items": [
+        {
+          "title": "General Ninjutsu",
+          "url": "/rules/jutsu/general/",
+          "slug": "general"
+        },
+        {
+          "title": "Doton · Earth",
+          "url": "/rules/jutsu/doton/",
+          "slug": "doton"
+        },
+        {
+          "title": "Fūton · Wind",
+          "url": "/rules/jutsu/fuuton/",
+          "slug": "fuuton"
+        },
+        {
+          "title": "Katon · Fire",
+          "url": "/rules/jutsu/katon/",
+          "slug": "katon"
+        },
+        {
+          "title": "Raiton · Lightning",
+          "url": "/rules/jutsu/raiton/",
+          "slug": "raiton"
+        },
+        {
+          "title": "Suiton · Water",
+          "url": "/rules/jutsu/suiton/",
+          "slug": "suiton"
+        }
+      ]
+    },
+    {
+      "title": "BUKIJUTSU",
+      "items": [
+        {
+          "title": "Bukijutsu Rules",
+          "url": "/rules/jutsu/bukijutsu/",
+          "slug": "bukijutsu"
+        },
+        {
+          "title": "Sword Bukijutsu",
+          "url": "/rules/jutsu/sword/",
+          "slug": "sword"
+        },
+        {
+          "title": "Club Bukijutsu",
+          "url": "/rules/jutsu/club/",
+          "slug": "club"
+        },
+        {
+          "title": "Polearm Bukijutsu",
+          "url": "/rules/jutsu/polearm/",
+          "slug": "polearm"
+        },
+        {
+          "title": "Fan Bukijutsu",
+          "url": "/rules/jutsu/fan/",
+          "slug": "fan"
+        },
+        {
+          "title": "Chain Weapon Bukijutsu",
+          "url": "/rules/jutsu/chain/",
+          "slug": "chain"
+        },
+        {
+          "title": "Dual Bukijutsu",
+          "url": "/rules/jutsu/dual/",
+          "slug": "dual"
+        },
+        {
+          "title": "Bow Bukijutsu",
+          "url": "/rules/jutsu/bow/",
+          "slug": "bow"
+        },
+        {
+          "title": "Thrown Bukijutsu",
+          "url": "/rules/jutsu/thrown/",
+          "slug": "thrown"
+        }
+      ]
+    },
+    {
+      "title": "SPECIALIST JUTSU",
+      "items": [
+        {
+          "title": "Genjutsu",
+          "url": "/rules/jutsu/genjutsu/",
+          "slug": "genjutsu"
+        },
+        {
+          "title": "Medical Ninjutsu",
+          "url": "/rules/jutsu/medical/",
+          "slug": "medical"
+        },
+        {
+          "title": "Fūinjutsu · Sealing",
+          "url": "/rules/jutsu/sealing/",
+          "slug": "sealing"
+        }
+      ]
+    },
+    {
+      "title": "FERAL ELEMENTS",
+      "items": [
+        {
+          "title": "Feral Elements",
+          "url": "/rules/jutsu/feral/",
+          "slug": "feral"
+        },
+        {
+          "title": "Abyss Release",
+          "url": "/rules/jutsu/feral/abyss/",
+          "slug": "abyss"
+        },
+        {
+          "title": "Storm Release",
+          "url": "/rules/jutsu/feral/storm/",
+          "slug": "storm"
+        },
+        {
+          "title": "Glass Release",
+          "url": "/rules/jutsu/feral/glass/",
+          "slug": "glass"
+        },
+        {
+          "title": "Vacuum Release",
+          "url": "/rules/jutsu/feral/vacuum/",
+          "slug": "vacuum"
+        },
+        {
+          "title": "Cinder Release",
+          "url": "/rules/jutsu/feral/cinder/",
+          "slug": "cinder"
+        },
+        {
+          "title": "Void Release",
+          "url": "/rules/jutsu/feral/void/",
+          "slug": "void"
+        }
+      ]
+    }
+  ]
+}

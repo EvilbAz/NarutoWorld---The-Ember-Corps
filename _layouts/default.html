@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('ember-theme')||'dark'}catch(e){}</script>
 </head>
-<body data-base="{{ site.baseurl }}">
+<body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="site-shell">
   <aside class="sidebar" id="sidebar" aria-label="Rulebook navigation">
@@ -24,7 +24,21 @@
       {% assign books = "core|Core Rules|I,uniques|Uniques|II,clans|Clans & Lineages|III,jutsu|Jutsu Compendium|IV,talents|Talents & Rank Benefits|V,equipment|Equipment & Crafting|VI" | split: "," %}
       {% for entry in books %}{% assign b = entry | split: "|" %}
         <a class="volume-link {% if page.volume_slug == b[0] %}selected{% endif %}" href="{{ '/rules/' | append: b[0] | append: '/' | relative_url }}"><span class="volume-number">{{ b[2] }}</span><span>{{ b[1] }}</span>{% if page.volume_slug == b[0] %}<span class="active-spark"></span>{% endif %}</a>
-        {% if page.volume_slug == b[0] %}<nav id="toc" class="toc" aria-label="On this page"></nav>{% endif %}
+        {% if page.volume_slug == b[0] %}
+          {% if page.volume_slug == 'jutsu' %}
+            <nav id="toc" class="toc jutsu-side-links" aria-label="Jutsu types">
+              <a href="{{ '/rules/jutsu/' | relative_url }}" class="jutsu-all-link {% if page.jutsu_index %}active{% endif %}">ALL JUTSU TYPES ↗</a>
+              {% for group in site.data.jutsu_navigation.groups %}
+                <span class="jutsu-side-group">{{ group.title }}</span>
+                {% for item in group.items %}
+                  <a class="{% if page.permalink == item.url %}active{% endif %}" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endfor %}
+              {% endfor %}
+            </nav>
+          {% else %}
+            <nav id="toc" class="toc {% if page.volume_slug == 'clans' %}clan-toc{% endif %}" aria-label="{% if page.volume_slug == 'clans' %}Clans{% else %}On this page{% endif %}"></nav>
+          {% endif %}
+        {% endif %}
       {% endfor %}
     </nav>
     <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/changelog/' | relative_url }}">Changelog <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://github.com/EvilbAz/NarutoWorld---The-Ember-Corps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
@@ -39,8 +53,8 @@
       {% if page.volume_slug %}
       <div class="rulebook-main">
         <div class="breadcrumbs"><a href="{{ '/' | relative_url }}">THE ARCHIVE</a><span>/</span><span>VOL. {{ page.volume }}</span></div>
-        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}The rules that keep you alive. Character creation, combat, wounds, downtime and advancement.{% when 'uniques' %}No two shinobi fight alike. Exceptional traits, gifts and upgrade paths.{% when 'clans' %}What survives in the blood. Lineages, heritages and forgotten techniques.{% when 'jutsu' %}Chakra made manifest. Every technique, discipline and supernatural art.{% when 'talents' %}The hunter you become. Capabilities, enhancements and rank benefits.{% when 'equipment' %}Steel is a survival skill. Weapons, tools, upgrades and crafting.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a><span class="meta-sep">·</span><a href="{{ '/changelog/' | relative_url }}">Change history ↗</a></div></div>
-        <div class="reading-layout"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
+        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}The rules that keep you alive. Character creation, combat, wounds, downtime and advancement.{% when 'uniques' %}No two shinobi fight alike. Exceptional traits, gifts and upgrade paths.{% when 'clans' %}What survives in the blood. Lineages, heritages and forgotten techniques.{% when 'jutsu' %}Chakra made manifest. Every technique, discipline and supernatural art.{% when 'talents' %}The hunter you become. Capabilities, enhancements and rank benefits.{% when 'equipment' %}Steel is a survival skill. Weapons, tools, upgrades and crafting.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline. Browse complete schools of techniques in their own pages.{% else %}Volume IV · A complete technique school, from its rules to its highest ranks.{% endif %}{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a><span class="meta-sep">·</span><a href="{{ '/changelog/' | relative_url }}">Change history ↗</a></div></div>
+        <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
         <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
       </div>
       {% else %}{{ content }}{% endif %}
