@@ -1,0 +1,21 @@
+title: "Naruto World: Ember Corps"
+description: "The Ember Corps player rulebook — six volumes, fully searchable."
+url: "https://evilbaz.github.io"
+baseurl: "/NarutoWorld---The-Ember-Corps"
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - .github
+  - scripts
+  - node_modules
+  - vendor
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
