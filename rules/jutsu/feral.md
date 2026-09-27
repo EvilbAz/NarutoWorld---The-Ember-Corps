@@ -16,7 +16,7 @@ Hunters use Feral Element for chakra pushed beyond its ordinary nature. Some lea
 
 A Feral Element does more than change a technique. It scars the fight around it. Build that Scar, hold it long enough to make the battlefield yours, then spend the advantage before the world settles back into place.
 
-# **AT A GLANCE**
+# AT A GLANCE
 {:#at-a-glance}
 
 * Feral Element is a Capability Talent learned from a valid Source.  
@@ -30,14 +30,14 @@ A Feral Element does more than change a technique. It scars the fight around it.
 * After three Developments, Feral Dominion unlocks alongside the Apex Mutation of your chosen Release.
 
 
-# **FERAL ELEMENT**
+# FERAL ELEMENT
 {:#feral-element}
 
 ***Capability Talent***
 
 Feral Elements come from rare knowledge and stranger environments. A Source can be another Feral user, a recovered technique, a monster specimen, a ruined training record, or a researched phenomenon from beyond Haven Ember. Once you have a suitable Source, learn the Talent through the normal Capability Talent rules.
 
-## **Core Talent**
+## Core Talent
 {:#core-talent}
 
 Choose one Feral Element. That Release becomes the Feral Element granted by this Talent.
@@ -46,14 +46,14 @@ Abyss Release requires Elemental Mastery: Suiton. Storm Release requires Element
 
 Void Release requires access to B-Rank Non-Elemental Ninjutsu.
 
-## **Feralizing a Jutsu**
+## Feralizing a Jutsu
 {:#feralizing-a-jutsu}
 
 When declaring a C-Rank or higher Ninjutsu of the matching base nature, you may Feralize it. The Jutsu keeps its normal tags and gains its Feral Release tag. Abyss remains Suiton, Storm remains Raiton, Glass remains Doton, Vacuum remains Fūton and Cinder remains Katon for elemental interactions. Void remains Non-Elemental.
 
 Feral Conversion applies to Jutsu with a target, Area, Construct, Barrier, weapon or persistent effect that the Release can scar or transform.
 
-## **Feral Intensity**
+## Feral Intensity
 {:#feral-intensity}
 
 A Feralized Jutsu uses its Rank to determine Feral Intensity:
@@ -68,20 +68,20 @@ A Feralized Jutsu uses its Rank to determine Feral Intensity:
 
 After calculating the Jutsu's normal final Chakra cost, increase it by 2 × Feral Intensity.
 
-## **Native Feral Jutsu**
+## Native Feral Jutsu
 {:#native-feral-jutsu}
 
 A Jutsu printed with a Feral Release tag is a native Feral Jutsu. It counts as Feralized, uses its Rank for Feral Intensity and applies its Release rules. Native Feral Jutsu pay their printed Chakra cost without the additional cost for Feralizing them.
 
 
-# **FERAL SCARS**
+# FERAL SCARS
 {:#feral-scars}
 
 Feral chakra forces the world into a state it cannot comfortably hold. Abyss creates Depth, Storm creates Charge, Glass creates Shards, Vacuum creates Dead Air, Cinder creates Ash, and Void creates Null.
 
 Each Scar has Severity 1–5. Applying the same Scar again increases its Severity to a maximum of 5 and refreshes its Fade timer.
 
-## **Scar States**
+## Scar States
 {:#scar-states}
 
 **Scarred — Severity 1–2** — The Release has established itself and begins rewarding continued pressure.
@@ -90,7 +90,7 @@ Each Scar has Severity 1–5. Applying the same Scar again increases its Severit
 
 **Overrun — Severity 5** — The Release has completely taken hold. Overrun effects are the strongest payoff and the shortest-lived state without an Anchor.
 
-## **Fade**
+## Fade
 {:#fade}
 
 Every Scar tracks one Fade timer.
@@ -105,7 +105,7 @@ Increasing a Scar refreshes Fade from its new Severity. Consuming Scar Severity 
 
 When a Scar reaches 0, remove its marker. Physical aftermath can remain after the chakra sustaining the Scar is gone: shattered glass, soot, standing water and scorched earth still look exactly as ruined as they should.
 
-## **Anchored Scars**
+## Anchored Scars
 {:#anchored-scars}
 
 A Feral Jutsu with Upkeep Anchors the matching Scars it creates on its target or inside its Area while that Upkeep is maintained. An Anchored Scar keeps its current Severity and its Fade timer stops counting down.
@@ -114,7 +114,7 @@ Several native Feral Jutsu Anchor a wider set of matching Scars in their Area. T
 
 When an Anchor ends, set the Scar's Fade to 20 IC at Severity 1–4 or 10 IC at Severity 5\. The battlefield immediately returns to the normal Fade cycle.
 
-## **Areas, Creatures and Overlap**
+## Areas, Creatures and Overlap
 {:#areas-creatures-and-overlap}
 
 A creature can carry a Scar directly while standing inside an Area carrying the same Scar. When a rule checks that creature's Scar Severity, use the higher value.
@@ -123,20 +123,20 @@ Overlapping Areas of the same Scar use the highest Severity present in the overl
 
 Each point of Scar Severity can be consumed once. Declare the creature, Area or effect supplying the Scar before resolving the benefit.
 
-## **Timing**
+## Timing
 {:#timing}
 
 Resolve a Feral Jutsu's Attack, Damage, Status Conditions and immediate effects, then apply its new Scar. Bonuses use the Scar Severity already present before that Jutsu began resolving.
 
 A Jutsu that changes this order states the timing in its own Effects.
 
-## **Shared Scars**
+## Shared Scars
 {:#shared-scars}
 
 Scars belong to the battlefield. Any character with rules for the matching Feral Element can build, consume or exploit them.
 
 
-# **FERAL COMBAT FLOW**
+# FERAL COMBAT FLOW
 {:#feral-combat-flow}
 
 Feral Elements reward momentum rather than permanent setup. A fight naturally moves through the same six beats.
@@ -166,7 +166,7 @@ Feral Fields are the main way to hold territory. Their Upkeep Anchors a Scar and
 - [Cinder Release]({{ '/rules/jutsu/feral/cinder/' | relative_url }}) — Katon / Ash
 - [Void Release]({{ '/rules/jutsu/feral/void/' | relative_url }}) — Non-elemental / Null
 
-# **DEVELOPMENTS**
+# DEVELOPMENTS
 {:#developments}
 
 Each time you Deepen Feral Element, choose one Development.
@@ -183,7 +183,7 @@ Each time you Deepen Feral Element, choose one Development.
 
 **Territorial Instinct** — When you declare a Feral Attack that interacts with a matching Scar at Severity 3+, gain \+1 Accuracy on that Attack.
 
-## **Mastery — Feral Dominion**
+## Mastery — Feral Dominion
 {:#mastery-feral-dominion}
 
 After three Feral Element Developments, gain Feral Dominion and your chosen Release's Apex Mutation.
@@ -193,10 +193,10 @@ When declaring a Feral Jutsu that targets, occupies, originates from or consumes
 The first converted Jutsu you Feralize during each Action has its additional Chakra cost from Feralizing reduced by 2, minimum 0\.
 
 
-# **RULES REFERENCE**
+# RULES REFERENCE
 {:#rules-reference}
 
-## **Scar Cycle**
+## Scar Cycle
 {:#scar-cycle}
 
 **Create** — Apply Severity and set Fade: 20 IC at Severity 1–4, 10 IC at Severity 5\.
@@ -209,7 +209,7 @@ The first converted Jutsu you Feralize during each Action has its additional Cha
 
 **Fade** — At Fade 0, lose 1 Severity and set Fade to 10 IC. Repeat until the Scar reaches 0\.
 
-## **Resolution Order**
+## Resolution Order
 {:#resolution-order}
 
 * Declare the Jutsu and Feralize it if applicable.  
@@ -219,26 +219,26 @@ The first converted Jutsu you Feralize during each Action has its additional Cha
 * Resolve any Scar consumption or cash-out written into the Jutsu.  
 * Apply the Jutsu's new Scar and set or refresh Fade.
 
-## **Scar Checks**
+## Scar Checks
 {:#scar-checks}
 
 For a creature standing in a matching Scar Area while also carrying that Scar directly, use the higher Severity.
 
 When consuming Scar, remove Severity from the creature, Area or effect named by the rule. A single point of Severity pays for one benefit.
 
-## **Anchors**
+## Anchors
 {:#anchors}
 
 A Feral Jutsu with Upkeep Anchors the matching Scars it creates. Native Feral Fields also state which existing Scars they Anchor.
 
 When an Anchor ends, the Scar returns to Fade at 20 IC for Severity 1–4 or 10 IC for Severity 5\.
 
-## **Multiple Feral Users**
+## Multiple Feral Users
 {:#multiple-feral-users}
 
 Matching Scars are shared terrain. Abyss users can build the same Depth, Storm users can share Nodes, Glass users can consume the same Shards, and every other Release follows the same rule.
 
-## **End of a Scene**
+## End of a Scene
 {:#end-of-a-scene}
 
 Combat timing ends when the scene ends. Any unspent Feral Scar loses its mechanical effects at that point. The physical aftermath remains as the fiction demands.

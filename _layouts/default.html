@@ -3,14 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#12151a">
+  <meta name="theme-color" content="#0b0c0d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ember.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('ember-theme')||'dark'}catch(e){}</script>
 </head>
-<body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
+<body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="site-shell">
   <aside class="sidebar" id="sidebar" aria-label="Rulebook navigation">
@@ -48,6 +48,12 @@
                   {% endfor %}
                 {% endfor %}
               </nav>
+            {% elsif page.volume_slug == 'talents' %}
+              <nav class="toc talent-side-links" aria-label="Talent categories">
+              {% for tab in site.data.talent_navigation.tabs %}
+                <a href="{{ tab.url | relative_url }}" class="{% if page.talent_section == tab.slug %}active{% endif %}">{{ tab.title }}</a>
+              {% endfor %}
+              </nav>
             {% else %}
               <nav id="toc" class="toc" aria-label="On this page"></nav>
             {% endif %}
@@ -55,7 +61,7 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/changelog/' | relative_url }}">Changelog <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://github.com/EvilbAz/NarutoWorld---The-Ember-Corps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
+    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://github.com/EvilbAz/NarutoWorld---The-Ember-Corps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
     <header class="topbar">
@@ -67,7 +73,17 @@
       {% if page.volume_slug %}
       <div class="rulebook-main">
         <div class="breadcrumbs"><a href="{{ '/' | relative_url }}">THE ARCHIVE</a><span>/</span><span>VOL. {{ page.volume }}</span></div>
-        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}The rules that keep you alive. Character creation, combat, wounds, downtime and advancement.{% when 'uniques' %}No two shinobi fight alike. Exceptional traits, gifts and upgrade paths.{% when 'clans' %}What survives in the blood. Lineages, heritages and forgotten techniques.{% when 'jutsu' %}Chakra made manifest. Every technique, discipline and supernatural art.{% when 'talents' %}The hunter you become. Capabilities, enhancements and rank benefits.{% when 'equipment' %}Steel is a survival skill. Weapons, tools, upgrades and crafting.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline. Browse complete schools of techniques in their own pages.{% else %}Volume IV · A complete technique school, from its rules to its highest ranks.{% endif %}{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a><span class="meta-sep">·</span><a href="{{ '/changelog/' | relative_url }}">Change history ↗</a></div></div>
+        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}The rules that keep you alive. Character creation, combat, wounds, downtime and advancement.{% when 'uniques' %}No two shinobi fight alike. Exceptional traits, gifts and upgrade paths.{% when 'clans' %}What survives in the blood. Lineages, heritages and forgotten techniques.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline. Browse complete schools of techniques in their own pages.{% else %}Volume IV · A complete technique school, from its rules to its highest ranks.{% endif %}{% when 'talents' %}The hunter you become. Capabilities, enhancements and rank benefits.{% when 'equipment' %}Steel is a survival skill. Weapons, tools, upgrades and crafting.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a></div></div>
+        {% if page.volume_slug == 'talents' %}
+          <nav class="talent-tabbar" aria-label="Talent categories">
+            {% for tab in site.data.talent_navigation.tabs %}
+              <a href="{{ tab.url | relative_url }}" class="talent-tab {% if page.talent_section == tab.slug %}is-active{% endif %}" {% if page.talent_section == tab.slug %}aria-current="page"{% endif %}>{{ tab.title }}</a>
+            {% endfor %}
+          </nav>
+          {% for tab in site.data.talent_navigation.tabs %}
+            {% if page.talent_section == tab.slug %}<p class="talent-tab-description">{{ tab.description }}</p>{% endif %}
+          {% endfor %}
+        {% endif %}
         <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
         <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
       </div>

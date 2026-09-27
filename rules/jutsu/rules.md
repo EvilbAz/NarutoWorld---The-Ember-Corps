@@ -11,7 +11,7 @@ source: "https://docs.google.com/document/d/1WzDsr5mlAqSDaGS0-d1ogbANCJqHjayf51k
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
 
 
-# **Guide**
+# Guide
 {:#guide}
 
 **NARUTO WORLD: EMBER CORPS**
@@ -34,10 +34,10 @@ source: "https://docs.google.com/document/d/1WzDsr5mlAqSDaGS0-d1ogbANCJqHjayf51k
 | VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
 
 
-# **Jutsu Rules**
+# Jutsu Rules
 {:#jutsu-rules}
 
-## **Explanation**
+## Explanation
 {:#explanation}
 
 The core of a ninja's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person.  
@@ -46,7 +46,7 @@ Taijutsu, or body techniques, use the chakra flowing throughout a ninja's body t
 Ninjutsu, or ninja techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.  
 Genjutsu, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
 
-## **Rule**
+## Rule
 {:#rule}
 
 Each jutsu is a unique action that, once you've learned it, you can perform. All jutsu are divided into five main ranks (E, D, C, B, and A), with S-rank techniques being rare techniques known only to their inventor and perhaps a handful of people that person taught them to.  
@@ -54,18 +54,18 @@ Though each rank of each type has special requirements to learn (explained in mo
 
 To learn any jutsu of B-rank or higher you must be taught how to use it (unless you exceed the requirements by 50%). So you would need 30 Athletics to learn B-rank taijutsu without a mentor. See Downtime Rules on how to find mentors.
 
-## **Reader's Guide**
+## Reader's Guide
 {:#reader-s-guide}
 
 Most of the jutsu entries have a lot of information packed into them. To help make them easier to read, a lot of the common factors are written using shorthand; for example, rather than spelling out "Using this technique requires you to make a Chakra Exhaustion roll against 10", a jutsu would have an entry of "Chakra: 10"  
 Below are all the common terms you'll see in jutsu entries, and what they mean.
 
-### **Stamina / Chakra**
+### Stamina / Chakra
 {:#stamina-chakra}
 
 The technique's Stamina and Chakra cost, respectively.
 
-### **Upkeep**
+### Upkeep
 {:#upkeep}
 
 Some techniques require a constant expenditure of your energy to maintain; this is what upkeep represents. So long as you maintain these techniques (which typically can be done indefinitely) you suffer a penalty to all Stamina and Chakra Exhaustion rolls equal to that technique's Upkeep. If you're maintaining multiple techniques with Upkeeps, these penalties stack.
@@ -75,22 +75,22 @@ If your total Upkeep/2 exceeds your bonus to Chakra Exhaustion rolls (including 
 For example, If you had an Upkeep of 9 and a Chakra Exhaustion roll modifier of \+12, your total bonus would be \+3. Taking the 9 upkeep /2 to 4, your Fatigue would automatically advance a category, giving you another \+5, for a total bonus of \+8.  
 You may end any Upkeeps you're sustaining as a Speed 0 Action.
 
-### **Damage**
+### Damage
 {:#damage}
 
 The base damage dealt by the technique. You add your damage bonus (multiplied by the attack's modified Speed) to this number.
 
-### **Accuracy**
+### Accuracy
 {:#accuracy}
 
 Some jutsu have bonuses or penalties to accuracy. If there's no entry for this, it uses your normal accuracy.
 
-### **Range**
+### Range
 {:#range}
 
 How many yards away the attack's target can be. In the case of area-of-effect techniques, they can be centered anywhere within this range (and their effects may well extend beyond it). If it has no range then it is centered on yourself (in which case it does not affect you).
 
-### **Area**
+### Area
 {:#area}
 
 The area of a jutsu which can come in any of 3 forms below:  
@@ -100,22 +100,22 @@ Cube X: A square X by X yards using X for dodge penalties
 
 When dodging an AoE Jutsu you must first find out if you are fast enough to escape it. Take the speed of the attack and compare how far you could move in that IC to the Area of the jutsu. If your speed is lower then you gain a penalty of \-2 per yard you fail to escape by.
 
-### **Speed**
+### Speed
 {:#speed}
 
 The jutsu's base Speed.
 
-### **Seal Speed**
+### Seal Speed
 {:#seal-speed}
 
 The jutsu's base seal speed.
 
-### **Special**
+### Special
 {:#special}
 
 Any Special status effect requires a Chakra Control roll against the target's Resistance unless its Jutsu or the status rules say otherwise. Stun, Knockback and conditions inflicted by Clan Jutsu do not require an additional status roll unless their entry explicitly requires one. Genjutsu resolve their listed effects using Genjutsu Offense against Genjutsu Defense instead.
 
-### **Tags**
+### Tags
 {:#tags}
 
 At a glance of what the jutsu can achieve. Additional tags can be found for taijutsu and ninjutsu in their respective areas. Here are the following general tags and their meanings:
@@ -135,15 +135,15 @@ Self | Generally only affects you and for everything else its difficult to deter
 Damage: Blunt, Slashing, Piercing, Energy  
 This determines the type of wounds the technique deals. If it doesn’t have one, then it can’t wound even if it deals enough damage to do so.
 
-### **Effects**
+### Effects
 {:#effects}
 
 Any special characteristics of a technique which aren't covered by one of the above categories are listed here.
 
-## **Taijutsu**
+## Taijutsu
 {:#taijutsu}
 
-## **Requirements**
+## Requirements
 {:#requirements}
 
 Taijutsu is more than just hand-to-hand combat; ninjutsu techniques go well beyond the realm of what's possible for normal humans, smashing rocks and the like. It's not exactly... easy.  
@@ -170,15 +170,15 @@ A: 32
 
 Thus, if you meet any one of those requirements, you can use the jutsu in question. A Trailhand with 5 Athletics could learn all techniques up to C rank, whereas one with 20 Athletics could learn all techniques up to B rank with a mentor.
 
-## **Limb Requirements**
+## Limb Requirements
 {:#limb-requirements}
 
 Many taijutsu require you to have x arms and/or legs free to utilize them. These come in the form of Tags: X Arms or X Legs with X being the amount of limbs free and usable for the technique.
 
-## **Ninjutsu**
+## Ninjutsu
 {:#ninjutsu}
 
-## **Requirements**
+## Requirements
 {:#requirements-2}
 
 Learning ninjutsu is a great deal of work; a ninja has to learn how to mold their chakra, how to convert it to the right elemental nature, then how to properly project it, along with memorizing all the necessary handseals... for each individual jutsu they know.
@@ -212,14 +212,14 @@ C: 12
 B: 22  
 A: 32
 
-## **Elemental Strength and Weaknesses**
+## Elemental Strength and Weaknesses
 {:#elemental-strength-and-weaknesses}
 
 All Elemental jutsu follow a strengths and weakness chart that circles back on itself. The strengths and weaknesses go as follows:
 
 Earth \> Water \> Fire \> Wind \> Lightning \> Earth
 
-## **Created weapons, enhanced attacks and you\!**
+## Created weapons, enhanced attacks and you!
 {:#created-weapons-enhanced-attacks-and-you}
 
 Weapons and ninjutsu that empower taijutsu have a few special effects. First, when created they count as ninjutsu (for cases of chakra rolls and the like), however, when attacking they count as taijutsu. This means they do not gain the bonuses from things such as specialist which empower ninjutsu, they would only gain it from taijutsu. They do count as their element when opposing different elements, however. This applies to dual-elements effects as well. Created weapons only count for their element against element defenses, they do not gain any of the other benefits of being dual-element.
@@ -228,7 +228,7 @@ Additionally, elemental weapons may only have chakra flow of their element used 
 
 For jutsu such as Four Seasonal Wind Palm, which enhance taijutsu, this can cause them to lose the benefits of the jutsu (such as enhanced blocking penetration), unless the element they turned it into had a similar benefit of the same type (for example, Ice retains the 25% block reduction, while Scorch would outright ignore blocking; on the other hand, Magnetism would offer no block reduction at all, as block reduction is not an inherent trait of Jiton ninjutsu).
 
-## **Bunshin**
+## Bunshin
 {:#bunshin}
 
 Bunshin, unless stated otherwise, act 1 IC after they were created and have a cap of 3 at a time. If they were created before the initiative, then they act on their user's IC. Clones can ONLY perform actions listed in their action options.
@@ -243,17 +243,17 @@ Unless stated otherwise, all clones share the following rules and options:
 
 By default clones use all of your combat stats at Fatigue 1 without any temporary benefits (such as having eaten a Soldier Pill before creating them) and with the following changes:
 
-•  Their damage bonus is half of yours
+- Their damage bonus is half of yours
 
-•  They do not get any of your talents
+- They do not get any of your talents
 
-•  They only gain the automatic benefits of uniques (they could get the bonus stm/speed from large since its automatically applied but couldn’t scan through chakra sensor)
+- They only gain the automatic benefits of uniques (they could get the bonus stm/speed from large since its automatically applied but couldn’t scan through chakra sensor)
 
-•  The severity of any wounds inflicted by clones are reduced by 1 (potentially to nothing).
+- The severity of any wounds inflicted by clones are reduced by 1 (potentially to nothing).
 
-•  They cannot use any ability that summons more clones
+- They cannot use any ability that summons more clones
 
-•  They do not have/gain AP or WP, but you may use your own in their place
+- They do not have/gain AP or WP, but you may use your own in their place
 
 If they would ever fail a fatigue check or take any amount of damage they instantly disappear and the jutsu ends.
 
@@ -269,10 +269,10 @@ In the case of getting attacked while you are hidden among your clones there is 
 If a clone is hit and not the actual PC, both the attacker and defender advance their ic based on actions declared. (In this case you would not have to pay for Stamina or Chakra costs for techniques you intended to use as the defender and those techniques would also not be used. Any AP spent to make the speed a legal defense is still lost)  
 If the defending character is the randomized target, resolve the defenses declared before.
 
-## **Bukijutsu**
+## Bukijutsu
 {:#bukijutsu}
 
-## **Learning Requirements**
+## Learning Requirements
 {:#learning-requirements}
 
 E-Rank Bukijutsu is universally available to player characters.
@@ -287,7 +287,7 @@ E-Rank Bukijutsu is universally available to player characters.
 
 **B-Rank and A-Rank:** the normal mentor rule still applies. You must be taught the technique unless you exceed the relevant learning requirement by 50%, following the general Jutsu rules.
 
-## **Buki Attacks**
+## Buki Attacks
 {:#buki-attacks}
 
 Unless a technique lists fixed Damage or Speed, an attacking Bukijutsu starts from the Basic Weapon Attack of the weapon being used and applies the modifiers printed in the technique. “dS” uses that weapon’s base damage die size.
@@ -298,7 +298,7 @@ If your weapon has an innate delay, any Bukijutsu you cast gains a Delay equal t
 
 If a Bukijutsu calls for an attack roll, that means a 1d20 \+ your Accuracy \- 10\.
 
-## **Chain**
+## Chain
 {:#chain}
 
 **Chain Value:** A Chain is tracked against one target and has a value of 0, 1 or 2\. It has no passive damage bonus.
@@ -325,16 +325,16 @@ If a Bukijutsu calls for an attack roll, that means a 1d20 \+ your Accuracy \- 1
 
 **Finisher Weapon:** A Chain 3 uses only the properties of the weapon used for that Chain 3\. Damage, dual-hit percentages, wound riders, reach changes and similar benefits from earlier attacks do not carry into it unless the Chain 3 explicitly says they do.
 
-### **Fan Bridge**
+### Fan Bridge
 {:#fan-bridge}
 
 Fan Bukijutsu has a deliberate exception to the normal Chain break rule. Wind Bridge may carry one Fan-tagged Fuuton through an active Chain. The Fuuton remains Ninjutsu, never becomes Chain 1/2/3, receives no Bukijutsu damage or status riders, and does not refresh the Chain Window. But your chain doesn’t break. You can do this once per chain.
 
 
-# **Specialty Jutsu**
+# Specialty Jutsu
 {:#specialty-jutsu}
 
-## **Genjutsu Requirements**
+## Genjutsu Requirements
 {:#genjutsu-requirements}
 
 Genjutsu isn't easy. In fact, genjutsu is really, really hard, even by the standards of other ninja techniques. Taijutsu and ninjutsu are both, after enough shinobi training, slightly intuitive; and, in the case of the latter, every ninja has an elemental affinity they can rely on to help them out even when they struggle overall.
@@ -351,7 +351,7 @@ A: 30 Diplomacy, 30 Research, and 70 (Diplomacy \+ Research)
 
 A Warden or Legend also qualifies to learn C-rank Genjutsu, provided they possess Genjutsu Training.
 
-## **Fūinjutsu Requirements**
+## Fūinjutsu Requirements
 {:#fuinjutsu-requirements}
 
 Fūinjutsu, or sealing techniques, are, as the name suggests, techniques which use chakra to form specialized 'seals'. They're difficult to use, and have limited combat viability.  
@@ -364,7 +364,7 @@ C: 12 Chakra Control, 15 Research, Seal Training (talent)
 B: 20 Chakra Control, 25 Research, Seal Training (talent)  
 A: 30 Chakra Control, 35 Research, Advanced Seal Training
 
-## **Medical Ninjutsu**
+## Medical Ninjutsu
 {:#medical-ninjutsu}
 
 One of the few good things the development of ways to control chakra has brought to the world is the appropriately named medical ninjutsu. These are techniques which safely transfer chakra to another person, or use it to accelerate the natural healing process, cure maladies, and otherwise ameliorate suffering and avoid unnecessary casualties.  
@@ -378,7 +378,7 @@ B: 20 Chakra Control, 25 Medicine, Advanced Medical Training (ability)
 A: 30 Chakra Control, 35 Medicine, Advanced Medical Training (ability)
 
 
-# **Summoning Contracts**
+# Summoning Contracts
 {:#summoning-contracts}
 
 *[Illustration in the source Google Doc]*

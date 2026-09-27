@@ -4,7 +4,7 @@ The six Google Docs are the editorial source. The GitHub Pages site is a publish
 
 - Report a typo, broken anchor or display issue with a GitHub issue.
 - Suggest mechanics changes in the project staff review process before proposing a source-document edit.
-- Update only the affected volume after approval and add a dated entry to `changelog.md`.
+- Update only the affected volume after approval and document the change in the pull request.
 - Verify that section search anchors still match the search index after editing headings.
 - Do not paste private GM or staff-only materials into this public repository.
 

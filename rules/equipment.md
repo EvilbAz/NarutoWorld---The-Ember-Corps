@@ -7,14 +7,6 @@ permalink: "/rules/equipment/"
 source: "https://docs.google.com/document/d/1-izKLkpWG72oHkL-byh9zHkCiVbyNJOx4KceY8j93ug/edit"
 ---
 
-
-
-**NARUTO WORLD: EMBER CORPS**
-
-**EQUIPMENT & CRAFTING**
-
-**VOLUME VI**
-
 *Crafting, weapons, tools, pharmaceuticals and exploding tags.*
 
 *“Kunai, wire, medicine, steel, seals: preparation is simply another form of power.”*
@@ -28,13 +20,13 @@ source: "https://docs.google.com/document/d/1-izKLkpWG72oHkL-byh9zHkCiVbyNJOx4Kc
 | V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
 | VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
 
-# **Crafting**
+# Crafting
 {:#crafting}
 
-## **Weapons**
+## Weapons
 {:#weapons}
 
-### **Weapon Crafting**
+### Weapon Crafting
 {:#weapon-crafting}
 
 Weapon Crafting lets you build a melee weapon from its frame upward. Choose its Structure, spend Artisan Points on Components, then add any Special Properties you are able to craft.
@@ -43,17 +35,17 @@ A weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft 
 
 Weapons still use the normal equipment restriction: you cannot wield a weapon with Final Artisan Points greater than Athletics \+10 without the normal over-limit penalties.
 
-#### **1\. Structure**
+#### 1. Structure
 {:#1-structure}
 
 Choose one Damage Type, one Size, one Heft, and one Shape. Your first choice in each category is free unless the option says otherwise.
 
-##### **Damage Type**
+##### Damage Type
 {:#damage-type}
 
 Choose Slashing, Piercing, or Blunt. Each additional Damage Type costs 2 AP. A weapon with multiple Damage Types follows the normal Wound rules when choosing which type it inflicts.
 
-##### **Size**
+##### Size
 {:#size}
 
 Small — Speed 8, Stamina 10, Reach 0, Damage 2d6, Delay 0, Durability 30\. Cannot be Two-Handed.
@@ -64,7 +56,7 @@ Large — Speed 13, Stamina 15, Reach 2, Damage 6d10, Delay 2, Durability 50\.
 
 Extreme — Speed 15, Stamina 17, Reach 3, Damage 8d12, Delay 5, Durability 60\. Cannot be One-Handed. Extreme Weapons use the normal Extreme Weapon Parry rules.
 
-##### **Heft**
+##### Heft
 {:#heft}
 
 One-Handed — Free. Requires one hand.
@@ -73,7 +65,7 @@ Two-Handed — Free. Requires two hands and increases the wielder's normal Physi
 
 Versatile — 1 AP. The weapon has both One-Handed and Two-Handed. Change hand placement as a Speed 0 non-Interrupt action. The Two-Handed PDB increase applies only while using both hands. Small weapons cannot be Versatile.
 
-##### **Shape**
+##### Shape
 {:#shape}
 
 Sword — Accuracy \+0, Parry \+0. Cannot possess Blunt.
@@ -86,14 +78,14 @@ Fan — Accuracy \-2, Parry \+1. May Parry Weapon and Unarmed Attacks and may ac
 
 Chain — Accuracy \+0, Parry \-1. A Basic Weapon Attack may be converted into a Ranged Weapon Taijutsu Attack to gain \+5 Range. Chain Bukijutsu use the normal Weapon Grapple rules.
 
-#### **2\. Components**
+#### 2. Components
 {:#2-components}
 
 Components are ordinary workshop modifications purchased with Artisan Points. They replace the old Bottom, Middle, and Top Feature tiers.
 
 For every 6 AP spent on Components, increase the weapon's Base Damage by \+1 Damage Die and its Base Stamina by \+1. Structure costs, Elemental Upgrades, and Special Properties do not count toward this threshold.
 
-##### **Edge, Head & Striking Surface**
+##### Edge, Head & Striking Surface
 {:#edge-head-striking-surface}
 
 Sturdy — 1 AP/Rank. Increase Durability by 10% per Rank. No Rank limit.
@@ -120,7 +112,7 @@ Crushing Crown — 4 AP. Requires Blunt. Deal \+25% Final Damage to physical Bar
 
 Broad Edge — 4 AP. This weapon gains a \+5% Wounding bonus when dealing Slashing Damage.
 
-##### **Grip, Haft & Balance**
+##### Grip, Haft & Balance
 {:#grip-haft-balance}
 
 Counterweight — 2 AP/Rank. Reduce Base Delay by 1 per Rank. This cannot reduce Base Delay below half its original value, rounded down.
@@ -151,7 +143,7 @@ Forward Balance — 3 AP. When declaring a Basic Weapon Attack, you may increase
 
 Rear Balance — 3 AP. When declaring a Basic Weapon Attack, you may reduce its Damage by 1 Damage Die to reduce its Final Speed by 1, following normal minimum Speed rules.
 
-##### **Structural Components**
+##### Structural Components
 {:#structural-components}
 
 Layered Construction — 5 AP. Gain Weapon Block \[Speed 6, Interrupt, Defense\]. It reduces the triggering Attack's Damage by 25% and counts as a Block.
@@ -168,7 +160,7 @@ Reinforced Collar — 3 AP. Medium or larger. Effects which directly break, seve
 
 Replaceable Sections — 2 AP. Treat your Artisan result as \+5 when using a normal Repair Downtime Action on this weapon.
 
-##### **Deployment & Reach Systems**
+##### Deployment & Reach Systems
 {:#deployment-reach-systems}
 
 Quickdraw Fittings — 3 AP. Small or Medium only. Drawing and Sheathing this weapon are Speed 3\.
@@ -185,7 +177,7 @@ Reclaiming Line — 2 AP. Requires Thrown or Chain. Retrieve the unattended weap
 
 Reinforced Line — 2 AP/Rank. Requires Reclaiming Line. Increase retrieval distance by 10 yards per Rank. Maximum 3 Ranks.
 
-##### **Guard Components**
+##### Guard Components
 {:#guard-components}
 
 Guard Mount — 3 AP. Gain the Guard tag. If the weapon possesses Layered Construction, reduce Weapon Block's Base Speed by 1\.
@@ -196,7 +188,7 @@ Defensive Lug — 3 AP. After successfully Parrying with this weapon, gain \+1 P
 
 Catching Guard — 4 AP. Requires Hand Guard. After fully Parrying a Weapon Attack, gain \+2 Accuracy on your next Disarm Attack against that weapon before the end of your next Action.
 
-##### **Chain Components**
+##### Chain Components
 {:#chain-components}
 
 Weighted Chain — 3 AP/Rank. Chain only. Gain \+1 Grapple Offense per Rank while maintaining a Weapon Grapple with this weapon. Maximum 2 Ranks.
@@ -209,7 +201,7 @@ Reinforced Cable — 2 AP/Rank. Chain only. Increase Durability by 10% per Rank.
 
 Ground Anchor — 4 AP. Chain only. As a Speed 5 Utility action, attach the Chain to solid terrain within Reach. Until detached, Weapon Grapple Range may originate from you or the anchor. Detaching is Speed 1.
 
-##### **Thrown Components**
+##### Thrown Components
 {:#thrown-components}
 
 Throwing Balance — 3 AP. Small or Medium One-Handed only. Gain Thrown and Projectile. Range is 5 \+ STR/4. Use the weapon's normal Speed, Stamina, Damage, and Delay.
@@ -220,7 +212,7 @@ Returning Balance — 5 AP. Requires Throwing Balance. Ten IC after a thrown Att
 
 Ricochet Geometry — 4 AP. Requires Throwing Balance. Ignore up to 2 points of Accuracy penalty caused by Cover.
 
-##### **Multi-Function & Impact Mechanisms**
+##### Multi-Function & Impact Mechanisms
 {:#multi-function-impact-mechanisms}
 
 Secondary Grip — 3 AP. Two-Handed only. You may release one hand to perform an Action requiring one free hand. You cannot Attack, Parry, or Weapon Block with the weapon until the hand returns at Speed 0\.
@@ -247,7 +239,7 @@ Duelist's Balance — 4 AP. Sword only. After fully Parrying an Attack, your nex
 
 Driving Point — 4 AP. Polearm only. If the target begins your Attack outside its own natural Melee Reach but within yours, gain \+1 Accuracy.
 
-##### **Chakra Engineering**
+##### Chakra Engineering
 {:#chakra-engineering}
 
 Chakra Conduit — 3 AP. The weapon may act as a valid weapon focus or conduit for techniques that permit one. Gain \+1 on Chakra Control rolls specifically made to maintain or control a technique channelled directly through it.
@@ -262,14 +254,14 @@ Resonance Chamber — 4 AP. Requires Chakra Conduit. When a technique explicitly
 
 Chakra Insulation — 3 AP. Requires Chakra Conduit. Reduce additional WDP caused specifically by channeling Chakra through the weapon by 3, minimum 0.
 
-#### **3\. Special Properties**
+#### 3. Special Properties
 {:#3-special-properties}
 
 Special Properties are unusual constructions beyond ordinary Components. Unless another rule grants access, crafting a Special Property requires Master Artisan.
 
 Add together all Property Load on the weapon. Property Surcharge equals Base AP × total Property Load, rounded up. If the weapon has any Property Load, the surcharge is at least 1 AP. Final Artisan Points equal Base AP \+ Property Surcharge.
 
-##### **General Properties**
+##### General Properties
 {:#general-properties}
 
 Textured Grip — \+0.50 Property Load. The weapon requires one fewer hand to wield. A Two-Handed weapon used with one hand loses the Two-Handed PDB increase. A no-hand weapon only functions this way for effects that explicitly support it, and only one may be actively wielded this way.
@@ -282,7 +274,7 @@ Transforming Frame — \+0.40 Property Load. Create two legal configurations of 
 
 Heritage fittings granted directly by a Corps or Heritage do not need to be repurchased as Components or Special Properties.
 
-##### **Wondrous Materials**
+##### Wondrous Materials
 {:#wondrous-materials}
 
 A weapon may normally contain one Wondrous Material. Wondrous Materials are Special Properties and require mastery of that material through Master Artisan.
@@ -323,7 +315,7 @@ Black Jade — \+0.30 Property Load. Whenever you Block while wielding this weap
 
 Phaseglass — \+0.35 Property Load. Full hits with the weapon ignore 5 Damage Reduction. This does not bypass Blocking, Armor Absorption, or percentage-based mitigation.
 
-#### **4\. Elemental Upgrades, Created Weapons & Reforging**
+#### 4. Elemental Upgrades, Created Weapons & Reforging
 {:#4-elemental-upgrades-created-weapons-reforging}
 
 Weapon upgrades granted by Jutsu, Clan, Heritage, or another rule spend Artisan Points at their listed cost and use the limits written by that effect.
@@ -334,17 +326,17 @@ Standard Weapons and existing crafted weapons may be used as the base for Reforg
 
 Bukijutsu uses the weapon's current statistics. If a weapon has innate Delay, attacking Bukijutsu gains Delay equal to half the weapon's current Base Delay, rounded down, unless the technique says otherwise.
 
-## **Ranged Weapons**
+## Ranged Weapons
 {:#ranged-weapons}
 
-### **Ranged Weapon Crafting**
+### Ranged Weapon Crafting
 {:#ranged-weapon-crafting}
 
 Ranged Weapon Crafting lets you build bows, crossbows, launchers and reusable thrown weapons with the same Artisan Point structure as ordinary Weapon Crafting. The weapon determines how the attack is delivered. Ammunition and loaded projectiles determine what is being fired.
 
 Mechanical launchers and crossbows are not Firearms. They do not use Ballistic Damage Bonus, Ballistic Loads, Burst, Full Auto, Modification Points, specialist Ballistic ammunition, or Firearm-specific Talents unless a rule explicitly allows it.
 
-#### **1\. Core Rules**
+#### 1. Core Rules
 {:#1-core-rules}
 
 A ranged weapon's Final Artisan Points cannot exceed your Artisan ranks when you craft it. Crafting TN is 15 \+ (4 × Final Artisan Points).
@@ -357,7 +349,7 @@ Ranged weapons purchase Components with Artisan Points. For every 6 AP spent on 
 
 For Bows, this adds Damage Dice to the dice generated by STR. For Crossbows, it adds Damage Dice to the Crossbow's listed Damage. For Launchers, it adds Damage Dice to attacks made through that Launcher and applies only once to any attack that fires multiple projectiles.
 
-##### **Weapon and Ammunition AP**
+##### Weapon and Ammunition AP
 {:#weapon-and-ammunition-ap}
 
 A ranged weapon and the ammunition fired through it are separate crafted items. Weapon AP determines the weapon's Crafting TN, wielding restriction, Component bonuses, Property Load, and Special Properties. Ammunition AP determines the complexity of an ammunition pattern.
@@ -366,33 +358,33 @@ Ammunition AP does not increase the weapon's Final Artisan Points, does not coun
 
 Reusable weapons such as Kunai and Shuriken are crafted as weapons rather than ammunition.
 
-#### **2\. Weapon Families**
+#### 2. Weapon Families
 {:#2-weapon-families}
 
-##### **Bows**
+##### Bows
 {:#bows}
 
 Bows are Strength-scaling weapons built around Aim, mobility, sightlines, and powerful individual shots. The existing Yumi and Daikyu retain their current statistics and Aim rules.
 
-##### **Crossbows**
+##### Crossbows
 {:#crossbows}
 
 Crossbows are mechanically drawn weapons with fixed Damage Dice, strong prepared attacks, and mandatory Reloading. They use normal Physical Damage Bonus, but do not receive the Yumi's ×1.5 or the Daikyu's ×2 Physical Damage Bonus multiplier.
 
-##### **Kunai Launchers**
+##### Kunai Launchers
 {:#kunai-launchers}
 
 Kunai Launchers are compact projectile weapons built around utility, Ninja Wire, and adaptable projectile delivery. The Launcher supplies the attack profile, while the loaded Kunai supplies its Damage Dice, Damage Type, and projectile-specific effects.
 
-##### **Shuriken Launchers**
+##### Shuriken Launchers
 {:#shuriken-launchers}
 
 Shuriken Launchers trade the hand-thrown Shuriken's extreme Speed for greater Range, magazine capacity, Volley, and heavy Fūma deployment.
 
-#### **3\. Bow Frames**
+#### 3. Bow Frames
 {:#3-bow-frames}
 
-##### **Yumi**
+##### Yumi
 {:#yumi}
 
 Cost: 15,000 Ryō. \[Medium, Two-Handed, Bow, Projectile\]. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2; Delay 2\.
@@ -401,7 +393,7 @@ The ammunition determines dS. The Yumi uses 1.5 times your normal Physical Damag
 
 Aim \[Speed 8, Utility\]: Gain \+3 Accuracy on your next Yumi Attack. You may Aim up to twice for the same Attack. You may Dodge while Aiming, but doing so increases that Dodge's Speed by 3\.
 
-##### **Daikyu**
+##### Daikyu
 {:#daikyu}
 
 Cost: 25,000 Ryō. \[Large, Two-Handed, Bow, Projectile\]. Speed 20; Stamina 20; Damage (STR/8)dS; Accuracy \-10; Range STR; Delay 4\.
@@ -410,34 +402,34 @@ The ammunition determines dS. The Daikyu uses twice your normal Physical Damage 
 
 Aim \[Speed 10, Utility\]: Gain \+4 Accuracy on your next Daikyu Attack. You may Aim up to twice for the same Attack. Taking any action which requires movement, including Dodging, removes all accumulated Daikyu Aim bonuses.
 
-#### **4\. Crossbow Frames**
+#### 4. Crossbow Frames
 {:#4-crossbow-frames}
 
 Crossbows store mechanical tension rather than relying on the wielder's Strength to determine their Damage Dice. The loaded Bolt determines the Damage Die size and Damage Type. Standard Bolts use d10.
 
-##### **Hand Crossbow**
+##### Hand Crossbow
 {:#hand-crossbow}
 
 Cost: 12,000 Ryō. \[Small, One-Handed, Crossbow, Projectile\]. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 5; Durability 35\.
 
-##### **Hunting Crossbow**
+##### Hunting Crossbow
 {:#hunting-crossbow}
 
 Cost: 20,000 Ryō. \[Medium, Two-Handed, Crossbow, Projectile\]. Speed 13; Stamina 13; Damage 7dS; Accuracy \-5; Range 30 \+ STR/4; Delay 2; Capacity 1; Reload 6; Durability 45\.
 
-##### **Heavy Arbalest**
+##### Heavy Arbalest
 {:#heavy-arbalest}
 
 Cost: 30,000 Ryō. \[Large, Two-Handed, Crossbow, Projectile\]. Speed 16; Stamina 17; Damage 9dS; Accuracy \-6; Range 40 \+ STR/4; Delay 4; Capacity 1; Reload 9; Durability 60\.
 
 The Heavy Arbalest must be operated with both hands and cannot be Reloaded while moving.
 
-##### **Crossbow Aim**
+##### Crossbow Aim
 {:#crossbow-aim}
 
 Crossbow Aim \[Speed 5, Utility\]: Your next Crossbow Attack gains \+2 Accuracy if you do not voluntarily move before declaring it. You may only benefit from one Crossbow Aim at a time. The bonus is lost after making a Crossbow Attack.
 
-#### **5\. Reload**
+#### 5. Reload
 {:#5-reload}
 
 Crossbows and Launchers have Capacity and Reload values. Reloading is a Utility action using the weapon's listed Reload Speed. Reload may refill any number of empty spaces in the weapon up to its Capacity, but partially Reloading still uses the full Reload Speed.
@@ -446,40 +438,40 @@ You must possess the ammunition or projectiles being loaded. A loaded weapon may
 
 A weapon cannot contain more projectiles than its Capacity. Reload Speed is not Attack Speed and does not increase the weapon's Damage.
 
-#### **6\. Launcher Frames**
+#### 6. Launcher Frames
 {:#6-launcher-frames}
 
 A Launcher supplies an attack's Speed, Stamina, Accuracy, Range, and Delay. The loaded projectile supplies Damage Dice, Damage Type, and projectile-specific effects. A launched Kunai or Shuriken does not also use its printed thrown Speed, Stamina, Range, or Delay.
 
-##### **Wrist Launcher**
+##### Wrist Launcher
 {:#wrist-launcher}
 
 Cost: 10,000 Ryō. \[Small, One-Handed, Launcher, Kunai, Projectile\]. Speed 8; Stamina 8; Accuracy \+0; Range 15 \+ STR/4; Delay 1; Capacity 3; Reload 5; Durability 30\.
 
 The Wrist Launcher may make single-projectile Basic Weapon Attacks. It does not possess Volley unless it purchases the Volley Mechanism Component.
 
-##### **Repeating Kunai Launcher**
+##### Repeating Kunai Launcher
 {:#repeating-kunai-launcher}
 
 Cost: 18,000 Ryō. \[Medium, Two-Handed, Launcher, Kunai, Projectile\]. Speed 10; Stamina 10; Accuracy \+1; Range 20 \+ STR/4; Delay 1; Capacity 6; Reload 6; Durability 40\.
 
 The Repeating Kunai Launcher possesses Volley.
 
-##### **Rotary Shuriken Launcher**
+##### Rotary Shuriken Launcher
 {:#rotary-shuriken-launcher}
 
 Cost: 18,000 Ryō. \[Medium, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 8; Stamina 9; Accuracy \-1; Range 20 \+ STR/4; Delay 1; Capacity 8; Reload 6; Durability 40\.
 
 The Rotary Shuriken Launcher possesses Volley. A Shuriken's printed \+2 Accuracy still applies when fired through a Launcher, so a Rotary Shuriken Launcher firing ordinary Shuriken has \+1 total Accuracy.
 
-##### **Heavy Shuriken Launcher**
+##### Heavy Shuriken Launcher
 {:#heavy-shuriken-launcher}
 
 Cost: 26,000 Ryō. \[Large, Two-Handed, Launcher, Shuriken, Projectile\]. Speed 12; Stamina 15; Accuracy \-2; Range 25 \+ STR/4; Delay 2; Capacity 8; Reload 7; Durability 55\.
 
 The Heavy Shuriken Launcher possesses Volley and may purchase the Fūma Cradle Component. A Shuriken's printed \+2 Accuracy still applies when fired through it.
 
-#### **7\. Launcher Volley**
+#### 7. Launcher Volley
 {:#7-launcher-volley}
 
 Volley \[Attack, Projectile, Multi-Throw\]: A weapon with Volley may fire several loaded projectiles in a single Attack.
@@ -492,26 +484,26 @@ Make one Accuracy roll. Each projectile contributes its normal printed Base Dama
 
 Wounds inflicted by Volley have their severity reduced by one category, to a minimum of Minor, as with ordinary Multi-Throw. Every projectile fired is removed from the Launcher's Capacity.
 
-##### **Crafted Projectiles**
+##### Crafted Projectiles
 {:#crafted-projectiles}
 
 Additional Damage Dice from projectile Components apply only once to the entire Volley. The same is true of the bonus Damage Die gained for every 6 Component AP spent on a crafted projectile. Attack-wide Accuracy and Wounding bonuses from identical projectile patterns also apply only once.
 
 Launcher Component bonuses, including the Launcher's every-6-Component-AP bonus, apply only once to the entire Volley. Effects which belong to an individual projectile apply only to that projectile where relevant.
 
-##### **Volley Restrictions**
+##### Volley Restrictions
 {:#volley-restrictions}
 
 A Launcher may only use one Volley as part of an Attack. Volley cannot be combined with ordinary hand-thrown Multi-Throw, Ballistic Burst, Ballistic Full Auto, or another effect that already represents firing multiple projectiles unless that effect explicitly allows it.
 
-##### **Mixed Magazines**
+##### Mixed Magazines
 {:#mixed-magazines}
 
 A Launcher may contain any mixture of compatible ordinary and crafted projectiles. Whenever you make a single-projectile Attack, declare which loaded projectile is being fired.
 
 Volley normally requires every projectile fired to use the same projectile pattern. Split Feed allows a Volley to contain up to two different loaded projectile patterns of the same projectile type.
 
-#### **8\. Ranged Components**
+#### 8. Ranged Components
 {:#8-ranged-components}
 
 Ranged weapons may purchase any ordinary Weapon Component whose effect can function with that weapon. Components which require an unrelated Shape, Melee Reach, a Melee-only Attack, a Melee Parry, or another incompatible trait cannot be purchased for a ranged weapon.
@@ -558,17 +550,17 @@ Ranged weapons may purchase any ordinary Weapon Component whose effect can funct
 
 Ranged Components count normally toward the every-6-Component-AP Damage Die and Stamina bonus.
 
-##### **Existing Components**
+##### Existing Components
 {:#existing-components}
 
 Existing ordinary Components such as Sturdy, Reinforced Edge, Honed Geometry, Lightweight, Perfect Balance, Counterweight, Weighted Heft, and Chakra Conduit remain available when they have a valid interaction with the weapon. A Launcher does not gain access to Melee Components merely because the ammunition loaded into it can also function as a Melee weapon.
 
-#### **9\. Fūma Cradle**
+#### 9. Fūma Cradle
 {:#9-fuma-cradle}
 
 **Fūma Cradle — 7 AP.** Heavy Shuriken Launcher only. The weapon gains a separate chamber capable of holding one Fūma Shuriken. This chamber does not consume ordinary Shuriken Capacity. Loading or Reloading the Cradle uses its own Reload action.
 
-##### **Fūma Launch**
+##### Fūma Launch
 {:#fuma-launch}
 
 Fūma Launch \[Speed 16, Stamina 18, Delay 5, Attack, Projectile\]: Fire the Fūma Shuriken loaded in the Cradle. Fūma Launch uses the loaded Fūma Shuriken's normal (4 \+ STR/12)d12 Damage Dice, \+10% total Damage for each point the Attack hits by to its normal maximum, \+25% Damage for Wounding calculations, and Slashing Damage Type.
@@ -577,29 +569,29 @@ Use whichever Range is higher: the Heavy Shuriken Launcher's current Range or th
 
 Fūma Launch cannot Volley or Multi-Throw. Reloading the Fūma Cradle is a separate Speed 8 Utility action. The Fūma Cradle contains only one Fūma Shuriken and cannot satisfy a technique requiring multiple Fūma Shuriken unless another effect provides them.
 
-#### **10\. Custom Kunai and Shuriken**
+#### 10. Custom Kunai and Shuriken
 {:#10-custom-kunai-and-shuriken}
 
 Kunai and Shuriken are reusable weapons rather than consumable ammunition. Throwing or launching one does not ordinarily destroy it. A crafted Kunai or Shuriken is an individually crafted weapon which can be thrown normally or loaded into a compatible Launcher.
 
-##### **Kunai**
+##### Kunai
 {:#kunai}
 
 Cost: 300 Ryō. \[Piercing, Thrown, Melee, Projectile\]. Speed 8; Stamina 8; Damage 2d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
 
-##### **Shuriken**
+##### Shuriken
 {:#shuriken}
 
 Cost: 300 Ryō. \[Slashing, Thrown, Projectile\]. Speed 5; Stamina 5; Damage 1d6; Accuracy \+2; Range 5 \+ STR/4; Delay 0\.
 
 A custom Kunai or Shuriken costs its stock price \+ (1,500 × Final AP). Its Crafting TN is 15 \+ (4 × Final AP). A crafted projectile's Final AP cannot exceed the creator's Artisan ranks and follows the normal Athletics \+10 wielding restriction.
 
-##### **Matched Projectile Batches**
+##### Matched Projectile Batches
 {:#matched-projectile-batches}
 
 You may craft a matched batch of up to five identical Kunai or Shuriken during the same Crafting Downtime action. Make one Crafting attempt using the pattern's normal TN and pay the full crafting cost for every weapon created. Every weapon in the batch is mechanically identical. Loss, destruction, or transfer of one weapon does not affect the others.
 
-##### **Projectile Components**
+##### Projectile Components
 {:#projectile-components}
 
 **Reinforced Edge — 2 AP/Rank.** Gain \+1 Base Damage Die per Rank.
@@ -624,7 +616,7 @@ You may craft a matched batch of up to five identical Kunai or Shuriken during t
 
 Other ordinary Components may be selected where applicable.
 
-##### **Crafted Projectiles and Multi-Throw**
+##### Crafted Projectiles and Multi-Throw
 {:#crafted-projectiles-and-multi-throw}
 
 Multi-Throw continues to use its normal rules for number of weapons, Speed, Stamina, Damage Bonus, Accuracy, and Wound severity. Crafting does not multiply bonuses simply because several crafted weapons are thrown at once.
@@ -635,14 +627,14 @@ Additional Damage Dice from Components apply only once to the entire Attack. The
 
 If several different crafted patterns contribute to the same Attack, use only the highest applicable Attack-wide bonus of each type. Effects which trigger from an individual projectile still require that projectile to meet their normal condition. A normal single-projectile Attack receives all of that weapon's crafting benefits normally.
 
-#### **11\. Bow and Crossbow Ammunition**
+#### 11. Bow and Crossbow Ammunition
 {:#11-bow-and-crossbow-ammunition}
 
 Bows and Crossbows use consumable ammunition patterns. Arrows and Bolts are purchased and crafted in batches of ten. Unless another effect says otherwise, firing an Arrow or Bolt consumes one piece of ammunition. Ammunition recovered after an encounter may be reused where appropriate.
 
 An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted using Artisan (Weapon) or Artisan (Craftsman). Crafting TN is 15 \+ (4 × Ammo AP). Batch Cost is 5,000 Ryō \+ (2,000 × Ammo AP). Each crafting attempt produces a batch of ten identical pieces of ammunition. You must possess Artisan ranks equal to or greater than the pattern's Ammo AP.
 
-##### **Ammunition Patterns**
+##### Ammunition Patterns
 {:#ammunition-patterns}
 
 **Standard Arrow — 0 AP.** Arrow. d12 Piercing. No additional effect.
@@ -665,26 +657,26 @@ An ammunition pattern may have a maximum of 2 Ammo AP. Ammunition may be crafted
 
 **Wireline — 2 AP.** Arrow or Bolt. d8 Piercing. Leaves up to 10 yards of attached Ninja Wire at the point of impact. This does not automatically Grapple or Immobilize the target.
 
-##### **Ammunition Recipes**
+##### Ammunition Recipes
 {:#ammunition-recipes}
 
 A normal specialized ammunition recipe contains one Head pattern, up to one compatible flight or utility modification, and no more than 2 total Ammo AP. Special ammunition changes the projectile fired, not the Bow or Crossbow itself.
 
 A Bow or Crossbow may freely choose which carried ammunition pattern it uses when declaring an Attack. Switching ammunition does not require an additional Action unless another rule prevents the character from accessing their ammunition.
 
-##### **Multiple-Arrow Techniques**
+##### Multiple-Arrow Techniques
 {:#multiple-arrow-techniques}
 
 A technique consumes the number of Arrows or Bolts it actually fires. If a Bukijutsu fires two Arrows, it consumes two. If it fires three, it consumes three.
 
 When several separately resolved projectiles are created by a Bukijutsu, each projectile uses its own ammunition Damage Type and applicable ammunition effects unless the technique explicitly replaces them. Ammunition crafting bonuses do not create additional copies of an effect where the technique combines several projectiles into one Attack.
 
-##### **Poisons and Other Enhancements**
+##### Poisons and Other Enhancements
 {:#poisons-and-other-enhancements}
 
 Poisons use the normal poison-coating rules. Explosive Tags, elemental ammunition, chakra enhancements, sealing effects, monster trophies, and similar upgrades require whatever Jutsu, Talent, Clan feature, mission reward, or other rule normally provides them. Ordinary ranged crafting does not grant access to Ballistic Corps specialist ammunition.
 
-#### **12\. Special Properties and Wondrous Materials**
+#### 12. Special Properties and Wondrous Materials
 {:#12-special-properties-and-wondrous-materials}
 
 Crafted ranged weapons may gain compatible Special Properties through the normal Weapon Crafting rules. A Special Property which depends on an impossible interaction does not gain a new function merely because it is placed on a ranged weapon. Property Load and Final Artisan Points are calculated normally.
@@ -693,29 +685,29 @@ Crafted ranged weapons may use compatible Wondrous Materials after gaining the a
 
 If a Wondrous Material specifically depends on Parrying, Melee Attacks, weapon Reach, a certain Shape, or another incompatible function, it does not gain a replacement effect.
 
-#### **13\. Bukijutsu Compatibility**
+#### 13. Bukijutsu Compatibility
 {:#13-bukijutsu-compatibility}
 
 Crafted ranged weapons use their current statistics when used with Bukijutsu. If a ranged weapon has innate Delay, attacking Bukijutsu gains Delay equal to half the weapon's current Base Delay, rounded down, unless the technique says otherwise. Additional Attack Delay from effects such as Weighted Heft is applied afterward.
 
-##### **Crossbows and Bow Bukijutsu**
+##### Crossbows and Bow Bukijutsu
 {:#crossbows-and-bow-bukijutsu}
 
 Crossbows count as Bow weapons for Bow Bukijutsu that involve firing a projectile, attacking a sightline, marking a target, targeting Cover, intercepting a projectile, or another effect which does not specifically depend on manually drawing a bowstring. Where a compatible technique refers to an Arrow, read it as a Bolt when used with a Crossbow.
 
 A Crossbow cannot use a Bukijutsu which specifically depends on drawing a bow, maintaining a drawn bowstring, nocking an Arrow by hand, or manipulating the bow while moving. Quick Nock and Mobile Draw remain Bow-only.
 
-##### **Launchers and Thrown Bukijutsu**
+##### Launchers and Thrown Bukijutsu
 {:#launchers-and-thrown-bukijutsu}
 
 A Kunai or Shuriken Launcher Attack counts as a Thrown Weapon Attack for compatible Thrown Bukijutsu. A technique which explicitly requires the projectile to be thrown by hand cannot be performed through a Launcher.
 
 The Launcher supplies its normal Attack statistics unless the Bukijutsu replaces them. The projectile continues to supply its relevant Damage Dice, Damage Type, and projectile effects. Fūma Launch cannot perform a technique which requires more Fūma Shuriken than are currently available.
 
-#### **14\. Example Crafted Weapon**
+#### 14. Example Crafted Weapon
 {:#14-example-crafted-weapon}
 
-##### **The Black Rain**
+##### The Black Rain
 {:#the-black-rain}
 
 Heavy Shuriken Launcher. 13 Component AP. Fūma Cradle 7 AP, Extended Guide 1 3 AP, Expanded Magazine 1 2 AP, Sturdy 1 1 AP.
@@ -728,17 +720,17 @@ It may fire a single Shuriken, fire a Volley, or launch its loaded Fūma Shurike
 
 ## 
 
-## **Armor**
+## Armor
 {:#armor}
 
-### **Armor Crafting**
+### Armor Crafting
 {:#armor-crafting}
 
 So… You want to create your own armor, huh? Maybe you’re too poor to afford the prices of all these sets of armor ,or maybe you simply don’t think what’s on the market is stylish enough to fit your fabulous aesthetics, either way, you’ve found yourself here as an Armorsmith.
 
 You can craft weapons with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Weapons have a crafting TN of 15 \+ 3\*X and a cost of 5 \+ X thousand ryo. This consists of the cost for resources, tools, and any extra parts necessary.
 
-### **1\. Structure**
+### 1. Structure
 {:#1-structure-2}
 
 Structure is, put simply, the general materials and processes used to craft your armor. Regardless of the actual details of its construction, all armor is divided into three simple categories of protectiveness, Mobile, Protective, and Encased. The more that the armor covers, and the more metal is used in its construction, the better it is at protecting its wearer. But that also comes with the downside of it becoming heavier and restricting its wearer’s movement.
@@ -758,7 +750,7 @@ Full steel plates and the such are the staple of this type of armor. Heavily fav
 
 Durability: 300 / Absorption: 15% / Penalty: \-3 Immobilization and \-3 to Stealth rolls
 
-### **2\. Body Parts**
+### 2. Body Parts
 {:#2-body-parts}
 
 There are four different Body Parts that armor can protect: The Head, the Torso/Abdomen, the Arms, and the Legs. In the case of the Arms and Legs, your armor will cover both arms or legs if that is the Body Part chosen. It is important to determine which location on the body that piece of armor was built to protect, as this will determine its shape and surface area, providing unique benefits and penalties related to that location. The severity of the penalties will also be determined by the Structure you’ve chosen. If the Immobilization of your armor is reduced to 0 you halve all penalties inherent to the type of armor, rounded down potentially to nothing.
@@ -795,7 +787,7 @@ Mobile: \-10% Movement Speed, \-2 to Athletic Checks.
 Protective: \-15% Movement Speed, \-3 to Athletic Checks.  
 Encased: \-20% Movement Speed; \-5 to Athletic Checks.
 
-### **3\. Basic Features**
+### 3. Basic Features
 {:#3-basic-features}
 
 Basic Features are the parts and enhancements to a piece of armor that truly distinguishes one from another and shows the true skills of its maker. Basic Features modify or add something to the base traits or stats of the Armor. They come in a few forms, but most either reduce some sort of penalty, or increase the defensive capability of the armor.
@@ -816,10 +808,10 @@ Basic Features are the parts and enhancements to a piece of armor that truly dis
 
 (2) This armor gains a \+1 bonus to Stealth. This can be taken to a max of 3\. The total Stealth bonus that all of your pieces of armor can give you cannot exceed \+5.
 
-### **4\. Unique Features**
+### 4. Unique Features
 {:#4-unique-features}
 
-##### **General**
+##### General
 {:#general}
 
 These Features are only accessible with the Master Artisan Talent, and represent more extreme and complex modifications to a piece of armor. Each Armor piece can only choose 1 option from each category.
@@ -832,7 +824,7 @@ These Features are only accessible with the Master Artisan Talent, and represent
 
 (x0.5) The first wound you take in that location is reduced by 1, potentially to nothing.
 
-##### **Wondrous Materials**
+##### Wondrous Materials
 {:#wondrous-materials-2}
 
 (0.15x) Angelskin: This armor gains a \+1% bonus to its Absorption every time it’s wearer has their bleed status reduced to a maximum of 25%. This lasts until the end of the fight. As a Speed 5 action the wearer may give themselves a Bleed status equal to 1 \+ half the % bonus provided by this armor piece.
@@ -847,14 +839,14 @@ These Features are only accessible with the Master Artisan Talent, and represent
 
 (0.4x) Crypstone: When this armor is struck with a Melee Attack, and the enemy's Attack's Damage is enough to deal Wound to its Wearer, the enemy also receives a Piercing Minor Wound within the same location.
 
-## **Craftsman**
+## Craftsman
 {:#craftsman}
 
 You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for ninja. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a shinobi’s toolkit.
 
 Upon gaining 1 Rank in the Artisan (Craftsman) Skill, you gain the ability to create equipment from the gear and exploding tags category. This requires you to spend a Downtime Slot on an “Equipment Crafting” Action, rolling your Artisan Skill vs a TN of the Artisan Points (explained below) determined by the item. You may pool your rolls until you amass enough to match the TN, which may take a number of Slots and/or Downtime Cycles.
 
-##### **Basic Gear**
+##### Basic Gear
 {:#basic-gear}
 
 This covers any item not listed in the lower sections. These items have a TN based on their cost and a Ryo cost representing the materials required to make it. To find these values take the cost of the item you want to make. The cost is one-fourth that value and the TN is that amount divided by 200\. When crafting you can also declare multiple quantities of the same item setting its cost and TN using the total price.
@@ -863,7 +855,7 @@ For example a Flash Bomb has a cost of 3k Ryo. That means it will have a TN of 1
 
 You can also make any items from the Ranged Weapons section except for those of large size.
 
-##### **Smoke Bombs**
+##### Smoke Bombs
 {:#smoke-bombs}
 
 While Smoke Bombs are a basic item that can be crafted using the rules above, you can customize their effects to suit your needs. From increasing duration, size, or even adding in custom poisons (though this won’t let you make the poisons). The modifications available are listed below and are augments of a regular Smoke Bomb. The Ryo cost of an upgrade is added to the base 3k and used as the total for determining the TN and Materials Cost:
@@ -878,7 +870,7 @@ Specialty
 Poison: \+1 Poison, 10k Ryo, Max 1  
 Imbue any Inhalation Poison into the Smoke Bomb (obviously using up the entire dose). When used, anyone who spends longer than 10 IC in the area must make a Resistance roll against your Toxicology or be poisoned.This method reduces the poison’s duration by half but it does not begin reducing until they are out of the area (or it ends).
 
-##### **Antidotes**
+##### Antidotes
 {:#antidotes}
 
 Antidotes are tricky as most poisons are made using custom recipes from each individual. While you can target specific ones like those imbued by Snake Summoners, it’s often more useful to create general counters for a broader range of effects:
@@ -891,40 +883,40 @@ For example if you wanted to make a Lethality 2 Antidote: The base cost is 10k a
 
 Antidotes that act quickly enough to be useful in emergencies, such as combat, aren't gentle on the body, applying a \-2 penalty to your Accuracy and all d20 rolls for 100 IC. However, for that duration you are immune to the poison in question. Antidotes used in succession do not stack the penalties, but they do refresh the duration.
 
-##### **Uncraftable**
+##### Uncraftable
 {:#uncraftable}
 
 Sadly due to technological limitations there are some things you as a shinobi are unable to craft normally. You are unable to make the following items:
 
-•  Flashlight
+- Flashlight
 
-•  Camera
+- Camera
 
-•  Camera Film Roll
+- Camera Film Roll
 
-•  Ninja Comm Device
+- Ninja Comm Device
 
-## **Poison**
+## Poison
 {:#poison}
 
-### **Poisons**
+### Poisons
 {:#poisons}
 
 Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls.
 
 Some ninja, however, still find uses for them. This section is for them\!
 
-### **Rules**
+### Rules
 {:#rules}
 
-#### **Brewing**
+#### Brewing
 {:#brewing}
 
 Getting your hands on some Poison isn’t an easy thing, those who have mastered its use understandably don’t advertise that or their inventory of deadly chemicals. And you aren’t going to find some on the open market either. Which means that you’ll have to gather the ingredients and make it yourself.
 
 But that imposes its own complications, most techniques for cultivating deadly venoms are tightly held secrets, and figuring out the best ratios and ingredients is an arduous if not expensive process. To even begin, you’ll need to acquire the appropriate talent, which typically means you’ll have to find one of those previously mentioned masters and convince them to not use their tools of death on you and instead teach you how to use them on your enemies. Once you do, you can begin with the process detailed below.
 
-#### **Poison Points and TN**
+#### Poison Points and TN
 {:#poison-points-and-tn}
 
 As mentioned before, making poisons is difficult, even if you have all of the ingredients and an inexhaustible amount of money. There is only so much an amateur can do before they end up just making a useless mush of foul smelling liquids. You have (Toxicology/4) Poison Points, no specific Poison you make can have more than this many Poison Points worth of effects.
@@ -933,14 +925,14 @@ Furthermore, Poisons tend to take a while to make. As your skills progress, you�
 
 Toxicology rolls carry over to the next Downtime until you’ve reached the TN, however, any extra points leftover after that are completely gone.
 
-#### **Doses and Costs**
+#### Doses and Costs
 {:#doses-and-costs}
 
 Poisons are measured in doses. A dose is how much of the substance is required to poison a ninja and apply the effects of a particular brew. Whenever you Brew a new Poison, this is how much you make. Once, the main measurement unit was how many whales or elephants the poison could kill (The bare minimum needed to even begin affecting ninja) but we’ve long since moved past such archaic measurements.
 
 Every additional effect of a dose of Poison has a cost in Ryo, this represents the costs of ingredients and reagents and tools that are needed to be acquired to Brew that specific batch. If the total Ryo cost cannot be met, then the Brewer simply doesn’t have enough ingredients to make that Poison.
 
-#### **Types of Poison**
+#### Types of Poison
 {:#types-of-poison}
 
 Poisons have four possible vectors, or ways to inflict them upon the unfortunate souls fighting you: Contact, Injury, Inhalation, and Ingestion. When you start making a Poison, you must apply which vector is used to apply your Poison with. There are pros and cons to each form of Poison, and the skilled brewer knows that there is a right situation for every kind.
@@ -955,48 +947,48 @@ Inhalation: Inhalation Poisons typically require esoteric methods to apply them,
 
 No matter how many poisons you're afflicted by, or their type, similar effects do not stack. Thus, if you had an Injury Poison that gave Poison Severity 4 and Immobilization 2 for Duration 50, and an Inhalation Poison that gave Poison Severity 2 and Immobilization 1 for Duration 75, you would take 4 damage per initiative count and have Immob 2 for 50 IC, and then for the next 25 you'd take 2 damage per IC and have Immob 1\. Any additional effects apply regardless, as long as they don't overlap (Paralysis 1 and Paralysis 3 is just Paralysis 3, as normal).
 
-#### **Time**
+#### Time
 {:#time}
 
 When Shinobi are in a fight, their hearts are beating a mile a minute (sometimes it literally is that fast), and their circulatory system is in full gear. While this tends to sharpen their reflexes and prepare their bodies for the fight, it also makes Poisons spread all that much faster through their system. During a fight or similarly high-stress scenarios, Duration of Poisons are measured in ICs, meaning its effects are applied every IC, including the Poison’s Severity. However, outside of combat, or when the Ninja is incapacitated, the heart slows down and the body has more resources to invest into battling the Poison, Duration during these times are measured in minutes rather than ICs. For example, a Poison Severity 5, Duration 75 applied outside of combat lasts for 75 minutes, and every minute they would lose 5 Vitality or HP.
 
-#### **Resisting Poison**
+#### Resisting Poison
 {:#resisting-poison}
 
 Whenever you’re hit by a weapon with Contact poison, or damaged by one with Injury poison, you roll Resistance against  the poison user’s Toxicology \+ 10\. If you fail this roll (which does receive the benefits or partial defense), you have been poisoned. You’re afflicted by the poison’s status effects (Poison of some value, and sometimes other effects, described in the individual poison) for its Duration. If partial defense applies, it reduces the Duration, not the severity.
 
-#### **Applying to Weapons**
+#### Applying to Weapons
 {:#applying-to-weapons}
 
 One dose of poison is enough to coat the business end of a weapon.
 
 As a Speed 10 action you can apply up to 1 \+ Toxicology/10 doses worth of poisons to your weapons, in any combination. For instance, if you applied 4 doses, you could poison:
 
-•  1 weapon with 4 doses
+- 1 weapon with 4 doses
 
-•  4 weapons with 1 dose each
+- 4 weapons with 1 dose each
 
-•  1 weapon with 2 doses and 2 more weapons with 1 dose each
+- 1 weapon with 2 doses and 2 more weapons with 1 dose each
 
-•  etc
+- etc
 
 Each time the weapon hits something, it loses one dose, the order in which it applies doses should be declared on poison application (i.e. First layer Yew, Second layer Centipede, Etc). If you apply a new poison or poisons to the weapon, any remaining poison is wiped away.
 
 Due to the care it takes to not poison yourself when throwing Shurikens and Kunai, coated ranged weapons cannot be used in multi-throws.
 
-#### **Resisting and Identifying Poisons**
+#### Resisting and Identifying Poisons
 {:#resisting-and-identifying-poisons}
 
 Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Ninja are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
 
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. you can roll a Toxicology, or Medicine skill check (your preference) against the Poison’s Toxicology TN \-5. Success means you've identified the Poison and know its effects and can begin working on an Antidote so long as you have the proper Toolkit. Failure means, obviously, you do not. You cannot repeat this roll.
 
-### **Poison Effects**
+### Poison Effects
 {:#poison-effects}
 
 All Brewed Poisons have a base foundation of Severity 2, and Duration 50 and have a base Poison TN of 5\. They may gain the following effects by paying the requisite Poison Points and Ryo. And increasing the TN by the mentioned amounts.
 
-#### **Lethal**
+#### Lethal
 {:#lethal}
 
 Poison Point Cost: 1  
@@ -1008,7 +1000,7 @@ Effects:
 
 This increases a Poison’s Severity by \+1.
 
-#### **Festering**
+#### Festering
 {:#festering}
 
 Poison Point Cost: 1  
@@ -1020,7 +1012,7 @@ Effects:
 
 This increases a Poison’s Duration by \+25.
 
-#### **Destabilizant**
+#### Destabilizant
 {:#destabilizant}
 
 Poison Point Cost: 1  
@@ -1032,7 +1024,7 @@ Effects:
 
 This adds or increases a Poison’s Immobilization by \+1.
 
-#### **Dazzler**
+#### Dazzler
 {:#dazzler}
 
 Poison Point Cost: 1  
@@ -1044,7 +1036,7 @@ Effects:
 
 This adds or increases a Poison’s Visibility by \+1.
 
-#### **Feverish**
+#### Feverish
 {:#feverish}
 
 Poison Point Cost: 1  
@@ -1056,7 +1048,7 @@ Effects:
 
 This adds or increases a Poison’s Burns by \+2.
 
-#### **Irritant**
+#### Irritant
 {:#irritant}
 
 Poison Point Cost: 1  
@@ -1068,7 +1060,7 @@ Effects:
 
 This gives all skill rolls except Resistance a \-3.
 
-#### **Paralytic**
+#### Paralytic
 {:#paralytic}
 
 Poison Point Cost: 2  
@@ -1080,7 +1072,7 @@ Effects:
 
 This adds or increases a Poison’s Paralysis by \+1.
 
-#### **Potent**
+#### Potent
 {:#potent}
 
 Poison Point Cost: 1  
@@ -1092,12 +1084,12 @@ Effects:
 
 This provides an extra Dose of the Poison.
 
-### **Esoteric Poison Effects**
+### Esoteric Poison Effects
 {:#esoteric-poison-effects}
 
 These require the Exotic Venoms Talent.
 
-#### **Hallucinogen**
+#### Hallucinogen
 {:#hallucinogen}
 
 Poison Point Cost: 1  
@@ -1109,7 +1101,7 @@ Effects:
 
 Reduces the Victim’s Genjutsu Defense by \-1.
 
-#### **Asphyxiant**
+#### Asphyxiant
 {:#asphyxiant}
 
 Poison Point Cost: 2  
@@ -1121,7 +1113,7 @@ Effects:
 
 This adds or increases a Poison’s Suffocation by \+1.
 
-#### **Depressant**
+#### Depressant
 {:#depressant}
 
 Poison Point Cost: 2  
@@ -1133,7 +1125,7 @@ Effects:
 
 When Victim fatigues, they only reduce Stamina and CE penalties by half rather than reset them. Buying this a second time makes Stamina and CE penalties irreducible by Fatigue.
 
-#### **Asthmatic**
+#### Asthmatic
 {:#asthmatic}
 
 Poison Point Cost: 2  
@@ -1145,7 +1137,7 @@ Effects:
 
 Every time the Victim receives an increase to CE or Stamina penalties, the other increases by half and vice versa (Rounding Up). Buying this a second time makes them increase by the full amount.
 
-#### **Sickening**
+#### Sickening
 {:#sickening}
 
 Poison Point Cost: 2  
@@ -1157,19 +1149,19 @@ Effects:
 
 Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute must be chosen during the Brewing of the Poison.
 
-# **EQUIPMENT**
+# EQUIPMENT
 {:#equipment}
 
 *“A legendary shinobi with no wire, no medicine, and no plan is just a very expensive emergency.”*  
 *— field requisitions officer*
 
-# **Equipment Core Rules**
+# Equipment Core Rules
 {:#equipment-core-rules}
 
-## **Equipment**
+## Equipment
 {:#equipment-2}
 
-## **Obtaining Equipment**
+## Obtaining Equipment
 {:#obtaining-equipment}
 
 Ninjas in the Naruto universe have an advantage which real ninja lacked: namely, magical chakra-based powers that let them perform superhuman physical feats, stand on water, and breathe fire. Even so, a wise ninja, magical or not, will equip themselves with a wide variety of tools. True, you could create a thick bank of fog instead of throwing down a smoke bomb--but that smoke bomb's faster, and less taxing.
@@ -1182,7 +1174,7 @@ Consumable items are gone once you use them once. These are things like smoke bo
 
 Non-consumable items can be broken, destroyed, or lost, but usually aren't. These are things like ropes, weapons, and lockpicks. Ranged weapons are not destroyed on use (hit or miss).
 
-## **Restrictions**
+## Restrictions
 {:#restrictions}
 
 While any ninja can pick up a common sword to wield items of higher power it takes a certain competence. As such the weapons and armor you can utilize are limited by your capabilities:
@@ -1192,10 +1184,10 @@ Armor: Cannot wear armor with Artisan points more than Resistance \+10
 
 Attempting to use an item you aren’t qualified for reduces your accuracies, offenses, and d20s by 2\. You also have your fatigue bonuses and damage bonuses halved.
 
-## **Weapon-Specific Actions**
+## Weapon-Specific Actions
 {:#weapon-specific-actions}
 
-### **Draw Weapon**
+### Draw Weapon
 {:#draw-weapon}
 
 (Speed 5\)  
@@ -1207,19 +1199,19 @@ Note that you only needed to Draw weapons you intend to hold and use in melee. T
 
 Be aware: While holding one or more weapons, you can still make basic unarmed attacks. You cannot, however, use Unarmed or Combo jutsu. Grappling is still possible as long as you have at least one hand free.
 
-### **Sheathe Weapon**
+### Sheathe Weapon
 {:#sheathe-weapon}
 
 (Speed 5\)  
 You put a weapon you're holding away, in some secure fashion. If you're holding two weapons, you can put them both away at the same time.
 
-### **Discard Weapon**
+### Discard Weapon
 {:#discard-weapon}
 
 (Speed 1, or Speed \+2)  
 You drop or toss aside a weapon. Done normally, this is a Speed 1 action. However, it may also be used alongside an Interrupt (such as a defensive ninjutsu technique) by increasing that action's Speed (after AP reductions) by 2\.
 
-### **Retrieve Weapon**
+### Retrieve Weapon
 {:#retrieve-weapon}
 
 (Speed 5\)  
@@ -1227,7 +1219,7 @@ You pick up a weapon on the ground. This can be your weapon, or someone else's, 
 
 You can also pick up DEX/10 used throwing weapons and holster them appropriately.
 
-### **Disarm**
+### Disarm
 {:#disarm}
 
 (Weapon's Speed \+4) You use a weapon you're holding to knock an enemy's out of their grasp, usually by hitting it at such an angle, and with enough force, that it becomes physically impossible for them to hold onto it.
@@ -1236,7 +1228,7 @@ This is a basic weapon attack that does no damage, but if it hits you knock any 
 
 Small weapons cannot disarm Large or Extreme weapons, and Extreme weapons lack the finesse to be used to disarm at all.
 
-### **Transfer Item**
+### Transfer Item
 {:#transfer-item}
 
 (Speed 3\) You may transfer any item from your inventory into another person's inventory, as long as you are both at a distance of 0 from each other. Note that these items are not automatically held, so if you were to transfer a Katana to someone else they would still have to take a Draw Weapon action to wield it.
@@ -1245,7 +1237,7 @@ Item modifications made before the transfer are retained-thus, if you poisoned a
 
 Both parties must agree to the Transfer for Transfer Item to function.
 
-## **Weapon Durability**
+## Weapon Durability
 {:#weapon-durability}
 
 All weapons have a durability which represents how overuse of a weapon without properly caring for it can cause it to dull, rust, or degrade in any other form. In extreme cases a weapon could even break while in use.
@@ -1254,7 +1246,7 @@ Each weapon you wield has a Weapon Damage Pool (WDP) which has a maximum of your
 
 When you hit with a weapon jutsu or are parried the STM is added to your WDP and Parrying or Blocking an attack with your weapon increases your WDP by the fatigue cost of the attack defended. Once your WDP surpasses your weapons Durability, its Damage Level increases by 1 (see below) and your WDP is reset to 0\. The penalties for each level stack additively with each level below it. At the end of a scene the weapons damage level reduces by 2 to a minimum of 0 or its damage level at the beginning of the scene.
 
-## **Damage Levels**
+## Damage Levels
 {:#damage-levels}
 
 1 | \-1 Damage Dice
@@ -1277,21 +1269,21 @@ When you hit with a weapon jutsu or are parried the STM is added to your WDP and
 
 10 | The weapon breaks. A broken weapon may be used to perform attacks as the original but has 0 Artisan Points and uses the base stats of 1 size smaller (small weapons cannot be used in this way).
 
-## **Armor Protection**
+## Armor Protection
 {:#armor-protection}
 
 All pieces of armor have Durability and Absorption. Durability can be seen as the HP of the armor, whilst Absorption is given as a percentage value and determines how much of an Attack’s Damage the armor actually protects you from. 
 
 Whenever you receive Direct Damage to a location with armor, you reduce the Damage you’d have received by the Absorption percentage, and then take the amount the Damage was mitigated by, and reduce your armor’s Durability by that amount. Once a piece of armor has reached 0 Durability, it no longer Absorbs a part of an Attack’s Damage, nor does it provide any of the benefits of its Basic and Unique Features, only all of the penalties remain. It is broken for all intents and purposes, and can never be repaired or recovered. It’s best to remove a broken piece of armor as soon as possible if it happens in the middle of a fight, as it is just dead weight by that point
 
-## **Armor Penalties**
+## Armor Penalties
 {:#armor-penalties}
 
 All pieces of armor have immobilization and stealth penalties that stack between all pieces of armor. The combined Armor-based Immobilization of all of your armor is reduced by (RES+STR/30) to a minimum combined total of 0\. Potentially allowing you to don several pieces of armor with little to no Immobilization, assuming you’re strong enough. If the Immobilization of your armor is reduced to 0 you halve all penalties inherent to the type of armor, rounded down potentially to nothing.
 
 Note: This reduction does not apply to the Stealth penalty, no matter how strong you are, you can’t stop the restriction of movement and the sounds that boiled leather and worked metal cause.
 
-# **Melee Weapons**
+# Melee Weapons
 {:#melee-weapons}
 
 Every Melee Weapon has Shape, Damage Type, Size, and Heft tags. These tags determine which abilities, Bukijutsu, and other weapon effects can use it.
@@ -1318,14 +1310,14 @@ Versatile: May be wielded One-Handed or Two-Handed. Changing hand placement is a
 
 Dual: A matched pair built to use the Dual Wield rules. Weapons with the Dual property use their natural weapon Speed for Damage calculations during a Dual Wield Attack.
 
-## **Standard Weapons**
+## Standard Weapons
 {:#standard-weapons}
 
 Standard Weapons are ready-made workshop patterns. Buying one requires no Artisan ranks and no Weapon Crafting choices. Their Artisan Point value still counts for wielding restrictions. A Standard Weapon may later be reforged with the normal Crafting rules.
 
 The listed price replaces the normal custom-crafting price.
 
-### **Small Weapons**
+### Small Weapons
 {:#small-weapons}
 
 Tanto — 5,000 Ryō. AP 0\. \[Small, Sword, One-Handed, Slashing\]. Speed 8; Stamina 10; Damage 2d6; Reach 0; Delay 0; Accuracy \+0; Parry \+0; Durability 30\.
@@ -1336,7 +1328,7 @@ Tonfa — 9,000 Ryō. AP 3\. \[Small, Club, One-Handed, Blunt\]. Hand Guard 1\. 
 
 Hand Chain — 9,000 Ryō. AP 3\. \[Small, Chain, One-Handed, Blunt\]. Weighted Chain 1\. Speed 8; Stamina 10; Damage 2d6; Reach 0; Chain Range \+5; Delay 0; Accuracy \+0; Parry \-1; Durability 30; \+1 Grapple Offense while maintaining its Weapon Grapple.
 
-### **Medium Weapons**
+### Medium Weapons
 {:#medium-weapons}
 
 Katana — 10,000 Ryō. AP 0\. \[Medium, Sword, One-Handed, Slashing\]. Speed 10; Stamina 12; Damage 4d8; Reach 1; Delay 1; Accuracy \+0; Parry \+0; Durability 40\.
@@ -1355,7 +1347,7 @@ Bladed War Fan — 12,000 Ryō. AP 0\. \[Medium, Fan, One-Handed, Slashing\]. Us
 
 Kusarigama — 16,000 Ryō. AP 4\. \[Medium, Chain, One-Handed, Slashing\]. Extended Haft 1\. Speed 10; Stamina 12; Damage 4d8; Reach 2; Chain Range \+5; Delay 1; Accuracy \+0; Parry \-1; Durability 40.
 
-### **Large Weapons**
+### Large Weapons
 {:#large-weapons}
 
 Greatsword — 18,000 Ryō. AP 0\. \[Large, Sword, Two-Handed, Slashing\]. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \+0; Parry \+0; Durability 50\.
@@ -1378,7 +1370,7 @@ Heavy Chain — 22,000 Ryō. AP 3\. \[Large, Chain, Two-Handed, Blunt\]. Weighte
 
 Great War Fan — 22,000 Ryō. AP 3\. \[Large, Fan, Two-Handed, Blunt\]. Sturdy 3\. Speed 13; Stamina 15; Damage 6d10; Reach 2; Delay 2; Accuracy \-2; Parry \+1; Durability 65.
 
-### **Extreme Weapons**
+### Extreme Weapons
 {:#extreme-weapons}
 
 Colossal Blade — 35,000 Ryō. AP 0\. \[Extreme, Sword, Two-Handed, Slashing\]. Speed 15; Stamina 17; Damage 8d12; Reach 3; Delay 5; Accuracy \+0; Parry \+0; Durability 60\.
@@ -1389,7 +1381,7 @@ Siege Hammer — 45,000 Ryō. AP 5\. \[Extreme, Club, Two-Handed, Blunt\]. Armor
 
 Giant Polearm — 40,000 Ryō. AP 4\. \[Extreme, Polearm, Two-Handed, Piercing\]. Extended Haft 1\. Speed 15; Stamina 17; Damage 8d12; Reach 5; Delay 5; Accuracy \+1; Parry \-2; Durability 60.
 
-### **Matched Weapons**
+### Matched Weapons
 {:#matched-weapons}
 
 Twin Short Swords — 18,000 Ryō. AP 1\. \[Small, Sword, One-Handed, Slashing, Dual\]. A matched pair using normal Small Sword statistics.
@@ -1398,13 +1390,13 @@ Twin Blades — 28,000 Ryō. AP 1\. \[Medium, Sword, One-Handed, Slashing, Dual\
 
 Twin Tonfa — 24,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A matched pair using normal Small Club statistics.
 
-# **Ranged Weapons**
+# Ranged Weapons
 {:#ranged-weapons-2}
 
-# **Ranged Weapons**
+# Ranged Weapons
 {:#ranged-weapons-3}
 
-### **Standard Ranged Weapons**
+### Standard Ranged Weapons
 {:#standard-ranged-weapons}
 
 Standard Ranged Weapons are ready-made workshop patterns. Buying one requires no Artisan ranks or Crafting choices. Its listed AP counts toward the normal Athletics \+10 wielding restriction, and it may later be Reforged using the normal Crafting rules. The listed price replaces the normal custom-crafting cost. Every listed upgraded pattern already includes its every-6-Component-AP Damage Die and Stamina bonuses.
@@ -1415,7 +1407,7 @@ For Volley and Multi-Throw, each projectile contributes its stock printed Base D
 
 Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their listed prices in the weapon and launcher entries above.
 
-##### **Bows**
+##### Bows
 {:#bows-2}
 
 **Trail Yumi — 21,000 Ryō. AP 3\.** Yumi frame. Speed 14; Stamina 15; Damage (STR/10)dS; Accuracy \-8; Range STR/2 (+10%); Delay 2\.
@@ -1438,7 +1430,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Installed Components:** Long-Limb Design 2, Sighting Bead 1\. Aim Speed 10\. Each Aim grants \+4 Accuracy; maximum two. An action requiring movement removes accumulated Aim.
 
-##### **Crossbows**
+##### Crossbows
 {:#crossbows-2}
 
 **Field Hand Crossbow — 20,000 Ryō. AP 4\.** Hand Crossbow frame. Speed 11; Stamina 10; Damage 4dS; Accuracy \-4; Range 20 \+ STR/5; Delay 2; Capacity 1; Reload 3; Durability 35\.
@@ -1461,7 +1453,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Installed Components:** Reinforced Winch, Quick Windlass. Requires both hands and remains stationary while Reloading. Crossbow Aim: Speed 5, \+2 Accuracy on the next Crossbow Attack if you do not voluntarily move beforehand.
 
-##### **Kunai Launchers**
+##### Kunai Launchers
 {:#kunai-launchers-2}
 
 **Wristline Launcher — 16,000 Ryō. AP 3\.** Wrist Launcher frame. Speed 8; Stamina 8; Accuracy \+0; Range 15 \+ STR/4; Delay 1; Capacity 3; Reload 5; Durability 30\.
@@ -1484,7 +1476,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Installed Components:** Retrieval Spool, Split Feed, Expanded Magazine 1\. Gains \+1 Launcher Damage Die per Attack. Volley may include two different loaded Kunai patterns. May fire Kunai attached to 10 yards of Ninja Wire and retrieve a launched Kunai with an unobstructed path as a Speed 3 Utility action.
 
-##### **Shuriken Launchers**
+##### Shuriken Launchers
 {:#shuriken-launchers-2}
 
 **Deep-Mag Rotary — 22,000 Ryō. AP 2\.** Rotary Shuriken Launcher frame. Speed 8; Stamina 9; Accuracy \-1 (+2 with ordinary Shuriken); Range 20 \+ STR/4; Delay 1; Capacity 10; Reload 6; Durability 40\.
@@ -1507,7 +1499,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Installed Components:** Fūma Cradle, Extended Guide 1, Expanded Magazine 1, Sturdy 1\. Gains \+2 Launcher Damage Dice per Attack and a separate one-Fūma chamber. Fūma Launch: Speed 16; Stamina 20; Delay 5; Damage (4 \+ STR/12 \+ 2)d12; Reload 8\. Use the greater of the current Launcher Range and STR/3 for Fūma Launch; retain the Fūma Shuriken’s normal hit-margin and Wounding effects.
 
-##### **Ready-Made Kunai and Shuriken**
+##### Ready-Made Kunai and Shuriken
 {:#ready-made-kunai-and-shuriken}
 
 **Edge-Honed Kunai — 4,500 Ryō. AP 2\.** Kunai frame. Speed 8; Stamina 8; Damage 3d6; Accuracy \+0; Range 5 \+ STR/4; Delay 1\.
@@ -1546,7 +1538,7 @@ Unmodified AP 0 frames and ordinary Kunai and Shuriken remain available at their
 
 **Installed Components:** Splitting Star, Reinforced Edge 1\. On a full hit with a single-projectile Attack, add \+1 Damage Die, for 4d6 total. Splitting Star does not function during Multi-Throw or Volley.
 
-##### **Ready-Made Ammunition**
+##### Ready-Made Ammunition
 {:#ready-made-ammunition}
 
 All prices below purchase one batch of ten identical Arrows or Bolts. Ammo AP is separate from Weapon AP and does not count toward wielding requirements. Each shot consumes one piece of ammunition; recovered ammunition may be reused where appropriate.
@@ -1577,10 +1569,10 @@ All prices below purchase one batch of ten identical Arrows or Bolts. Ammo AP is
 
 Fūma Shuriken cost 10,000 Ryō each. Ninja Wire costs 1,000 Ryō per 5 yards and is purchased separately. Retrieving or recovering fired Kunai, Shuriken, Arrows, or Bolts uses the normal Equipment rules and the applicable weapon effects.
 
-### **Other Ranged Weapons**
+### Other Ranged Weapons
 {:#other-ranged-weapons}
 
-#### **Senbon \[Piercing, Thrown, Projectile\]**
+#### Senbon \[Piercing, Thrown, Projectile\]
 {:#senbon-piercing-thrown-projectile}
 
 Large metal needles, traditionally used in acupuncture. Rarely, particularly skilled shinobi will use these with devastating efficiency. Frequently, particularly overconfident shinobi will use this with depressing ineptitude.
@@ -1595,7 +1587,7 @@ Delay: 0
 
 Special: Ignore armor. Cannot be used in Multi Throw (See Abilities).
 
-#### **Boomerang \[Blunt, Thrown, Projectile\]**
+#### Boomerang \[Blunt, Thrown, Projectile\]
 {:#boomerang-blunt-thrown-projectile}
 
 A mysterious weapon discovered in underground caves with proficient users seemingly always able to have it return to them. There has to be some ninja magic involved…probably.
@@ -1609,7 +1601,7 @@ Delay: 3
 
 Special: After throwing this weapon it always returns to your hand 10 IC later. If you have no weapons to catch it the boomerang simply flies off lost until you retrieve it after the battle.
 
-#### **Fuuma Shuriken \[Slashing, Thrown, Melee, Projectile\]**
+#### Fuuma Shuriken \[Slashing, Thrown, Melee, Projectile\]
 {:#fuuma-shuriken-slashing-thrown-melee-projectile}
 
 A fairly complex device, a fuuma shuriken is four curved blades that can fold together and be used as an improvised blade in melee combat, or unfolded and locked open, taking on a pinwheel shape, to be thrown.
@@ -1623,27 +1615,27 @@ Delay: 4
 
 Special: For every point you hit by, you add 10% to the attack's total damage, to a maximum of \+200% (so, if they dodged and you hit by 3 points you'd do 1.3 times damage, and that number would be reduced by the effects of partial defense); this does not apply if it is blocked. If no defense is declared then the attacker hits by their full accuracy value. This weapon's damage is considered 25% higher for the purpose of inflicting wounds. You may also use the Fuuma Shuriken as a melee weapon, in which case it loses all of its other special effects, deals only 4d12 damage and has the following Tags: Slashing, Small, One-Handed.Because these are large and encumbering, they are typically worn somehow strapped to the back; for each Fuuma Shuriken beyond the first you are carrying you have a \-1 penalty to dodge rolls.
 
-# **Gear & Pharmaceuticals**
+# Gear & Pharmaceuticals
 {:#gear-pharmaceuticals}
 
-### **Ninja Tools**
+### Ninja Tools
 {:#ninja-tools}
 
-#### **Blank Scroll**
+#### Blank Scroll
 {:#blank-scroll}
 
 A large scroll. Most of the time these are carried rolled up to save space. They're useless, aside from the fact that a few sealing jutsu make use of them.
 
 Cost: 2.5k Ryo
 
-#### **Blood Increasing Pill**
+#### Blood Increasing Pill
 {:#blood-increasing-pill}
 
 These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/50 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
 
 Cost: 15k Ryo
 
-#### **Caltrops**
+#### Caltrops
 {:#caltrops}
 
 Small bits of metal that are basically just four short spikes attached at a center; no matter how they land, there'll always be a metal spike pointing upwards. The typical use is to scatter them across the ground to impede movement through an area. 
@@ -1656,28 +1648,28 @@ You can deploy Caltrops as a Speed 1 Interrupt anytime you suffer from a Knockba
 
 Cost: 2k Ryo for enough caltrops to cover one 5 yard area
 
-#### **Cloth, Per Yard**
+#### Cloth, Per Yard
 {:#cloth-per-yard}
 
 Broad, sturdy cloth that looks like bandages, or perhaps mummification wraps. This comes in large rolls of up to 200 yards; carrying more than one roll inflicts a \-1 immobilization penalty for each beyond the first (not due to weight, but because they're bulky). Confine Scroll Seals can carry one roll each.
 
 Cost: 300 Ryo
 
-#### **Container, Small**
+#### Container, Small
 {:#container-small}
 
 A container, usually a gourd, clay jug, or waterskin, commonly worn at the hip. One container can hold 2 gallons of water or another substance. For every two small containers or fraction thereof beyond the second, you suffer a \-1 penalty to dodge due to encumberance.
 
 Cost: 5k Ryo0
 
-#### **Container, Large**
+#### Container, Large
 {:#container-large}
 
 A large gourd or other sort of container, several feet long and usually worn on the back. It's heavy and bulky, but not quite enough to restrict the mobility of a well-trained shinobi. It can hold up to 8 gallons of water, but you can only carry one with you (due to its size\!).
 
 Cost: 15k Ryo0
 
-#### **Flash Bomb**
+#### Flash Bomb
 {:#flash-bomb}
 
 Flash bombs are devices which, when ignited, produce brilliant flashes of light. Anyone who doesn't know to close their eyes when you throw one suffers a \-4 visibility penalty for the next 10 IC. You can throw these up to STR/5 yards. Throwing one is a Speed 4 action.
@@ -1688,14 +1680,14 @@ Every time you throw a flash bomb as part of a dodge, after the first time it’
 
 Cost: 3k Ryo
 
-#### **Ninja Wire**
+#### Ninja Wire
 {:#ninja-wire}
 
 High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
 
 Cost: 1k Ryo per 5 Yards.
 
-#### **Rope**
+#### Rope
 {:#rope}
 
 I refuse to explain what this is. Individual lengths of rope can be purchased up to 300 feet (100 yards), but there's nothing stopping you from tying a few together. Tying somebody up requires 10 yards of rope, and the person in question to not be resisting.
@@ -1706,14 +1698,14 @@ You can also attempt to snap the ropes using brute force. This calls for a roll 
 
 Cost: 1k Ryo per 5 Yards.
 
-#### **Smoke Bomb**
+#### Smoke Bomb
 {:#smoke-bomb}
 
 Paper balls small enough to be easily held in one hand, when thrown at the ground they burst and release wide clouds of smoke. Smoke bombs have a range of STR/5 yards, and can be thrown as a Speed 4 action. When thrown, it releases a cloud of thick smoke that causes a \-6 visibility penalty to all people within its 5 yard radius, for 20 IC. Once 10 ICs have passed, the Visibility penalty of the Smoke Bomb is halved. 
 
 Cost: 3k Ryo
 
-#### **Soldier Pill**
+#### Soldier Pill
 {:#soldier-pill}
 
 The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
@@ -1722,17 +1714,17 @@ These pills are essentially just condensed stimulants and nutrients; taking one 
 
 Cost: 25k Ryo
 
-### **Survival**
+### Survival
 {:#survival}
 
-#### **Compass**
+#### Compass
 {:#compass}
 
 A small, typically handheld device that has a needle inside a metal case (with a glass cover, so it can be seen) that points, approximately, to magnetic north when held level. These aren't exactly precise, but they're good enough most of the time. Notably, they can have trouble working underground or if they get zapped by a lightning jutsu. When trying to navigate the wilderness, having a compass gives a \+2 bonus to any Survival rolls. If you also have a map of the country you're in, this is raised to \+4. 
 
 Cost- 2.5k Ryo 
 
-#### **Map**
+#### Map
 {:#map}
 
 A map of a given country. It's usually a really, really good for
@@ -1757,7 +1749,7 @@ the inside of a cave).
 
 Cost- 5k Ryo
 
-#### **First Aid Kit**
+#### First Aid Kit
 {:#first-aid-kit}
 
 A collection of bandages, ointments, and antiseptics. First aid kits can be used to stop bleeding. They can also cure non-Wound Based Bleed and Burns, with a Speed of 2 per level of severity. A single first aid kit can do each of those once before being expended.
@@ -1766,7 +1758,7 @@ Alternatively, it can treat a wound (in the sense of, "this wound has penalty X 
 
 Cost: 2.5k Ryo
 
-#### **Flare**
+#### Flare
 {:#flare}
 
 A handy little pyrotechnic device, a cylinder usually a bit too large to fit comfortably in the palm. When lit (most have built in starters or strikers, to avoid the need for matches) they shine brilliantly, enough that it can be painful to look directly at them without squinting, and become blisteringly hot. They burn out quickly, within half a minute.
@@ -1775,7 +1767,7 @@ The vast majority of flares are projectiles, with built-in propellant. Aimed upw
 
 Cost: 4k Ryo0
 
-#### **Flashlight**
+#### Flashlight
 {:#flashlight}
 
 Flashlights are popular because ninja like to be able to see in low-light environments\! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
@@ -1784,7 +1776,7 @@ Flashlights have a battery life of about half an hour. A spare set of batteries 
 
 Cost: 4k
 
-#### **Glow Stick**
+#### Glow Stick
 {:#glow-stick}
 
 A transparent small (around six inches long, usually) cylinder filled with chemicals that, when mixed, glow brightly. A swift blow to the stick (usually striking it against one's knee; simply bending it with enough force will also work) will shatter the internal glass dividers, mixing the chemicals and producing a pleasing illumination.
@@ -1793,7 +1785,7 @@ A glow stick will glow for about an hour; it cannot be turned off once activated
 
 Cost: 2k
 
-#### **Oxygen Mask**
+#### Oxygen Mask
 {:#oxygen-mask}
 
 This is a small 'mask' that covers the wearer's mouth and nose, and is held in place by elastic bands which form an airtight seal. Rather than filtering air out, it has two possible fixtures (usually one on each side of the mouth) for an oxygen tank to be attached. 
@@ -1804,17 +1796,17 @@ Wearing an oxygen mask with at least tank attached makes the wearer immune to ex
 
 Cost: 20k Ryo5
 
-#### **Oxygen Tank**
+#### Oxygen Tank
 {:#oxygen-tank}
 
 Tanks of compressed, breathable air, usually strapped to one's back. They're basically useless by themselves, but each comes with a hose that can be attached to an oyxgen mask. Each tank provides 30 minutes of breathable air.
 
 Cost: 10k Ryo per tank5
 
-### **Infiltration**
+### Infiltration
 {:#infiltration}
 
-#### **Camouflage Kit**
+#### Camouflage Kit
 {:#camouflage-kit}
 
 Everything you need to blend in with the environment, like a truly sneaky ninja. These come in four flavors: forest/plains, desert, mountainous/rocky, and 'other' (covering anything not one of those). A kit may only be used in its corresponding environment.
@@ -1823,7 +1815,7 @@ Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Steal
 
 Cost: 15k Ryo0
 
-#### **Camera**
+#### Camera
 {:#camera}
 
 Cameras are rare devices, and ones suited for use by ninja even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
@@ -1832,14 +1824,14 @@ Most models include a flash that allows blurry pictures to be taken in the dark.
 
 Cost: 50k Ryo0
 
-#### **Camera Film Roll**
+#### Camera Film Roll
 {:#camera-film-roll}
 
 These are specially treated, light-sensitive pieces of paper. A single roll of Camera Film is good for 10 pictures. Due to the lack of standardization among models, pieces of film generally cannot be exchanged from one camera to another. These are usually stored inside the camera itself; if exposed to light before capturing an image they become useless, though afterwards there will be no effects from direct light on the paper.
 
 Cost: 5k Ryo
 
-#### **Grappling Hook**
+#### Grappling Hook
 {:#grappling-hook}
 
 A three- or four-pronged sturdy metal hook. The typical use is to attach it to the end of a rope then throw it over a wall, up a tree, or across a small chasm, and hope it catches on something (such as a piece of architecture, a branch, or an appropriately-shaped rock). The user then climbs the rope to get to their destination\!
@@ -1848,14 +1840,14 @@ These see limited use among experienced ninja, who typically have ways of easily
 
 Cost: 1.5k Ryo2
 
-#### **Lockpicks**
+#### Lockpicks
 {:#lockpicks}
 
 A set of small tools, easily carried in a pocket, used for opening locks in absence of the key. These allow an Espionage roll to be made to open a lock, and also provide a bonus to said roll. That bonus has a maximum of \+5, or the user's Espionage skill ranks, whichever is lower; you have to actually know how to use them to get any benefit. These are reusable, though a roll of 5 or lower on the Espionage check means they break in the attempt (which may still be successful).
 
 Cost: 10k Ryo per \+1
 
-#### **Ninja Comm Device**
+#### Ninja Comm Device
 {:#ninja-comm-device}
 
 The pinnacle of technological advancement in the ninja world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to shinobi on missions.
@@ -1868,14 +1860,14 @@ If you suffer a Major or greater Head wound while wearing a comm device, it brea
 
 Cost: 25k Ryo0
 
-#### **Telescope**
+#### Telescope
 {:#telescope}
 
 A small pocket telescope, which telescopes out from two inches to close to six. It allows you to effectively see what's going on up to a mile away, and read reasonably sized text (assuming you have clear line of sight) up to half a mile away. Mechanically, this means that any Awareness rolls at a distance up to its maximum (to, say, see when a guard leaves his post) have no penalty.
 
 Cost: 10k Ryo5
 
-## **Shinobi Pharmaceuticals**
+## Shinobi Pharmaceuticals
 {:#shinobi-pharmaceuticals}
 
 A soldier pill is not the only thing a modern shinobi can swallow before doing something regrettable.
@@ -1885,7 +1877,7 @@ Licensed clinics, field medics, black-market chemists, and village quartermaster
 *“The label says 'do not combine with alcohol, genjutsu medication, or heroic self-confidence.' Nobody reads the third warning.”*  
 *— pharmacy clerk, Tanzaku Quarter*
 
-### **Drug Rules**
+### Drug Rules
 {:#drug-rules}
 
 Taking a pill or using a prepared vial on yourself is Speed 6\. Injecting an unwilling creature requires an appropriate Melee Attack or Grapple permission.
@@ -1998,7 +1990,7 @@ Treat both Stamina and Chakra penalties as 1 lower and gain \+3 Resistance again
 
 Crash: increase both penalties by 2\. A character without Kodon metabolism also suffers Stun 5\.
 
-# **Exploding Tags**
+# Exploding Tags
 {:#exploding-tags}
 
 Rectangular slips of paper inscribed with special seals, centered around the kanji for "explode". They're infused with chakra, but normally inert. A tag can be "primed" by focusing a small amount of chakra into them, at which point they can stick to most surfaces (like walls, or the underside of bridges; even unsuspecting people) and will detonate on their own after some time. 
@@ -2011,7 +2003,7 @@ When detonated, tags count as a Speed 8+2 per tags attack for the purpose of val
 
 There are many ways to Prime a Tag, as described below. Tags are tied to their primer, hence no one but the person using the Tag can use the Detonation options. The last application of any of the below options overrides any previous application.
 
-#### **Contact Detonation**
+#### Contact Detonation
 {:#contact-detonation}
 
 This means priming the Tag while you are holding it or touching it. 
@@ -2022,7 +2014,7 @@ Prerequisites: Genin. All Genin are taught how to do this at the Academy.
 
 Effect: You can set the Detonation time between 10 IC and (10+Chakra Control Ranks) IC. 
 
-#### **Remote Detonation**
+#### Remote Detonation
 {:#remote-detonation}
 
 This is the safe approach at Detonating Exploding Tags. By focusing the Chakra from a distance, you can Prime a tag from a few yards away.
@@ -2035,7 +2027,7 @@ Prerequisites: Chuunin, or 10 Ranks in Chakra Control
 
 Effect: X is the number of Tags. You can set the Detonation time between  10 IC and (10+Chakra Control Ranks) IC. 
 
-#### **Instant Remote/Triggered:**
+#### Instant Remote/Triggered:
 {:#instant-remote-triggered}
 
 This is the most advanced form of Tag Detonation. You can instantly set off a Tag within your range or you can set up a condition for the detonation that is independent of the time elapsed.
@@ -2059,7 +2051,7 @@ Requires: Genin Rank
 
 Cost: 5000 Ryo
 
-### **Exploding Tag, Type 2**
+### Exploding Tag, Type 2
 {:#exploding-tag-type-2}
 
 A more powerful version of the regular exploding tags, not given to genin because experience has shown, time and again, that genin really can't be trusted with high-end explosives. Chuunin, however, are more responsible--at least, in theory.
@@ -2070,7 +2062,7 @@ Requires: Chuunin Rank
 
 Cost: 15000 Ryo
 
-### **Exploding Tag, Type 3**
+### Exploding Tag, Type 3
 {:#exploding-tag-type-3}
 
 The end-all and be-all of 'mundane' explosives, reserved for jounin simply because of how difficult they are to produce, which is in turn reflected in how troublesome they are to get ahold of.

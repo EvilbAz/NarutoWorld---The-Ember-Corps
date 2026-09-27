@@ -13,19 +13,19 @@ source: "https://docs.google.com/document/d/1py9c90LXYxUlFESrmWEylbyh-nT5tc6X2ky
 
 <p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
-# **STORM RELEASE**
+# STORM RELEASE
 {:#storm-release}
 
 ***Raiton → Storm | Scar: Charge***
 
 *Ordinary Raiton produces lightning. Storm Release teaches that lightning where to go next. Hair rises, metal hums and every marked creature becomes another piece of the circuit.*
 
-## **Feral Conversion**
+## Feral Conversion
 {:#feral-conversion}
 
 A Feralized Raiton Attack creates Charge after resolving. A single-target Attack applies Charge equal to its Feral Intensity to the target. An Attack affecting several creatures or an Area either applies the full Intensity to one affected creature, object or point, or applies Charge 1 to a number of affected creatures, objects or points up to its Feral Intensity.
 
-## **Storm Nodes and Arcs**
+## Storm Nodes and Arcs
 {:#storm-nodes-and-arcs}
 
 A creature, object or point carrying Charge is a Storm Node.
@@ -34,37 +34,37 @@ When declaring a Storm Jutsu, choose a Storm Node within that Jutsu's normal Ran
 
 When a Storm Attack hits a creature carrying Charge, consume 1 Charge from that creature to Arc. Choose another creature carrying Charge within 10 yards and make an additional Attack Roll at \-3 Accuracy. On hit, the Arc deals 50% of the original Attack's Final Damage. The Arc carries no Status Conditions, Wound riders or additional Charge. One Attack creates one Arc.
 
-## **Charge**
+## Charge
 {:#charge}
 
-### **Scarred — Charge 1–2**
+### Scarred — Charge 1–2
 {:#scarred-charge-1-2}
 
 The target is a Storm Node. Storm Attacks gain \+1 Accuracy against a creature at Charge 2+.
 
-### **Feral — Charge 3–4**
+### Feral — Charge 3–4
 {:#feral-charge-3-4}
 
 At Charge 3, Storm Attacks against the creature gain \+10% Final Damage and their first Arc deals 65% of the original Final Damage.
 
 At Charge 4, the Final Damage bonus becomes \+15%. The creature suffers \-2 to Defensive Rolls against Arcs, and an Arc that hits it inflicts Paralysis 1\.
 
-### **Overrun — Charge 5**
+### Overrun — Charge 5
 {:#overrun-charge-5}
 
 Storm Attacks against a creature at Charge 5 gain \+25% Final Damage and \+2 Accuracy.
 
 When a Storm Attack hits a creature at Charge 5, consume any amount of its Charge. Each Charge consumed adds \+5% Final Damage and \+1 Paralysis to that Attack. Consuming all 5 Charge also creates an Arc against each other Storm Node within 10 yards, to a maximum of five Nodes. These Arcs use \-3 Accuracy and deal 50% of the original Attack's Final Damage.
 
-## **Apex Mutation — Chainstorm**
+## Apex Mutation — Chainstorm
 {:#apex-mutation-chainstorm}
 
 Once per Action, originating a Storm Jutsu from a Storm Node leaves that Node's Charge intact. After your first Arc hits, consume 1 Charge from that target to Arc again to a different Charged creature within 10 yards. The second Arc uses \-3 Accuracy, deals 35% of the original Attack's Final Damage and ends the chain.
 
-## **Native Feral Jutsu**
+## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### **Storm Release: Arc Javelin**
+### Storm Release: Arc Javelin
 {:#storm-release-arc-javelin}
 
 ***C-Rank***
@@ -77,7 +77,7 @@ Once per Action, originating a Storm Jutsu from a Storm Node leaves that Node's 
 
 On hit, Arc Javelin applies Charge 1 before checking for an Arc. The new Charge can immediately serve as the first Storm Node.
 
-### **Storm Release: Thunderhead**
+### Storm Release: Thunderhead
 {:#storm-release-thunderhead}
 
 ***B-Rank***
@@ -92,7 +92,7 @@ On activation, choose up to two creatures, objects or points in the Area and app
 
 Every 10 IC after activation, choose one creature, object or point in the Area and apply Charge 1\. This can create a new Storm Node or increase an existing one.
 
-### **Storm Release: World Circuit**
+### Storm Release: World Circuit
 {:#storm-release-world-circuit}
 
 ***A-Rank***

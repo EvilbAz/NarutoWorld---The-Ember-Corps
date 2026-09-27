@@ -13,49 +13,49 @@ source: "https://docs.google.com/document/d/1py9c90LXYxUlFESrmWEylbyh-nT5tc6X2ky
 
 <p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
-# **ABYSS RELEASE**
+# ABYSS RELEASE
 {:#abyss-release}
 
 ***Suiton → Abyss | Scar: Depth***
 
 *Normal water moves around you. Abyssal water feels impossibly heavy, as though a few inches of black water carry the pressure of an ocean trench.*
 
-## **Feral Conversion**
+## Feral Conversion
 {:#feral-conversion}
 
 A Feralized Suiton Attack that affects an Area applies Depth equal to its Feral Intensity to that Area after resolving. A single-target Attack applies that Depth directly to the target. A persistent Suiton effect that creates or maintains water applies its Depth to the water it sustains.
 
-## **Depth**
+## Depth
 {:#depth}
 
-### **Scarred — Depth 1–2**
+### Scarred — Depth 1–2
 {:#scarred-depth-1-2}
 
 A creature affected by Depth suffers Special Upkeep equal to its Depth and has its Movement Speed reduced by 10% per Depth.
 
 Abyss Attacks gain \+1 Accuracy against a creature affected by Depth 2+.
 
-### **Feral — Depth 3–4**
+### Feral — Depth 3–4
 {:#feral-depth-3-4}
 
 A breathing creature affected by Depth 3+ gains Suffocation 1 every 15 IC.
 
 At Depth 3, Abyss Attacks against the creature gain \+10% Final Damage and \+10% Wounding. At Depth 4, both bonuses become \+15%.
 
-### **Overrun — Depth 5**
+### Overrun — Depth 5
 {:#overrun-depth-5}
 
 At Depth 5, the creature's Movement Speed is reduced by 50% and it gains Suffocation 1 every 10 IC. Abyss Attacks against it gain \+25% Final Damage, \+25% Wounding and \+2 Accuracy.
 
-## **Apex Mutation — Hadal Adaptation**
+## Apex Mutation — Hadal Adaptation
 {:#apex-mutation-hadal-adaptation}
 
 Depth leaves you untouched. You ignore its Special Upkeep, Movement reduction and Suffocation. Whenever one of your Abyss Attacks inflicts a Wound on a creature at Depth 5, that creature gains Suffocation 1\.
 
-## **Native Feral Jutsu**
+## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### **Abyss Release: Blackwater Undertow**
+### Abyss Release: Blackwater Undertow
 {:#abyss-release-blackwater-undertow}
 
 ***C-Rank***
@@ -68,7 +68,7 @@ Depth leaves you untouched. You ignore its Special Upkeep, Movement reduction an
 
 Blackwater Undertow pulls creatures towards the centre of its Area. Increase this forced movement by the highest Depth affecting each target, to a maximum increase of \+5 yards. After the Attack resolves, the Area gains Depth 1\.
 
-### **Abyss Release: Sunken World**
+### Abyss Release: Sunken World
 {:#abyss-release-sunken-world}
 
 ***B-Rank***
@@ -83,7 +83,7 @@ On activation, the Area gains Depth 2\. Sunken World Anchors the Depth in its Ar
 
 Every 10 IC after activation, increase that Area's Depth by 1, to a maximum of 5\. Moving or reshaping the Area through another effect carries the Anchored Depth with the water Sunken World maintains.
 
-### **Abyss Release: Hadal Grave**
+### Abyss Release: Hadal Grave
 {:#abyss-release-hadal-grave}
 
 ***A-Rank***

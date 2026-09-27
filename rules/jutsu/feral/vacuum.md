@@ -13,51 +13,51 @@ source: "https://docs.google.com/document/d/1py9c90LXYxUlFESrmWEylbyh-nT5tc6X2ky
 
 <p class="jutsu-shared-note"><strong>Shared mechanics:</strong> Scar timing, anchoring, Fade, Overrun and Developments are in the <a href="{{ '/rules/jutsu/feral/' | relative_url }}">Feral Elements overview</a>.</p>
 
-# **VACUUM RELEASE**
+# VACUUM RELEASE
 {:#vacuum-release}
 
 ***Fūton → Vacuum | Scar: Dead Air***
 
 *Fūton controls air. Vacuum Release controls the space left when air is gone. Its techniques create pressure differentials, silence and sudden implosions.*
 
-## **Feral Conversion**
+## Feral Conversion
 {:#feral-conversion}
 
 A Feralized Fūton Jutsu can reverse any Knockback it inflicts, pulling the target towards the technique's origin. A Vacuum Jutsu affecting an Area applies Dead Air equal to its Feral Intensity after resolving. A single-target Vacuum Jutsu creates an Area 1 of Dead Air around the target.
 
-## **Dead Air**
+## Dead Air
 {:#dead-air}
 
-### **Scarred — Dead Air 1–2**
+### Scarred — Dead Air 1–2
 {:#scarred-dead-air-1-2}
 
 Katon Attacks originating inside or passing through Dead Air lose 5% Final Damage per Dead Air. Projectile Attacks passing through it suffer \-1 Accuracy per Dead Air.
 
 Vacuum Attacks gain \+1 Accuracy against creatures inside Dead Air 2+.
 
-### **Feral — Dead Air 3–4**
+### Feral — Dead Air 3–4
 {:#feral-dead-air-3-4}
 
 At Dead Air 3+, sound stops travelling into, out of or through the Area. Breathing creatures inside gain Suffocation 1 every 15 IC.
 
 At Dead Air 3, Vacuum Attacks against creatures inside gain \+10% Final Damage and \+2 yards of forced movement. At Dead Air 4, the Final Damage bonus becomes \+15%, forced movement becomes \+4 yards, and Blocking a Vacuum Attack uses half the defender's normal Block Percentage.
 
-### **Overrun — Dead Air 5**
+### Overrun — Dead Air 5
 {:#overrun-dead-air-5}
 
 Katon Jutsu cannot originate inside Dead Air 5\. Breathing creatures inside gain Suffocation 1 every 10 IC.
 
 Vacuum Attacks against creatures inside gain \+25% Final Damage, \+2 Accuracy and ignore 50% DR. Their forced movement increases by 5 yards. Pulling a creature into the exact centre of the Overrun Area applies Stun 5 after movement resolves.
 
-## **Apex Mutation — Breathless**
+## Apex Mutation — Breathless
 {:#apex-mutation-breathless}
 
 Dead Air carries no penalty for you: you breathe, hear, speak and fire projectiles through it normally, and your Katon remains usable. Forced movement caused by your Vacuum Jutsu inside Dead Air 3+ increases by an additional 2 yards.
 
-## **Native Feral Jutsu**
+## Native Feral Jutsu
 {:#native-feral-jutsu}
 
-### **Vacuum Release: Breath Thief**
+### Vacuum Release: Breath Thief
 {:#vacuum-release-breath-thief}
 
 ***C-Rank***
@@ -70,7 +70,7 @@ Dead Air carries no penalty for you: you breathe, hear, speak and fire projectil
 
 Breath Thief pulls creatures towards the centre of its Area. A creature already suffering Suffocation also takes Stun equal to its Suffocation. The Area then gains Dead Air 1\.
 
-### **Vacuum Release: Silent Room**
+### Vacuum Release: Silent Room
 {:#vacuum-release-silent-room}
 
 ***B-Rank***
@@ -85,7 +85,7 @@ On activation, the Area gains Dead Air 2\. Silent Room Anchors Dead Air in its A
 
 Every 10 IC after activation, increase that Dead Air by 1, to a maximum of 5\. Sound cannot travel into, out of or through Silent Room at any Severity.
 
-### **Vacuum Release: Atmospheric Collapse**
+### Vacuum Release: Atmospheric Collapse
 {:#vacuum-release-atmospheric-collapse}
 
 ***A-Rank***

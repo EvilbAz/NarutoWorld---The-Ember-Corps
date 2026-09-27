@@ -11,7 +11,7 @@ source: "https://docs.google.com/document/d/1WzDsr5mlAqSDaGS0-d1ogbANCJqHjayf51k
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
 
 
-# **Shadow Clones**
+# Shadow Clones
 {:#shadow-clones}
 
 Perhaps the pinnacle of development for the ninja replication technique is this jutsu. Whereas bunshin creates what are essentially illusions, shadow clones use chakra to create a perfect copy of the original person. Despite this, they are fairly delicate and unstable; a solid blow will harm the clone as if it was flesh and blood, but moments later the bunshin will vanish in a puff of smoke.

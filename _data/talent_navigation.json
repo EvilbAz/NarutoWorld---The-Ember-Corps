@@ -1,0 +1,46 @@
+{
+  "tabs": [
+    {
+      "slug": "overview",
+      "title": "Talent Rules",
+      "url": "/rules/talents/",
+      "description": "How Talents are gained, learned and developed."
+    },
+    {
+      "slug": "enhancements",
+      "title": "Enhancements",
+      "url": "/rules/talents/enhancements/",
+      "description": "Celerity, Generalist, Prodigy and Skill Specialist."
+    },
+    {
+      "slug": "capabilities",
+      "title": "Capabilities",
+      "url": "/rules/talents/capabilities/",
+      "description": "Eight Gates, Kage Bunshin and Capability Talents."
+    },
+    {
+      "slug": "monster-taming",
+      "title": "Monster Taming",
+      "url": "/rules/talents/monster-taming/",
+      "description": "Taming, training and commanding monsters; traits, damage, progression and rules."
+    },
+    {
+      "slug": "monster-species",
+      "title": "Monster Species",
+      "url": "/rules/talents/monster-species/",
+      "description": "Every standard Monster Species, its profile, unique traits and techniques."
+    },
+    {
+      "slug": "rank-benefits",
+      "title": "Rank Benefits",
+      "url": "/rules/talents/rank-benefits/",
+      "description": "Rank privileges, progression and benefits."
+    },
+    {
+      "slug": "hunter-classes",
+      "title": "Hunter Classes",
+      "url": "/rules/talents/hunter-classes/",
+      "description": "Class benefits and the Hunter specialties."
+    }
+  ]
+}
