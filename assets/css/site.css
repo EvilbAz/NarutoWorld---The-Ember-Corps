@@ -41,3 +41,16 @@
 .jutsu-shared-note{padding:14px 17px;margin:8px 0 28px!important;background:var(--surface);border-left:3px solid var(--accent);font-size:12px}
 @media(max-width:1260px){.jutsu-type-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.jutsu-type-grid{grid-template-columns:1fr}.jutsu-type-card{min-height:125px}.jutsu-catalog{gap:38px}.jutsu-group-heading h2{font-size:26px}}
+
+/* UP-cost sections: one-click clan links, alphabetically ordered. */
+.clan-toc .clan-up-label{display:flex;justify-content:space-between;align-items:center;gap:7px;padding:13px 0 4px;color:var(--accent);font:800 10px/1.3 'DM Sans',sans-serif;letter-spacing:1.25px}
+.clan-toc .clan-up-label:first-child{padding-top:8px}
+.clan-toc .clan-up-label small{color:var(--dim);letter-spacing:0;font-size:10px}
+.clan-toc .clan-up-label:not(:first-child){margin-top:11px;border-top:1px solid var(--line)}
+.clan-toc a{display:block}
+.clan-cost-banner{scroll-margin-top:92px;display:flex;gap:16px;align-items:center;margin:64px 0 12px;padding:17px 19px;background:linear-gradient(90deg,rgba(240,128,74,.12),var(--surface) 68%);border-left:3px solid var(--accent);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.clan-cost-value{font:900 37px/.95 'Barlow Condensed',sans-serif;color:var(--accent);letter-spacing:.8px;white-space:nowrap}
+.clan-cost-caption{font:800 11px 'DM Sans',sans-serif;letter-spacing:1.5px;color:var(--text)}
+.clan-cost-count{display:block;margin-top:3px;font-size:9px;letter-spacing:1px;color:var(--muted)}
+.clan-cost-banner + h1{margin-top:22px;border-top:0;padding-top:4px}
+@media(max-width:600px){.clan-cost-banner{margin-top:48px;padding:14px 15px}.clan-cost-value{font-size:33px}}

@@ -8,10 +8,11 @@ if(rule){
  const clans=heads.filter(h=>h.tagName==='H1');
  const side=$('#toc'),rail=$('#rail-toc');
  const render=(dest,items)=>{if(!dest)return;dest.innerHTML=items.map(h=>'<a href="#'+encodeURIComponent(h.id)+'" class="depth-'+(h.tagName==='H1'?1:2)+'">'+escape(h.textContent.trim())+'</a>').join('')};
- if(!isJutsu)render(side,isClans?clans:primary.slice(0,120));
+ if(!isJutsu && !isClans)render(side,primary.slice(0,120));
  if(isJutsuIndex)render(rail,[]);
  else if(isJutsu)render(rail,primary.slice(0,42));
- else render(rail,isClans?clans.slice(0,42):primary.slice(0,42));
+ else if(isClans && side && rail)rail.innerHTML=side.innerHTML;
+ else render(rail,primary.slice(0,42));
  const observed=isClans?clans:primary;
  if('IntersectionObserver' in window){
   const observer=new IntersectionObserver(items=>{const entry=items.filter(i=>i.isIntersecting).sort((a,b)=>a.boundingClientRect.top-b.boundingClientRect.top)[0];if(!entry)return;const id=entry.target.id;$$('.clan-toc a,#rail-toc a').forEach(a=>a.classList.toggle('active',decodeURIComponent((a.getAttribute('href')||'').slice(1))===id))},{rootMargin:'-95px 0px -70% 0px'});

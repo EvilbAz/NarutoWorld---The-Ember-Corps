@@ -36,7 +36,21 @@
               {% endfor %}
             </nav>
           {% else %}
-            <nav id="toc" class="toc {% if page.volume_slug == 'clans' %}clan-toc{% endif %}" aria-label="{% if page.volume_slug == 'clans' %}Clans{% else %}On this page{% endif %}"></nav>
+            {% if page.volume_slug == 'clans' %}
+              <nav id="toc" class="toc clan-toc" aria-label="Clans grouped by Unique Point cost">
+                <span class="clan-up-label">REFERENCE</span>
+                <a href="{{ '/rules/clans/#heritage-rules' | relative_url }}">Heritage Rules</a>
+                <a href="{{ '/rules/clans/#heritage-cost-index' | relative_url }}">Heritage Cost Index</a>
+                {% for group in site.data.clan_navigation.groups %}
+                  <span class="clan-up-label"><span>{{ group.label }}</span><small>{{ group.items.size }}</small></span>
+                  {% for clan in group.items %}
+                    <a href="{{ '/rules/clans/#' | append: clan.anchor | relative_url }}">{{ clan.name }}</a>
+                  {% endfor %}
+                {% endfor %}
+              </nav>
+            {% else %}
+              <nav id="toc" class="toc" aria-label="On this page"></nav>
+            {% endif %}
           {% endif %}
         {% endif %}
       {% endfor %}

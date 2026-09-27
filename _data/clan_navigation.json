@@ -1,0 +1,180 @@
+{
+  "groups": [
+    {
+      "cost": 0,
+      "label": "0 UP HERITAGES",
+      "items": [
+        {
+          "name": "Clanless",
+          "anchor": "clanless"
+        },
+        {
+          "name": "Fūma",
+          "anchor": "fuma"
+        },
+        {
+          "name": "Funato",
+          "anchor": "funato"
+        },
+        {
+          "name": "Iburi",
+          "anchor": "iburi"
+        },
+        {
+          "name": "Karatachi Family",
+          "anchor": "karatachi-family"
+        },
+        {
+          "name": "Ouyoku",
+          "anchor": "ouyoku"
+        },
+        {
+          "name": "Sarutobi",
+          "anchor": "sarutobi"
+        },
+        {
+          "name": "Shiin",
+          "anchor": "shiin"
+        },
+        {
+          "name": "Yotsuki",
+          "anchor": "yotsuki"
+        }
+      ]
+    },
+    {
+      "cost": 1,
+      "label": "1 UP HERITAGES",
+      "items": [
+        {
+          "name": "Hokori",
+          "anchor": "hokori"
+        },
+        {
+          "name": "Hoshigaki",
+          "anchor": "hoshigaki"
+        },
+        {
+          "name": "Insect Glaive Corps",
+          "anchor": "insect-glaive-corps"
+        },
+        {
+          "name": "Jashin Worshipper",
+          "anchor": "jashin-worshipper"
+        },
+        {
+          "name": "Jinrō",
+          "anchor": "jinro"
+        },
+        {
+          "name": "Kamizuru",
+          "anchor": "kamizuru"
+        },
+        {
+          "name": "Nara",
+          "anchor": "nara"
+        },
+        {
+          "name": "Samsara",
+          "anchor": "samsara"
+        },
+        {
+          "name": "Silverhand",
+          "anchor": "silverhand"
+        },
+        {
+          "name": "Vanguard Corps",
+          "anchor": "vanguard-corps"
+        },
+        {
+          "name": "Yamanaka",
+          "anchor": "yamanaka"
+        }
+      ]
+    },
+    {
+      "cost": 2,
+      "label": "2 UP HERITAGES",
+      "items": [
+        {
+          "name": "Aburame",
+          "anchor": "aburame"
+        },
+        {
+          "name": "Akimichi",
+          "anchor": "akimichi"
+        },
+        {
+          "name": "Ballistic Corps",
+          "anchor": "ballistic-corps"
+        },
+        {
+          "name": "Futton",
+          "anchor": "futton"
+        },
+        {
+          "name": "Hōzuki",
+          "anchor": "hozuki"
+        },
+        {
+          "name": "Hyūga",
+          "anchor": "hyuga"
+        },
+        {
+          "name": "Inuzuka",
+          "anchor": "inuzuka"
+        },
+        {
+          "name": "Jūgo's Bloodline",
+          "anchor": "jugo-s-bloodline"
+        },
+        {
+          "name": "Karashi (Puppets)",
+          "anchor": "karashi-puppets"
+        },
+        {
+          "name": "Kazekage Clan / Jiton",
+          "anchor": "kazekage-clan-jiton"
+        },
+        {
+          "name": "Senju",
+          "anchor": "senju"
+        },
+        {
+          "name": "Shakuton",
+          "anchor": "shakuton"
+        },
+        {
+          "name": "Uzumaki",
+          "anchor": "uzumaki"
+        },
+        {
+          "name": "Yōton",
+          "anchor": "yoton"
+        },
+        {
+          "name": "Yuki",
+          "anchor": "yuki"
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "label": "3 UP HERITAGES",
+      "items": [
+        {
+          "name": "Bakuton",
+          "anchor": "bakuton"
+        },
+        {
+          "name": "Kaguya",
+          "anchor": "kaguya"
+        },
+        {
+          "name": "Uchiha",
+          "anchor": "uchiha"
+        }
+      ]
+    }
+  ]
+}
