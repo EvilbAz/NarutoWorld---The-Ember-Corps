@@ -2,7 +2,7 @@
 
 The official player-facing rules reference for Naruto World: Ember Corps, a fan-made tabletop roleplaying system set after the Bloom.
 
-This repository mirrors the six current Ember Corps rule volumes from the project Google Drive. The Google Docs remain the editorial source; updates to the website are published from reviewed exports.
+The published website is the authoritative player-facing Ember Corps rulebook. Rules corrections and approved updates are published directly to the website.
 
 ## Browse the rules
 
@@ -27,7 +27,7 @@ Approved rule changes are announced in [the Ember Corps Discord](https://discord
 
 ## Contributing
 
-Use a pull request or GitHub issue for typos, broken links or rules discrepancies. Proposed rules changes must be approved by the staff before they are adopted into the Google Docs and mirrored here.
+Use a pull request or GitHub issue for typos, broken links or rules discrepancies. Proposed rules changes must be approved by staff before publication on the website.
 
 ## Disclaimer
 
