@@ -25,7 +25,7 @@ Every player character belongs to Haven Ember and serves in the Ember Corps. Her
 
 Choose one Primary Heritage. Mixed ancestry is valid narratively, but only your Primary Heritage grants its starting features, affinities, exclusive abilities, and clan-jutsu access unless a rule explicitly says otherwise.
 
-Heritage Cost is paid from the 5 Unique Points granted at character creation. It is not a Unique, does not count toward Creation Uniques, and is not paid again later.
+Heritage Cost is paid from the 6 Unique Points granted at character creation. It is not a Unique, does not count toward Creation Uniques, and is not paid again later.
 
 ## Heritage Cost Index
 {:#heritage-cost-index}
@@ -34,9 +34,9 @@ Heritage Cost is paid from the 5 Unique Points granted at character creation. It
 
 * 1 UP: Nara, Yamanaka, Kamizuru, Hokori, Hoshigaki, Silverhand, Samsara, Jinrō, Jashin Worshipper, Insect Glaive Corps, Vanguard Corps
 
-* 2 UP: Aburame, Akimichi, Hyūga, Inuzuka, Senju, Uzumaki, Kazekage Clan / Jiton, Shakuton, Yōton, Hōzuki, Yuki, Futton, Jūgo's Bloodline, Karashi (Puppets), Ballistic Corps
+* 2 UP: Aburame, Akimichi, Hyūga, Inuzuka, Senju, Uzumaki, Kazekage Clan / Jiton, Shakuton, Yōton, Hōzuki, Yuki, Futton, Jūgo's Bloodline, Ballistic Corps
 
-* 3 UP: Uchiha, Bakuton, Kaguya.
+* 3 UP: Uchiha, Bakuton, Kaguya, Karashi (Puppets).
 
 <div id="heritage-up-0" class="clan-cost-banner"><span class="clan-cost-value">0 UP</span><span class="clan-cost-caption">HERITAGES <span class="clan-cost-count">09 ENTRIES</span></span></div>
 
