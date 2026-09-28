@@ -7,7 +7,7 @@
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ember.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260928-crimson">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260928-lore">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('ember-theme')||'dark'}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -70,7 +70,7 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
+    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/lore/' | relative_url }}">World & Lore <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
     <header class="topbar">
