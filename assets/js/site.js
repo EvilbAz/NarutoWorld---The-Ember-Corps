@@ -11,7 +11,7 @@ if(isTalents && talentSection==='monster-species'){
 }
 const rule=$('#rule-content');
 if(rule){
- // Real table semantics remain intact; the wrapper scrolls wide Google Docs tables on mobile.
+ // Preserve table semantics while making wide rules tables horizontally scrollable on mobile.
  for(const tbl of $('#rule-content table')){if(!tbl.parentElement?.classList.contains('table-scroll')){const box=document.createElement('div');box.className='table-scroll';box.tabIndex=0;box.setAttribute('role','region');box.setAttribute('aria-label','Scrollable rules table');tbl.parentNode.insertBefore(box,tbl);box.appendChild(tbl)}}
  const heads=$$('#rule-content h1,#rule-content h2,#rule-content h3,#rule-content h4');
  let count=0;for(const h of heads){if(!h.id)h.id='rule-section-'+(++count)}
