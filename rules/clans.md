@@ -2783,7 +2783,7 @@ Chakra vents from your back like wings. Your movement increases by 50%, your una
 
 *The Ballistic Corps are Haven Ember's gunners, ammunition specialists and hunter-engineers: the people trusted with weapons that turn sealed powder, chakra coils and monster-bone machinery into portable* thunder.
 
-The tradition began in the Ashen Anvil's Ballistics Annex, where recovered firearms and industrial launchers were rebuilt for hunters combat. Their weapons are not mass-produced guns. Every chamber is fitted, every recoil system tuned, and every load chosen for the thing the hunter expects to meet outside the walls.
+The tradition began in the Ashen Anvil's Ballistics Annex, where recovered firearms and industrial launchers were rebuilt for Hunter combat. Their weapons are not mass-produced firearms. Every chamber is fitted, every recoil system tuned, and every load chosen for the thing the hunter expects to meet outside the walls.
 
 A Ballistic Corps hunter does not simply carry a weapon. They maintain a platform: changing magazines, rebuilding barrels, replacing seal plates and turning trophies from dead monsters into the next answer fired downrange.
 
@@ -2798,6 +2798,8 @@ Only characters with the Ballistic Corps Heritage may wield a weapon with the Fi
 This is a hard Heritage restriction. Characters without this Heritage cannot make Ballistic Attacks, Reload or Brace a firearm, benefit from Ballistic Attachments, use specialist Ballistic ammunition, or use Ballistic Modifications. They may carry, sell, transport or study the equipment, but possessing it never grants access to its combat rules. General Equipment access never overrides this restriction unless a rule explicitly names the Ballistic Corps restriction.
 
 A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defense rules, but does not add Physical Damage Bonus. Instead, Ballistic Attacks add Ballistic Damage Bonus (BDB) equal to DEX / 24, rounded as normal.
+
+**Corps Firepower:** Increase the Final Damage of every damaging Ballistic Attack you make by **40%**. Calculate the Attack normally, including its Frame, BDB, Burst or Full Auto, Ballistic Arts, Modifications and ammunition; apply this bonus **once**, after those damage modifiers. Round using the normal Final Damage rules. This bonus also applies to delayed damage from your Sticky Loads, even though Sticky damage does not add BDB. It does not increase Wounding chance, the number of hits, damage from non-Ballistic attacks, or the fixed effects of Tracking Dye and other non-damaging Loads. If an Attack deals additional damage to Armor Durability, physical Barriers, objects or destructible monster parts, calculate that target-specific damage normally and then apply Corps Firepower once. The bonus does not multiply itself when an Attack qualifies through more than one Ballistic feature.
 
 When making an attack of any type with a Ballistic Weapon, instead of using a base Accuracy result, you roll a 1d20, and add your relevant Accuracy modifier to it, not including your Base 10\. If you use your DEX for your BDB, use your Taijutsu Accuracy, if you use your CHa for your BDB, use your Ninjutsu Accuracy.
 
