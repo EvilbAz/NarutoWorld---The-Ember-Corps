@@ -2799,8 +2799,6 @@ This is a hard Heritage restriction. Characters without this Heritage cannot mak
 
 A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defense rules, but does not add Physical Damage Bonus. Instead, Ballistic Attacks add Ballistic Damage Bonus (BDB) equal to DEX / 24, rounded as normal.
 
-**Corps Firepower:** Increase the Final Damage of every damaging Ballistic Attack you make by **40%**. Calculate the Attack normally, including its Frame, BDB, Burst or Full Auto, Ballistic Arts, Modifications and ammunition; apply this bonus **once**, after those damage modifiers. Round using the normal Final Damage rules. This bonus also applies to delayed damage from your Sticky Loads, even though Sticky damage does not add BDB. It does not increase Wounding chance, the number of hits, damage from non-Ballistic attacks, or the fixed effects of Tracking Dye and other non-damaging Loads. If an Attack deals additional damage to Armor Durability, physical Barriers, objects or destructible monster parts, calculate that target-specific damage normally and then apply Corps Firepower once. The bonus does not multiply itself when an Attack qualifies through more than one Ballistic feature.
-
 When making an attack of any type with a Ballistic Weapon, instead of using a base Accuracy result, you roll a 1d20, and add your relevant Accuracy modifier to it, not including your Base 10\. If you use your DEX for your BDB, use your Taijutsu Accuracy, if you use your CHA for your BDB, use your Ninjutsu Accuracy.
 
 Ballistic Weapons cannot Parry ranged attacks. They may Parry Melee Weapon or Melee Unarmed attacks using their listed Parry modifier.
@@ -2872,7 +2870,7 @@ Brace is a Speed 5 Utility action. You remain Braced until you voluntarily move 
 #### Burst
 {:#burst}
 
-When declaring a Ballistic Attack with a Burst weapon, you may consume 3 ammunition. The Attack gains \+2 Damage Dice, \+2 Stamina and \+1 Base Speed. Burst remains one Attack and may only modify an Attack once.
+When declaring a Ballistic Attack with a Burst weapon, you may consume 3 ammunition. The Attack gains \+3 Damage Dice, \+2 Stamina and \+1 Base Speed. Burst remains one Attack and may only modify an Attack once.
 
 #### Full Auto
 {:#full-auto}
@@ -2885,7 +2883,7 @@ The Action’s Speed becomes the Weapon’s Base Speed \+ X. The Action’s Stam
 
 Draw a cone, with you as the point of Origin, up to your Weapon’s Range in any direction. Choose up to X creatures within that cone as possible targets. Make one Attack Roll against each chosen creature with a \-2 Accuracy Modifier. Each creature must defend against their Attack separately.
 
-On a hit, deal the Weapon’s normal Damage \+ X Damage Dice \+ BDB.
+On a hit, deal the Weapon’s normal Damage \+ X + ⌈X / 2⌉ Damage Dice \+ BDB.
 
 For the purposes of effects that care about repeated hits, such as Maintaining Handseals, Suppression, Concentration or similar effects, a creature hit by Full Auto counts as having been hit X times. These additional counted hits do not deal additional Damage, cannot independently Wound, and cannot trigger additional Damage effects.
 
@@ -2894,7 +2892,7 @@ For the purposes of effects that care about repeated hits, such as Maintaining H
 - *a \= Weapon Base Speed || b \= Weapon Magazine Size || c \= Weapon Damage Dice || d \= Damage Bonus || e \= Weapon Stamina || X \= Chosen Value of X*
 
 
-  Ammo \= 3X || Speed \= a \+ X || Stamina \= e \+ 2X || Targets \= X || Accuracy \= \-2 || Damage \= (c \+ X) Dice \+ d || Hit Count \= X
+  Ammo \= 3X || Speed \= a \+ X || Stamina \= e \+ 2X || Targets \= X || Accuracy \= \-2 || Damage \= (c \+ X + ⌈X / 2⌉) Dice \+ d || Hit Count \= X
 
 #### Heavy
 {:#heavy}
@@ -2933,7 +2931,7 @@ Speed: 8
 
 Stamina: 9
 
-Damage: 3d6
+Damage: 4d6
 
 Accuracy: \+1
 
@@ -2962,7 +2960,7 @@ Speed: 9
 
 Stamina: 11
 
-Damage: 4d8
+Damage: 6d8
 
 Accuracy: \+1
 
@@ -2991,7 +2989,7 @@ Speed: 13
 
 Stamina: 15
 
-Damage: 6d10
+Damage: 8d10
 
 Accuracy: \+0
 
@@ -3009,7 +3007,7 @@ Reload: 7
 
 Compatible Ammo: Standard, Pierce, Scatter, Sticky, Tranq
 
-Frame Trait: Set the Stock \- While Braced, Ballistic Attacks with this weapon gain \+1 Damage Die.
+Frame Trait: Set the Stock \- While Braced, Ballistic Attacks with this weapon gain \+2 Damage Dice.
 
 ### Machine Pistol Frame
 {:#machine-pistol-frame}
@@ -3020,7 +3018,7 @@ Speed: 8
 
 Stamina: 10
 
-Damage: 3d6
+Damage: 4d6
 
 Accuracy: \+0
 
@@ -3049,7 +3047,7 @@ Speed: 8
 
 Stamina: 11
 
-Damage: 4d8
+Damage: 6d8
 
 Accuracy: \+1
 
@@ -3078,7 +3076,7 @@ Speed: 10
 
 Stamina: 12
 
-Damage: 5d8
+Damage: 7d8
 
 Accuracy: \+0
 
@@ -3096,7 +3094,7 @@ Reload: 6
 
 Compatible Ammo: Standard, Scatter, Sticky, Tranq
 
-Frame Trait: Breach Pattern \- When you fire Scatter ammunition at half Range or closer, add 1 additional Damage Die.
+Frame Trait: Breach Pattern \- When you fire Scatter ammunition at half Range or closer, add 2 additional Damage Dice.
 
 ### Marksman Frame
 {:#marksman-frame}
@@ -3107,7 +3105,7 @@ Speed: 12
 
 Stamina: 13
 
-Damage: 5d10
+Damage: 7d10
 
 Accuracy: \+1
 
@@ -3125,7 +3123,7 @@ Reload: 7
 
 Compatible Ammo: Standard, Pierce, Slicing, Tracking Dye
 
-Frame Trait: Cold Bore \- A Ballistic Attack that consumes your Aim bonus gains \+1 Damage Die.
+Frame Trait: Cold Bore \- A Ballistic Attack that consumes your Aim bonus gains \+2 Damage Dice.
 
 ### Hand Cannon Frame
 {:#hand-cannon-frame}
@@ -3136,7 +3134,7 @@ Speed: 12
 
 Stamina: 14
 
-Damage: 5d10
+Damage: 7d10
 
 Accuracy: \-1
 
@@ -3165,7 +3163,7 @@ Speed: 12
 
 Stamina: 14
 
-Damage: 3d10
+Damage: 4d10
 
 Accuracy: \+0
 
@@ -3386,7 +3384,7 @@ Requires Chakra-Driven. Whenever you activate Chakra-Driven, you may pay 2 addit
 #### Burst Regulator
 {:#burst-regulator}
 
-Requires Burst. When you use Burst, it adds \+3 Damage Dice instead of \+2, but its additional Stamina becomes \+4 and its additional Base Speed becomes \+2. Limit 1\.
+Requires Burst. When you use Burst, it adds \+4 Damage Dice instead of \+3, but its additional Stamina becomes \+4 and its additional Base Speed becomes \+2. Limit 1\.
 
 #### High-Capacity Drum
 {:#high-capacity-drum}
@@ -3538,7 +3536,7 @@ Cost: 1,000 Ryo per Load
 
 Requires Scatter Frame.
 
-At half the weapon's listed Range or closer, add \+2 Damage Dice. Beyond half Range, instead suffer \-1 Accuracy. Scatter does not change the number of creatures hit.
+At half the weapon's listed Range or closer, add \+3 Damage Dice. Beyond half Range, instead suffer \-1 Accuracy. Scatter does not change the number of creatures hit.
 
 ### Slicing Load
 {:#slicing-load}
@@ -3586,7 +3584,7 @@ Cost: 3,000 Ryo per Shell
 
 Requires Heavy or Siege and explicit Wyvern compatibility.
 
-The Attack gains \+4 Damage Dice, \+5 Base Speed, \+5 Stamina and \+10% Wounding. Firing a Wyvern Shell empties the current magazine regardless of remaining ammunition. The weapon cannot begin Reloading until 5 IC after the Attack resolves.
+The Attack gains \+6 Damage Dice, \+5 Base Speed, \+5 Stamina and \+10% Wounding. Firing a Wyvern Shell empties the current magazine regardless of remaining ammunition. The weapon cannot begin Reloading until 5 IC after the Attack resolves.
 
 ---
 
@@ -3645,7 +3643,7 @@ Changing your Signature Mechanism requires 2 Downtime Slots during a Week's Rest
 
 **Requires:** Burst.
 
-**Tier I** — Burst adds \+3 Damage Dice instead of \+2.
+**Tier I** — Burst adds \+4 Damage Dice instead of \+3.
 
 **Tier II — If your previous Ballistic Attack was a Burst against the same target, the new Burst Attack also gains \+1 Accuracy. Moving, Reloading, or changing targets breaks the pattern.**
 
@@ -3654,7 +3652,7 @@ Changing your Signature Mechanism requires 2 Downtime Slots during a Week's Rest
 
 **Requires:** Scatter Frame.
 
-**Tier I** — At half Range or closer, Scatter ammunition adds \+3 Damage Dice instead of \+2, but the Attack gains \+1 Delay.
+**Tier I** — At half Range or closer, Scatter ammunition adds \+4 Damage Dice instead of \+3, but the Attack gains \+1 Delay.
 
 **Tier II — Ignore that \+1 Delay.**
 
@@ -3955,7 +3953,7 @@ Type: Bukijutsu, Rank A
 
 Stamina: 30
 
-Damage: As Weapon \+4 Damage Dice
+Damage: As Weapon \+6 Damage Dice
 
 Accuracy: \+1
 
@@ -3969,7 +3967,7 @@ Requires: Heavy Bowgun Frame, Braced
 
 Consume all ammunition currently loaded in the weapon and make one Ballistic Attack. The Attack gains \+10% Wounding.
 
-If you fire a Wyvern Shell with this technique, apply the Shell's normal Speed, Stamina and Wounding modifiers, but do not add its \+4 Damage Dice a second time.
+If you fire a Wyvern Shell with this technique, apply the Shell's normal Speed, Stamina and Wounding modifiers, but do not add its \+6 Damage Dice a second time.
 
 If the target currently has a Major Wound, destroyed Armor, or a destroyed monster part, increase Wyvern Execution's Wounding bonus to \+15% instead.
 
