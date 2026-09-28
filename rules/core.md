@@ -266,7 +266,7 @@ As the name would suggest, this increases the damage you do with physical attack
 
 - Your damage bonus is STR/18.
 
-Damage bonus is unique in that it is calculated to a single decimal place. For example, with STR of 25, you'd have a damage bonus of 25/15.0 \= 1.666 \= 1.6
+Damage bonus is unique in that it is calculated to a single decimal place. For example, with STR 25, your Physical Damage Bonus is 25/18 = 1.388..., recorded as 1.3 when truncated to one decimal place.
 
 Damage Bonus, Ninjutsu (NDB)  
 This functions practically identically to physical damage bonus, except that it applies to attacks based on their potency of your chakra rather than your physical strength, which generally means ninjutsu..
