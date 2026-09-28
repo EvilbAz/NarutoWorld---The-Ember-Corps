@@ -5,7 +5,6 @@ volume: "IV"
 volume_slug: "jutsu"
 jutsu_section: "unarmed"
 permalink: "/rules/jutsu/unarmed/"
-source: "https://docs.google.com/document/d/1WzDsr5mlAqSDaGS0-d1ogbANCJqHjayf51k4Or9q4n0/edit"
 ---
 
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
