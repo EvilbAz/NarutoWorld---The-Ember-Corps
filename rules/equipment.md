@@ -4,7 +4,6 @@ title: "Equipment & Crafting"
 volume: "VI"
 volume_slug: "equipment"
 permalink: "/rules/equipment/"
-source: "https://docs.google.com/document/d/1-izKLkpWG72oHkL-byh9zHkCiVbyNJOx4KceY8j93ug/edit"
 ---
 
 *Crafting, weapons, tools, pharmaceuticals and exploding tags.*
