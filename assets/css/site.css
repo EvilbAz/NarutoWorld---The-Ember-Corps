@@ -191,3 +191,13 @@
 .core-side-label{display:block;margin:4px 0 9px;color:var(--dim);font-size:10px;letter-spacing:1px}
 .core-side-links a{display:block;padding:7px 8px;border-left:2px solid transparent;font-size:12px}
 .core-side-links a:hover,.core-side-links a.active{color:var(--text);border-left-color:var(--accent);background:var(--surface2)}
+
+/* Feral release sigils: intentionally stark, like stamped elemental marks. */
+.jutsu-feral-grid .jutsu-type-card{position:relative;overflow:hidden;padding-right:74px}
+.jutsu-feral-grid .feral-emblem{position:absolute;right:15px;top:50%;transform:translateY(-50%);display:grid;place-items:center;width:46px;height:46px;border:1px solid var(--line);background:var(--side);font-size:31px;font-weight:700;line-height:1;color:var(--accent)}
+.jutsu-feral-grid .jutsu-type-card:nth-child(2) .feral-emblem{color:#679bc1}
+.jutsu-feral-grid .jutsu-type-card:nth-child(3) .feral-emblem{color:#9e93d1}
+.jutsu-feral-grid .jutsu-type-card:nth-child(4) .feral-emblem{color:#9bbbc0}
+.jutsu-feral-grid .jutsu-type-card:nth-child(5) .feral-emblem{color:#8cb69f}
+.jutsu-feral-grid .jutsu-type-card:nth-child(6) .feral-emblem{color:#df6260}
+.jutsu-feral-grid .jutsu-type-card:nth-child(7) .feral-emblem{color:#c4b5ce}
