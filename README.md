@@ -6,7 +6,7 @@ This repository mirrors the six current Ember Corps rule volumes from the projec
 
 ## Browse the rules
 
-The GitHub Pages site is published from the `main` branch at the repository root using Jekyll. Browse the published website at **https://evilbaz.github.io/NarutoWorld---The-Ember-Corps/**.
+The GitHub Pages site is published from the `main` branch at the repository root using Jekyll. Browse the published website at **https://evilbaz.github.io/TheEmberCorps/**.
 
 ## Rulebooks
 
