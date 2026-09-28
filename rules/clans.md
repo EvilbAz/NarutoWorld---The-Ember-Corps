@@ -3747,13 +3747,17 @@ Artillery \- Brace has Speed 3 instead of 5\. Forced movement of less than 3 yar
 
 Type: Ability
 
-Cost: 10
+Base Cost: 10
 
-Limit: 1
+Scale: 5
+
+Limit: 1 + DEX / 50, maximum 5
 
 **Effects**
 
-You gain **+2 yards of Movement** whenever you move directly backwards, away from a creature you can see, while wielding a Ballistic Weapon. This applies to ordinary Movement and to movement granted by Reposition or Recoil Step. The bonus applies once per movement, not per yard or per creature, and only to the portion of movement spent retreating; you cannot use it to move farther sideways or towards a target. It does not grant movement when you would otherwise move 0 yards, allow you to exceed an effect's explicit maximum movement distance, ignore obstacles or hazards, or preserve Braced or Aim when movement would normally end them. Heavy and Siege weapons still cannot use Reposition.
+Whenever you would move, if that movement takes you farther away from **every enemy currently present**, increase that movement's yards-per-IC (yards/IC) rate by **0.3 per rank** of this Ability. If the movement is part of an Attack, instead roll 1d20 and increase its yards/IC rate by **0.1 per point rolled, per rank** of this Ability. A roll of 20 grants +2 yards/IC per rank.
+
+Roll once for each qualifying movement made as part of an Attack. The increased rate applies only while the movement continues to take you farther away from every enemy present; it does not apply to sideways movement, advancing, or movement that takes you closer to even one enemy. It changes movement efficiency, not the Attack's Speed, and does not grant a separate movement action or override terrain, movement restrictions, Braced or Aim.
 
 ### Ammunition Savant
 {:#ammunition-savant}
