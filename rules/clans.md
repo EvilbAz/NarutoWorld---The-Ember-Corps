@@ -45,9 +45,9 @@ Heritage Cost is paid from the 6 Unique Points granted at character creation. It
 **HERITAGE \- SELF-MADE**  
 *No bloodline taught you how to survive. No inherited technique promised that you would be strong enough. Everything you know was learned from the people beside you and the places that tried to kill you.*
 
-Haven Ember is full of shinobi without famous names. Some come from families whose techniques were lost generations ago. Some are refugees, settlers, or children of people who never carried a shinobi lineage at all. Others simply chose not to define themselves by whatever blood might run through them.
+Haven Ember is full of hunters without famous names. Some come from families whose techniques were lost generations ago. Some are refugees, settlers, or children of people who never carried a hunters lineage at all. Others simply chose not to define themselves by whatever blood might run through them.
 
-Clanless shinobi do not compete with the great lineages by secretly being better at everything. They survive by learning broadly, changing approach when something fails, and building a toolkit instead of inheriting one answer to every problem. They have no secret bloodline waiting to awaken; they become useful in as many situations as they can.
+Clanless hunters do not compete with the great lineages by secretly being better at everything. They survive by learning broadly, changing approach when something fails, and building a toolkit instead of inheriting one answer to every problem. They have no secret bloodline waiting to awaken; they become useful in as many situations as they can.
 
 ## Passives
 {:#passives}
@@ -62,13 +62,13 @@ Additionally, you gain an additional Talent point every 1500 XP earned (1500XP, 
 ### Self-Taught
 {:#self-taught}
 
-Clanless shinobi are not locked into an inherited curriculum. During each Week's Rest, you may retrain one or more non-Heritage Jutsu or Abilities with a combined XP cost of up to 10\. Remove the chosen options, then immediately spend the same amount of XP on other non-Heritage Jutsu or Abilities you currently meet the requirements for.  
+Clanless hunters are not locked into an inherited curriculum. During each Week's Rest, you may retrain one or more non-Heritage Jutsu or Abilities with a combined XP cost of up to 10\. Remove the chosen options, then immediately spend the same amount of XP on other non-Heritage Jutsu or Abilities you currently meet the requirements for.  
 You cannot retrain Talents, Uniques, Attributes, Skills, Heritage options, or anything granted for free. Retraining never grants XP, and any unused portion of this 10 XP allowance is lost when that Week's Rest ends.
 
 ### Jack of All Trades
 {:#jack-of-all-trades}
 
-Clanless shinobi are used to reaching for whichever tool works, rather than waiting for the one technique their family taught them.  
+Clanless hunters are used to reaching for whichever tool works, rather than waiting for the one technique their family taught them.  
 When you make an Attack, Defensive Roll, Skill Check, Status Resistance Roll, Stamina Exhaustion Roll, or Chakra Exhaustion Roll, you may use Adaptability to add \+2 to the roll after rolling but before the result is resolved.  
 After using Adaptability, you cannot use it on the same kind of roll as your previous use for the rest of combat. Attack, Defense, Skill, Status Resistance, Stamina Exhaustion, and Chakra Exhaustion are separate kinds of roll. Outside combat, Adaptability may be used once per scene instead.
 
@@ -918,9 +918,9 @@ While both you and a damaged target are inside, gain \+2 Accuracy against that t
 
 **WEAPON TRADITION \- SETTING ORIGINAL**
 
-*The Insect Glaive Corps began with Wastes hunters who discovered that some chakra-active insects could do more than track prey. Properly bred, fed, and bonded, they could taste the different ways chakra moved through a living body \- aggression in the limbs and jaws, motion through the legs and wings, stability through the torso and shell \- then carry that stolen rhythm back to a shinobi.*
+*The Insect Glaive Corps began with Wastes hunters who discovered that some chakra-active insects could do more than track prey. Properly bred, fed, and bonded, they could taste the different ways chakra moved through a living body \- aggression in the limbs and jaws, motion through the legs and wings, stability through the torso and shell \- then carry that stolen rhythm back to a hunters.*
 
-The first glaives were practical hunting tools: long polearms for keeping claws and teeth away, hollowed through the haft so a bonded insect could launch, return, and nest against the wielder's arm. What began as monster-hunting fieldcraft became one of Haven Ember's strangest martial schools. Modern Corps hunters fight as a pair. The shinobi creates openings, the Kinsect steals a fragment of the enemy's fighting rhythm, and the glaive turns that information into movement that should not be possible for a weapon that large.
+The first glaives were practical hunting tools: long polearms for keeping claws and teeth away, hollowed through the haft so a bonded insect could launch, return, and nest against the wielder's arm. What began as monster-hunting fieldcraft became one of Haven Ember's strangest martial schools. Modern Corps hunters fight as a pair. The hunters creates openings, the Kinsect steals a fragment of the enemy's fighting rhythm, and the glaive turns that information into movement that should not be possible for a weapon that large.
 
 Kinsects are not kikaichu. Each is a single cultivated chakra-active companion raised alongside its hunter. Most are beetles, moths, mantises, dragonflies, or things that only resemble those species after generations in the Wastes.
 
@@ -968,7 +968,7 @@ When you hold Red, White, and Orange at the same time, they immediately become T
 ### Vaulting Form
 {:#vaulting-form}
 
-The glaive is a weapon, walking stick, spring pole, and an extremely irresponsible answer to the question of whether shinobi need terrain in order to jump.
+The glaive is a weapon, walking stick, spring pole, and an extremely irresponsible answer to the question of whether hunters need terrain in order to jump.
 
 You gain the following action while holding your Insect Glaive and able to move:
 
@@ -1021,7 +1021,7 @@ After you hit with an Aerial Insect Glaive Attack, you may move up to AGI/20 yar
 
 **Effects**
 
-You and your Kinsect have stopped behaving like a shinobi issuing commands to an animal and started behaving like one fighting style with an inconvenient number of wings.
+You and your Kinsect have stopped behaving like a hunters issuing commands to an animal and started behaving like one fighting style with an inconvenient number of wings.
 
 Immediately after you hit the creature your Kinsect is currently Deployed against with an Insect Glaive Attack, you may resolve Recall Kinsect at Speed 0\. The Extract is gained after the triggering Attack fully resolves.
 
@@ -1305,7 +1305,7 @@ Leaving the circle, losing the blood sample, or becoming unable to act ends the 
 
 ***RARE CURSED BLOODLINE***
 
-*The Jinrō carry a predatory transformation that feels less like a technique than sharing a body with hunger. Haven Ember does not pretend that danger disappears because someone joins the Corps; instead, Jinrō shinobi are trained around discipline, squad trust, and knowing exactly how much of the beast they can afford to invite forward.*
+*The Jinrō carry a predatory transformation that feels less like a technique than sharing a body with hunger. Haven Ember does not pretend that danger disappears because someone joins the Corps; instead, Jinrō hunters are trained around discipline, squad trust, and knowing exactly how much of the beast they can afford to invite forward.*
 
 ## Passives
 {:#passives-34}
@@ -1670,7 +1670,7 @@ Every 10 IC you can use your shadow tendrils to grab onto things (or people) or 
 ### Soul Anchor
 {:#soul-anchor}
 
-Samsara does not gain **Willpower.** And cannot access or use it in any way, shape or form. They can use the **Limit Break** ability, and the XP cost for Limit Break is reduced by 50%. However, Samsara still carry the Will of a Ninja within them, and their powers over life, death, creation and destruction grant them unique abilities unlike anything else. 
+Samsara does not gain **Willpower.** And cannot access or use it in any way, shape or form. They can use the **Limit Break** ability, and the XP cost for Limit Break is reduced by 50%. However, Samsara still carry the Will of a Hunter within them, and their powers over life, death, creation and destruction grant them unique abilities unlike anything else. 
 
 A Samsara can prepare for their next life. By spending 1 Downtime Slot, you may establish a Soul Anchor.
 
@@ -1748,7 +1748,7 @@ Switching Echoes is a Speed 6 Action, or can be done as part of the same action 
 
 - **Warrior**  
   - Once per 20 IC, gain \+2 to one Physical/Taijutsu Accuracy. Accuracy roll, Parry roll or Dodge roll.  
-- **Shinobi**  
+- **Hunters**  
   - Once per 20 IC, gain \+2 to one Ninjutsu or Genjutsu Accuracy, Accuracy roll, Barrier roll, or roll made to establish or maintain a Seal  
 - **Wanderer**  
   - Once per 20 IC, gain \+4 to one non-combat Skill check.
@@ -1800,7 +1800,7 @@ Against living non-summoned targets, this attack bypasses any barriers, Clones o
 
 ***RARE TRADITION \- SETTING ORIGINAL***
 
-*Silverhand is not a bloodline so much as a Haven Ember cultural inheritance: performers, rebels, shinobi musicians, and public agitators who learned that chakra resonates differently when a whole crowd feels the same thing at once. In the Ember Corps, that becomes morale, disruption, signal, and occasionally a weapon loud enough to reshape a fight.*
+*Silverhand is not a bloodline so much as a Haven Ember cultural inheritance: performers, rebels, hunters musicians, and public agitators who learned that chakra resonates differently when a whole crowd feels the same thing at once. In the Ember Corps, that becomes morale, disruption, signal, and occasionally a weapon loud enough to reshape a fight.*
 
 ## Passives
 {:#passives-32}
@@ -2783,7 +2783,7 @@ Chakra vents from your back like wings. Your movement increases by 50%, your una
 
 *The Ballistic Corps are Haven Ember's gunners, ammunition specialists and hunter-engineers: the people trusted with weapons that turn sealed powder, chakra coils and monster-bone machinery into portable* thunder.
 
-The tradition began in the Ashen Anvil's Ballistics Annex, where recovered firearms and industrial launchers were rebuilt for shinobi combat. Their weapons are not mass-produced guns. Every chamber is fitted, every recoil system tuned, and every load chosen for the thing the hunter expects to meet outside the walls.
+The tradition began in the Ashen Anvil's Ballistics Annex, where recovered firearms and industrial launchers were rebuilt for hunters combat. Their weapons are not mass-produced guns. Every chamber is fitted, every recoil system tuned, and every load chosen for the thing the hunter expects to meet outside the walls.
 
 A Ballistic Corps hunter does not simply carry a weapon. They maintain a platform: changing magazines, rebuilding barrels, replacing seal plates and turning trophies from dead monsters into the next answer fired downrange.
 
@@ -4604,7 +4604,7 @@ When you land a hit with this technique, you may “activate” their Tenketsu p
 # Inuzuka
 {:#inuzuka}
 
-*Haven Ember’s Inuzuka are never trained as a single combatant. Shinobi and ninken grow into an Ember Corps partnership built on tracking, mobility, trust, and coordinated pressure; the dog is family and squadmate before it is ever a weapon.*
+*Haven Ember’s Inuzuka are never trained as a single combatant. Hunters and ninken grow into an Ember Corps partnership built on tracking, mobility, trust, and coordinated pressure; the dog is family and squadmate before it is ever a weapon.*
 
 ## Passives
 {:#passives-5}
@@ -6072,7 +6072,7 @@ When targeted by an Attack, move instantly from your current position into or ad
 
 ***PUPPET HERITAGE***
 
-*Karashi is Haven Ember’s name for a workshop lineage raised around puppet balance, chakra strings, hidden mechanisms, and the belief that a shinobi’s reach should be limited by imagination rather than anatomy. Puppetry is not theirs alone, but Karashi characters begin inside the craft instead of approaching it from the outside.*
+*Karashi is Haven Ember’s name for a workshop lineage raised around puppet balance, chakra strings, hidden mechanisms, and the belief that a hunters’s reach should be limited by imagination rather than anatomy. Puppetry is not theirs alone, but Karashi characters begin inside the craft instead of approaching it from the outside.*
 
 ## Passives
 {:#passives-15}
