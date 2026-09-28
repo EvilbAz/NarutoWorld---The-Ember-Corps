@@ -3747,7 +3747,7 @@ Artillery \- Brace has Speed 3 instead of 5\. Forced movement of less than 3 yar
 
 Type: Ability
 
-Base Cost: 10
+Cost: 10
 
 Scale: 5
 
@@ -3755,9 +3755,9 @@ Limit: 1 + AGI / 50, maximum 5
 
 **Effects**
 
-Whenever you would move, if that movement takes you farther away from **every enemy currently present**, increase that movement's yards-per-IC (yards/IC) rate by **0.3 per rank** of this Ability. If the movement is part of an Attack, instead roll 1d20 and increase its yards/IC rate by **0.1 per point rolled, per rank** of this Ability. A roll of 20 grants +2 yards/IC per rank.
+Whenever you would move, if that movement takes you farther away from every enemy currently present, increase that movement’s yards-per-IC (yards/IC) rate by 0.3 per rank of this Ability. If the movement is part of an Attack, look at the result of the D20 roll made with the attack (10 for attacks that use a Static Accuracy) and increase its yards/IC rate by 0.1 per point rolled, per rank of this Ability. A roll of 20 grants +2 yards/IC per rank.
 
-Roll once for each qualifying movement made as part of an Attack. The increased rate applies only while the movement continues to take you farther away from every enemy present; it does not apply to sideways movement, advancing, or movement that takes you closer to even one enemy. It changes movement efficiency, not the Attack's Speed, and does not grant a separate movement action or override terrain, movement restrictions, Braced or Aim.
+The increased rate applies only while the movement continues to take you farther away from every enemy present.
 
 ### Ammunition Savant
 {:#ammunition-savant}
