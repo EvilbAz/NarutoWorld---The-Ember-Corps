@@ -5,7 +5,6 @@ volume: "IV"
 volume_slug: "jutsu"
 jutsu_index: true
 permalink: "/rules/jutsu/"
-source: "https://docs.google.com/document/d/1WzDsr5mlAqSDaGS0-d1ogbANCJqHjayf51k4Or9q4n0/edit"
 ---
 
 <div class="jutsu-intro"><p>Choose a discipline to open its complete rules and techniques. Each school has its own page, so you can read Katon, Genjutsu or a weapon art without scrolling through the entire compendium.</p></div>
