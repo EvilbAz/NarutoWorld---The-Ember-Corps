@@ -5,7 +5,6 @@ volume: "IV"
 volume_slug: "jutsu"
 jutsu_section: "cinder"
 permalink: "/rules/jutsu/feral/cinder/"
-source: "https://docs.google.com/document/d/1py9c90LXYxUlFESrmWEylbyh-nT5tc6X2kyrsSRmuFQ/edit"
 ---
 
 <div class="jutsu-breadcrumb"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a><a href="{{ '/rules/jutsu/feral/' | relative_url }}">FERAL ELEMENTS ↗</a></div>
