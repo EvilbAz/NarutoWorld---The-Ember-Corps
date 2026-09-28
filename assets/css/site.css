@@ -186,3 +186,8 @@
 .talent-tab.is-active{color:var(--accent);border-bottom-color:var(--accent)}
 .toc.talent-side-links a.active{color:var(--accent);border-left-color:var(--accent)}
 .search-result mark{background:color-mix(in srgb,var(--accent2) 33%,transparent)}
+
+.core-side-links{padding:8px 12px 13px 38px;max-height:calc(100vh - 300px);overflow-y:auto;border-left-color:var(--accent)}
+.core-side-label{display:block;margin:4px 0 9px;color:var(--dim);font-size:10px;letter-spacing:1px}
+.core-side-links a{display:block;padding:7px 8px;border-left:2px solid transparent;font-size:12px}
+.core-side-links a:hover,.core-side-links a.active{color:var(--text);border-left-color:var(--accent);background:var(--surface2)}
