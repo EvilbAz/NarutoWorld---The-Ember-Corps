@@ -25,7 +25,16 @@
       {% for entry in books %}{% assign b = entry | split: "|" %}
         <a class="volume-link {% if page.volume_slug == b[0] %}selected{% endif %}" href="{{ '/rules/' | append: b[0] | append: '/' | relative_url }}"><span class="volume-number">{{ b[2] }}</span><span>{{ b[1] }}</span>{% if page.volume_slug == b[0] %}<span class="active-spark"></span>{% endif %}</a>
         {% if page.volume_slug == b[0] %}
-          {% if page.volume_slug == 'jutsu' %}
+          {% if page.volume_slug == 'core' %}
+            <nav id="toc" class="toc core-side-links" aria-label="Core Rules sections">
+              <span class="core-side-label">CORE RULES / CONTENTS</span>
+              {% assign core_sections = "Character Creation|character-creation,Attributes|attributes,Skills|skills,Experience & Advancement|experience-advancement,Abilities|abilities,Combat|combat,Wounds|wounds,Downtime|downtime,Bingo Book|bingo-book" | split: "," %}
+              {% for section in core_sections %}
+                {% assign part = section | split: "|" %}
+                <a href="{{ '/rules/core/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+              {% endfor %}
+            </nav>
+          {% elsif page.volume_slug == 'jutsu' %}
             <nav id="toc" class="toc jutsu-side-links" aria-label="Jutsu types">
               <a href="{{ '/rules/jutsu/' | relative_url }}" class="jutsu-all-link {% if page.jutsu_index %}active{% endif %}">ALL JUTSU TYPES ↗</a>
               {% for group in site.data.jutsu_navigation.groups %}
