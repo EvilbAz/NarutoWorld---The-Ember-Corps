@@ -735,12 +735,12 @@ You can craft weapons with X Artisan Points up to a max of your Artisan Ranks wh
 Structure is, put simply, the general materials and processes used to craft your armor. Regardless of the actual details of its construction, all armor is divided into three simple categories of protectiveness, Mobile, Protective, and Encased. The more that the armor covers, and the more metal is used in its construction, the better it is at protecting its wearer. But that also comes with the downside of it becoming heavier and restricting its wearer’s movement.
 
 Mobile (1):  
-Designed out of padded clothing or hardened leather, and barely considered armor, Mobile armor is favored by those who value their freedom of movement above all else, yet still don’t want to go fight other superhuman ninjas without SOME level of protection.
+Designed out of padded clothing or hardened leather, and barely considered armor, Mobile armor is favored by those who value their freedom of movement above all else, yet still don’t want to go fight other superhuman hunters without SOME level of protection.
 
 Durability: 100 / Absorption: 5% / Penalty: \-1 Immobilization and \-1 to Stealth rolls
 
 Protective (0):   
-Mostly designed out of chainmail or half plate, this type of armor is the most popular amongst Shinobi as it offers the perfect balance between all important aspects of a piece of armor.
+Mostly designed out of chainmail or half plate, this type of armor is the most popular amongst Hunters as it offers the perfect balance between all important aspects of a piece of armor.
 
 Durability: 200 / Absorption: 10% / Penalty: \-2 Immobilization and \-2 to Stealth rolls 
 
@@ -841,7 +841,7 @@ These Features are only accessible with the Master Artisan Talent, and represent
 ## Craftsman
 {:#craftsman}
 
-You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for ninja. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a shinobi’s toolkit.
+You may not want to supply arms in the form of weapons, but there are plenty of other useful tools for hunter. From flash bombs and lockpicks to kunai and bows you want to supply basically everything else in a hunters’s toolkit.
 
 Upon gaining 1 Rank in the Artisan (Craftsman) Skill, you gain the ability to create equipment from the gear and exploding tags category. This requires you to spend a Downtime Slot on an “Equipment Crafting” Action, rolling your Artisan Skill vs a TN of the Artisan Points (explained below) determined by the item. You may pool your rolls until you amass enough to match the TN, which may take a number of Slots and/or Downtime Cycles.
 
@@ -885,7 +885,7 @@ Antidotes that act quickly enough to be useful in emergencies, such as combat, a
 ##### Uncraftable
 {:#uncraftable}
 
-Sadly due to technological limitations there are some things you as a shinobi are unable to craft normally. You are unable to make the following items:
+Sadly due to technological limitations there are some things you as a hunters are unable to craft normally. You are unable to make the following items:
 
 - Flashlight
 
@@ -903,7 +903,7 @@ Sadly due to technological limitations there are some things you as a shinobi ar
 
 Poisons are nasty business, and one of the murkier aspects of ninja tactics. Certainly, before the days when shinobi had discovered the secrets of chakra manipulation, poisons were a vital part of their arsenal. The proper use of poisons, however, is hard to learn, and in most circumstances just isn't as useful as being able to shoot fireballs and run up walls.
 
-Some ninja, however, still find uses for them. This section is for them\!
+Some hunter, however, still find uses for them. This section is for them\!
 
 ### Rules
 {:#rules}
@@ -927,7 +927,7 @@ Toxicology rolls carry over to the next Downtime until you’ve reached the TN, 
 #### Doses and Costs
 {:#doses-and-costs}
 
-Poisons are measured in doses. A dose is how much of the substance is required to poison a ninja and apply the effects of a particular brew. Whenever you Brew a new Poison, this is how much you make. Once, the main measurement unit was how many whales or elephants the poison could kill (The bare minimum needed to even begin affecting ninja) but we’ve long since moved past such archaic measurements.
+Poisons are measured in doses. A dose is how much of the substance is required to poison a hunter and apply the effects of a particular brew. Whenever you Brew a new Poison, this is how much you make. Once, the main measurement unit was how many whales or elephants the poison could kill (The bare minimum needed to even begin affecting hunter) but we’ve long since moved past such archaic measurements.
 
 Every additional effect of a dose of Poison has a cost in Ryo, this represents the costs of ingredients and reagents and tools that are needed to be acquired to Brew that specific batch. If the total Ryo cost cannot be met, then the Brewer simply doesn’t have enough ingredients to make that Poison.
 
@@ -949,7 +949,7 @@ No matter how many poisons you're afflicted by, or their type, similar effects d
 #### Time
 {:#time}
 
-When Shinobi are in a fight, their hearts are beating a mile a minute (sometimes it literally is that fast), and their circulatory system is in full gear. While this tends to sharpen their reflexes and prepare their bodies for the fight, it also makes Poisons spread all that much faster through their system. During a fight or similarly high-stress scenarios, Duration of Poisons are measured in ICs, meaning its effects are applied every IC, including the Poison’s Severity. However, outside of combat, or when the Ninja is incapacitated, the heart slows down and the body has more resources to invest into battling the Poison, Duration during these times are measured in minutes rather than ICs. For example, a Poison Severity 5, Duration 75 applied outside of combat lasts for 75 minutes, and every minute they would lose 5 Vitality or HP.
+When Hunters are in a fight, their hearts are beating a mile a minute (sometimes it literally is that fast), and their circulatory system is in full gear. While this tends to sharpen their reflexes and prepare their bodies for the fight, it also makes Poisons spread all that much faster through their system. During a fight or similarly high-stress scenarios, Duration of Poisons are measured in ICs, meaning its effects are applied every IC, including the Poison’s Severity. However, outside of combat, or when the Hunter is incapacitated, the heart slows down and the body has more resources to invest into battling the Poison, Duration during these times are measured in minutes rather than ICs. For example, a Poison Severity 5, Duration 75 applied outside of combat lasts for 75 minutes, and every minute they would lose 5 Vitality or HP.
 
 #### Resisting Poison
 {:#resisting-poison}
@@ -978,7 +978,7 @@ Due to the care it takes to not poison yourself when throwing Shurikens and Kuna
 #### Resisting and Identifying Poisons
 {:#resisting-and-identifying-poisons}
 
-Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Ninja are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
+Overcoming Poisons isn’t simple, they’re kind of made to be deadly, but Hunter are known for being able to do the impossible. Having a supercharged immune system is the least of their talents. Whenever you have a Dose of Poison applied to you, you must roll Resistance against the Toxicology TN of the original creator.
 
 When you or someone else has been poisoned, it's possible to identify the venom just based on the symptoms. you can roll a Toxicology, or Medicine skill check (your preference) against the Poison’s Toxicology TN \-5. Success means you've identified the Poison and know its effects and can begin working on an Antidote so long as you have the proper Toolkit. Failure means, obviously, you do not. You cannot repeat this roll.
 
@@ -1151,7 +1151,7 @@ Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute mu
 # EQUIPMENT
 {:#equipment}
 
-*“A legendary shinobi with no wire, no medicine, and no plan is just a very expensive emergency.”*  
+*“A legendary hunters with no wire, no medicine, and no plan is just a very expensive emergency.”*  
 *— field requisitions officer*
 
 # Equipment Core Rules
@@ -1163,7 +1163,7 @@ Reduces a Victim’s Attribute by 10% to a max of 50%. The Specific Attribute mu
 ## Obtaining Equipment
 {:#obtaining-equipment}
 
-Ninjas in the Naruto universe have an advantage which real ninja lacked: namely, magical chakra-based powers that let them perform superhuman physical feats, stand on water, and breathe fire. Even so, a wise ninja, magical or not, will equip themselves with a wide variety of tools. True, you could create a thick bank of fog instead of throwing down a smoke bomb--but that smoke bomb's faster, and less taxing.
+Hunters in the Naruto universe have an advantage which real hunter lacked: namely, magical chakra-based powers that let them perform superhuman physical feats, stand on water, and breathe fire. Even so, a wise hunter, magical or not, will equip themselves with a wide variety of tools. True, you could create a thick bank of fog instead of throwing down a smoke bomb--but that smoke bomb's faster, and less taxing.
 
 Every piece of equipment has a cost in Ryo, the world's most commonly-used currency. You can get Ryo through missions, events, and on character creation where you have 50k to start out with.
 
@@ -1176,7 +1176,7 @@ Non-consumable items can be broken, destroyed, or lost, but usually aren't. Thes
 ## Restrictions
 {:#restrictions}
 
-While any ninja can pick up a common sword to wield items of higher power it takes a certain competence. As such the weapons and armor you can utilize are limited by your capabilities:
+While any hunter can pick up a common sword to wield items of higher power it takes a certain competence. As such the weapons and armor you can utilize are limited by your capabilities:
 
 Weapons: Cannot wield weapon with Artisan points more than Athletics \+10  
 Armor: Cannot wear armor with Artisan points more than Resistance \+10
@@ -1589,7 +1589,7 @@ Special: Ignore armor. Cannot be used in Multi Throw (See Abilities).
 #### Boomerang \[Blunt, Thrown, Projectile\]
 {:#boomerang-blunt-thrown-projectile}
 
-A mysterious weapon discovered in underground caves with proficient users seemingly always able to have it return to them. There has to be some ninja magic involved…probably.
+A mysterious weapon discovered in underground caves with proficient users seemingly always able to have it return to them. There has to be some hunter magic involved…probably.
 
 Cost: 2500  
 Speed: 10  
@@ -1630,7 +1630,7 @@ Cost: 2.5k Ryo
 #### Blood Increasing Pill
 {:#blood-increasing-pill}
 
-These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a ninja) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/50 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
+These pills contain a peculiar mix of chemicals that, when consumed by someone capable of using chakra (such as a hunter) will allow their body to rapidly replenish lost blood. When you take one of these pills you regain RES/50 HP (but not Vitality) each IC, for 50 IC. During this duration you take only one third damage from poison, and no damage from effects caused by bleeding (such as certain wounds). Using a Blood Pill is a Speed 10 action.
 
 Cost: 15k Ryo
 
@@ -1664,7 +1664,7 @@ Cost: 5k Ryo0
 #### Container, Large
 {:#container-large}
 
-A large gourd or other sort of container, several feet long and usually worn on the back. It's heavy and bulky, but not quite enough to restrict the mobility of a well-trained shinobi. It can hold up to 8 gallons of water, but you can only carry one with you (due to its size\!).
+A large gourd or other sort of container, several feet long and usually worn on the back. It's heavy and bulky, but not quite enough to restrict the mobility of a well-trained hunters. It can hold up to 8 gallons of water, but you can only carry one with you (due to its size\!).
 
 Cost: 15k Ryo0
 
@@ -1682,7 +1682,7 @@ Cost: 3k Ryo
 #### Ninja Wire
 {:#ninja-wire}
 
-High tension 16-gauge wire. It is generally only available in ninja villages, and comes in spools with various lengths of wire.
+High tension 16-gauge wire. It is generally only available in hunter villages, and comes in spools with various lengths of wire.
 
 Cost: 1k Ryo per 5 Yards.
 
@@ -1707,7 +1707,7 @@ Cost: 3k Ryo
 #### Soldier Pill
 {:#soldier-pill}
 
-The proper name is 'military ration pills', but the term soldier pill is more commonly used among shinobi. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
+The proper name is 'military ration pills', but the term soldier pill is more commonly used among hunters. They're less rations than fast-acting performance-enhancing drugs. Though every village has a slightly different recipe, the pills are all marble-sized and black or dark brown. When eaten, they have the approximate flavor and texture of sawdust.
 
 These pills are essentially just condensed stimulants and nutrients; taking one immediately lowers you a Fatigue category, and \+10 your next Chakra Exhaustion or Stamina roll. Doing so is a Speed 10 action in battle. You may only take one per battle, and no more than RES/50 per day.
 
@@ -1728,7 +1728,7 @@ Cost- 2.5k Ryo
 
 A map of a given country. It's usually a really, really good for
 
-at least one person on every ninja team to have a map of any
+at least one person on every hunter team to have a map of any
 
 country they expect to be going through. These have only
 
@@ -1769,7 +1769,7 @@ Cost: 4k Ryo0
 #### Flashlight
 {:#flashlight}
 
-Flashlights are popular because ninja like to be able to see in low-light environments\! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
+Flashlights are popular because hunter like to be able to see in low-light environments\! They're also useful because they can be turned off, or on, as needed. Quite handy for staying hidden when you hear unwanted company approaching.
 
 Flashlights have a battery life of about half an hour. A spare set of batteries (for another half hour of use) costs 500 Ryo.
 
@@ -1808,7 +1808,7 @@ Cost: 10k Ryo per tank5
 #### Camouflage Kit
 {:#camouflage-kit}
 
-Everything you need to blend in with the environment, like a truly sneaky ninja. These come in four flavors: forest/plains, desert, mountainous/rocky, and 'other' (covering anything not one of those). A kit may only be used in its corresponding environment.
+Everything you need to blend in with the environment, like a truly sneaky hunter. These come in four flavors: forest/plains, desert, mountainous/rocky, and 'other' (covering anything not one of those). A kit may only be used in its corresponding environment.
 
 Using a kit takes 15 minutes, and is enough to conceal a person at level 3 Stealth; the stealth roll is made after they're fully hidden. The exact contents are fairly nonspecific, but regardless, each kit is good for only one use.
 
@@ -1817,9 +1817,9 @@ Cost: 15k Ryo0
 #### Camera
 {:#camera}
 
-Cameras are rare devices, and ones suited for use by ninja even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
+Cameras are rare devices, and ones suited for use by hunter even more so. Styles vary, but they are all small, and usually handheld. However, they are large enough that they cannot be effectively concealed while in use. The exact designs may vary greatly, though Sunagakure is fond of a model worn like a circlet on the head, with the lens covering one eye.
 
-Most models include a flash that allows blurry pictures to be taken in the dark. Each image uses a single piece of film, acquired separately. Facilities to develop the film are rare, but exist in all major shinobi villages, along with trained staff who will do so overnight for urgent matters, or within a week for personal needs.
+Most models include a flash that allows blurry pictures to be taken in the dark. Each image uses a single piece of film, acquired separately. Facilities to develop the film are rare, but exist in all major hunters villages, along with trained staff who will do so overnight for urgent matters, or within a week for personal needs.
 
 Cost: 50k Ryo0
 
@@ -1835,7 +1835,7 @@ Cost: 5k Ryo
 
 A three- or four-pronged sturdy metal hook. The typical use is to attach it to the end of a rope then throw it over a wall, up a tree, or across a small chasm, and hope it catches on something (such as a piece of architecture, a branch, or an appropriately-shaped rock). The user then climbs the rope to get to their destination\!
 
-These see limited use among experienced ninja, who typically have ways of easily doing the same thing, but beginners often find them useful, and they can be situationally helpful even for more advanced shinobi.
+These see limited use among experienced hunter, who typically have ways of easily doing the same thing, but beginners often find them useful, and they can be situationally helpful even for more advanced hunters.
 
 Cost: 1.5k Ryo2
 
@@ -1849,7 +1849,7 @@ Cost: 10k Ryo per \+1
 #### Ninja Comm Device
 {:#ninja-comm-device}
 
-The pinnacle of technological advancement in the ninja world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to shinobi on missions.
+The pinnacle of technological advancement in the hunter world, these are small wireless radios. They're typically worn as headsets with an ear insert and a microphone held suspended near the wearer's mouth. Normal comm devices can be tuned to transmit and receive on any of a dozen frequencies by the user, allowing any set of devices to be synchronized with one another. Though each village also has a few sets of specially made comm devices built to operate on "secure" frequencies, these are not typically given to hunters on missions.
 
 Commonly used in missions that require precise coordination or infiltration, these always receive, and are touch-activated to broadcast. They have a range of half a mile.
 
@@ -1869,9 +1869,9 @@ Cost: 10k Ryo5
 ## Shinobi Pharmaceuticals
 {:#shinobi-pharmaceuticals}
 
-A soldier pill is not the only thing a modern shinobi can swallow before doing something regrettable.
+A soldier pill is not the only thing a modern hunters can swallow before doing something regrettable.
 
-Licensed clinics, field medics, black-market chemists, and village quartermasters sell combat pharmaceuticals across the shinobi world. Drugs are ordinary purchasable gear. You do not need a clan, Talent, or medical background to use one. The trade-off is simple: the body gets the bill later.
+Licensed clinics, field medics, black-market chemists, and village quartermasters sell combat pharmaceuticals across the hunters world. Drugs are ordinary purchasable gear. You do not need a clan, Talent, or medical background to use one. The trade-off is simple: the body gets the bill later.
 
 *“The label says 'do not combine with alcohol, genjutsu medication, or heroic self-confidence.' Nobody reads the third warning.”*  
 *— pharmacy clerk, Tanzaku Quarter*
