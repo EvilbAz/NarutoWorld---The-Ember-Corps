@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#0b0c0d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
-  <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ember.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <script>try{document.documentElement.dataset.theme=localStorage.getItem('ember-theme')||'dark'}catch(e){}</script>
@@ -61,7 +61,7 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://github.com/EvilbAz/NarutoWorld---The-Ember-Corps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
+    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a><a href="https://github.com/EvilbAz/NarutoWorld---The-Ember-Corps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
     <header class="topbar">
@@ -73,7 +73,7 @@
       {% if page.volume_slug %}
       <div class="rulebook-main">
         <div class="breadcrumbs"><a href="{{ '/' | relative_url }}">THE ARCHIVE</a><span>/</span><span>VOL. {{ page.volume }}</span></div>
-        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}The rules that keep you alive. Character creation, combat, wounds, downtime and advancement.{% when 'uniques' %}No two shinobi fight alike. Exceptional traits, gifts and upgrade paths.{% when 'clans' %}What survives in the blood. Lineages, heritages and forgotten techniques.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline. Browse complete schools of techniques in their own pages.{% else %}Volume IV · A complete technique school, from its rules to its highest ranks.{% endif %}{% when 'talents' %}The hunter you become. Capabilities, enhancements and rank benefits.{% when 'equipment' %}Steel is a survival skill. Weapons, tools, upgrades and crafting.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a></div></div>
+        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}Character creation and the rules of play.{% when 'uniques' %}Creation Uniques and their upgrade paths.{% when 'clans' %}Heritage rules, grouped by UP cost.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline to browse its techniques.{% else %}Techniques and rules for this discipline.{% endif %}{% when 'talents' %}Talent categories and rank benefits.{% when 'equipment' %}Weapons, equipment and crafting rules.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a><span class="meta-sep">·</span><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Discord rules updates ↗</a></div></div>
         {% if page.volume_slug == 'talents' %}
           <nav class="talent-tabbar" aria-label="Talent categories">
             {% for tab in site.data.talent_navigation.tabs %}

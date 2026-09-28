@@ -25,12 +25,6 @@
       "description": "Taming, training and commanding monsters; traits, damage, progression and rules."
     },
     {
-      "slug": "monster-species",
-      "title": "Monster Species",
-      "url": "/rules/talents/monster-species/",
-      "description": "Every standard Monster Species, its profile, unique traits and techniques."
-    },
-    {
       "slug": "rank-benefits",
       "title": "Rank Benefits",
       "url": "/rules/talents/rank-benefits/",

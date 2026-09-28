@@ -286,3 +286,34 @@ A Tamed Monster is a living creature, not equipment or a mind-controlled tool. O
 Rebellion occurs if you deliberately attack your own Tamed Monster, knowingly use it as a disposable suicide piece when a reasonable alternative exists, or knowingly violate its Temperament. Accidental friendly fire does not automatically cause Rebellion; intent and obvious disregard matter.
 
 On Rebellion, your monster withdraws into its Beast Seal or otherwise refuses to continue working with you, and cannot be fielded again until your next Week's Rest. Repeated or extreme mistreatment may have story consequences, but permanent loss of a paid Talent should only occur through an agreed story event or rebuild.
+
+
+<section class="jutsu-catalog monster-species-catalog" id="species">
+  <div class="jutsu-catalog-group">
+    <div class="jutsu-group-heading"><h2>CHOOSE YOUR SPECIES</h2><span>21 SPECIES</span></div>
+    <p class="monster-grid-intro">Open a species to see its profile, features, traits, techniques and temperament.</p>
+    <div class="jutsu-type-grid">
+      <a href="{{ '/rules/talents/monster-taming/bear/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Bear <span>↗</span></h3><p>Guardian / Grapple</p></a>
+      <a href="{{ '/rules/talents/monster-taming/beetle/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Beetle <span>↗</span></h3><p>Siege / Defence</p></a>
+      <a href="{{ '/rules/talents/monster-taming/boar/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Boar <span>↗</span></h3><p>Breach / Frontline</p></a>
+      <a href="{{ '/rules/talents/monster-taming/crab/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Crab <span>↗</span></h3><p>Defence / Grapple</p></a>
+      <a href="{{ '/rules/talents/monster-taming/crocodile/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Crocodile <span>↗</span></h3><p>Ambush / Grapple</p></a>
+      <a href="{{ '/rules/talents/monster-taming/elk/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Elk <span>↗</span></h3><p>Escort / Mobility</p></a>
+      <a href="{{ '/rules/talents/monster-taming/gorilla/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Gorilla <span>↗</span></h3><p>Grapple / Utility</p></a>
+      <a href="{{ '/rules/talents/monster-taming/hound/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Hound <span>↗</span></h3><p>Tracking / Teamwork</p></a>
+      <a href="{{ '/rules/talents/monster-taming/hyena/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Hyena <span>↗</span></h3><p>Pack Offence / Pursuit</p></a>
+      <a href="{{ '/rules/talents/monster-taming/jackal/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Jackal <span>↗</span></h3><p>Pursuit / Tracking</p></a>
+      <a href="{{ '/rules/talents/monster-taming/leech/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Leech <span>↗</span></h3><p>Sustain / Support</p></a>
+      <a href="{{ '/rules/talents/monster-taming/lynx/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Lynx <span>↗</span></h3><p>Reaction / Counterattack</p></a>
+      <a href="{{ '/rules/talents/monster-taming/mantis/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Mantis <span>↗</span></h3><p>Precision / Counter</p></a>
+      <a href="{{ '/rules/talents/monster-taming/moth/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Moth <span>↗</span></h3><p>Control / Scouting</p></a>
+      <a href="{{ '/rules/talents/monster-taming/panther/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Panther <span>↗</span></h3><p>Stealth / Assault</p></a>
+      <a href="{{ '/rules/talents/monster-taming/roc/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Roc <span>↗</span></h3><p>Mobility / Rescue</p></a>
+      <a href="{{ '/rules/talents/monster-taming/salamander/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Salamander <span>↗</span></h3><p>Control / Survival</p></a>
+      <a href="{{ '/rules/talents/monster-taming/scorpion/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Scorpion <span>↗</span></h3><p>Control / Poison</p></a>
+      <a href="{{ '/rules/talents/monster-taming/serpent/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Serpent <span>↗</span></h3><p>Control / Poison</p></a>
+      <a href="{{ '/rules/talents/monster-taming/tortoise/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Tortoise <span>↗</span></h3><p>Fortress / Protection</p></a>
+      <a href="{{ '/rules/talents/monster-taming/wyrm/' | relative_url }}" class="jutsu-type-card monster-species-card"><span class="jutsu-card-eyebrow">TAMED MONSTER / SPECIES</span><h3>Wyrm <span>↗</span></h3><p>Elemental / Bruiser</p></a>
+    </div>
+  </div>
+</section>

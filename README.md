@@ -10,16 +10,20 @@ The GitHub Pages site is published from the `main` branch at the repository root
 
 ## Rulebooks
 
-I. Core Rules — character creation, combat, wounds, downtime and advancement.
-II. Uniques — unique traits and upgrade paths.
-III. Clans & Lineages — heritages, clans and bloodlines.
-IV. Jutsu Compendium — techniques and supernatural systems.
-V. Talents & Rank Benefits — milestone talents and advancements.
-VI. Equipment & Crafting — weapons, tools and item crafting.
+I. Core Rules: character creation, combat, wounds, downtime and advancement.
+II. Uniques: unique traits and upgrade paths.
+III. Clans & Lineages: heritages, clans and bloodlines.
+IV. Jutsu Compendium: techniques and supernatural systems.
+V. Talents & Rank Benefits: milestone talents and advancements.
+VI. Equipment & Crafting: weapons, tools and item crafting.
 
 ## Publishing
 
 To publish: **Settings → Pages → Build and deployment → Deploy from a branch → main / (root) → Save**. Jekyll builds the Markdown in `rules/` and the repository root automatically. The website has a client-side search index; Talent categories and Jutsu schools each have their own pages.
+
+## Rules updates
+
+Approved rule changes are announced in [the Ember Corps Discord](https://discord.com/channels/1538632131402793080/1542862638663344289). This site has no separate changelog.
 
 ## Contributing
 

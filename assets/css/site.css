@@ -110,3 +110,11 @@
 .toc.talent-side-links a:hover,.toc.talent-side-links a.active{color:var(--gold);border-left-color:var(--deep-red);background:color-mix(in srgb,var(--deep-red) 11%,var(--side))}
 @media(max-width:900px){.talent-tabbar{top:62px}}
 @media(max-width:600px){.talent-tab{padding:10px 13px;font-size:11px}.prose table th,.prose table td{padding:8px 11px}}
+
+/* Species cards sit below the complete Monster Taming rules. */
+.monster-species-catalog{margin:65px 0 10px;scroll-margin-top:120px}
+.monster-grid-intro{color:var(--muted);font-size:13px;margin:-5px 0 24px}
+.monster-species-card{min-height:145px;background:linear-gradient(135deg,color-mix(in srgb,var(--green) 7%,var(--surface)),var(--surface))}
+.monster-species-card:hover{border-color:var(--green)}
+.monster-species-card .jutsu-card-eyebrow{color:var(--green)}
+.monster-species-card h3 span{color:var(--gold)}
