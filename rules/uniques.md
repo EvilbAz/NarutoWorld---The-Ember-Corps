@@ -6,9 +6,9 @@ volume_slug: "uniques"
 permalink: "/rules/uniques/"
 ---
 
-*Rare gifts, habits, talents, and training that make one shinobi different from another.*
+*Rare gifts, habits, talents, and training that make one hunters different from another.*
 
-*“Two ninja can learn the same technique. They should never feel like the same person.”*
+*“Two hunter can learn the same technique. They should never feel like the same person.”*
 
 | Volume | Book | Primary Use |
 | :---- | :---- | :---- |
@@ -22,7 +22,7 @@ permalink: "/rules/uniques/"
 # Uniques
 {:#uniques}
 
-Uniques are unusual talents, habits, gifts, and kinds of training that set one shinobi apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
+Uniques are unusual talents, habits, gifts, and kinds of training that set one hunters apart from another. They grant abilities and advantages that ordinary XP purchases usually cannot.
 
 At character creation you receive 6 Unique Points (UP). Heritage Cost from Volume III is paid from this same pool. Any UP you do not spend may be saved.
 
@@ -107,7 +107,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Genius
 {:#genius}
 
-*Ninja techniques make sense to you in a way they simply do not to most people. Reduce the XP cost of Jutsu you learn by 25%, rounded up. You may learn Jutsu one Rank higher than your normal Rank limit, but this never bypasses a Talent, Ability, Aptitude, Heritage, or technique-specific requirement.*
+*Hunter techniques make sense to you in a way they simply do not to most people. Reduce the XP cost of Jutsu you learn by 25%, rounded up. You may learn Jutsu one Rank higher than your normal Rank limit, but this never bypasses a Talent, Ability, Aptitude, Heritage, or technique-specific requirement.*
 
 *Additionally, you gain advantage (2d20kh1) when rolling to make any roll relating to learning new things.* 
 
@@ -123,7 +123,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Large
 {:#large}
 
-*You are bigger, heavier, or simply built on a scale most shinobi are not. Use STR/10  instead of STR/18 for Physical Damage Bonus. Physical Attacks gain \+1 yard Reach, add RES to maximum Vitality and maximum HP, and gain \+3 on Stamina rolls.*
+*You are bigger, heavier, or simply built on a scale most hunters are not. Use STR/10  instead of STR/18 for Physical Damage Bonus. Physical Attacks gain \+1 yard Reach, add RES to maximum Vitality and maximum HP, and gain \+3 on Stamina rolls.*
 
 *Attacks benefiting from this Unique have \+1 Base Speed, and gain 1 Delay.*
 
@@ -163,7 +163,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 
 *Incompatible With: Large*
 
-### Skilled Shinobi
+### Skilled Hunter
 {:#skilled-shinobi}
 
 *You are not necessarily the most dangerous person in the room, but there are very few situations where you have nothing useful to contribute. Gain additional Skill Points equal to total XP/75, rounded down, and increase the maximum rank of every Skill by XP/500 , minimum 0\.*
@@ -173,7 +173,7 @@ Unless an entry says otherwise, a Unique may be taken only once.
 ### Specialist
 {:#specialist}
 
-*You have chosen one part of shinobi combat and pushed it further than most people ever will. Choose Taijutsu, Ninjutsu, or Genjutsu as your Specialty. Choose one of the remaining two as your Incompetence.*
+*You have chosen one part of hunters combat and pushed it further than most people ever will. Choose Taijutsu, Ninjutsu, or Genjutsu as your Specialty. Choose one of the remaining two as your Incompetence.*
 
 *Taijutsu Specialty: \+2 Taijutsu Accuracy, \-2 Stamina cost with Taijutsu and Kenjutsu, minimum 1, and \+10% Final Damage with them.*
 
@@ -603,7 +603,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Alert
 {:#alert}
 
-*You notice the things other shinobi miss. Increase your maximum Awareness ranks by 2, gain \+3 Espionage when noticing concealment or deception, and treat your Blind Fighting and Keen Senses abilities as one rank higher than you actually possess, even above their normal limits. Search is Speed 3 for you.*
+*You notice the things other hunters miss. Increase your maximum Awareness ranks by 2, gain \+3 Espionage when noticing concealment or deception, and treat your Blind Fighting and Keen Senses abilities as one rank higher than you actually possess, even above their normal limits. Search is Speed 3 for you.*
 
 ### Blur
 {:#blur}
@@ -627,7 +627,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Elementally Gifted
 {:#elementally-gifted}
 
-*Elemental chakra came naturally to you long before it did to most shinobi. Choose one basic element. You may use it as though you possessed one rank of Elemental Aptitude without spending a rank, and Elemental Affinity may apply to that element in addition to its normal choice.*
+*Elemental chakra came naturally to you long before it did to most hunters. Choose one basic element. You may use it as though you possessed one rank of Elemental Aptitude without spending a rank, and Elemental Affinity may apply to that element in addition to its normal choice.*
 
 *Upgrades Into: Elementalist*
 
@@ -760,7 +760,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Boundless Chakra
 {:#boundless-chakra}
 
-*Your reserves are enormous even by shinobi standards. Gain \+3 on Chakra Exhaustion rolls. Whenever a Jutsu increases Chakra Exhaustion penalty, reduce that increase by 1, minimum 1 if it would increase at all. Reduce the Upkeep of Jutsu you personally maintain by 1\. When you Rest, reduce Chakra Exhaustion penalty by the same amount as Stamina Penalty.*
+*Your reserves are enormous even by hunters standards. Gain \+3 on Chakra Exhaustion rolls. Whenever a Jutsu increases Chakra Exhaustion penalty, reduce that increase by 1, minimum 1 if it would increase at all. Reduce the Upkeep of Jutsu you personally maintain by 1\. When you Rest, reduce Chakra Exhaustion penalty by the same amount as Stamina Penalty.*
 
 *Upgrades From: Expansive Chakra*
 
@@ -809,7 +809,7 @@ These Uniques require the listed Primary Heritage. They cost 1 UP, may only be t
 ### Elementalist
 {:#elementalist}
 
-*Most shinobi have one or two comfortable elements. You have several. Choose two basic elements; you may use them as if you possessed one rank of Elemental Aptitude, though these are not actual purchased ranks. Your Elemental Affinity may apply to every basic element you can use. Status Effects inflicted by your basic Elemental Ninjutsu increase by 1, or by 2 when applied through a Status roll.*
+*Most hunters have one or two comfortable elements. You have several. Choose two basic elements; you may use them as if you possessed one rank of Elemental Aptitude, though these are not actual purchased ranks. Your Elemental Affinity may apply to every basic element you can use. Status Effects inflicted by your basic Elemental Ninjutsu increase by 1, or by 2 when applied through a Status roll.*
 
 *Upgrades From: Elementally Gifted*
 
