@@ -4,7 +4,6 @@ title: "Core Rules"
 volume: "I"
 volume_slug: "core"
 permalink: "/rules/core/"
-source: "https://docs.google.com/document/d/1NKikBsaDeEMT8FzfCSq4mZWbbPoKngSdVZabfz9EfHI/edit"
 ---
 
 *Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime.*
