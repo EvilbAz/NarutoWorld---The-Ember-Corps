@@ -4,7 +4,6 @@ title: "Clans & Lineages"
 volume: "III"
 volume_slug: "clans"
 permalink: "/rules/clans/"
-source: "https://docs.google.com/document/d/1AOyLJXFfn0s8ltWXrDaZdwQYIYGEecDO2KiU8QtqDrw/edit"
 ---
 
 *“Blood remembers what the Chakra forgets”*
