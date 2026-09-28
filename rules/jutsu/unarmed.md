@@ -21,7 +21,7 @@ Not much to say here. You hit people with your fists, feet, and in all manner of
 #### Deashi Harai: Foot Sweep
 {:#deashi-harai-foot-sweep}
 
-You cause an opponent to fall down by knocking their legs out from under them. Calling it a 'technique' is misleadinKenjutsug, but there's more to unbalancing a ninja than just wanting to; it does take at least a little bit of training.
+You cause an opponent to fall down by knocking their legs out from under them. Calling it a 'technique' may sound generous, but there's more to unbalancing a ninja than simply wanting to; it takes timing, leverage and a little training.
 
 Stamina: 8  
 Speed: 4  
