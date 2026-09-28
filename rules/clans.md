@@ -3751,7 +3751,7 @@ Base Cost: 10
 
 Scale: 5
 
-Limit: 1 + DEX / 50, maximum 5
+Limit: 1 + AGI / 50, maximum 5
 
 **Effects**
 
