@@ -78,11 +78,59 @@ At character creation, choose no more than one Primary Heritage package from Vol
 ## Character Creation Modes
 {:#character-creation-modes}
 
-Choose **Standard Mode** or **Realistic Mode** when creating your Hunter. Both use the same starting XP, attributes, skills, six starting Unique Points, and heritage costs. The difference is how your Primary Heritage is selected.
+Choose **Standard Mode** or **Realistic Mode** when creating your Hunter. Unless stated otherwise, both modes use the normal starting XP, attributes, skills and 6 Unique Points.
 
-**Standard Mode:** Choose one Primary Heritage from the Heritage Cost Index in Volume III and pay its listed UP cost. You may describe mixed ancestry, but only your chosen Primary Heritage grants mechanical benefits.
+### Standard Mode
+{:#standard-mode}
 
-**Realistic Mode:** Roll a d100 on the Realistic Lineage table provided by the staff for the current campaign. The result determines your Primary Heritage; pay its listed UP cost from your six starting UP. The lineage roll does not grant a second heritage or bypass normal creation restrictions. If the table is not available, ask staff for the current table before rolling; do not substitute the Heritage Cost Index, which is not a probability table. A roll of 99 corresponds to Kaguya and 100 to Uchiha under the current Realistic Mode assignment.
+Choose one Primary Heritage from the Heritage Cost Index in Volume III and pay its listed UP cost. Mixed ancestry is valid for your character's story, but it does not grant a second set of heritage mechanics.
+
+### Realistic Mode
+{:#realistic-mode}
+
+Realistic Mode represents a Hunter whose inherited abilities are determined by chance rather than chosen. **Pay 1 additional UP** to enter Realistic Mode, then roll d100 to determine your Primary Heritage using the table below. Pay that heritage's normal UP cost separately from your remaining starting UP. You receive **+10% base XP** while playing in Realistic Mode. This modifies XP earned, not your starting XP or heritage cost.
+
+You may reroll the d100 lineage result any number of times without sacrificing XP; once you commit to a result, record it on your character sheet and use that heritage. A reroll replaces the earlier result rather than adding another heritage. Your rolled Primary Heritage follows all ordinary restrictions and prerequisites.
+
+#### Realistic Lineage Table
+{:#realistic-lineage-table}
+
+| d100 | Primary Heritage |
+| :--- | :--- |
+| 1–5 | Funato |
+| 6–10 | Shiin |
+| 11–15 | Ouyoku |
+| 16–20 | Karatachi Family |
+| 21–25 | Fūma |
+| 26–30 | Yotsuki |
+| 31–35 | Iburi |
+| 36–40 | Sarutobi |
+| 41–43 | Silverhand |
+| 44–46 | Kamizuru |
+| 47–49 | Hoshigaki |
+| 50–52 | Yamanaka |
+| 53–55 | Jinrō |
+| 56–58 | Jashin Worshipper |
+| 59–61 | Nara |
+| 62–64 | Samsara |
+| 65–67 | Hokori |
+| 68–70 | Akimichi |
+| 71–73 | Inuzuka |
+| 74–75 | Karashi (Puppets) |
+| 76–77 | Aburame |
+| 78–79 | Yōton |
+| 80–81 | Futton |
+| 82–83 | Shakuton |
+| 84–85 | Yuki |
+| 86–87 | Hōzuki |
+| 88–89 | Kazekage Clan / Jiton |
+| 90–91 | Jūgo's Bloodline |
+| 92–93 | Uzumaki |
+| 94–95 | Hyūga |
+| 96–97 | Senju |
+| 98 | Bakuton |
+| 99 | Kaguya |
+| 100 | Uchiha |
 
 ## Determine Attributes
 {:#determine-attributes}
