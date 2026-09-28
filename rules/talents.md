@@ -12,20 +12,6 @@ Milestone talents and rank benefits for long-term character growth.
 
 “Experience does not merely make a shinobi stronger. It changes what they are capable of becoming.”
 
-# Using the Split Reference Edition
-{:#using-the-split-reference-edition}
-
-This volume is designed to stand beside the other Ember Corps reference books. Rules have been divided by what players actually need to look up at the table. The Core Rules remain the shared engine; specialized volumes contain the options that sit on top of it.
-
-| Volume | Book | Primary Use |
-| --- | --- | --- |
-| I | Core Rules | Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime. |
-| II | Uniques | Character-defining traits, upgrade chains and expanded playstyle options. |
-| III | Clans & Lineages | The Five Great Villages, canon clans, bloodlines, traditions and rare paths. |
-| IV | Jutsu Compendium | Jutsu rules, techniques, Eight Gates, Shadow Clones, sealing, natural chakra and hyper elements. |
-| V | Talents & Rank Benefits | Milestone talents and rank benefits for long-term character growth. |
-| VI | Equipment & Crafting | Crafting, weapons, tools, pharmaceuticals and exploding tags. |
-
 # Talents & Rank Benefits
 {:#talents-rank-benefits}
 
