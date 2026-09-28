@@ -118,3 +118,7 @@
 .monster-species-card:hover{border-color:var(--green)}
 .monster-species-card .jutsu-card-eyebrow{color:var(--green)}
 .monster-species-card h3 span{color:var(--gold)}
+.monster-species-card{position:relative;padding-right:76px;overflow:hidden}
+.monster-species-card .species-emblem{position:absolute;right:15px;top:50%;transform:translateY(-50%);display:grid;place-items:center;width:48px;height:48px;border:1px solid color-mix(in srgb,var(--green) 30%,var(--line));border-radius:12px;background:color-mix(in srgb,var(--green) 9%,var(--surface));font-size:29px;line-height:1;filter:saturate(.85);transition:transform .2s ease,border-color .2s ease}
+.monster-species-card:hover .species-emblem{transform:translateY(-50%) scale(1.1);border-color:var(--green)}
+
