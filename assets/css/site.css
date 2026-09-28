@@ -201,3 +201,24 @@
 .jutsu-feral-grid .jutsu-type-card:nth-child(5) .feral-emblem{color:#8cb69f}
 .jutsu-feral-grid .jutsu-type-card:nth-child(6) .feral-emblem{color:#df6260}
 .jutsu-feral-grid .jutsu-type-card:nth-child(7) .feral-emblem{color:#c4b5ce}
+
+/* World archive: field reports, not another rules volume. */
+.lore-page{max-width:1000px;margin:0 auto;padding-bottom:70px}
+.lore-page .lead{max-width:690px}
+.lore-page h2{margin-top:64px;padding:12px 0;border-top:2px solid var(--accent);font-size:clamp(28px,4vw,42px);letter-spacing:-.02em}
+.lore-page h3{margin-top:27px;color:var(--accent2)}
+.lore-page p{line-height:1.75;max-width:770px}
+.lore-index{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:36px 0 42px}
+.lore-index a{padding:14px 12px;border:1px solid var(--line);background:var(--surface);color:var(--text);font-size:12px;font-weight:700;text-decoration:none}
+.lore-index a:hover{border-color:var(--accent);color:var(--accent)}
+.lore-dossiers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:24px 0}
+.lore-dossier{border:1px solid var(--line);border-top:3px solid var(--accent);background:var(--surface);padding:22px}
+.lore-dossier h3{margin:12px 0;color:var(--text)}
+.lore-dossier p{font-size:14px}
+.lore-stamp{font-size:10px;letter-spacing:1.4px;color:var(--green);font-weight:800}
+.lore-home-teaser{margin:35px auto;padding:42px;max-width:1200px;border-top:3px solid var(--accent);background:var(--surface2)}
+.lore-home-teaser>span{font-size:10px;letter-spacing:1.4px;color:var(--green);font-weight:800}
+.lore-home-teaser h2{font-size:clamp(32px,5vw,56px);line-height:1.02;margin:20px 0}
+.lore-home-teaser h2 em{color:var(--accent);font-style:normal}
+.lore-home-teaser p{max-width:520px;margin-bottom:22px}
+@media(max-width:720px){.lore-index{grid-template-columns:repeat(2,minmax(0,1fr))}.lore-dossiers{grid-template-columns:1fr}.lore-home-teaser{padding:24px}}
