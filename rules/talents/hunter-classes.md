@@ -5,7 +5,6 @@ volume: "V"
 volume_slug: "talents"
 talent_section: "hunter-classes"
 permalink: "/rules/talents/hunter-classes/"
-source: "https://docs.google.com/document/d/1EUCado_o-t1zSvkNlRH-QiVUENK8lYeHbKvKbYfOfzU/edit"
 ---
 
 ## Class Benefits
