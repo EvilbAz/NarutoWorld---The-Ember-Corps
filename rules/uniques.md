@@ -4,7 +4,6 @@ title: "Uniques"
 volume: "II"
 volume_slug: "uniques"
 permalink: "/rules/uniques/"
-source: "https://docs.google.com/document/d/1Xh3161iawU5ZWcH5-ozFaHV3EZW5oPoYkgH8qGpoOpk/edit"
 ---
 
 *Rare gifts, habits, talents, and training that make one shinobi different from another.*
