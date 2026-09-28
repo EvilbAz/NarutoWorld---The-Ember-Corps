@@ -5,7 +5,6 @@ volume: "V"
 volume_slug: "talents"
 talent_section: "monster-taming"
 permalink: "/rules/talents/monster-taming/"
-source: "https://docs.google.com/document/d/1EUCado_o-t1zSvkNlRH-QiVUENK8lYeHbKvKbYfOfzU/edit"
 ---
 
 <span id="monster-taming"></span>
