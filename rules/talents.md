@@ -5,7 +5,6 @@ volume: "V"
 volume_slug: "talents"
 talent_section: "overview"
 permalink: "/rules/talents/"
-source: "https://docs.google.com/document/d/1EUCado_o-t1zSvkNlRH-QiVUENK8lYeHbKvKbYfOfzU/edit"
 ---
 
 Milestone talents and rank benefits for long-term character growth.
