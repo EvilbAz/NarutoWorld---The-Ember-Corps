@@ -19,7 +19,7 @@ if(rule){
  const clans=heads.filter(h=>h.tagName==='H1');
  const side=$('#toc'),rail=$('#rail-toc');
  const render=(dest,items)=>{if(!dest)return;dest.innerHTML=items.map(h=>'<a href="#'+encodeURIComponent(h.id)+'" class="depth-'+(h.tagName==='H1'?1:2)+'">'+escape(h.textContent.trim())+'</a>').join('')};
- if(!isJutsu && !isClans && !isTalents)render(side,primary.slice(0,120));
+ if(!isJutsu && !isClans && !isTalents && document.body.dataset.volume!=='core')render(side,primary.slice(0,120));
  if(isJutsuIndex)render(rail,primary.slice(0,42));
  else if(isJutsu)render(rail,primary.slice(0,42));
  else if(isClans && side && rail)rail.innerHTML=side.innerHTML;
@@ -27,6 +27,8 @@ if(rule){
  else render(rail,primary.slice(0,42));
  if(rail && !rail.querySelector('a'))rail.closest('.reading-rail')?.remove();
  const observed=isClans?clans:primary;
+ const coreLinks=$('.core-side-links a');
+ if(coreLinks.length){const markCore=()=>{const hash=decodeURIComponent(location.hash.slice(1));coreLinks.forEach(a=>a.classList.toggle('active',a.hash.slice(1)===hash))};window.addEventListener('hashchange',markCore);markCore()}
  if('IntersectionObserver' in window){
   const observer=new IntersectionObserver(items=>{const entry=items.filter(i=>i.isIntersecting).sort((a,b)=>a.boundingClientRect.top-b.boundingClientRect.top)[0];if(!entry)return;const id=entry.target.id;$$('.clan-toc a,#rail-toc a').forEach(a=>a.classList.toggle('active',decodeURIComponent((a.getAttribute('href')||'').slice(1))===id))},{rootMargin:'-95px 0px -70% 0px'});
   observed.forEach(h=>observer.observe(h));
