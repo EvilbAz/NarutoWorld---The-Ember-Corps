@@ -2801,7 +2801,7 @@ A Ballistic Weapon is a ranged Weapon. It uses the normal Attack and ranged-defe
 
 **Corps Firepower:** Increase the Final Damage of every damaging Ballistic Attack you make by **40%**. Calculate the Attack normally, including its Frame, BDB, Burst or Full Auto, Ballistic Arts, Modifications and ammunition; apply this bonus **once**, after those damage modifiers. Round using the normal Final Damage rules. This bonus also applies to delayed damage from your Sticky Loads, even though Sticky damage does not add BDB. It does not increase Wounding chance, the number of hits, damage from non-Ballistic attacks, or the fixed effects of Tracking Dye and other non-damaging Loads. If an Attack deals additional damage to Armor Durability, physical Barriers, objects or destructible monster parts, calculate that target-specific damage normally and then apply Corps Firepower once. The bonus does not multiply itself when an Attack qualifies through more than one Ballistic feature.
 
-When making an attack of any type with a Ballistic Weapon, instead of using a base Accuracy result, you roll a 1d20, and add your relevant Accuracy modifier to it, not including your Base 10\. If you use your DEX for your BDB, use your Taijutsu Accuracy, if you use your CHa for your BDB, use your Ninjutsu Accuracy.
+When making an attack of any type with a Ballistic Weapon, instead of using a base Accuracy result, you roll a 1d20, and add your relevant Accuracy modifier to it, not including your Base 10\. If you use your DEX for your BDB, use your Taijutsu Accuracy, if you use your CHA for your BDB, use your Ninjutsu Accuracy.
 
 Ballistic Weapons cannot Parry ranged attacks. They may Parry Melee Weapon or Melee Unarmed attacks using their listed Parry modifier.
 
