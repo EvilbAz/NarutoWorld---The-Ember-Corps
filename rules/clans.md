@@ -2811,6 +2811,11 @@ Ballistic Attacks are still subject to the normal ranged-defense rules. A bullet
 
 Ballistic Arts are exclusive Ballistic Corps Weapon Jutsu. For requirements, XP costs and effects that care about Jutsu type, they count as Bukijutsu. Unless a technique says otherwise, a Ballistic Art requires a Ballistic Weapon and cannot be used with an ordinary weapon.
 
+### Omnidirectional Fire
+{:#omnidirectional-fire}
+
+Ballistic Corps Hunters are trained to fire while advancing, retreating, strafing or turning. **Every Attack made with a Ballistic Weapon is Omnidirectional**, including normal Attacks, Burst, Full Auto and Ballistic Arts. You may declare these Attacks in any direction regardless of the direction you are moving or facing. This does not grant additional movement, extend Range, bypass cover or line of sight, remove the requirements of a technique, or prevent movement from breaking Braced or Aim.
+
 ### The Hunter Arm
 {:#the-hunter-arm}
 
@@ -3736,6 +3741,19 @@ Skirmisher \- After you use Reposition, your next Ballistic Attack before the en
 Marksman \- Aim has Speed 4 instead of 5\. An Attack that consumes your Aim bonus also gains \+5% Wounding.
 
 Artillery \- Brace has Speed 3 instead of 5\. Forced movement of less than 3 yards does not remove Braced from you, although a Siege Attack is still cancelled if you are moved before it resolves.
+
+### Fighting Withdrawal
+{:#fighting-withdrawal}
+
+Type: Ability
+
+Cost: 10
+
+Limit: 1
+
+**Effects**
+
+You gain **+2 yards of Movement** whenever you move directly backwards, away from a creature you can see, while wielding a Ballistic Weapon. This applies to ordinary Movement and to movement granted by Reposition or Recoil Step. The bonus applies once per movement, not per yard or per creature, and only to the portion of movement spent retreating; you cannot use it to move farther sideways or towards a target. It does not grant movement when you would otherwise move 0 yards, allow you to exceed an effect's explicit maximum movement distance, ignore obstacles or hazards, or preserve Braced or Aim when movement would normally end them. Heavy and Siege weapons still cannot use Reposition.
 
 ### Ammunition Savant
 {:#ammunition-savant}
