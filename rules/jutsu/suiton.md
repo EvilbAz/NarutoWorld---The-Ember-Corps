@@ -409,7 +409,8 @@ A target uses one Defensive Interrupt but rolls separately against each shark. C
 
 A thin, high-pressure stream turns water into a cutting tool.
 
-Chakra:Damage: 32d10+10  
+Chakra: 32  
+Damage: 32d10+10  
 Accuracy: \+1  
 Range: 20  
 Speed: 14  
