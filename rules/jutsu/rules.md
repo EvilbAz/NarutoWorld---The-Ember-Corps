@@ -377,80 +377,21 @@ B: 20 Chakra Control, 25 Medicine, Advanced Medical Training (ability)
 A: 30 Chakra Control, 35 Medicine, Advanced Medical Training (ability)
 
 
-# Summoning Contracts
-{:#summoning-contracts}
+# Monster Summoning
+{:#monster-summoning}
 
-A Summoning Contract is a pact between a shinobi and an independent tribe of chakra-bearing creatures. A summoned creature is a temporary ally with its own will, not a Tamed Monster, Puppet, clone or piece of equipment. Each contract grants access to its tribe's approved roster of Summons and Contract Techniques. A tribe's published profile takes precedence over the general rules below wherever it explicitly provides an exception.
+Monster Summoning allows a Hunter to call a trained creature into battle through a prepared Beast Seal. Summoned monsters use the [Monster Taming rules]({{ '/rules/talents/monster-taming/' | relative_url }}), including their species profiles, Growth Ranks, Traits, Species Features, Monster Techniques, Command AP, recovery and temperament. The full [21-species directory]({{ '/rules/talents/monster-taming/#species' | relative_url }}) contains the available creatures.
 
-## Signing a Contract
-{:#signing-a-contract}
+## Acquiring a Monster
+{:#acquiring-a-monster}
 
-To sign a contract, obtain access to a tribe through a mission, an established summoner, a mentor, or another approved in-character encounter. The tribe must accept you; possession of a scroll alone does not compel its creatures to serve. A character normally maintains **one Summoning Contract**. An additional contract requires an ability or Talent that explicitly permits it. Signing a contract does not grant free techniques, bypass XP requirements or provide automatic access to every member of the tribe.
+Monster Taming is a Capability Talent. Choose a Standard Species and acquire a named monster through an appropriate in-character source, such as capture, breeding, rescue, inheritance, purchase or a mission reward. Your Core Talent grants the species' Core Instinct and access to Beast Seal: Release without its usual rank requirement. Monster Taming Developments unlock additional Species Features, Monster Techniques and Tamer Developments.
 
-Record your tribe and the individual Summons that have accepted you. You may learn the contract's techniques and gain access to its stronger creatures when you meet their published requirements. A tribe without a published roster may use the Standard Contract Framework below with staff approval; a custom technique, avatar or unusual species feature requires its own written profile before use.
+## Summoning and Commands
+{:#summoning-and-commands}
 
-## Standard Contract Framework
-{:#standard-contract-framework}
+Use **Beast Seal: Release** to deploy your Tamed Monster. Its normal costs and restrictions apply unless modified by a Monster Taming Development such as Quick Release. Your monster acts on its own IC track: Basic Attacks and Independent Actions do not spend your AP, while Monster Techniques spend Command AP from your pool, modified by the species' Agility and any applicable Tamer Developments.
 
-A standard contract uses one of the **21 Standard Species** in the [Monster Taming directory]({{ '/rules/talents/monster-taming/#species' | relative_url }}) as its mechanical species profile. This provides its Toughness, Aggression, Defence, Agility, basic attack, species features, traits and techniques. The contract may describe a distinct clan, culture, appearance or personality without changing those statistics. The Summon is still an independent summoned ally; acquiring a contract does not grant the Monster Taming Talent, Beast Seal or any Tamer Developments.
-
-For each individual Summon, record its name, species, temperament, unlocked traits and techniques. Its **Growth Rank** is determined by your Total XP: Rank 1 at 1,000 XP, Rank 2 at 1,500 XP, Rank 3 at 2,000 XP, and one additional Rank every 500 XP thereafter. It gains one species Trait at each Growth Rank. Its available species features and techniques are determined by the access tier below, not by Monster Taming Developments.
-
-| Contract Access | Requirement | Available Species Features | Available Monster Techniques |
-| :--- | :--- | :--- | :--- |
-| Initiate | Signed contract | Core Instinct | Basic Attack only |
-| Trusted | 1,500 Total XP | Core and Lesser | First |
-| Veteran | 2,000 Total XP | Through Greater | First and second |
-| Elite | 2,500 Total XP | Through Elite | First three |
-| Elder | 3,000 Total XP | All five | All four |
-
-These are access ceilings, not automatic friendships. A tribe can refuse to introduce a particular individual or withhold a named Elder until the summoner earns its trust in-character. A published tribe may also impose higher requirements. Access never grants a species feature or technique beyond the Summon's current tier.
-
-## Summoning a Creature
-{:#summoning-a-creature}
-
-**Kuchiyose — Summoning Technique**  
-Rank: C · Type: Ninjutsu, General, Summoning · Chakra: 30 · Speed: 15 · Seal Speed: 15 · Range: Self
-
-Requirements: A signed Summoning Contract and a named Summon that has agreed to answer your call.
-
-You summon that creature to an unoccupied space within 3 yards that can physically accommodate it. The creature enters the battle with its own position, Initiative, Vitality and IC track, using the standard profile for its species. Its first normal Action occurs **10 IC after appearing**. It may take no Action before then, except an explicitly permitted defensive Interrupt. The creature acts independently on its own IC track and may be directed using the Command rules below.
-
-You may have **one contracted Summon active at a time**. Calling a different one dismisses the first immediately. A Summon remains until dismissed, defeated, incapacitated, or the end of the scene, whichever occurs first. You may dismiss your own Summon as a Speed 0 Action. A creature can also leave of its own accord. Summoning is not teleportation for the summoner and does not let the Summon transport creatures or equipment beyond what its profile explicitly permits.
-
-## Commands and Actions
-{:#summon-commands-and-actions}
-
-A Summon uses the standard species rules for its attacks, defences, movement, Initiative, Vitality and IC track. Its Basic Attack and unlocked Independent Actions do not spend your AP. An unlocked Monster Technique costs **Command AP from your own AP pool**, applying the species' Agility modifier under the Monster Taming Command AP rules. You may issue a simple instruction when calling a Summon or communicate one during the scene when the creature can perceive you. Paying Command AP does not consume a separate Action or change your Initiative.
-
-The Summon chooses how to carry out an instruction and may refuse a command that violates its temperament, endangers its tribe, or is plainly suicidal. It cannot use your Jutsu, equipment, Talents, Uniques or Clan abilities unless its own published profile specifically grants access. A Summon does not inherit your buffs, wounds or conditions when called.
-
-## Contract Techniques
-{:#contract-techniques}
-
-Contract Techniques summon a creature or group for **one specified effect**, then dismiss them as part of that technique. They are learned and paid for as individual Jutsu, with the rank, XP cost, Chakra, Speed, Seal Speed, range, damage and any status rolls listed on their published entries. A signed contract is a prerequisite, not a substitute for learning the technique. A Contract Technique does not use your active Summon slot unless it explicitly says so.
-
-The standard contract provides Kuchiyose and the species-based Summon framework above. It does **not** automatically grant bespoke offensive, defensive or utility Contract Techniques; those must have approved written Jutsu entries. A Contract Technique cannot be improvised by treating a Summon's unlocked Monster Techniques as your own Jutsu.
-
-## Defeat, Recovery and Availability
-{:#summon-recovery}
-
-A Summon reduced to 0 Vitality or otherwise defeated returns to its tribe immediately. It cannot be called again during that scene. Its injuries and recovery follow the ordinary creature rules, with any lasting narrative consequences handled through the contract's story. A creature voluntarily dismissed while conscious may be called again in a later scene, but no individual Summon may be called **more than once in the same battle**. Summoning a creature does not restore its spent resources or remove conditions already suffered during that scene.
-
-Contract Techniques that call unnamed creatures follow their printed use limits rather than the named Summon's recovery restriction. You cannot evade a named Summon's restriction by renaming it or claiming to call an identical copy.
-
-## Conduct and Breach of Contract
-{:#breach-of-contract}
-
-Summons are allies, not expendable ammunition. Deliberately attacking your own Summon, knowingly sacrificing it when a reasonable alternative exists, repeatedly disregarding its stated temperament, or openly abusing it constitutes a breach. Accidental friendly fire is not automatically a breach, but deliberate or reckless harm can be.
-
-When a breach occurs, the affected Summon immediately leaves and the **entire contract is suspended until your next Week's Rest**. You cannot summon that tribe or use its Contract Techniques while suspended. Repeated or severe breaches may require an in-character reconciliation with the tribe before the contract is restored. A contract cannot be permanently removed solely through an unannounced mechanical penalty; permanent severance requires an agreed story outcome or rebuild.
-
-A Summon will not directly attack another recognized holder of its own contract unless its published tribe profile explicitly permits it. Contract Techniques that produce a momentary effect may still be used against another holder unless the technique states otherwise.
-
-## Avatars and Exceptional Summons
-{:#avatars-and-exceptional-summons}
-
-An Avatar is an exceptional named representative of a tribe, beyond the Standard Contract Framework. It requires a separate published profile specifying its requirements, statistics, Actions, costs and availability. An Avatar is never unlocked automatically by Total XP or access tier. A GM must be present whenever an Avatar is summoned and controls its response to the request. A signed contract grants the right to ask for its help, not the right to command it.
+Your monster is a separate creature with its own position, Vitality, Initiative and conditions. Follow the Monster Taming rules for its deployment, defeat, recovery, temperament and rebellion. Monster Summoning does not grant an additional creature, an independent Summoning Contract, or techniques outside the Monster Taming progression.
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
