@@ -380,7 +380,10 @@ A: 30 Chakra Control, 35 Medicine, Advanced Medical Training (ability)
 # Summoning Contracts
 {:#summoning-contracts}
 
-*[Illustration in the source Google Doc]*
+Summoning Contracts are pacts with an independent Summon Tribe. A contracted summon is an ally called through summoning ninjutsu, not a Tamed Monster, Puppet or permanent piece of equipment. Its tribe, available techniques and progression are determined by its approved contract profile.
 
+**Contract profiles are not yet published in this rulebook.** Until an approved Summoning Contract and its techniques are added to the website, a player cannot purchase or field an unspecified contract using rules from an older edition. Staff may approve a contract for a campaign, but its written profile must specify how it is acquired, which creatures it calls, its progression and its combat actions before play.
+
+If you want a permanent animal companion with fully published rules, see [Monster Taming]({{ '/rules/talents/monster-taming/' | relative_url }}) and its [21 Standard Species]({{ '/rules/talents/monster-taming/#species' | relative_url }}). Monster Taming is a separate Talent and does not itself grant a Summoning Contract.
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
