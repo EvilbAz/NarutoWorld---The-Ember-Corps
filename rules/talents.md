@@ -9,7 +9,7 @@ permalink: "/rules/talents/"
 
 Milestone talents and rank benefits for long-term character growth.
 
-“Experience does not merely make a shinobi stronger. It changes what they are capable of becoming.”
+“Experience does not merely make a hunters stronger. It changes what they are capable of becoming.”
 
 # Talents & Rank Benefits
 {:#talents-rank-benefits}
@@ -20,9 +20,9 @@ Milestone talents and rank benefits for long-term character growth.
 ### Introduction
 {:#introduction}
 
-Talents are things which differentiate your character from the rank-and-file ninja. Jutsu, skills, and abilities are all things which are fairly common. True, most ninja won't know A ranked Suiton jutsu--but knowing them is less a sign that one is "special", and more an indication that you're an advanced ninja.
+Talents are things which differentiate your character from the rank-and-file hunter. Jutsu, skills, and abilities are all things which are fairly common. True, most hunter won't know A ranked Suiton jutsu--but knowing them is less a sign that one is "special", and more an indication that you're an advanced hunter.
 
-Talents are somewhere between uniques and abilities. They're not fundamental aspects of your character--they're things you've learned or developed over time that are genuinely hard to come by in an average shinobi.
+Talents are somewhere between uniques and abilities. They're not fundamental aspects of your character--they're things you've learned or developed over time that are genuinely hard to come by in an average hunters.
 
 Talents are a way of gaining rare, exclusive abilities for your character. They do not cost XP.
 
