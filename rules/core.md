@@ -74,7 +74,16 @@ At character creation, choose no more than one Primary Heritage package from Vol
 
 **Choose Uniques**
 
- Uniques are, as the name implies, unique aspects of your character that give them an edge in life. A new character begins with 5 Unique Points (UP) to spend, though some clans start with one less due to the power of their techniques. UP can be spent at nearly any time\*, though Creation Uniques can only be gained at Character Creation. Uniques are covered in greater detail in the Uniques chapter.
+ Uniques are, as the name implies, unique aspects of your character that give them an edge in life. A new character begins with 6 Unique Points (UP). Pay your Primary Heritage's UP cost from this pool; the remaining points may be spent on Uniques. UP can be spent at nearly any time\*, though Creation Uniques can only be gained at Character Creation. Uniques are covered in greater detail in the Uniques chapter.
+
+## Character Creation Modes
+{:#character-creation-modes}
+
+Choose **Standard Mode** or **Realistic Mode** when creating your Hunter. Both use the same starting XP, attributes, skills, six starting Unique Points, and heritage costs. The difference is how your Primary Heritage is selected.
+
+**Standard Mode:** Choose one Primary Heritage from the Heritage Cost Index in Volume III and pay its listed UP cost. You may describe mixed ancestry, but only your chosen Primary Heritage grants mechanical benefits.
+
+**Realistic Mode:** Roll a d100 on the Realistic Lineage table provided by the staff for the current campaign. The result determines your Primary Heritage; pay its listed UP cost from your six starting UP. The lineage roll does not grant a second heritage or bypass normal creation restrictions. If the table is not available, ask staff for the current table before rolling; do not substitute the Heritage Cost Index, which is not a probability table. A roll of 99 corresponds to Kaguya and 100 to Uchiha under the current Realistic Mode assignment.
 
 ## Determine Attributes
 {:#determine-attributes}
