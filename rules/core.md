@@ -8,7 +8,7 @@ permalink: "/rules/core/"
 
 *Character creation, attributes, skills, advancement, abilities, combat, wounds and downtime.*
 
-*“A shinobi survives by understanding the rules well enough to know when they can be broken.”*
+*“A hunters survives by understanding the rules well enough to know when they can be broken.”*
 
 | Volume | Book | Primary Use |
 | :---- | :---- | :---- |
@@ -37,11 +37,11 @@ The land between Havens is claimed by predators, migrating herds, raider gangs, 
 
 Every player character begins in Haven Ember, one of the larger independent settlements surviving beyond the direct rule of any major power. Several thousand people live around an old underground water system and the remains of a pre-Fall transport hub. Scrap-built outer districts surround older inner walls reinforced with sealing arrays recovered and repaired over generations.
 
-Ember has farms, workshops, clinics, markets, shrines, garages, training yards, a monster-processing hall, and more people than its current resources comfortably support. Its greatest advantage is a large, organised shinobi corps willing to take anyone useful enough to help keep the settlement alive.
+Ember has farms, workshops, clinics, markets, shrines, garages, training yards, a monster-processing hall, and more people than its current resources comfortably support. Its greatest advantage is a large, organised hunters corps willing to take anyone useful enough to help keep the settlement alive.
 
 **The Ember Corps**
 
-Every player character belongs to the wider Ember Corps. The Corps is not a standing army in the old sense. It is a loose network of hunters, scouts, medics, salvagers, couriers, guides, researchers, mechanics, negotiators, and combat shinobi who form temporary crews for specific jobs.
+Every player character belongs to the wider Ember Corps. The Corps is not a standing army in the old sense. It is a loose network of hunters, scouts, medics, salvagers, couriers, guides, researchers, mechanics, negotiators, and combat hunters who form temporary crews for specific jobs.
 
 A mission is posted. A crew forms from whoever is available and suited to the work. They leave Ember, handle the problem, and return with whatever they managed to save, learn, recover, kill, or accidentally make worse. The next mission may have a completely different team.
 
@@ -149,27 +149,27 @@ A new character gains Skill Points from their Total XP using the normal progress
 
 With your uniques, starting attributes, and skills decided, it's time to spend your XP\! XP can be used to learn new Jutsu and abilities, and to increase your attributes\! These options are further explained in their respective chapters.
 
-Novice Ninja often learn the E-Rank Ninjutsu techniques Kawarimi, Henge, and Bunshin before their graduation to Genin. These are not mandatory, but they can be very useful. A rank in the Elemental Aptitude ability (detailed in the Chakra Abilities chapter) can also be useful.
+Novice Hunter often learn the E-Rank Ninjutsu techniques Kawarimi, Henge, and Bunshin during their initial training. These are not mandatory, but they can be very useful. A rank in the Elemental Aptitude ability (detailed in the Chakra Abilities chapter) can also be useful.
 
 Suggestions aside, you may spend your XP on whatever you feel makes most sense for your character.
 
 ## Jutsu
 {:#jutsu}
 
-The core of a ninja's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person.
+The core of a hunter's supernatural capabilities comes from their jutsu--meaning, literally, techniques. These use chakra, either projected outwards or used to amplify one's physical performance, to perform feats that would be literally impossible for a normal person.
 
 These are divided into three broad categories: taijutsu, ninjutsu, and genjutsu.
 
-Taijutsu, or body techniques, use the chakra flowing throughout a ninja's body to give them the exceptional speed or strength needed to perform the techniques. They are mostly physical attacks. This includes both unarmed combat, and weapon techniques.
+Taijutsu, or body techniques, use the chakra flowing throughout a hunter's body to give them the exceptional speed or strength needed to perform the techniques. They are mostly physical attacks. This includes both unarmed combat, and weapon techniques.
 
-Ninjutsu, or ninja techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.
+Ninjutsu, or chakra techniques, use chakra to accomplish what those unfamiliar with them might call magic. These effects range from changing one's appearance to projecting balls of flame, to summoning water from thin air, to healing grievous injuries.
 
 Genjutsu, or illusion techniques, use chakra to either construct illusions in the environment or to directly affect an enemy's mind and confuse their senses. Of the three, they are the most difficult to learn.
 
 ## Abilities
 {:#abilities}
 
-Abilities represent the fruits of your character's training, and the ways in which they've developed as a shinobi. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
+Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunters. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
 Abilities are more specific than skills; they differ from jutsu in that while a jutsu is a specific technique, any ability is a way of doing something or a permanent increase in your capabilities.
 
 Most abilities are passive improvements, giving you new capabilities or making you able to do a certain thing better.  
@@ -209,17 +209,17 @@ Unique Points, Experience Points, and Skill Points cannot be spent during combat
 {:#primary-stats}
 
 Attributes (also commonly referred to as statistics, or 'stats' for short) are numerical representations of your character's overall physical condition: how strong they are, how fast they are, and so forth. They are the baseline for determining performance.  
-The five primary attributes make up, in game terms, the core of a character's capabilities. Baseline 'normal human' stats are around 20\. Ninja characters will quickly exceed these numbers. This is a result of them learning to harness the chakra in their body, and benefiting from the symbiotic relationship that chakra has with their body.
+The five primary attributes make up, in game terms, the core of a character's capabilities. Baseline 'normal human' stats are around 20\. Hunter characters will quickly exceed these numbers. This is a result of them learning to harness the chakra in their body, and benefiting from the symbiotic relationship that chakra has with their body.
 
 Strength (STR)  
-Strength is a measurement of your ability to exert physical force on the world around you. Exceptionally strong people may be correspondingly muscular, though ninja have developed many training methods which leave them deceptively lean.
+Strength is a measurement of your ability to exert physical force on the world around you. Exceptionally strong people may be correspondingly muscular, though hunter have developed many training methods which leave them deceptively lean.
 
 - Your physical damage bonus is STR/18.
 
 - Your Vitality is (RES\*6 \+ STR\*3)
 
 Resilience (RES)  
-This is your body's ability to endure hardship without suffering from debilitating injuries. Many ninja believe that it's best to avoid being hit entirely... but nobody will say that not being able to take a blow is a good thing. 
+This is your body's ability to endure hardship without suffering from debilitating injuries. Many hunter believe that it's best to avoid being hit entirely... but nobody will say that not being able to take a blow is a good thing. 
 
 - Your Vitality is (RES\*6 \+ STR\*3)
 
@@ -228,14 +228,14 @@ This is your body's ability to endure hardship without suffering from debilitati
 - You add 1 \+ RES/12 to your Stamina rolls
 
 Chakra (CHA)  
-Every ninja is fueled by chakra, a mystical force that suffuses the world and fills the bodies of all living things, much like 'ki' in certain belief systems. This stat measures both your reserves of raw chakra and your ability to harness them.
+Every hunter is fueled by chakra, a mystical force that suffuses the world and fills the bodies of all living things, much like 'ki' in certain belief systems. This stat measures both your reserves of raw chakra and your ability to harness them.
 
 - Your ninjutsu damage bonus is CHA/18.
 
 - You add 1 \+ CHA/12 to your Chakra Exhaustion rolls.
 
 Dexterity (DEX)  
-Representing your deftness, precision, and ability to quickly respond to changes in your environment, dexterity is very important in combat, as it is what enables you to actually hit things that are moving (such as other ninja).
+Representing your deftness, precision, and ability to quickly respond to changes in your environment, dexterity is very important in combat, as it is what enables you to actually hit things that are moving (such as other hunter).
 
 - Your base Accuracy bonus is DEX/10.
 
@@ -287,7 +287,7 @@ Despite the name, Infamy is not a measure of morality. A celebrated hero, feared
 
 A character with little Infamy can travel without attracting much attention. As Infamy increases, their name may precede them. Hunters may recognize their accomplishments, enemies may know their preferred techniques, merchants may have heard stories about them, and distant settlements may already have opinions about them before they arrive.
 
-Infamy is not a measure of combat power. An extremely dangerous shinobi may remain largely unknown, while someone considerably weaker may become famous through spectacle, politics, lineage, public victories, or particularly memorable actions.
+Infamy is not a measure of combat power. An extremely dangerous hunters may remain largely unknown, while someone considerably weaker may become famous through spectacle, politics, lineage, public victories, or particularly memorable actions.
 
 ### Gaining Infamy
 {:#gaining-infamy}
@@ -315,7 +315,7 @@ You are largely another face in the crowd. People within your immediate communit
 
 **6–15 — Recognized**
 
-You have begun building a local reputation. Other Hunters, shinobi, merchants, or travellers around Haven Ember may recognize your name or remember something you have done.
+You have begun building a local reputation. Other Hunters, hunters, merchants, or travellers around Haven Ember may recognize your name or remember something you have done.
 
 **16–30 — Notable**
 
@@ -327,7 +327,7 @@ Your name carries weight. People who have never met you may know your reputation
 
 **51–70 — Renowned**
 
-You are well known throughout large portions of the world accessible to travellers. Experienced Hunters and shinobi may recognize you immediately and may already have an idea of what you are capable of.
+You are well known throughout large portions of the world accessible to travellers. Experienced Hunters and hunters may recognize you immediately and may already have an idea of what you are capable of.
 
 **71–90 — Legendary**
 
@@ -335,7 +335,7 @@ Your reputation has become larger than the person behind it. Stories about you t
 
 **91–99 — Living Legend**
 
-Your name has become part of modern history. Even people far removed from shinobi affairs may have heard stories about you. Governments, Havens, organisations, and powerful individuals are unlikely to treat your presence casually.
+Your name has become part of modern history. Even people far removed from hunters affairs may have heard stories about you. Governments, Havens, organisations, and powerful individuals are unlikely to treat your presence casually.
 
 **100 — Icon**
 
@@ -344,7 +344,7 @@ Your name is known across the world. You have become one of the defining figures
 # Skills
 {:#skills}
 
-Skills represent broad, generic things ninja do, and how well your character can do them. Unlike abilities or jutsu, the exact method of performing a skill is ambiguous; you might use stealth by hiding in foliage, or by camouflaging yourself, but in game terms it's all about the same.
+Skills represent broad, generic things hunter do, and how well your character can do them. Unlike abilities or jutsu, the exact method of performing a skill is ambiguous; you might use stealth by hiding in foliage, or by camouflaging yourself, but in game terms it's all about the same.
 
 Your skills all have a limit of 5 \+(your total XP)/200 Ranks. A lot of them benefit from practical application and general worldliness. Actually increasing your skills up to that limit, however, requires you to spend skill points.
 
@@ -392,7 +392,7 @@ Not to be confused with resilience, this is how well your body is able to fend o
 ### Stealth
 {:#stealth}
 
-How well you can sneak around, keep out of view, and not be obnoxiously loud. Whenever you need to be unobtrusive, hide from enemies, or move from point A to point B being noticed, stealth is your best friend. A ninja who can't be stealthy probably won't get very far in their career without some significant redeeming qualities.
+How well you can sneak around, keep out of view, and not be obnoxiously loud. Whenever you need to be unobtrusive, hide from enemies, or move from point A to point B being noticed, stealth is your best friend. A hunter who can't be stealthy probably won't get very far in their career without some significant redeeming qualities.
 
 ### Survival
 {:#survival}
@@ -445,7 +445,7 @@ The full details of spending XP to learn abilities are discussed in Chapter 4\. 
 ### Jutsu
 {:#jutsu-2}
 
-A ninja who intends to be successful would do well to have a wide variety of techniques at their disposal. The actual restrictions on what you can and can't learn are discussed in detail in Chapter 6\. Once you meet the requirements to acquire a jutsu you want, to learn (or 'purchase') it you spend an amount of XP determined by its rank, as listed... below:
+A hunter who intends to be successful would do well to have a wide variety of techniques at their disposal. The actual restrictions on what you can and can't learn are discussed in detail in Chapter 6\. Once you meet the requirements to acquire a jutsu you want, to learn (or 'purchase') it you spend an amount of XP determined by its rank, as listed... below:
 
 E: 4  
 D: 6  
@@ -500,7 +500,7 @@ When in doubt, use common sense.
 ### Combat
 {:#combat}
 
-As highly-trained (well, in theory), supernaturally-powered fighters, ninja can learn a lot from combat, testing their abilities against one another. Most of the time this is (semi-)friendly practice rounds, or spars. Sometimes it's, well... not.
+As highly-trained (well, in theory), supernaturally-powered fighters, hunter can learn a lot from combat, testing their abilities against one another. Most of the time this is (semi-)friendly practice rounds, or spars. Sometimes it's, well... not.
 
 Combat awards the same XP as Roleplay: **4 XP for every 30 minutes the fight lasts**, with a required minimum of 30 minutes.
 
@@ -582,7 +582,7 @@ Use the rules for the scene you're actually playing and, as always, use common s
 ### What Abilities Are
 {:#what-abilities-are}
 
-Abilities represent the fruits of your character's training, and the ways in which they've developed as a shinobi. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
+Abilities represent the fruits of your character's training, and the ways in which they've developed as a hunters. What abilities you take will play a large role in shaping how you perform in combat and other situations.  
 Abilities are more specific than skills; they differ from jutsu in that while a jutsu is a specific technique, any ability is a way of doing something or a permanent increase in your capabilities.
 
 Most abilities are passive improvements, giving you new capabilities or making you able to do a certain thing better.  
@@ -638,7 +638,7 @@ Limit: STR /20, max 5
 #### Good Lungs
 {:#good-lungs}
 
-All this ninja work has left you well beyond what peak physical condition would be for an ordinary person. In addition to being able to fight and exert yourself for abnormally long times, you recover from such exertion almost supernaturally fast.
+All this hunter work has left you well beyond what peak physical condition would be for an ordinary person. In addition to being able to fight and exert yourself for abnormally long times, you recover from such exertion almost supernaturally fast.
 
 When you use the Rest action to lower your Stamina penalty, it's reduced by 1 more per rank (so at two ranks, a Speed 5 Rest action would decrease your Stamina penalty by 3).
 
@@ -826,7 +826,7 @@ Requires: Combo Master 5
 
 You've trained yourself to be deadly efficient with one specific finisher.
 
-“I had to give him the three piece … with the soda” \- Old Ninja proverb.
+“I had to give him the three piece … with the soda” \- Old Haven proverb.
 
 Choose one jutsu you know with the Finisher tag. Every time you use that finisher the damage penalty from using Sudden Attack is reduced by 10% per CC you have to a minimum of 0\.
 
@@ -877,7 +877,7 @@ Limit: Survival /5
 #### Elemental Affinity
 {:#elemental-affinity}
 
-Every ninja has a natural affinity for one of the five primary elements, though some may not discover it until later. This ability can be taken for any one of the five elements, even one your character cannot use.
+Every hunter has a natural affinity for one of the five primary elements, though some may not discover it until later. This ability can be taken for any one of the five elements, even one your character cannot use.
 
 For each rank, you get a \+1 bonus to Chakra Exhaustion and Chakra Control rolls involving your favored element. The Chakra Control skill requirements to learn jutsu of your chosen element are considered 1 point lower, per rank.
 
@@ -889,7 +889,7 @@ Special: You may only take this ability for a single element, ever.
 #### Elemental Aptitude
 {:#elemental-aptitude}
 
-The shinobi of the world recognize five primary elements of chakra: fire, water, wind, earth, and lightning. These elements and their properties form the basis of most modern ninjutsu techniques. However, actually using elemental chakra requires the ability to convert one's own chakra to the appropriate element, which is what this ability provides.  
+The hunters of the world recognize five primary elements of chakra: fire, water, wind, earth, and lightning. These elements and their properties form the basis of most modern ninjutsu techniques. However, actually using elemental chakra requires the ability to convert one's own chakra to the appropriate element, which is what this ability provides.  
 In simpler terms, when you take Elemental Aptitude, select one of the five elements; you may use elemental ninjutsu of that element.
 
 Each additional rank of this ability allows you to use another element.  
@@ -1003,7 +1003,7 @@ Limit: Chakra Control /5, max 10
 #### Wall Walking
 {:#wall-walking}
 
-This is standard Ember Corps chakra-control training, commonly taught to new shinobi in the training yards. Training involves focusing a fixed amount of chakra at the bottom of one's feet and using that to adhere to a wall, tree, or other vertical surface.
+This is standard Ember Corps chakra-control training, commonly taught to new hunters in the training yards. Training involves focusing a fixed amount of chakra at the bottom of one's feet and using that to adhere to a wall, tree, or other vertical surface.
 
 With this ability you can scale vertical surfaces, stand on ceilings, and so forth, at your normal movement speed.
 
@@ -1013,7 +1013,7 @@ Requires: 8 Chakra Control
 #### Water Walking
 {:#water-walking}
 
-You can stand on water\! Ninja do this in the same way they'd adhere to a vertical surface, though actually pulling it off is much harder because the water is constantly moving underneath them, meaning the strength and distribution of chakra has to be constantly changed. Once a shinobi is skilled enough, though, this becomes second nature, just like keeping one's balance on an unsteady surface.
+You can stand on water\! Hunter do this in the same way they'd adhere to a vertical surface, though actually pulling it off is much harder because the water is constantly moving underneath them, meaning the strength and distribution of chakra has to be constantly changed. Once a hunters is skilled enough, though, this becomes second nature, just like keeping one's balance on an unsteady surface.
 
 Cost: 15  
 Requires: 15 Chakra Control, Wall Walking
@@ -1055,7 +1055,7 @@ Limit: Combined Enhanced Hearing or Enhanced Sight ranks
 #### Genjutsu Competence
 {:#genjutsu-competence}
 
-Genjutsu is notoriously difficult; very few ninja are able to just 'pick it up' without difficulty. Even being mediocre with genjutsu requires a significant amount of training and practice--which this ability represents.
+Genjutsu is notoriously difficult; very few hunter are able to just 'pick it up' without difficulty. Even being mediocre with genjutsu requires a significant amount of training and practice--which this ability represents.
 
 Each rank gives you a \+1 bonus to your offensive Genjutsu rolls.
 
@@ -1144,7 +1144,7 @@ Limit: Survival /5
 #### Sixth Sense
 {:#sixth-sense}
 
-Ninja really do seem to have one, and no experienced shinobi will deny it, not once they've faced down an opponent and actually, physically felt the killing intent radiating from them, or experienced a half-second of dread in the instant before an ambush was sprung. Nobody can quantify it, or say for sure what causes it, but ninja who don't want to die do well to listen to it.
+Hunter really do seem to have one, and no experienced hunters will deny it, not once they've faced down an opponent and actually, physically felt the killing intent radiating from them, or experienced a half-second of dread in the instant before an ambush was sprung. Nobody can quantify it, or say for sure what causes it, but hunter who don't want to die do well to listen to it.
 
 You begin each day wil Sixth Sense equal to your ranks in this ability. For every current Sixth Sense you have a \+1 bonus to Awareness and dodge rolls per rank. Whenever you would be sneak attacked this activates automatically, causing the attack to be treated as a surprise attack instead.
 
@@ -1174,7 +1174,7 @@ That is, if you already had four ranks of Enhanced Sight, the first rank of Enha
 #### Enhanced Sight
 {:#enhanced-sight}
 
-You're very good with attention to detail. You notice things that other people overlook, and as it turns you, that's a pretty useful job-related talent for a ninja.
+You're very good with attention to detail. You notice things that other people overlook, and as it turns you, that's a pretty useful job-related talent for a hunter.
 
 This gives you a \+1 bonus to Awareness rolls per rank.
 
@@ -1188,7 +1188,7 @@ That is, if you already had four ranks of Enhanced Sight, the first rank of Enha
 #### Blind Fighting
 {:#blind-fighting}
 
-Between smoke bombs, stealth missions at night, and hostile ninjutsu, shinobi often find themselves operating with their vision impaired. This ability represents training to fight while relying on your other senses.
+Between smoke bombs, stealth missions at night, and hostile ninjutsu, hunters often find themselves operating with their vision impaired. This ability represents training to fight while relying on your other senses.
 
 Each rank of Blind Fighting reduces the maximum visibility penalty you can suffer from by 1\.
 
@@ -1210,13 +1210,13 @@ Limit: (Enhanced Sight ranks) /2
 ## Subtlety
 {:#subtlety}
 
-### Ninja Tactics
+### Hunter Tactics
 {:#ninja-tactics}
 
 #### Basic Training
 {:#basic-training}
 
-Ninja with the ability to use chakra can get away with not solving every problem through the application of stealth and cunning, it's true. But, to be viewed as a proper ninja, they need to be keenly aware of their surroundings, masters of deception, and able to vanish like a shadow. In practice, Genin find those things exceptionally boring, especially when they could be learning how to shoot fireballs instead.
+Hunter with the ability to use chakra can get away with not solving every problem through the application of stealth and cunning, it's true. But, to be viewed as a proper hunter, they need to be keenly aware of their surroundings, masters of deception, and able to vanish like a shadow. In practice, Genin find those things exceptionally boring, especially when they could be learning how to shoot fireballs instead.
 
 Every rank gives you a \+1 bonus to Accuracy, defensive rolls, and skill checks.
 
@@ -1227,7 +1227,7 @@ Limit: Lower of Awareness /5, Espionage /5, and Stealth /5; max 10
 #### Basic Survival Tactics
 {:#basic-survival-tactics}
 
-You know how to fend for yourself, in the wilderness and on missions. It encompasses a lot of things, but one of the basics for a ninja is being able to not be discovered when their opponents; discretion is absolutely the better part of valor, after all.
+You know how to fend for yourself, in the wilderness and on missions. It encompasses a lot of things, but one of the basics for a hunter is being able to not be discovered when their opponents; discretion is absolutely the better part of valor, after all.
 
 Each rank gives a \+1 bonus to Stealth and Survival rolls.
 
@@ -1352,7 +1352,7 @@ Limit: RES/20, max 3
 #### Reflexes
 {:#reflexes}
 
-You have excellent twitch reflexes. Mostly, this comes in handy for a ninja; you respond to danger before even fully determining what that danger is. This can be kind of awkward off-duty, when you respond to somebody trying to startle you by punching them in the gut and then flipping them over your shoulder, but that's what they get for trying to startle a ninja anyway.
+You have excellent twitch reflexes. Mostly, this comes in handy for a hunter; you respond to danger before even fully determining what that danger is. This can be kind of awkward off-duty, when you respond to somebody trying to startle you by punching them in the gut and then flipping them over your shoulder, but that's what they get for trying to startle a hunter anyway.
 
 Each rank gives you \+1 Initiative and each even rank gives a \+1 Athletics bonus.
 
@@ -1431,7 +1431,7 @@ Limit: XP /1000
 #### Desperation
 {:#desperation}
 
-Being faced with truly dire straits brings out remarkable characteristics: in animals, in civilians, and in shinobi. Thankfully, you're one of those\!
+Being faced with truly dire straits brings out remarkable characteristics: in animals, in civilians, and in hunters. Thankfully, you're one of those\!
 
 You can activate this ability when defending against an attack by spending a point of Willpower. Your Interrupt only needs to be double or less the Speed of the attack you're defending against, rather than half or less. This effect persists for the duration of 10 ICs; if you're being attacked four times in that duration, then all four defenses would receive this benefit.
 
@@ -1441,7 +1441,7 @@ Requires: Determination 1
 #### Focus
 {:#focus}
 
-Being left reeling and disoriented is an all-too-common experience for shinobi. Sometimes it's the result of genjutsu, other times it's a lucky blow to the solar plexus (or... lower).
+Being left reeling and disoriented is an all-too-common experience for hunters. Sometimes it's the result of genjutsu, other times it's a lucky blow to the solar plexus (or... lower).
 
 You're able to bring yourself back to the presence, by sheer mental fortitude, though doing so is bound to wear you out faster in the long run. By spending 1 Willpower, you end any Stuns you're suffering from and become immune to any other instances of that status effect until the end of the current Initiative Count.
 
@@ -1469,13 +1469,13 @@ Limit: Determination
 ## Equipment
 {:#equipment}
 
-### Ninja Tools
+### Hunter Tools
 {:#ninja-tools}
 
 #### Tag Concealment
 {:#tag-concealment}
 
-Ninjas do love their explosions. However, they also like being sneaky and unseen; this combines the two\!  
+Hunters do love their explosions. However, they also like being sneaky and unseen; this combines the two\!  
 When placing an exploding tag, you can hide it from the casual observer. This requires something for it to be hidden under (such as loose soil, or leaves; you cannot 'hide' them in plain sight in a featureless room). Hiding a tag is a Speed 10 action, and anyone watching you will realize what you're doing and where it is (meaning it cannot be accomplished outside of stealth in combat).
 
 When you hide the tag, make an Espionage roll. Anyone who enters the tag's range is allowed an Awareness roll against the result, without any bonuses they may have from the Enhanced Hearing ability. Success means they've spotted the tag.
@@ -1676,7 +1676,7 @@ Limiting Attribute: DEX /20
 #### Assassin's Eye
 {:#assassin-s-eye}
 
-You've got a good eye for causing bodily harm to people from a distance. In any other job, this would just make you kind of scary. As a ninja, it looks good on your resume\!
+You've got a good eye for causing bodily harm to people from a distance. In any other job, this would just make you kind of scary. As a hunter, it looks good on your resume\!
 
 Each rank of this ability reduces the penalty for called shots with ranged weapons by 1\.
 
@@ -1736,7 +1736,7 @@ Requires: Medical Training Talent
 #### General Knowledge
 {:#general-knowledge}
 
-You know a little bit about everything, and a lot about a few things. Unfortunately, most of a ninja's abilities depend upon talent rather than knowledge. For those that don't, you've got an extra edge\!
+You know a little bit about everything, and a lot about a few things. Unfortunately, most of a hunter's abilities depend upon talent rather than knowledge. For those that don't, you've got an extra edge\!
 
 You have \+1 per rank to Medicine, Survival, and Toxicology rolls.
 
@@ -1797,7 +1797,7 @@ Requires: Seal Training talent, Skill Focus: Research 5
 #### Skill Focus: (Skill)
 {:#skill-focus-skill}
 
-This ability allows you to focus on a single skill at the expense of your overall performance. Most of the skills a ninja develops are picked up as a course of their regular training and experience. Skill focus represents taking extra time to focus on a specific talent, to the expense of all others.
+This ability allows you to focus on a single skill at the expense of your overall performance. Most of the skills a hunter develops are picked up as a course of their regular training and experience. Skill focus represents taking extra time to focus on a specific talent, to the expense of all others.
 
 Each rank of Skill Focus increases your rank in the chosen Skill by 1\. This is an actual increase in Skill Rank for all purposes, rather than a bonus, and may exceed your normal Skill Rank limit.
 
@@ -1845,7 +1845,7 @@ Limit: N/A
 # Combat
 {:#combat-2}
 
-Combat... happens. Realistically it's something ninja know how to do, and as they get more experience it becomes something they're able to do very well. Accordingly, there are rules for combat, which you use when trying to beat other people into submission, or prevent them from doing the same to you.
+Combat... happens. Realistically it's something hunter know how to do, and as they get more experience it becomes something they're able to do very well. Accordingly, there are rules for combat, which you use when trying to beat other people into submission, or prevent them from doing the same to you.
 
 #### Initiative
 {:#initiative-2}
@@ -1994,7 +1994,7 @@ Melee Clashes can throw force into the space around them. On resolution, Impact 
 ### Action Points
 {:#action-points-2}
 
-One of the things that makes battles dramatic is one or both sides pulling out sudden, unpredicted surprises, and among shinobi that's par for the course. Mechanically, this is represented by "Action Points"; thematically this can be a burst of adrenaline, or the result of you carefully luring your opponent into just the right position for you to counter-attack.
+One of the things that makes battles dramatic is one or both sides pulling out sudden, unpredicted surprises, and among hunters that's par for the course. Mechanically, this is represented by "Action Points"; thematically this can be a burst of adrenaline, or the result of you carefully luring your opponent into just the right position for you to counter-attack.
 
 You gain 5 AP every time the Initiative Count reaches a multiple of 20\. You start the battle with zero, and can have up to a maximum of AGI/2.
 
@@ -2076,7 +2076,7 @@ Blocking reduces the damage of unarmed and ninjutsu attacks by 50% and weapon da
 
 (Speed and Stamina Variable, Attack, Projectile)
 
-Anyone familiar with fictionalized depictions of ninja has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game is about fictional ninjas, it stands to reason that they can do this\! The term, appropriately enough, is "Multi-Throwing." 
+Anyone familiar with fictionalized depictions of hunter has no doubt seen them flinging a handful of shuriken with pinpoint aim. As this game follows Hunters, it stands to reason that they can do this\! The term, appropriately enough, is "Multi-Throwing." 
 
 By default, you may only throw one type of weapon at once; you could throw 6 shuriken, but not 4 shuriken and 2 kunai in the same action. After choosing your weapon, you decide how many you want to throw. 
 
@@ -2091,7 +2091,7 @@ Because wounds represent severe damage from a single powerful attack, and multi-
 
 (Speed 5, Utility, Self)
 
-Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most ninja prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0\.
+Resting is pausing to cool down and gather your breath. Since it doesn't directly lead to incapacitating your enemy, most hunter prefer to do this out of battle; however, sometimes pacing yourself is the only way to achieve victory. Every Rest action you take reduces your Stamina penalty (see the 'Fatigue' portion of this chapter) by 1, to a minimum of 0\.
 
 The Base Speed or Speed of the Rest action cannot be reduced or increased in any way, be it Uniques, Status effects or anything else unless it specifically states that it affects Rest Action. Principle of Motion cannot be used while resting either.
 
@@ -2113,7 +2113,7 @@ You can Dodge and perform any actions that do not require hands while performing
 
 (Speed and Stamina or Chakra Variable)
 
-Ninja can perform superhuman feats or manipulate the elements to create effects by creating Chakra inside them and channeling it into Techniques. There are three grand categories of techniques or “Jutsu” that Ninja can employ.
+Hunter can perform superhuman feats or manipulate the elements to create effects by creating Chakra inside them and channeling it into Techniques. There are three grand categories of techniques or “Jutsu” that Hunter can employ.
 
 Ninjutsu, the techniques that manipulate elements, space and time.
 
@@ -2128,7 +2128,7 @@ Each Jutsu will have its speed, cost and effects listed under its entry and rule
 
 (Speed Variable, Utility)
 
-For the most part, ninja can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)\*(number of IC spent moving)/50 yards.
+For the most part, hunter can move faster than ordinary people. When you actually devote time to moving in battle, you travel (AGI)\*(number of IC spent moving)/50 yards.
 
 As movement is Speed Variable it does not occur all at once. Instead every IC spent moving you travel the amount that you would have in that time. So if you travel 1 Yard every IC, even if you declare a Speed 10 Move Action, after 5 IC you would have moved 5 Yards.
 
@@ -2190,7 +2190,7 @@ This may be added to any interrupt but the final defense must be decided before 
 ## Attacking
 {:#attacking}
 
-The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any shinobi to be able to, when necessary, incapacitate or kill an opponent.
+The simplest and most effective way to resolve a conflict is often violence. In some cases, it's the only way. Thus, it behooves any hunters to be able to, when necessary, incapacitate or kill an opponent.
 
 The first step of attacking is to declare what your attack will be, usually by listing within brackets ( ) the name of the attack, its Speed, Cost, Accuracy, and any modifiers that apply to the attack (such as some abilities), so that the other player knows what defenses they can use against it.
 
@@ -2242,7 +2242,7 @@ If a target would exit the range of your attack while it’s delayed you may red
 ## Defending
 {:#defending}
 
-Inevitably, you will at some point be attacked. Accordingly, ninja are trained to defend themselves in a variety of ways.
+Inevitably, you will at some point be attacked. Accordingly, hunter are trained to defend themselves in a variety of ways.
 
 You defend by Interrupting an attack with a valid Defensive Interrupt. When an opponent declares an attack on you, you may then declare your Defense with any Defensive Interrupt you have access to. You declare your defense also in brackets ( ), stating the name of the Interrupt, its Speed, Cost (if any) and any modifiers that apply to the action (such as some abilities or Jutsu).
 
@@ -2300,7 +2300,7 @@ Armor can further mitigate damage, usually by reducing the severity of Wounds th
 ### Willpower
 {:#willpower-2}
 
-Ninja are capable of incredible feats, and some are truly exceptional, performing astonishing deeds in the face of adversity. While you can be as determined (or not) as you please, Willpower represents your ability to use that determination to push yourself above and beyond your limits.
+Hunter are capable of incredible feats, and some are truly exceptional, performing astonishing deeds in the face of adversity. While you can be as determined (or not) as you please, Willpower represents your ability to use that determination to push yourself above and beyond your limits.
 
 You can spend Willpower any time you attack, or make a d20 roll, after you've seen the action's normal results. When you spend a point of Willpower, reroll whichever roll it was used on (or, in the case of an attack, make an Accuracy Roll). Willpower may not, however, be used to reroll Stamina or Chakra Exhaustion rolls.
 
@@ -2327,7 +2327,7 @@ You cannot Hold Back (either of the above effects) with A or B Rank Jutsu, if yo
 ### Hiding
 {:#hiding}
 
-Ninja hide. It's sort of their... thing. That said, hiding can be accomplished under one of four circumstances:
+Hunter hide. It's sort of their... thing. That said, hiding can be accomplished under one of four circumstances:
 
 1\. Nobody is watching you. Well, nobody you're trying to hide from. This automatically prevents usage in combat, though see the other two situations.  
 2\. Everyone you are trying to hide from has a \-6 or higher visibility penalty.  
@@ -2355,7 +2355,7 @@ In case that wasn't clear, this cannot, by itself, take you from level 2 to leve
 #### Shunshin
 {:#shunshin}
 
-Whenever you take an action that enters you into stealth, whether that is the hide action or some kind of jutsu or ability, you may immediately perform the D rank General Ninjutsu “shunshin” as an interrupt in order to move yourself without affecting your Stealth. Ninja don’t like to be predictable after all, doing this in order to prevent enemies from simply nuking the location they were last seen with area affecting techniques.
+Whenever you take an action that enters you into stealth, whether that is the hide action or some kind of jutsu or ability, you may immediately perform the D rank General Ninjutsu “shunshin” as an interrupt in order to move yourself without affecting your Stealth. Hunter don’t like to be predictable after all, doing this in order to prevent enemies from simply nuking the location they were last seen with area affecting techniques.
 
 ### Stealth Levels
 {:#stealth-levels}
@@ -2394,14 +2394,14 @@ Actions that break this level of stealth
 ### Searching
 {:#searching}
 
-Understandably, situations arise when ninja want to find other, hidden ninja.
+Understandably, situations arise when hunter want to find other, hidden hunter.
 
 #### Search
 {:#search}
 
 (Speed 6\)
 
-You look for hidden enemies, using your keen ninja senses.  
+You look for hidden enemies, using your keen hunter senses.  
 When you make this action, roll your Awareness skill and compare it to the Stealth TNs of all hidden enemies. If you get equal to or greater than someone's Stealth TN, you have found them. As far as you're concerned, they're no longer in stealth; they cannot perform surprise or sneak attacks against you, you can attack them, and so forth.  
 Every time you use a Search action consecutively (without taking a non-Interrupt action between them) you get a stacking \+2 bonus. Thus, your third attempt to find someone would use your Awareness skill \+4.  
 If you are the one doing the hiding, you do not automatically know that someone has discovered your hiding place; until they do something indicating they know where you are (such as attacking you, or running straight at you), you think you're still hidden from them.
@@ -2472,7 +2472,7 @@ Conditions cover the overall health, well-being, and, well, condition, of your c
 #### Wounded
 {:#wounded}
 
-Trained ninja can survive things that would kill or maim lesser humans, but sometimes a single blow will be so powerful that even their chakra-empowered, well-conditioned bodies cannot simply shrug it off. These are referred to as Wounds, and are explained in detail in the 'Wounds' section of this chapter. The effects, and healing requirements, for each type of wound can be found there.
+Trained hunter can survive things that would kill or maim lesser humans, but sometimes a single blow will be so powerful that even their chakra-empowered, well-conditioned bodies cannot simply shrug it off. These are referred to as Wounds, and are explained in detail in the 'Wounds' section of this chapter. The effects, and healing requirements, for each type of wound can be found there.
 
 #### Fatigued
 {:#fatigued}
@@ -2501,7 +2501,7 @@ When your HP reaches 0 or you gain severe fatigue, you are incapacitated. This m
 #### Dead
 {:#dead}
 
-Dying isn't as easy for ninja as normal people. There are two main ways you can die. The first is simple, overwhelming damage: If you are reduced to \-100% HP, you die. The second is a coup de grace, a blow specifically designed to be lethal.  
+Dying isn't as easy for hunter as normal people. There are two main ways you can die. The first is simple, overwhelming damage: If you are reduced to \-100% HP, you die. The second is a coup de grace, a blow specifically designed to be lethal.  
 You may deliver a Coup de Grace only against an Incapacitated or Unconscious opponent. A Coup de Grace is a Speed 10, Delay 10 Melee Attack that cannot be reduced.
 
 ### Status Effects
@@ -2576,7 +2576,7 @@ You may be affected simultaneously by multiple poisons. However, a single source
 #### Sleep
 {:#sleep}
 
-People sleep, generally because it's a necessary bodily function, but sometimes because they've been influenced by mind-affecting genjutsu. In reality, sleeping people are pretty much helpless. However, ninja develop a sixth sense that warns them of impending danger and functions even when not awake.
+People sleep, generally because it's a necessary bodily function, but sometimes because they've been influenced by mind-affecting genjutsu. In reality, sleeping people are pretty much helpless. However, hunter develop a sixth sense that warns them of impending danger and functions even when not awake.
 
 If someone tries to attack or sneak up on you while asleep you automatically wake up and can still roll initiative and/or defend yourself, though do so at a \-5 penalty until your second action after waking up.
 
@@ -2603,7 +2603,7 @@ Someone or something is hindering your ability to breathe. Suffocation penalties
 
 These are penalties which reduce a person's ability to see clearly, impairing the use of their most valuable sense in combat. Visibility penalties do not stack; if you have a \-6 and a \-2, you ignore the \-2 until the \-6 is gone. The maximum visibility penalty you can suffer from (after any increases and reductions) is \-10.
 
-Total blindness is a \-10 visibility penalty; one eye closed (or removed\!) is \-3. A visibility penalty reduces your Accuracy and Awareness by its value, and your defensive rolls by half (rounded down) of its value; even without their sight, a ninja's sixth sense often alerts them to danger and allows them to respond.
+Total blindness is a \-10 visibility penalty; one eye closed (or removed\!) is \-3. A visibility penalty reduces your Accuracy and Awareness by its value, and your defensive rolls by half (rounded down) of its value; even without their sight, a hunter's sixth sense often alerts them to danger and allows them to respond.
 
 Many visibility penalties affect areas: clouds of smoke or mist and the like. In this case, you suffer the penalty when inside it, or when trying to attack or watch (but not defend against) someone inside it.
 
@@ -2801,7 +2801,7 @@ Ignite's Stealth Penalty is doubled.
 ### Stamina
 {:#stamina}
 
-People get tired; it just happens, even to supernaturally empowered ninja. To represent this, certain attacks have a stamina cost, listed in a format such as "Stamina: 10."
+People get tired; it just happens, even to supernaturally empowered hunter. To represent this, certain attacks have a stamina cost, listed in a format such as "Stamina: 10."
 
 Whenever you use a move with a listed Stamina cost, you make a stamina roll: 1d20+RES/10. Regardless of the result, your attack is resolved normally. However, if you got less than the TN for your roll (that is, the move's Stamina rating) your Fatigue is raised by one category.
 
@@ -2812,11 +2812,11 @@ This penalty is reset to 0 every time you advance a Fatigue category, and at the
 ### Chakra Exhaustion
 {:#chakra-exhaustion}
 
-The counterpart to stamina. Shinobi have the ability to use all manner of fantastic abilities by drawing on the chakra within themselves and manipulating the environment. While very potent, this energy comes from their body, and it's easy for a shinobi, especially an inexperienced one, to overtax themselves.
+The counterpart to stamina. Hunters have the ability to use all manner of fantastic abilities by drawing on the chakra within themselves and manipulating the environment. While very potent, this energy comes from their body, and it's easy for a hunters, especially an inexperienced one, to overtax themselves.
 
 Ninjutsu and genjutsu moves have a chakra cost, listed in a form such as "Chakra: 10." When you use these moves, you make a roll against Chakra Exhaustion; to pass, you must get equal to or greater than the technique's cost on a roll of 1d20+CHA/10. If you fail, your Fatigue is raised one category. Whether you pass or fail, your jutsu works normally.
 
-The more chakra a shinobi spends, the more strain they put on their body. Whenever you make a Chakra Exhaustion roll, you incur a penalty equal to (the technique's Chakra cost)/5, rounded down, on all future Chakra Exhaustion rolls you make.
+The more chakra a hunters spends, the more strain they put on their body. Whenever you make a Chakra Exhaustion roll, you incur a penalty equal to (the technique's Chakra cost)/5, rounded down, on all future Chakra Exhaustion rolls you make.
 
 This penalty is reset to 0 every time your Fatigue category increases, and at the end of battle.
 
@@ -2830,7 +2830,7 @@ This means that if you fail your first roll, you increase your fatigue level by 
 ### Fatigue
 {:#fatigue-3}
 
-Fatigue represents the effects of weariness on your body. Shinobi can push themselves well beyond normal human capabilities, often displaying determination that exceeds their body's limits.
+Fatigue represents the effects of weariness on your body. Hunters can push themselves well beyond normal human capabilities, often displaying determination that exceeds their body's limits.
 
 You begin a battle at Fatigue 0\. Whenever you fail a Stamina or Chakra Exhaustion roll, your Fatigue increments up one category, and your penalties to both those rolls reset to 0\.  
 For every 15 points you fail a roll by, you automatically advance an additional Fatigue category; thus, rolling a 12 on a Stamina 45 technique would cause you to advance 1+(45- 12)/15 \= 3 Fatigue categories.
@@ -2872,14 +2872,14 @@ You may end any Upkeeps you're sustaining as a Speed 0 Action.
 ### Hit Points and Vitality
 {:#hit-points-and-vitality}
 
-Lost Vitality recovers fairly quickly; ninja don't get too far through their training without being able to get back on their feet. You regain your max Vitality at the end of any scene or combat that includes rest.
+Lost Vitality recovers fairly quickly; hunter don't get too far through their training without being able to get back on their feet. You regain your max Vitality at the end of any scene or combat that includes rest.
 
 Lost Hit Points are harder to deal with. By the time you're taking HP damage, your body's already reached its limit as far as soaking damage goes. You recover your Hit Points after 1 full day (OOC) of inactivity. Meaning no scenes or spars. Losing hit points shouldn’t be something that happens often, as most spars should stop before hitting this point.
 
 ### Fatigue
 {:#fatigue-4}
 
-Fatigue is more than just being a little winded; it's exhaustion and bone-deep weariness. Ninja are just much better able to deal with such things than normal people. Every hour that passes real-world, your Fatigue is lowered by one level.
+Fatigue is more than just being a little winded; it's exhaustion and bone-deep weariness. Hunter are just much better able to deal with such things than normal people. Every hour that passes real-world, your Fatigue is lowered by one level.
 
 ### Willpower
 {:#willpower-3}
@@ -2903,7 +2903,7 @@ If your healing of a Wound is interrupted (usually by a method mentioned in that
 ### Medical Attention
 {:#medical-attention}
 
-Medical attention requires a ninja (can be a player or npc) to be actively assisting with your recovery like through the Doctor's downtime action. While receiving medical attention your wounds heal at twice the normal rate for the duration. (If they provide medical attention for one cycle but not for the second you only receive the increased healing speed for that first cycle).
+Medical attention requires a hunter (can be a player or npc) to be actively assisting with your recovery like through the Doctor's downtime action. While receiving medical attention your wounds heal at twice the normal rate for the duration. (If they provide medical attention for one cycle but not for the second you only receive the increased healing speed for that first cycle).
 
 ## Misc Rules
 {:#misc-rules}
@@ -2931,9 +2931,9 @@ When using physical dice for every 2 die size above D12 (except D20) instead add
 ### Explanation
 {:#explanation}
 
-Shinobi can, and frequently do, endure beatings that would leave ordinary people as lifeless, mangled pulps--something about the increased flow of chakra and physical conditioning giving them unnatural durability.
+Hunters can, and frequently do, endure beatings that would leave ordinary people as lifeless, mangled pulps--something about the increased flow of chakra and physical conditioning giving them unnatural durability.
 
-Enough of a beating, over a long enough period of time, will still bring a ninja down, but little things like getting knocked off a roof or stabbed with a knife are not nearly so fatal as they'd be for normal people.
+Enough of a beating, over a long enough period of time, will still bring a hunter down, but little things like getting knocked off a roof or stabbed with a knife are not nearly so fatal as they'd be for normal people.
 
 Even so, some blows are too much to just shrug off. These are called wounds, injuries that have some lasting effect on your ability to fight.
 
@@ -2963,7 +2963,7 @@ On the other hand, if you had 60 Vitality remaining when that same attack hit, y
 ### Damage Types
 {:#damage-types}
 
-After determining the severity of a wound, the next (fairly simple\!) step is determining what type of wound it is. Being cut by a sword and being hit by a magical ninja fireball, even if they do the same amount of damage, have significantly different effects on the human body.
+After determining the severity of a wound, the next (fairly simple\!) step is determining what type of wound it is. Being cut by a sword and being hit by a magical hunter fireball, even if they do the same amount of damage, have significantly different effects on the human body.
 
 For the most part this is self-explanatory, with only four damage types recognized: Blunt, Slashing, Piercing, and Energy.
 
@@ -2976,7 +2976,7 @@ Ninjutsu are simpler than weapons\! Katon and Raiton jutsu inflict energy damage
 ### Location
 {:#location}
 
-After determining severity and damage type, you roll to determine location--where you hit, and what you injured. It's all well and good to say you threw a punch at their face, but this is a battle with ninjas\! Things rarely go as planned.
+After determining severity and damage type, you roll to determine location--where you hit, and what you injured. It's all well and good to say you threw a punch at their face, but this is a battle with hunters\! Things rarely go as planned.
 
 You roll a percentile die (1d100) for location, and check the relevant damage type's wound list, under the appropriate severity, to determine the effect. If it's an arm or leg that's been wounded, odds on the 1d100 are the right arm, and evens the left.
 
@@ -3025,7 +3025,7 @@ If your healing of a Wound is interrupted (usually by a method mentioned in that
 ### Medical Attention
 {:#medical-attention-2}
 
-Medical attention requires a ninja (can be a player or npc) to be actively assisting with your recovery like through the Doctor's downtime action. While receiving medical attention your wounds heal at twice the normal rate for the duration. (If they provide medical attention for one cycle but not for the second you only receive the increased healing speed for that first cycle).	
+Medical attention requires a hunter (can be a player or npc) to be actively assisting with your recovery like through the Doctor's downtime action. While receiving medical attention your wounds heal at twice the normal rate for the duration. (If they provide medical attention for one cycle but not for the second you only receive the increased healing speed for that first cycle).	
 
 ## Blunt
 {:#blunt}
@@ -3076,7 +3076,7 @@ Your lung quit its day job; unfortunately, that day job was letting you breathe.
 #### - (41 - 60\) Groin Shot (Abdomen)
 {:#41-60-groin-shot-abdomen}
 
-If this was a called shot, you should probably have a serious talk with your opponent about what constitutes fair fighting. Even ninja have standards\!
+If this was a called shot, you should probably have a serious talk with your opponent about what constitutes fair fighting. Even hunter have standards\!
 
 It's a Stun 8, and you probably feel more than a little nauseous. Don't be ashamed about doubling over and whimpering, either\! Until it's healed your Agility stat is considered 10% lower for all purposes. On top of that, you have a \-4 penalty to Resistance rolls until your recovery is complete.
 
@@ -3103,7 +3103,7 @@ This imposes a \-5 penalty on all d20 rolls, and halves (round down) your Curren
 #### - (21 - 40\) Broken Ribs
 {:#21-40-broken-ribs}
 
-You are in horrible, terrible pain. You'd be screaming and/or mewling, if you weren't a ninja\! Breathing feels like you're being stabbed--and depending on how badly broken those ribs are, that might be exactly what's happening.
+You are in horrible, terrible pain. You'd be screaming and/or mewling, if you weren't a hunter\! Breathing feels like you're being stabbed--and depending on how badly broken those ribs are, that might be exactly what's happening.
 
 The effectiveness of blocking is reduced by 30% (from 50% to 20% for most attacks, and 25% to ineffective against weapons), and you have a \-4 penalty to Accuracy and d20 rolls. The Speed of all actions you take is increased by 2\.
 
@@ -3166,7 +3166,7 @@ Your arm is so broken that the breaks have breaks. It's useless. You can't perfo
 #### - (81 - 100\) Shattered Leg (Leg)
 {:#81-100-shattered-leg-leg}
 
-There are broken legs, there are severely broken legs, and then there's your leg. You can't stand without something to prop you up, but because you're a tough-as-nails and super resourceful ninja you can still move, though the distance you move is divided by 4\. You have a \-10 penalty to Dodge, and \-5 to other d20 rolls.
+There are broken legs, there are severely broken legs, and then there's your leg. You can't stand without something to prop you up, but because you're a tough-as-nails and super resourceful hunter you can still move, though the distance you move is divided by 4\. You have a \-10 penalty to Dodge, and \-5 to other d20 rolls.
 
 Also forget about using any Jutsu or powers that move you or allow you to move, you plainly cannot. 
 
@@ -3302,14 +3302,14 @@ You start with a Suffocation 2\. Every time you take an action with a Speed grea
 
 Additionally, you suffer a Bleed Status with a Severity equal to triple that of the Suffocation. In the case of special abilities which reduce the effect of the Suffocation status on you, the Bleed's severity is determined before they're applied.
 
-Treatment with a First Aid kit will set the Suffocation penalty to 0; however, this will not prevent it from increasing again. In fact, nothing will at all until you've recovered from the wound\! Ouch. On the bright side, you're a super implausible magic ninja. If you carefully apply pressure to your neck with both hands, you can temporarily suspend both the Suffocation rolls and the Bleed damage--though you may take no other actions while doing this, not even Speed 0 ones. This 'suspension' applies after you've been doing it for at least 10 consecutive IC.
+Treatment with a First Aid kit will set the Suffocation penalty to 0; however, this will not prevent it from increasing again. In fact, nothing will at all until you've recovered from the wound\! Ouch. On the bright side, you're a super implausible magic hunter. If you carefully apply pressure to your neck with both hands, you can temporarily suspend both the Suffocation rolls and the Bleed damage--though you may take no other actions while doing this, not even Speed 0 ones. This 'suspension' applies after you've been doing it for at least 10 consecutive IC.
 
 This is really just nasty business, all things considered. It won't start healing until it's received some medical treatment; after that, as long as you keep your neck bandaged and let yourself rest.
 
 #### - (21 - 40\) Injured Spine (Torso)
 {:#21-40-injured-spine-torso}
 
-In simple terms, your spinal cord is a part of your central nervous system and relays signals from the body to the brain, and vice versa. It also has several neural circuits which control numerous reflexes and "instinctual" actions that ninja tend to train themselves for (like moving out of the way of the technique that caused this).
+In simple terms, your spinal cord is a part of your central nervous system and relays signals from the body to the brain, and vice versa. It also has several neural circuits which control numerous reflexes and "instinctual" actions that hunter tend to train themselves for (like moving out of the way of the technique that caused this).
 
 Fortunately for you, your reflexes didn't seem to be that crucial anyway, since you let this happen, so you probably aren't that bad off. Well, that's a lie. Whenever you take any Action or Interrupt, two things happen.
 
@@ -3345,7 +3345,7 @@ The worst part is that you really just can't move. You can't move as part of an 
 ### Needling
 {:#needling}
 
-Needling is a status effect unique to Piercing Wounds. Every Piercing Wound will inflict some amount of Needling, which represents the slow, steady pain and debilitating effect of being stabbed full of holes. Needling, accordingly, fully stacks with itself. One or two you can typically bear without too much trouble (assuming they don’t go through you), but the more puncture wounds you take, the harder it becomes to have those bursts of energy that ninja depend upon to get an edge on their opponents. Needling reduces the maximum size of your AP pool by its severity (other sources of AP gain, such as Gates, are unaffected by this), and will cause you to lose any AP you might have had if your maximum AP cap is brought below your current AP. Every time you gain AP, you first reduce it by your Needling Status (Potentially to 0), then reduce your Needling Severity by the amount the AP gain was reduced by: If you had a Needling 6 status effect, and gained 8 APs, you would reduce your Needling status to 0 (returning your AP pool to its normal maximum) and then gain 2 AP (rather than 8).
+Needling is a status effect unique to Piercing Wounds. Every Piercing Wound will inflict some amount of Needling, which represents the slow, steady pain and debilitating effect of being stabbed full of holes. Needling, accordingly, fully stacks with itself. One or two you can typically bear without too much trouble (assuming they don’t go through you), but the more puncture wounds you take, the harder it becomes to have those bursts of energy that hunter depend upon to get an edge on their opponents. Needling reduces the maximum size of your AP pool by its severity (other sources of AP gain, such as Gates, are unaffected by this), and will cause you to lose any AP you might have had if your maximum AP cap is brought below your current AP. Every time you gain AP, you first reduce it by your Needling Status (Potentially to 0), then reduce your Needling Severity by the amount the AP gain was reduced by: If you had a Needling 6 status effect, and gained 8 APs, you would reduce your Needling status to 0 (returning your AP pool to its normal maximum) and then gain 2 AP (rather than 8).
 
 ### Piercing (Minor)
 {:#piercing-minor}
@@ -3410,7 +3410,7 @@ You take a Needling 8, and a \-4 to Accuracy, Fatigue, and d20 rolls just for ha
 #### - (31 - 60\) Cavitation (Abdomen)
 {:#31-60-cavitation-abdomen}
 
-Cavitation is an interesting phenomena typically only created by high velocity projectiles. Ninja being ninja, of course, means that this could happen with even the most inconspicuous of objects.
+Cavitation is an interesting phenomena typically only created by high velocity projectiles. Hunter being hunter, of course, means that this could happen with even the most inconspicuous of objects.
 
 What Cavitation is, is basically a wave of pressure that forces things--in your case, your internal organs--to shift in location, causing a cavity where there was none. It results in your organs being crushed, missshapen, tearing, and dislocated. This is especially problematic for the abdomen, wherein everything is already densely packed. There is, shall we say, a space issue.
 
@@ -3421,7 +3421,7 @@ The only good part about this injury is that once your organs are displaced--wel
 #### - (61 - 80\) Tricep Tear (Arm)
 {:#61-80-tricep-tear-arm}
 
-They missed your humerus bone, but managed to pierce right through the tendon that connected a portion of your tricep to it. As any medically-savvy ninja knows, your tricep is pretty vital for doing things like punching, and holding objects.
+They missed your humerus bone, but managed to pierce right through the tendon that connected a portion of your tricep to it. As any medically-savvy hunter knows, your tricep is pretty vital for doing things like punching, and holding objects.
 
 You take Needling 8, If you're using a weapon, then your damage bonus is halved; unarmed only has its damage bonus reduced by a fourth. You take a \-5 to Accuracy, but against disarm attempts, this increases to \-10 (whether you try to parry or dodge it).
 
@@ -3455,7 +3455,7 @@ Oh, and try not to get hit there again. If you receive Kirk'd a second time befo
 
 Okay, so, first off, calm down. It's not as bad as it... okay, yeah, it's as bad as it sounds. The good news is, it's not actually lethal. You've still got the other one (...right?) and whatever did this to you probably ventilated the lung, and by extension, the inside of your chest--no air building up in your chest cavity to collapse the other lung.
 
-...Ready for the bad news? Yeah, lungs aren't actually meant to get ventilated. You have difficulty breathing, for one thing. In fact, you can't actually breathe normally, because there's an extra hole in your lung. Still, you're a super awesome ninja, and as long as you have one hand free to cover the wound up, you can still breathe.
+...Ready for the bad news? Yeah, lungs aren't actually meant to get ventilated. You have difficulty breathing, for one thing. In fact, you can't actually breathe normally, because there's an extra hole in your lung. Still, you're a super awesome hunter, and as long as you have one hand free to cover the wound up, you can still breathe.
 
 You receive Needling 15, can't take Rest actions, and the final results of your Stamina rolls are halved. As in, if you have a 12+5+15 \= 32, that's actually a 16\. Probably less brutal, you have a \-6 penalty to your Accuracy and d20 rolls from the agonizing pain, and a \-5 penalty to Chakra Exhaustion rolls due to general poor physical condition. Moving any distance forces a roll of Stamina 10, \+1 per yard moved; this even applies when moving as part of an attack or with the aid of a jutsu. This can be avoided by moving at one tenth your normal movement speed.
 
@@ -3464,7 +3464,7 @@ Oh, unless you get your second lung punctured before the first one's healed. The
 #### - (41 -60) Pierced Liver (Abdomen)
 {:#41-60-pierced-liver-abdomen}
 
-You're bleeding from the midsection. And, the blood is black. Every ninja knows at least a little about anatomy, first aid, and injuries, and everyone ninja knows what black blood means: you're bleeding from the liver and about to die.
+You're bleeding from the midsection. And, the blood is black. Every hunter knows at least a little about anatomy, first aid, and injuries, and everyone hunter knows what black blood means: you're bleeding from the liver and about to die.
 
 This inflicts you with Needling 10 and a Poison 1 effect. 20 IC later, it doubles to Poison 2; another 20 IC, and it doubles to Poison 4, then 8, then 16, etc.... You get the picture. If treated with a First Aid kit, make a Medicine check. Its effects (Both the Poison Damage and the Poison doubling) will be held at bay for 1 hour per point above TN 25 you get on your skill roll. You may only make such a Medicine Checks once per Hour. Once you've received a week of medical treatment, this stops being necessary.
 
@@ -3627,7 +3627,7 @@ The burns to your chest are so deep and severe that they're affecting your cardi
 
 But it's still pretty bad, as things like fighting cause your pulse to shoot way up, which increases the workload of your heart and makes it more likely and devastating every time your heart skips a beat. Every 15 IC, you take a \-2 to Accuracy, d20 rolls, and Defensive rolls. This penalty can be reduced by 1 by taking a Rest action, but if it does then you do not lower your Stamina penalty, as is normal.
 
-But the more you fight, the worse it gets, and there is only so much even a ninja can do to support themselves while their heart isn't working properly. This penalty can only be reduced to half its highest amount reached (if it becomes a \-5 to Accuracy, d20 rolls and Defensive rolls, you can only reduce it by Resting to \-3).
+But the more you fight, the worse it gets, and there is only so much even a hunter can do to support themselves while their heart isn't working properly. This penalty can only be reduced to half its highest amount reached (if it becomes a \-5 to Accuracy, d20 rolls and Defensive rolls, you can only reduce it by Resting to \-3).
 
 This penalty does not increase outside of combat, but will continue to affect you every time you fight. One of the worst problems with this injury is how it is a chronic condition that the body can't fix by itself, once it's happened.
 
@@ -3716,7 +3716,7 @@ Requires the Doctor ability.
 ### Invention
 {:#invention}
 
-The greatest shinobi are not simply those who master existing techniques. Some develop entirely new Jutsu, construct unconventional weapons or create technologies that change the way Hunters operate. Invention is a Downtime Action used to develop original Jutsu, weapon frames, attachments, bombs, specialist equipment and technological devices. Unlike learning an existing technique or crafting an established item, it requires both research and XP.
+The greatest hunters are not simply those who master existing techniques. Some develop entirely new Jutsu, construct unconventional weapons or create technologies that change the way Hunters operate. Invention is a Downtime Action used to develop original Jutsu, weapon frames, attachments, bombs, specialist equipment and technological devices. Unlike learning an existing technique or crafting an established item, it requires both research and XP.
 
 #### Starting an Invention
 {:#starting-an-invention}
@@ -3790,7 +3790,7 @@ Essentially any action you would like to do that requires a bit of time or prepa
 ### Mentoring
 {:#mentoring}
 
-While most techniques can be mastered through experimentation and research, the more advanced ones require a more experienced shinobi to teach you. Mentors allow you to learn any Capability Talent or jutsu B-rank or higher that you qualify for normally.
+While most techniques can be mastered through experimentation and research, the more advanced ones require a more experienced hunters to teach you. Mentors allow you to learn any Capability Talent or jutsu B-rank or higher that you qualify for normally.
 
 To find a mentor you may either schedule a mentor scene with a GM (or another player with permission from a GM) or use a downtime action to roll 1d20 \+ Diplomacy adding every roll until you reach the TN listed below:
 
@@ -3824,9 +3824,9 @@ TN: Research 10, Diplomacy 15, Awareness, 25
 ### Squads
 {:#squads}
 
-While some ninja choose to remain solitary the most efficient way of getting things done is as a group. By teaming up with like-minded individuals you can achieve results in a fraction of the time. To form a squad you simply need to gather up to three people and agree to operate as a standing crew for the current Downtime cycle. Squads can be formed each Downtime cycle and lasts at least until the end of the cycle.
+While some hunter choose to remain solitary the most efficient way of getting things done is as a group. By teaming up with like-minded individuals you can achieve results in a fraction of the time. To form a squad you simply need to gather up to three people and agree to operate as a standing crew for the current Downtime cycle. Squads can be formed each Downtime cycle and lasts at least until the end of the cycle.
 
-However, these teams are not set in stone and may be disbanded or left at any time. Many ninja form squads around a single goal, but disband shortly after. 
+However, these teams are not set in stone and may be disbanded or left at any time. Many hunter form squads around a single goal, but disband shortly after. 
 
 ### Actions
 {:#actions-3}
