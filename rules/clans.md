@@ -2327,7 +2327,7 @@ On a full hit, for 20 IC the target cannot willingly choose the same target for 
 
 At the start of each of their turns they may spend 1 Willpower to ignore this effect until their next turn. This technique never forces self-harm or an action the target did not already have access to.
 
-<div id="heritage-up-2" class="clan-cost-banner"><span class="clan-cost-value">2 UP</span><span class="clan-cost-caption">HERITAGES <span class="clan-cost-count">15 ENTRIES</span></span></div>
+<div id="heritage-up-2" class="clan-cost-banner"><span class="clan-cost-value">2 UP</span><span class="clan-cost-caption">HERITAGES <span class="clan-cost-count">14 ENTRIES</span></span></div>
 
 # Aburame
 {:#aburame}
@@ -5075,6 +5075,999 @@ Jet Booster (Lotus) | X SC
 
 You fire X lotus cannons in a row. The total speed becomes X \* 5 but each individual attack is treated as being Speed 3 for damage calculation. You roll Chakra for each shot individually but its cost is reduced to 10\.
 
+
+# Kazekage Clan / Jiton
+{:#kazekage-clan-jiton}
+
+***CANON CLAN / JITON***
+
+*Kazekage is a historical family name in Haven Ember, not a modern office and not inherited authority. What survives is the bloodline’s feared Magnet Release and a household habit of reading battlefields as allocation problems: where force, cover, bodies, and metal need to be next.*
+
+**Starting Features**
+
+* Kazekage-blooded Jiton users begin with Elemental Aptitude for Raiton and Doton, and Elemental Affinity: Jiton, which includes Raiton and Doton.
+
+* Your controlled medium can be iron sand, gold dust, mineral grit, or another plausible particulate source. The mechanics are unchanged unless a technique says otherwise.
+
+## Passives
+{:#passives-14}
+
+### Denji Yuusei - Electromagnetic Dominance
+{:#denji-yuusei-electromagnetic-dominance}
+
+Your manipulation of magnetic chakra has lots of potential uses\! All of the following have a Chakra 10 cost, and are considered to be E-Ranked Jiton Ninjutsu effects:
+
+* When throwing weapons (either as part of a Jutsu or as a Multi-Throw) you can use CHA/8 in place of DEX/10 to determine how many you can throw. And you can use your NDB instead of PDB. This does NOT gain any bonuses or penalties based on the Magnetize of the target unless the thrown weapons had a Charge of their own.
+
+* You can also disarm an opponent's held metal weapon as a Speed 10 action, rolling 1d20+CHA/8 against their 1d20+STR/10, once again receiving Magnetize bonuses or penalties to ACC. If successful, you can throw the weapon up to CHA/4 yards in any direction, or bring it to yourself (and, if you wish, wield it).
+
+* You can retrieve, as a Speed 4 action, any discarded metal weapons or used projectiles within CHA/2 yards, bringing them to yourself.
+
+### Jiton - Magnetism Release
+{:#jiton-magnetism-release}
+
+Any Doton or Raiton Technique can be converted into a Jiton technique, with the following effects:
+
+* \+5 Chakra cost
+
+* When you transform a Raiton or Doton technique into a Jiton technique, you must pick whether it's Positively Charged Jiton, or Negatively Charged Jiton. They always count as Severity 1 of the appropriate charge
+
+* Raiton gives Immob of the same Severity and Duration rather than Paralysis.
+
+* All Jiton non-interrupt techniques have their base Speed increased by 1 per rank of Jutsu (1 for E, 3 for C, etc.). Thus, a Jiton Retsudotensho would be treated as a Speed 25 action for all purposes (including its minimum Speed after reductions), rather than 22\.
+
+* All Jiton techniques have their Base Speed reduced by double the total severity of their target's Magnetize Charges and the technique's if it is of the opposite Charge, up to a max of Base Speed 4\. or have it increased by the same amount if the Charges are similar. They still use the original Base Speed (After the normal Jiton Speed Increase) for damage calculations. For example, if you were using a Positively Charged Doki Kantsuu against a target that has Negative Charge 2, the total Base Speed reduction is 6, putting the jutsu down to speed 10 (After the base increase from Jiton) but are treated as if it’s still Speed 16 for damage multiplication.
+
+* All Jiton techniques have their Chakra cost reduced by twice the total Charge Severity of the jutsu and target if they are opposites. And increased by the same amount if they are similar.
+
+* If a Jiton jutsu has no viable targets within its range, or if it isn’t a targeted jutsu. Then you can still pick somebody with Magnetize within CHA range and use them to determine Speed and Chakra cost reductions or increases of the Jutsu.
+
+* If a Jiton technique is used against multiple targets or has a Radius that reaches several targets with different Severities and Charges, then use the highest Severity to determine what Charge bonuses and penalties apply. If two or more of the Highest severity targets have the same severity but in different Charges, then pairs of opposites cancel each other out until one dominant Charge is left, or there are no more Charges and the Jutsu gains no penalties or bonuses. This does not actually remove the Charges from the targets, and any increases or decrease to the Charge after the attack lands still apply.
+
+* All Jiton techniques that parry may target all attacks regardless of tags or type.
+
+* If "Lightning Whip" or “Rock Smashing Staff” is turned into a Jiton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Charge of 1 or \-1. Max 1
+
+### Living Magnet Field
+{:#living-magnet-field}
+
+While you have at least 4 gallons of controlled Sand on the battlefield, you can spend 4 AP when targeted by a non-Genjutsu Attack to make a Ninjutsu Parry using Ninjutsu Accuracy. If successful, the Sand intercepts the attack. Against a melee attacker, you can move it 2 yards away from you after the defense resolves.
+
+### Magnetic Pressure
+{:#magnetic-pressure}
+
+Whenever opposite polarities interact through your Jiton rules, after resolving the normal movement and modifiers, if their combined Magnetize severity is 4 or higher you can either increase the forced movement by 3 yards or make the Jiton damage count as 10% higher for Wounding.
+
+### Magnetize
+{:#magnetize}
+
+Magnetize is, in truth, two different Status Effects, Positive Charge and Negative Charge, both of which represent the target having become Magnetized. There is no difference between the Positive and Negative charges of Magnetize except in how the two charges interact with each other. If a target is hit by a Positive or Negative Jiton jutsu they gain a charge of the appropriate type.
+
+A Magnetized target has their charge increase by 1 severity if a jutsu of the same charge strikes them. For example, Someone with Positive Magnetize 1 who's hit by a Positive Charge Jiton technique is elevated to Positive Magnetize 2\. However, if they are struck by a Jiton technique of the opposite Charge, then their Charge will decrease by 1 severity as one Charge cancels the other, up to possibly 0, becoming "Neutral" and losing the Magnetize Status Effect Entirely.
+
+The Severity of Positive and Negative Charges can only go up to a maximum of 3\.
+
+If you attack a Magnetized target with Jiton technique of the opposite Charge as theirs, then you gain a bonus to your Accuracy according to the total severity of each Charge. A Positive Charge 2 target attacked by a Negative Charge 1 Jiton attack gives a \+3 to ACC. However, an attack of the same Charge provides a penalty equal to the total severity of both charges as the two Positive or Negative Charges repel each other.
+
+Magnetize disappears completely an hour after the last time it was applied.
+
+### Prepared Sand Reserve
+{:#prepared-sand-reserve}
+
+A Jiton inheritor begins every mission with a sealed or carried reserve of metal-infused sand equal to 20 \+ CHA gallons. This reserve is replenished for free during normal downtime and cannot be sold. Drawing up to half of it into the battlefield is a Speed 2 action; drawing all of it is Speed 4\. If the character is already carrying it openly, no action is required.
+
+## Abilities
+{:#abilities-13}
+
+### Kazekage Education
+{:#kazekage-education}
+
+**Type:** Ability  
+**Base Cost:** 8  
+**Scale:** 6  
+**Limit:** 3
+
+**Effects**
+
+Gain \+1 per rank to Diplomacy and Research checks concerning military planning or settlement administration.
+
+When an ally within CHA/2 yards gains Knockback, Immobilization, or Cover from one of your effects, you can grant them 2 AP per rank, up to their maximum.
+
+This Ability grants no authority over other characters.
+
+## Jutsu
+{:#jutsu-13}
+
+**D-Rank**
+
+### Suna no Yoroi - Sand Armor
+{:#suna-no-yoroi-sand-armor}
+
+**Type:** Jiton Ninjutsu, Rank D  
+**Chakra:** 10 \+ X/2  
+**Upkeep:** 1 \+ X/10 (Rounded Up)  
+**Speed:** 10  
+**Seal Speed:** 10  
+**Tags:** Utility, Self, Creation
+
+**Effects**
+
+You craft any number of Armor pieces spending a collective of X Artisan Points up to your Chakra Control \- 5\. These are automatically worn and disappear into sand after being broken.
+
+The Armor Piece(s) gains the following effects:
+
+Its Absorption is tripled
+
+Its Durability is reduced to a third
+
+**C-Rank**
+
+### Jiton: Sabaku Kyū - Sand Coffin
+{:#jiton-sabaku-kyu-sand-coffin}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** \+8  
+**Speed:** \+4  
+**Tags:** Link, Control
+
+**Effects**
+
+Add this to a damaging Jiton Attack. On hit, consume 4 gallons of Sand and apply Immobilization equal to 2 \+ the Rank of the linked technique (E=1 through A=5), maximum 7\. If the Jiton already applies Immobilization, instead increase that status by 2\. Sand used this way remains attached to the target until the Immobilization ends, then returns to the battlefield.
+
+### Mujona Kaiho - Merciless World Order
+{:#mujona-kaiho-merciless-world-order}
+
+**Type:** Jiton Ninjutsu, Rank C  
+**Chakra:** 10  
+**Area:** CHA/2  
+**Upkeep:** 4  
+**Speed:** 4
+
+**Effects**
+
+As a Speed 5 Action, you can magnetize up to CHA\*2 weapons in the area that aren’t occupied. This gives them a Negative or Positive Charge of Severity 1\. If they are used in some form of an attack against somebody with the Magnetize Status Effect, then they will gain double the normal ACC bonus or Penalty depending on the charge. They, however, do not gain other effects such as the Speed Reduction or Increase.
+
+Every 10 IC, you can take a Speed 0 action to spend AP to make any number of attacks with these magnetized weapons. These weapons don't benefit from weapon-specific abilities but you can multi-throw using the normal rules to do so. After being used to attack a weapon loses its magnetism.
+
+This costs 1 AP per 2 Speed it would normally cost to attack with the weapon; the weapon uses its base Speed for damage purposes. This uses your CHA instead of DEX for Accuracy with a \-3 penalty, CHA for determining damage/damage bonus, and replaces the normal Stamina cost of the attack with an equivalent Chakra cost.
+
+Defenses declared against attacks from Merciless World Order do not advance initiative count, but the defense still needs to be speed legal to be used.
+
+**B-Rank**
+
+### Jiton: Sabaku Sōsō - Sand Burial
+{:#jiton-sabaku-soso-sand-burial}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 20 \+ 3X  
+**Damage:** X x 4d20  
+**Speed:** 20  
+**Delay:** 10  
+**Seal Speed:** 20  
+**Tags:** Attack, Control, Blunt, Slashing  
+**Requires:** Target suffering Immobilization from Sand Coffin
+
+**Effects**
+
+X is the target's Sand Coffin Immobilization, maximum 8\. This attack cannot be Dodged, because the Sand is already attached, though other valid defenses still apply. After resolving the attack, remove the Sand Coffin Immobilization. If it inflicts a Wound, also inflict a second Blunt Wound one severity lower, minimum Minor.
+
+### Jiton: Satetsu Shigure - Iron Sand Drizzle
+{:#jiton-satetsu-shigure-iron-sand-drizzle}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 34  
+**Speed:** 16  
+**Range:** 30  
+**Area:** 8  
+**Tags:** Attack, AoE, Projectile, Piercing
+
+**Effects**
+
+Consume 12 gallons of Sand and attack the entire area with needle-like metal grains. Damage is 12d10 and ignores 25% of Armor Absorption. Anyone hit becomes Magnetized 2 with a polarity of your choice.
+
+# Senju
+{:#senju}
+
+*The Senju name survives in Haven Ember as scattered families, broad training, and unusually resilient chakra rather than a ruling house. Rare descendants still manifest Mokuton, giving the Ember Corps a lineage that can build cover, restrain movement, and turn an empty battlefield into living terrain.*
+
+**Starting Features**
+
+* Senju begin with Elemental Aptitude for Suiton and Doton, and Elemental Affinity: Mokuton, which includes Suiton and Doton.
+
+## Passives
+{:#passives-7}
+
+### Body of the Forest
+{:#body-of-the-forest}
+
+Senju inherit more than elemental access. Increase maximum Vitality by RES x 3 and gain \+2 to Stamina rolls and \+1 to Chakra Exhaustion rolls. When you take the Rest action while touching Mokuton you created, recover an additional Vitality equal to RES/2. This healing cannot raise you above maximum and does not remove Wounds.
+
+### Mokuton - Wood Release
+{:#mokuton-wood-release}
+
+* \+3 Chakra cost, but \-1 to your CE penalty when casting
+
+* Suiton techniques that would create or require Gallons instead do not. For each Gallon that you would pay for a Suiton technique, you may instead increase the Chakra Cost of that Jutsu by 4, and it’s Seal Speed by 1\.
+
+* Suiton jutsu have its Gallon maximum increased by double the Rank of Jutsu, but any cost above the normal cap is doubled. Jutsu used in this way apply Sea of Thorns across their area.
+
+* Doton jutsu that apply Immobility or Rocky Terrain instead apply Sea of Thorns across their Area. All other Doton Jutsu create Seed’s equal to the Chakra/10 (rounded up).
+
+* Doton attacks have their final Area increased by 5, or gain an Area of 5\.
+
+* Whenever you create Sea of Thorns you can gain an irreducible Upkeep 2\. While you have this Upkeep, when a portion of that Sea of Thorns is destroyed it regenerates by each surviving Sea of Thorns spreading to its adjacent destroyed square at a rate of 1 Yard per IC.
+
+* If "Water-Cutting Blade" or “Rock Smashing Staff” is turned into a Mokuton Jutsu, then it gains the following Upgrade: (2) Missing an attack makes an Area 1 underneath the target that becomes Sea of Thorns 1\. \+1 area for every additional rank in this Upgrade.
+
+Sea of Thorns
+
+This is a Condition applied to an area as the Senju creates forests of vines covered in supernaturally sharp thorns that shred through anything. Senju are immune to all effects of Sea of Thorns.
+
+Anyone inside the affected area moving by any means or dodging, takes NDB\*(Yards moved inside the Area) Damage. And every cumulative 15 yards moved inside a “Sea of Thorns” area grants Immobility 1, or \+1, that fades 10 IC after exiting the Area. Dodging counts as moving 1 \+ Speed of Dodge yards for both damage calculations and the stacking immobilization.
+
+The area can be targeted by any damaging Area attack and each square Yard has HP equal to your CHA. Single target attacks deal 3 times their normal damage and any excess damage may have that damage carried over to the next square. Area jutsu targets each square in its area as normal.
+
+Elements that are strong against Mokuton are treated as dealing twice the amount of damage.
+
+## Abilities
+{:#abilities-6}
+
+*No Heritage-specific purchasable abilities.*
+
+## Jutsu
+{:#jutsu-6}
+
+**D-Rank**
+
+### Jukai Shinshoku - Sea of Trees Erosion
+{:#jukai-shinshoku-sea-of-trees-erosion}
+
+**Type:** Mokuton Ninjutsu, Rank D  
+**Chakra:** 10 \+ X/3  
+**Speed:** Variable  
+**Seal Speed:** 12  
+**Tags:** Utility
+
+**Effects**
+
+Choose an instance of Sea of Trees on the battlefield. You move that Environmental Effect X Yards at a rate of CHA/80 Yards per IC spent using this jutsu. For every Yard moved, this increases the Yard count of anyone inside the Sea of Thorns for applying Immobility only. However, this method cannot increase Yards moved past Immobility 3\.
+
+**C-Rank**
+
+### Moku Bunshin no Jutsu - Wood Clone Technique
+{:#moku-bunshin-no-jutsu-wood-clone-technique}
+
+**Type:** Mokuton Ninjutsu, Rank C  
+**Upkeep:** 3\*X  
+**Speed:** 10 \+ 3\*X  
+**Cost:** 1 Willpower per clone  
+**Tags:** Utility, Clone
+
+**Effects**
+
+You create X Wood clones up to 3, which follow most normal rules for clones, but have your CHA as HP and do not suffer wounds. They may perform any action you normally could, by spending 1 AP per 3 Speed of that action. Wood clones may not take actions with a chakra or stamina cost greater than 15+(your RES for taijutsu, or CHA for ninjutsu)/10.
+
+Wood clones have your mind, and can act independently. You are aware of their location, and they yours, though your senses are not linked. You can reabsorb a 'living' wood clone by touching it, in which case you 'download' all its memories.
+
+### Mokuton: Mokujōheki - Wood Dome Wall
+{:#mokuton-mokujoheki-wood-dome-wall}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** 24  
+**Speed:** 8  
+**Seal Speed:** 14  
+**Tags:** Interrupt, Utility, Ground-Based
+
+**Effects**
+
+Raise a curved wooden shell around yourself and allies within 3 yards. It has HP equal to CHA x 5 \+ RES x 3 and DR equal to CHA/5. It may intercept one incoming attack as part of its creation. Anyone inside may leave normally; enemies must destroy or bypass it.
+
+**B-Rank**
+
+### Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees
+{:#mokuton-jukai-koutan-wood-release-nativity-of-a-sea-of-trees}
+
+**Type:** Mokuton Ninjutsu, Rank B  
+**Chakra:** 5 \+ X  
+**Range:** NDB\*5  
+**Area:** X  
+**Speed:** 8  
+**Seal Speed:** 16  
+**Tags:** Attack, AoE, Environmental
+
+**Effects**
+
+This overwrites any terrain-based effects on the area it's used on. By changing the cost to 5 \+ X\*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control:
+
+At 10 Chakra Control or less, it's more like a crude bundle of tree trunks and branches that will at least keep most of the rain out.
+
+From 11 \- 20, it's about as well-built as a log cabin, with up to three rooms.
+
+At 21 \- 30, it could actually pass for a real building, aside from the lack of anything made of metal.
+
+At 31+ Chakra Control, you can add a second story to the building.
+
+### Mokuton: Mokuryū - Wood Dragon
+{:#mokuton-mokuryu-wood-dragon}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 36  
+**Upkeep:** 6  
+**Speed:** 18  
+**Seal Speed:** 24  
+**Range:** 25  
+**Tags:** Attack, Projectile, Grapple, Control
+
+**Effects**
+
+Create a wooden dragon that makes a Grapple attack using your Ninjutsu Accuracy and CHA in place of STR. On a successful grapple, the target suffers Immobilization 4\. At the end of each 10 IC it remains grappled, increase its next Chakra Exhaustion penalty by 2 and reduce the dragon's Upkeep by 1, minimum 2, as it feeds on the target's leaking chakra.
+
+**A-Rank**
+
+### Mokuton: Kajukai Kōrin - Advent of Flowering Trees
+{:#mokuton-kajukai-korin-advent-of-flowering-trees}
+
+**Type:** Ninjutsu, Rank A  
+**Chakra:** 50  
+**Upkeep:** 10  
+**Speed:** 28  
+**Area:** 20  
+**Tags:** Utility, AoE, Environmental, Ground-Based
+
+**Effects**
+
+Create a flowering forest. It counts as your Mokuton for Body of the Forest and provides heavy cover. Hostile creatures entering or beginning an Action within the area make Resistance against your Chakra Control. Failure applies Drowsy 2; a target already Drowsy increases its severity by 1, maximum 6\. This effect can occur only once per target per 10 IC.
+
+# Shakuton
+{:#shakuton}
+
+***RARE KEKKEI GENKAI***
+
+*Scorch Release appears only rarely among Haven Ember families, combining Fire and Wind into murderous dry heat. Ember Corps doctrine treats Shakuton as a bloodline rather than a surname: a specialist inheritance built around penetration, dehydration, and controlling how long an enemy can keep spending resources in the heat.*
+
+## Passives
+{:#passives-16}
+
+### Dehydration
+{:#dehydration}
+
+You are suffering from extreme Dehydration, with the moisture literally stripped out of your cells, causing skin and bone to become brittle and sapping them of vigor. For every 3 stacks of Dehydrate, your Wounding thresholds are reduced by 5% and the amount of AP you gain every 20 ICs reduced by 1\.
+
+Every 10 IC you reduce your Dehydration by 1 and when you advance a fatigue level, you halve your Dehydration Status (Rounding up). Additionally, as Speed (X \* 2\) Action, you can drink X gallons of water from a container or from linking Water Creation Technique to the action (not off the battlefield; have some dignity\!), which removes X \* 2 points of Dehydration.
+
+Shrivel
+
+Your very Chakra is calamitous to others’ existence, with a simple burst of intense Scorch Release you can cause water to evaporate and plant-life to wither. This is a Speed 8 action, and removes X\*3 gallons of water from the battlefield, with a Chakra cost of 5+X. The maximum for X is CHA/10.
+
+This cannot target water used as part of a sustained jutsu (i.e. one with an Upkeep). It affects things similar to Gallons of Water, such as Yuki clan's Ice and Senju’s Seeds, but only at half effectiveness. For example, if you were to have X=10, then you’d remove 15 Gallons of Ice or 15 Seeds. Rather than the full 30\.
+
+### Dehydration Pressure
+{:#dehydration-pressure}
+
+A creature at Dehydration 4 or higher cannot benefit from regeneration. At Dehydration 6 or higher, all healing it receives is halved. These effects end immediately when Dehydration falls below those thresholds.
+
+### Scorch Is Lethal
+{:#scorch-is-lethal}
+
+Against a target at Dehydration 3 or higher, damaging Shakuton counts as 10% higher for Wounding. Shakuton retains its normal strengths, weaknesses, and counterplay.
+
+### Scorch Orbs
+{:#scorch-orbs}
+
+At the start of combat, or as a Speed 8, Chakra 15 action, create three Scorch Orbs, maximum 3+(XP/800). They orbit you until spent or the scene ends. You can spend one Orb for one of the following:
+
+* Pursuit: \+2 Accuracy to one Shakuton Attack.
+
+* Heat Shield: when targeted by an Attack, gain DR 15 against that attack.
+
+* Desiccate: after you hit with Shakuton, increase Dehydration inflicted by 1, maximum normal limits.
+
+Creating new Orbs while any remain restores the total to three rather than adding more.
+
+### Shakuton Conversion
+{:#shakuton-conversion}
+
+Combining fire and wind chakra results in the advanced nature of Shakuton, or “scorch release”; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body.
+
+Any Katon or Fuuton Technique may be converted to Shakuton, with the following effects:
+
+* \+5 Chakra cost
+
+* Ignores half of the target's DR, and ignores Armor.
+
+* Shakuton Techniques receive \+(CHA/30) Accuracy Bonus to a max of jutsu rank
+
+* Whenever a Shakuton Damage Dealing Technique hits a target, it applies a Dehydration status of severity equal to the Rank of the jutsu.
+
+* Dehydration may not be increased past 3+CHA/8.
+
+* Katon transformed Shakuton Techniques do not inflict Ignite or Burns. Instead, they deal \+5% more Wounding for every stack of Burn and \+10% for each stack of Ignite.
+
+* Fuuton transformed Shakuton Techniques do not have their inherent Wounding bonuses (The Wounding bonus from Shakuton, Uniques, and Abilities is still applied, however). Instead, those Techniques gain a Stun equal to (Wounding Bonus)%/15, rounded up. 
+
+* If "Burning Spear Technique" or “Fan of Wind” is turned into a Shakuton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Dehydration \+(Rank of weapon jutsu used) from this weapon. Max 1
+
+## Abilities
+{:#abilities-15}
+
+*No Heritage-specific purchasable abilities.*
+
+## Jutsu
+{:#jutsu-15}
+
+**C-Rank**
+
+### Kasou no Jutsu - Cremation Technique
+{:#kasou-no-jutsu-cremation-technique}
+
+**Type:** Shakuton Ninjutsu, Rank C  
+**Chakra:** 20  
+**Range:** CHA/2  
+**Speed:** 12  
+**Seal Speed:** 8
+
+**Effects**
+
+This technique makes no Accuracy Roll. Instead, the target makes the normal opposed Status Check against the technique. On failure, they gain Ignite equal to their current Dehydration, maximum Ignite 6\. Then halve their current Dehydration, rounded down. Effects that specifically protect against Status Attacks apply normally.
+
+### Shakuton: Kajōsatsu - Scorching Murder
+{:#shakuton-kajosatsu-scorching-murder}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** 24  
+**Speed:** 10  
+**Range:** 20  
+**Tags:** Attack, Projectile, Energy
+
+**Effects**
+
+Spend one Scorch Orb and attack a single target. Deal 8d10 Energy damage. On hit apply Dehydration 2; if the target already has Dehydration, increase it by another 1\. If the attack inflicts a Wound, the target also takes irreducible HP damage equal to 5 \+ twice its Dehydration severity.
+
+**B-Rank**
+
+### Sabaku no Keshin - Incarnation of Desert
+{:#sabaku-no-keshin-incarnation-of-desert}
+
+**Type:** Shakuton Ninjutsu, Rank B  
+**Chakra:** 21  
+**Upkeep:** 6  
+**Speed:** 12  
+**Seal Speed:** 14  
+**Area:** NDB \* 3 centered on self.
+
+**Effects**
+
+Change the Weather Condition within the Area to Extreme Heat. Everyone within the area except you has to roll a 5+(your CHA/8) TN Stamina Check when you activate this technique, and every 20 ICs they spend inside of it.
+
+Furthermore, the heat makes explosive expenditure difficult. Whenever a creature other than you spends AP during an Action or Clash Beat, the first 5 AP it spends during that declaration each cost 1 additional AP. This surcharge cannot exceed 5 AP on a single Action or Beat. Once per Action or Beat after that creature spends AP, it takes unreducible damage equal to twice its current Dehydration, maximum 10\. A creature with 0 Dehydration takes no damage from this effect.
+
+### Shakuton: Taiyōrin - Solar Halo
+{:#shakuton-taiyorin-solar-halo}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 30  
+**Upkeep:** 5  
+**Speed:** 10  
+**Tags:** Utility, Self
+
+**Effects**
+
+Immediately create three Scorch Orbs. While maintained, the first Orb you spend on each Action or Interrupt is not consumed. Enemies entering melee range from outside it take Energy damage equal to CHA and gain Dehydration 1\.
+
+**A-Rank**
+
+### Shakuton: Sōshiki Taiyō - Funeral Sun
+{:#shakuton-soshiki-taiyo-funeral-sun}
+
+**Type:** Ninjutsu, Rank A  
+**Chakra:** 45  
+**Speed:** 24  
+**Area:** 12  
+**Tags:** Attack, AoE, Energy
+
+**Effects**
+
+Consume all Scorch Orbs. Deal 10d12 Energy damage plus 4d12 per Orb consumed. Apply Dehydration equal to 1 \+ Orbs consumed. Targets already at Dehydration 4+ treat the damage as 25% higher for Wounding.
+
+# Uzumaki
+{:#uzumaki}
+
+*Uzumaki bloodlines are prized in Haven Ember for the same reasons old powers feared and courted them: vitality, reserves, and sealing talent. Within the Ember Corps they are natural binders, ward-makers, jailers, and rescue specialists trusted with problems that become catastrophic if containment fails.*
+
+**Starting Features**
+
+* Uzumaki may start with Elemental Affinity for Sealing Jutsu.
+
+* As an Uzumaki, you can learn your Clan Jutsu regardless of Keywords.
+
+## Passives
+{:#passives-9}
+
+### Adamantine Heritage
+{:#adamantine-heritage}
+
+Kongō Fūsa \- Adamantine Sealing Chains is part of the Uzumaki lineage rather than a separate purchase. Over the course of an IC month, you can bond with one chain, enhancing it with the power of your soul. Bonding to your first chain does not permanently reduce maximum Willpower. You can end your bond as a Downtime Action, and can bond additional specialised chains only if another rule permits it. While you are in contact with your Bonded Chain, you have complete control over each link.
+
+Your Bonded Chain has its Artisan Points increased to a total cap of 2 \+ (XP/400), which you can spend following the normal reforging rules. It requires no hands to hold, but you cannot hold another weapon while controlling it. All Uzumaki Clan Jutsu require your Bonded Chain. Any Sealing Jutsu cast through it is applied to its WDP according to the Jutsu's Chakra cost. While you have any HP remaining, the Chain cannot be destroyed. If anybody else holds it, it loses all features of Adamantine Heritage.
+
+The Chain counts as extra limbs for Grapple actions and can perform Disarm, Grab, and Restrain using CHA in place of STR. A creature Restrained by an Adamantine Chain suffers \-2 on Chakra Exhaustion rolls.
+
+When a creature Restrained by your Bonded Chain spends Chakra on an Action or attempts to Escape, gain 1 Tension on that creature, maximum 3\. Before that creature declares another Chakra-costing Action, you can spend 1 Tension; it chooses either to increase that Action's final Speed by 3 or increase its Chakra cost by 5\. Before it declares an Escape, you can instead spend 1 Tension to increase the Escape's final Speed by 3\. A successful Escape removes all Tension on that creature. Upkeep and passive Chakra loss do not generate Tension.
+
+### Uzumaki Life Force
+{:#uzumaki-life-force}
+
+Increase maximum Vitality by RES x 3, maximum HP by CHA x 2, and gain \+3 to Chakra Exhaustion rolls. Once per combat, when a Chakra Exhaustion failure would advance your Fatigue, you can take HP damage equal to CHA instead and reduce that Fatigue increase by 1 category.
+
+## Abilities
+{:#abilities-8}
+
+### Secondary Reserves
+{:#secondary-reserves}
+
+**Type:** Ability  
+**Base Cost:** 5  
+**Scale:** 2  
+**Limit:** 1 \+ (Chakra Control Ranks / 7\)
+
+**Effects**
+
+You have a secondary fatigue pool with a bonus equal to your ranks in this ability which cannot be increased by anything. You can use this pool to pay for any chakra or stamina cost as if you were rolling for fatigue normally.
+
+It accrues Fatigue penalties separately from your Stamina and Chakra Exhaustion, and any penalty increase it suffers is increased by 2\. These penalties are neither Stamina Penalty nor Chakra Penalty and cannot be reduced by effects that target those resources unless an effect explicitly states that it can reduce Secondary Reserves.
+
+Failing a fatigue roll with this ability causes you to advance 1 less fatigue level without removing your fatigue penalties to your Stamina or Chakra Exhaustion and shuts this reserve for the remainder of the day.
+
+## Jutsu
+{:#jutsu-8}
+
+**D-Rank**
+
+### Kingusari no Jutsu - Golden Chain Technique
+{:#kingusari-no-jutsu-golden-chain-technique}
+
+**Type:** D Rank \- Sealing  
+**Stamina:** As Weapon \+ 5  
+**Chakra:** \+5  
+**Delay:** As Weapon  
+**Accuracy:** As Weapon  
+**Tags:** Link
+
+**Effects**
+
+This is added on to any Sealing jutsu with the Mark Tag increasing its range to the base range of your Chain \+ 5\. This gives the jutsu the projectile tag (removing its melee tag if it had one). You do not need to perform handseals for this jutsu, instead increase the delay of this jutsu for every IC of handseals you would have to perform.
+
+### Kusari Gitai - Chain Mimicry
+{:#kusari-gitai-chain-mimicry}
+
+**Type:** D Rank \- Bukijutsu  
+**Chakra:** 10 \+ X\*5  
+**Delay:** \+X\*3  
+**Tags:** Chain
+
+**Effects**
+
+You temporarily create X additional copies of your chain to a maximum of Chakra Control Ranks / 10\. Then you make a Dual-Wield attack using all the Chains (including your base) with each treated as an individual weapon.
+
+**C-Rank**
+
+### Kagura no Inochi - Life-Force Transfer
+{:#kagura-no-inochi-life-force-transfer}
+
+**Type:** Medical Ninjutsu, Rank C  
+**Chakra:** 20  
+**Speed:** 12  
+**Tags:** Utility, Healing, Melee
+
+**Effects**
+
+Touch a willing target. Lose up to CHA HP and restore five times that amount as Vitality to the target. For every 10 HP you give, the target may also reduce one Poison, Bleed, or Burn severity by 1\. This cannot restore your own Vitality and cannot transfer more HP than would leave you at 1 HP.
+
+### Kongō Fūsa - Chakra Suppression Lock
+{:#kongo-fusa-chakra-suppression-lock}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** 22  
+**Speed:** 10  
+**Range:** Chain Range  
+**Tags:** Attack, Grapple, Sealing, Control  
+**Requires:** Adamantine Sealing Chains
+
+**Effects**
+
+Make a Grapple attack with a chain. On success, in addition to normal Grapple effects, the target gains Sealed Chakra 2\. While it remains Grappled by the chain, each failed Chakra Exhaustion roll increases Sealed Chakra by 1, maximum 6\. Sealed Chakra is a penalty to Chakra Exhaustion and Seal Speed. It falls by 1 whenever the target successfully uses Break Grapple, Rest, or spends a Speed 6 action to force their chakra through the seal.
+
+### Kongō Kekkai - Adamantine Barrier
+{:#kongo-kekkai-adamantine-barrier}
+
+**Type:** C Rank \- Sealing  
+**Upkeep:** X\*3  
+**Delay:** As Weapon  
+**Accuracy:** As Weapon  
+**Tags:** Link
+
+**Effects**
+
+X is the Rank of Jutsu linked. This is added on to any Sealing jutsu with the Barrier Tag increasing its range to the base range of your Chain \+ 5\. The chain substitutes its Seals cost and can account for up to Artisan Points /7 seals (+1 for large or extreme) which may be placed in any valid location connected to the original seal even if it’s outside the range of this jutsu. The maximum distance between each seal is half your normal amount. Even if the Seals provided by this jutsu is higher than the amount required, the Barrier applies to each seal equally.
+
+From its initial activation until it ends you must use a Variable Action to maintain this technique, and taking any other action aside from Moving at half Speed breaks it. You must remain within range of one edge of the Barrier. While this Barrier is maintained you lose access to your Bonded Chain.
+
+**A-Rank**
+
+### Shishō Kekkai - Four-Corner Adamantine Barrier
+{:#shisho-kekkai-four-corner-adamantine-barrier}
+
+**Type:** Fūinjutsu, Rank A  
+**Chakra:** 45  
+**Upkeep:** 10  
+**Speed:** 22  
+**Seal Speed:** 28  
+**Area:** 12  
+**Tags:** Utility, Barrier, Sealing
+
+**Effects**
+
+Four chains anchor around the area and form a barrier with HP equal to CHA x 8 \+ RES x 4\. Teleportation, Summoning, and Space-Time effects cannot cross it unless their user wins an opposed Chakra Control roll against you. Hostile creatures inside suffer \-2 Chakra Exhaustion; allies gain \+2 Resistance against possession, forced transformation, and sealing effects.
+
+# Yōton
+{:#yoton}
+
+***RARE KEKKEI GENKAI***
+
+*Lava Release survives in Haven Ember in several expressions \- magma, molten stone, volcanic pressure, and heat driven through solid terrain. The Ember Corps treats Yōton users as dangerous terrain-makers first and simple firepower second: once they commit, the ground itself becomes part of the attack.*
+
+**Starting Features**
+
+* A Yōton inheritor begins with Elemental Aptitude for Katon and Doton, and Elemental Affinity: Yōton, which includes Katon and Doton.
+
+## Passives
+{:#passives-21}
+
+### Heat-Born
+{:#heat-born}
+
+Gain 2 ranks of Heat Resistance at no XP cost. You are immune to environmental damage from your own Yōton creations.
+
+### Volcanic Expression
+{:#volcanic-expression}
+
+When you choose Yōton, choose one expression of the bloodline. This choice can be changed only through major retraining.
+
+* Magma: Your Yōton keeps its normal Magma environmental effects. Damaging Yōton counts as 20% higher for Wounding against a target standing in your Magma. When you damage a creature standing in your Magma, increase that Magma's severity against it by 1 for its next damage tick.
+
+* Quicklime: Your Yōton does not create Magma. Instead, when a target is hit by your damaging Yōton, apply Immobilization 3\. A target already affected increases that status by 2, maximum 8\. As a Speed 5 Utility Action, a creature can make a Resistance roll against your Chakra Control, removing 2 Quicklime-Based Immobilization affecting them, and an additional 1 for every 5 they beat your roll by.
+
+* Rubber: Your Yōton does not create Magma and its damage type becomes Blunt. Defensive Yōton barriers block 40% more final damage, and damaging Yōton applies Knockback 5\. When your Rubber Yōton causes forced movement, you can redirect that movement by up to 90 degrees.
+
+## Abilities
+{:#abilities-20}
+
+### Heat Resistance
+{:#heat-resistance}
+
+**Limit:** 1+RES/30
+
+**Effects**
+
+The Yōton user reduce any Ignite, or Ignite-like effects (such as Blaze), that they take by 1 per rank in this Ability and halve all damage from Magma. Furthermore, the first time you take this, you gain the ability to touch any small to medium sources of fire without burning yourself (such as torches, campfires, stoves, furnaces, etc). Besides resisting Ignite better, This does not help in any way against Katon attacks (don't even ask if it can).
+
+Yōton Conversion
+
+Combining earth and fire chakra results in the advanced nature of Yoton, or “Lava Release”; a cataclysmically destructive nature release which involves bringing raging rivers of magma and sulfur from the very cores of the earth to melt your enemies, or creating them yourself.
+
+Any attack Doton or Katon Technique may be converted to Yoton, with the following effects:
+
+* \+5 Chakra cost
+
+* Yoton always deals Energy damage.
+
+* For elemental strengths, weaknesses, negation, and suppression, Yōton counts as both Katon and Doton.
+
+* A converted Yōton technique retains the parent Element it was converted from (Katon or Doton) for prerequisites and effects that explicitly require or trigger from that Element. For all other purposes, it is Yōton.
+
+* Yoton techniques have their Base Speed increased by Rank of Jutsu for all purposes.
+
+* Doton transformed Yoton techniques gain a \-2 Accuracy and have their Area increased by \+5. Non-Area Doton attacks instead gain an Area of 5 and the appropriate tag.
+
+* Doton transformed Yoton Techniques lose any Immobility or Rocky Terrain replaced with Magma of the same severity applied over its area. A technique without Immobility or Rocky Terrain gains Jutsu Rank/2 (rounded up) Magma across its area.
+
+* You can cause any Katon transformed Yoton Attack to apply to the area of a Magma field (removing its previous range and/or Area). Doing so removes the \-2 penalty from Gates of Brimstone.
+
+* If "Burning Spear Technique" or “Rock Smashing Staff” is turned into a Yoton Jutsu, then it gains the following Upgrade: (5) Missing an attack makes an Area 1 underneath the target that becomes Magma 3 \+3 area for every additional rank in this Upgrade
+
+Magma
+
+This is a Status Effect applied across its entire Area that lasts for 10 \+ Chakra Control/5 \+ 5 per Rank of the Jutsu used to apply it IC. If multiple Magma fields overlap, add half the lower Severity to the highest field for damage only; overlapping fields do not create multiple damage ticks. Movement across Magma is reduced by Magma Severity × 5%. A creature takes Energy Damage equal to CHA/50 \+ Magma Severity when Magma is first created beneath it or when it enters the field, and again for every 5 IC it remains inside. This damage ignores half of DR rather than all DR.
+
+## Jutsu
+{:#jutsu-19}
+
+**E-Rank**
+
+### Caustic Passion
+{:#caustic-passion}
+
+**Type:** E Rank \- Yoton Ninjutsu  
+**Chakra:** 10  
+**Speed:** 5  
+**Tags:** Utility
+
+**Effects**
+
+You melt any unoccupied (Not carried or used by anybody) non-Chakra Reinforced (Such as from the Strengthening Seal) metallic or rocky object or material within CHA/2 yards. The size of this object can be no larger than 1 cubic foot.
+
+Or you can render up to CHA/10 Projectile Weapons you can see or know the location of useless, melting them just enough to be rendered ineffective. If the weapons are hidden, you'll need to discover their existence beforehand to destroy them. This power cannot work on Puppets or the Weapons held by Puppets as they are both considered Chakra Reinforced.
+
+**D-Rank**
+
+### Lava Release: Gates of Brimstone
+{:#lava-release-gates-of-brimstone}
+
+**Type:** D Rank \- Yoton Ninjutsu  
+**Chakra:** \+4, \+1 per Rank  
+**Accuracy:** \-2  
+**Speed:** \+2  
+**Seal Speed:** \+4  
+**Tags:** Link, Environmental, Ground-Based
+
+**Effects**
+
+This may be added to any Damage-Dealing Katon or Yoton Technique. The target has their DR reduced by the rank of jutsu this is linked to \+1 per severity of wounds applied. This lasts for 20 IC and the duration resets whenever the target is hit by a Yoton jutsu.
+
+While a target’s DR is below 0, that negative amount is instead added to any damage dealt including damage which would normally ignore DR. So if a tick of Magma would normally deal 4 damage, someone with \-3 DR would take 7 damage per tick.
+
+**C-Rank**
+
+### Yōton: Yōgan Yoroi - Lava Armour
+{:#yoton-yogan-yoroi-lava-armour}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** 24  
+**Upkeep:** 5  
+**Speed:** 10  
+**Tags:** Utility, Self
+
+**Effects**
+
+Coat your body in your chosen Yōton expression. Gain DR 15\. When a melee attacker hits you, it takes CHA Energy or Blunt damage according to your expression and suffers its expression rider. Rubber instead gives DR 25 but deals no retaliation damage.
+
+**B-Rank**
+
+### Lava Release: Nine Hells Erupting Armageddon
+{:#lava-release-nine-hells-erupting-armageddon}
+
+**Type:** B Rank \- Yoton Ninjutsu  
+**Chakra:** 36  
+Special Upkeep: 10
+
+**Damage:** 10d20\!\>8  
+**Range:** Special  
+**Area:** 15  
+**Speed:** 20, Delay 15  
+**Seal Speed:** 23  
+**Special:** Magma 8, Ignite 12
+
+**Tags:** Attack, AoE, Energy, Environmental
+
+**Effects**
+
+You cause 3 spots in the battlefield that are no less than 20 yards away from each other to erupt into miniature volcanos of either flames or molten magma. Each of these eruptions is treated as its own attack that must be defended against individually. For the sake of techniques such as "Smokescreen" or "Gates of Brimstone" each chosen spot creates its own instance of that technique, though you only pay the cost for them once, not three times.
+
+So long as the upkeep is maintained, those three chosen spots will erupt again every 15 ICs later at no extra cost to you. These extra eruptions are treated as a Speed 15 Attack, use your base ACC at Fatigue 0, and deal 5d20\!o\>16. Each eruption reapplies the Magma but has its severity reduced by 2 each time. So the first eruption would be Magma 6, then 4, and 2\. When Magma is reduced to 0 this jutsu ends.
+
+### Yōton: Kazanryū - Volcanic Surge
+{:#yoton-kazanryu-volcanic-surge}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 34  
+**Speed:** 18  
+**Range:** 20  
+**Area:** Line 6, 20  
+**Tags:** Attack, AoE, Ground-Based
+
+**Effects**
+
+Deal 10d12 damage appropriate to your expression and leave the line transformed for 20 IC. Magma becomes damaging terrain, Quicklime becomes Immobilizing terrain, and Rubber becomes elastic terrain that doubles forced movement and allows allies to bounce 5 yards as part of movement.
+
+**A-Rank**
+
+### Yōton: Karyū Shōten - Eruption Ascendant
+{:#yoton-karyu-shoten-eruption-ascendant}
+
+**Type:** Ninjutsu, Rank A  
+**Chakra:** 48  
+**Speed:** 26  
+**Area:** 15  
+**Tags:** Attack, AoE, Environmental
+
+**Effects**
+
+Erupt the battlefield beneath the target area, dealing 12d12 damage. For 30 IC the area remains an extreme version of your Expression: Magma inflicts 3d10 Energy on anyone moving through 3+ yards of it; Quicklime applies Immobilization 2 each 5 IC spent within; Rubber grants you control over knockback, allowing you to redirect any forced movement inside the area by up to 90 degrees.
+
+# Yuki
+{:#yuki}
+
+***CANON CLAN \- RARE***
+
+*Yuki families in Haven Ember preserve Hyōton as a rare Water-and-Wind inheritance. Ember Corps users are taught to think in geometry: mirrors, frozen surfaces, projectiles, and temporary structures that alter sightlines and movement until the enemy is fighting the shape of the ice instead of the person who made it.*
+
+**Starting Features**
+
+* Yuki begin with Elemental Aptitude for Suiton and Fuuton, and Elemental Affinity: Hyōton, which includes Suiton and Fuuton.
+
+## Passives
+{:#passives-24}
+
+### Hyouton - Ice Release
+{:#hyouton-ice-release}
+
+Yuki have the ability to use one of the coolest advanced chakra natures: ice release. This is obtained through a combination of water chakra and wind chakra. Ice Release combines the flexibility of water with the penetrating power of wind. You can convert any Suiton or Fuuton technique into a Hyouton technique, with the following effects:
+
+* \+8 Chakra cost.
+
+* Blocking reduces the damage from Hyouton techniques by 25%
+
+* Unless an individual jutsu specifies otherwise, Hyouton inflicts Piercing wounds.
+
+* Hyouton's damage for the purpose of wounding is considered 15% higher, which stacks additively with any existing increases on converted jutsu (50%+15% \= 65%).
+
+* When you would inflict a wound with a Hyouton technique, you may instead decide not to, and inflict a “Permanent” Freeze to the limb the wound affected. Each leg affected this way can hold up to Immob 3, each Hand may hold up to Immob 3, for a total of 12 Immob applied to a target. Applied to the head or torso, this applies Suffocation without a limit. When the wound is applied, compared the location to the relevant Freeze effect (Immob for Legs and Arms, Suffocation for Torso and Head), and apply a severity equal to the wound category (Major=1,Severe=2,Critical=3). The Legs can only ever give a total of 6 Immob, as well as the arms. The Suffocation applied this way can fade naturally, but the Frozen Arms and Leg immob remains until the creature spends atleast an hour in a hot area thawing. 
+
+* You can forgo rolling any or all damage dice when using a Hyouton Technique. Instead, treat those dice as though they rolled their average result, rounded down (IE; a d4 would be a 2, a D6 a 3…). You must make the decision of how many dice to convert before you roll damage.
+
+* Fuuton converted into Hyouton may not be used with a fan, and gains a gallon-of-water requirement equal to a third of its chakra cost.
+
+* Gallons of Ice may be used instead of Gallons of Water to pay any part of the Jutsu’s Cost.
+
+* Anything that creates Gallons of Water instead creates Gallons of Ice.
+
+* Hyouton that use Ice to pay for its cost, or that create Ice, that hit an opponent apply an Immobilize penalty based on its Rank (E \= 1, D \= 2, C \= 3, B \= 4, A \= 5). This penalty fades at a rate of 1 per 10 IC since the opponent was last hit with a Hyouton Jutsu. This only applies once per casting, even on persistent damage effects. 
+
+* If "Water-Cutting Blade" or “Fan of Wind” is turned into a Hyouton Jutsu, then it gains the following Upgrade: (3) Your weapon attacks count as Hyouton Jutsu for the purpose of fading Immobilize penalties.
+
+### Living Ice
+{:#living-ice}
+
+As a Speed 1 Action, freeze or liquefy up to 2 gallons of water you can see within CHA/2 yards. This cannot directly damage a creature or destroy an attended object. 
+
+While within 2 yards of Ice you created, gain \+2 Dodge and \+20% movement. When you enter Ice you created, you can move an additional 3 yards without increasing your IC. Your own Ice never imposes difficult terrain or Immobilization on you unless a technique explicitly says it does.
+
+Hyōton conversion costs are reduced by 2 Chakra, minimum \+1. Ice structures you create gain 25% more HP and Durability.
+
+### Suitenhoufukyuu - Water Sky Convergence
+{:#suitenhoufukyuu-water-sky-convergence}
+
+You can use any water scattered about the battlefield to fuel your Suiton or Hyouton techniques, even if it’s normally inaccessible. This does allow you to seize control of someone else's water or techniques. Even if it's in a container, or is infused with someone's chakra, it's not off limits
+
+You can take a Speed X action, with a Chakra cost of 5+2\*X, to freeze or liquify (CHA/30, minimum 1)\*X gallons of water on the battlefield. Ice may not be used in Suiton techniques; it can, however, be used to perform Hyouton (including Suiton jutsu which you have converted into Hyouton).
+
+You can perform Suiton (but not Hyouton) jutsu without hand seals, by adding (the base Seal Speed \- CHA/10)/2, rounded up, to the action's base Speed. Normal alterations to Seal Speed (such as from Ninjutsu Specialist) do not apply to this ability.
+
+There are even legends of Yuki once being able to drop rivers on people.
+
+## Abilities
+{:#abilities-23}
+
+*No Heritage-specific purchasable abilities.*
+
+## Jutsu
+{:#jutsu-22}
+
+**D-Rank**
+
+### Hijutsu: Sensatsu Suishou - Secret Technique: Thousand Flying Water Needles
+{:#hijutsu-sensatsu-suishou-secret-technique-thousand-flying-water-needles}
+
+**Type:** Suiton Ninjutsu, Rank D  
+**Chakra:** 16  
+**Damage:** (CHA/8)d10  
+**Range:** CHA/3  
+**Speed:** 12  
+**Seal Speed:** 12  
+Gallon: 1 per 1d10
+
+**Tags:** Attack, Projectile, Piercing
+
+**Effects**
+
+This technique's damage is considered 25% higher for the purpose of inflicting wounds, and it always inflicts Piercing wounds. If it wounds an enemy, it also applies one wound of the next-lower rank.
+
+**C-Rank**
+
+### Hijutsu: Makyo Hyosho - Secret Technique: Demonic Mirror Ice Crystals
+{:#hijutsu-makyo-hyosho-secret-technique-demonic-mirror-ice-crystals}
+
+**Type:** Hyoton Ninjutsu, Rank C  
+**Chakra:** 15+X/2  
+**Upkeep:** X/2  
+**Range:** CHA/4  
+**Speed:** 12  
+**Seal Speed:** 10+X/2  
+**Requires:** X\*2 Gallons of Water and/or Ice in any combination  
+**Tags:** Utility, Environmental
+
+**Effects**
+
+You create X Demonic Ice Mirrors. These remain stationary on the battlefield, even floating mid air. They are one yard wide, two yards tall, and a few inches thick. They may be attacked, but you must deal CHA\*2 Damage in a single attack to destroy one (otherwise they just regenerate). While within 1 yard of a Mirror you can step into it and out any other mirror at will. Practically speaking, this means that you can go from one mirror to any other mirror using only 1 yard of movement, and you can draw range and line of sight from any of the other mirrors. This includes taking the Observe action (which is done from every Mirror) and things like Dodge, where you can calculate your movement versus an AoE as beginning at any Mirror.
+
+If X is 20 or higher, this Jutsu forms a cage around an area. Stop tracking individual Ice Mirrors. Instead note a space on the battlefield as being the Cage, which has a Radius of up to your CHA/4 Yards. While within this area, the user steps into the Mirrors and begins bouncing between the Mirrors too quickly for the eye to see. This grants the following benefits:
+
+* The user enters Level 1 Stealth, and may perform the Hide Action without any further justification.
+
+* You can perform any form of attack while in Stealth without breaking that Stealth. The attack lowers the Stealth TN as though it were a Ranged Weapon attack.
+
+* Until an enemy defeats the user's Stealth, that enemy suffers \-4 Accuracy on attacks against the user and cannot make Called Shots against them. An Area attack that covers the entire cage ignores this penalty.
+
+* Once per 10 IC, when a creature attempts to leave the cage, you can convert their next non-Interrupt Action into a single-target Attack with a final Speed of 10 or less and resolve it as an Interrupt against that creature. Pay all normal costs. After it resolves, set the user's next IC no earlier than the current IC plus that Attack's final Speed. On a full hit that deals damage, the creature's movement ends at the edge of the cage. This is the user's next Action, not a free additional attack.
+
+* You can consider themselves to be anywhere within the cage when they take an action.
+
+* An enemy who has found you (usually by beating your Stealth TN) is tracking your movements. They may attack you normally, treating you as being anywhere inside of the Cage when they attack. If you Hide again, this penalty is lost until the opponent again finds you.
+
+* Mirrors that form the cage reform instantly if they are destroyed.
+
+This user cannot benefit from this Jutsu, either the individual mirrors or the cage, if they are Grabbed or incapable of movement. Using this Jutsu again removes all previously established Demonic Ice Mirrors, releasing their Upkeep appropriately.
+
+### Hyōton: Hyōheki - Ice Dome
+{:#hyoton-hyoheki-ice-dome}
+
+**Type:** Ninjutsu, Rank C  
+**Chakra:** 22  
+**Speed:** 7  
+**Seal Speed:** 12  
+**Tags:** Interrupt, Utility
+
+**Effects**
+
+Raise an ice shell around yourself or a point within 10 yards. It has HP equal to CHA x 5 and DR 15\. It can intercept one incoming Attack when created. When destroyed, it leaves 6 gallons of usable Ice on the battlefield.
+
+**B-Rank**
+
+### Hyouton: Jisarenhyo - Ice Release: Earthen Consecutive Chains of Ice
+{:#hyouton-jisarenhyo-ice-release-earthen-consecutive-chains-of-ice}
+
+**Type:** Hyoton Ninjutsu, Rank B  
+**Chakra:** 28  
+**Upkeep:** 6  
+**Speed:** 14  
+**Seal Speed:** 16  
+**Tags:** Attack, Melee
+
+**Effects**
+
+On a hit, you gain Upkeep 6 and this jutsu applies Immobilization 5 that is lowered by 1 every 10 IC the opponent goes without being hit by a Hyouton. So long as the upkeep is maintained, the ice particles on their body freeze them whenever their chakra fluctuates. If the opponent attempts a Chakra roll, their immobilization penalty is maintained as though they were hit by a Hyouton Ninjutsu. Further, they lose (Immobilization Penalty from Hyouton \+ Chakra TN/5)% of their current Vitality (or HP, if Vitality is depleted) plus their current Immobilization Penalty from Hyouton as damage that cannot be reduced.
+
+Creatures who can’t use Chakra that are affected by this jutsu freeze to death in 100 IC. The upkeep can be maintained for up to one day. If you can reduce the Seal Speed to 0, then you can apply this Jutsu with the slightest touch. Done covertly or out of combat, you can forgo the Immobilization penalty and apply the Upkeep portion of this Jutsu. If done covertly, the opponent may make an Awareness roll against your Espionage to realize what you have done.
+
+### Hyōton: Sensatsu Kōri - Thousand Ice Needles
+{:#hyoton-sensatsu-kori-thousand-ice-needles}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 32  
+**Speed:** 15  
+**Range:** 25  
+**Area:** 8  
+**Tags:** Attack, AoE, Projectile, Piercing
+
+**Effects**
+
+Create or consume up to 10 gallons of Ice. Deal 8d10 plus 1d10 per gallon used, maximum 18d10. Targets hit suffer Immobilization 2\. Against a target already suffering your Frostbite/Immobilization, this attack gains \+2 Accuracy.
+
+### Makyō Reversal - Mirror Step
+{:#makyo-reversal-mirror-step}
+
+**Type:** Ninjutsu, Rank B  
+**Chakra:** 20  
+**Speed:** 5  
+**Tags:** Interrupt, Movement  
+**Requires:** At least two of your Demonic Ice Mirrors active
+
+**Effects**
+
+When targeted by an Attack, move instantly from your current position into or adjacent to another mirror within the technique's network. Treat this as a Dodge using Ninjutsu Accuracy. If successful, you can emerge from any mirror and gain \+2 Accuracy on your next Hyōton or Senbon attack before the end of your next Action.
+
+<div id="heritage-up-3" class="clan-cost-banner"><span class="clan-cost-value">3 UP</span><span class="clan-cost-caption">HERITAGES <span class="clan-cost-count">04 ENTRIES</span></span></div>
+
 # Karashi (Puppets)
 {:#karashi-puppets}
 
@@ -6121,998 +7114,6 @@ Choose Hollow Body or Piloted Core. Mundane weather, smoke, dust, contaminated a
 Upgrade
 
 Choose one mounted thrown weapon used with Ninja Wire. Once per 10 IC after an Attack with that weapon misses or is fully Dodged, redirect it toward a second legal target within 10 yards of the first. Make a new Attack at \-3 Accuracy and 50% Final Damage. The redirected Attack cannot Wound and cannot trigger Wire Guillotine again.
-
-# Kazekage Clan / Jiton
-{:#kazekage-clan-jiton}
-
-***CANON CLAN / JITON***
-
-*Kazekage is a historical family name in Haven Ember, not a modern office and not inherited authority. What survives is the bloodline’s feared Magnet Release and a household habit of reading battlefields as allocation problems: where force, cover, bodies, and metal need to be next.*
-
-**Starting Features**
-
-* Kazekage-blooded Jiton users begin with Elemental Aptitude for Raiton and Doton, and Elemental Affinity: Jiton, which includes Raiton and Doton.
-
-* Your controlled medium can be iron sand, gold dust, mineral grit, or another plausible particulate source. The mechanics are unchanged unless a technique says otherwise.
-
-## Passives
-{:#passives-14}
-
-### Denji Yuusei - Electromagnetic Dominance
-{:#denji-yuusei-electromagnetic-dominance}
-
-Your manipulation of magnetic chakra has lots of potential uses\! All of the following have a Chakra 10 cost, and are considered to be E-Ranked Jiton Ninjutsu effects:
-
-* When throwing weapons (either as part of a Jutsu or as a Multi-Throw) you can use CHA/8 in place of DEX/10 to determine how many you can throw. And you can use your NDB instead of PDB. This does NOT gain any bonuses or penalties based on the Magnetize of the target unless the thrown weapons had a Charge of their own.
-
-* You can also disarm an opponent's held metal weapon as a Speed 10 action, rolling 1d20+CHA/8 against their 1d20+STR/10, once again receiving Magnetize bonuses or penalties to ACC. If successful, you can throw the weapon up to CHA/4 yards in any direction, or bring it to yourself (and, if you wish, wield it).
-
-* You can retrieve, as a Speed 4 action, any discarded metal weapons or used projectiles within CHA/2 yards, bringing them to yourself.
-
-### Jiton - Magnetism Release
-{:#jiton-magnetism-release}
-
-Any Doton or Raiton Technique can be converted into a Jiton technique, with the following effects:
-
-* \+5 Chakra cost
-
-* When you transform a Raiton or Doton technique into a Jiton technique, you must pick whether it's Positively Charged Jiton, or Negatively Charged Jiton. They always count as Severity 1 of the appropriate charge
-
-* Raiton gives Immob of the same Severity and Duration rather than Paralysis.
-
-* All Jiton non-interrupt techniques have their base Speed increased by 1 per rank of Jutsu (1 for E, 3 for C, etc.). Thus, a Jiton Retsudotensho would be treated as a Speed 25 action for all purposes (including its minimum Speed after reductions), rather than 22\.
-
-* All Jiton techniques have their Base Speed reduced by double the total severity of their target's Magnetize Charges and the technique's if it is of the opposite Charge, up to a max of Base Speed 4\. or have it increased by the same amount if the Charges are similar. They still use the original Base Speed (After the normal Jiton Speed Increase) for damage calculations. For example, if you were using a Positively Charged Doki Kantsuu against a target that has Negative Charge 2, the total Base Speed reduction is 6, putting the jutsu down to speed 10 (After the base increase from Jiton) but are treated as if it’s still Speed 16 for damage multiplication.
-
-* All Jiton techniques have their Chakra cost reduced by twice the total Charge Severity of the jutsu and target if they are opposites. And increased by the same amount if they are similar.
-
-* If a Jiton jutsu has no viable targets within its range, or if it isn’t a targeted jutsu. Then you can still pick somebody with Magnetize within CHA range and use them to determine Speed and Chakra cost reductions or increases of the Jutsu.
-
-* If a Jiton technique is used against multiple targets or has a Radius that reaches several targets with different Severities and Charges, then use the highest Severity to determine what Charge bonuses and penalties apply. If two or more of the Highest severity targets have the same severity but in different Charges, then pairs of opposites cancel each other out until one dominant Charge is left, or there are no more Charges and the Jutsu gains no penalties or bonuses. This does not actually remove the Charges from the targets, and any increases or decrease to the Charge after the attack lands still apply.
-
-* All Jiton techniques that parry may target all attacks regardless of tags or type.
-
-* If "Lightning Whip" or “Rock Smashing Staff” is turned into a Jiton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Charge of 1 or \-1. Max 1
-
-### Living Magnet Field
-{:#living-magnet-field}
-
-While you have at least 4 gallons of controlled Sand on the battlefield, you can spend 4 AP when targeted by a non-Genjutsu Attack to make a Ninjutsu Parry using Ninjutsu Accuracy. If successful, the Sand intercepts the attack. Against a melee attacker, you can move it 2 yards away from you after the defense resolves.
-
-### Magnetic Pressure
-{:#magnetic-pressure}
-
-Whenever opposite polarities interact through your Jiton rules, after resolving the normal movement and modifiers, if their combined Magnetize severity is 4 or higher you can either increase the forced movement by 3 yards or make the Jiton damage count as 10% higher for Wounding.
-
-### Magnetize
-{:#magnetize}
-
-Magnetize is, in truth, two different Status Effects, Positive Charge and Negative Charge, both of which represent the target having become Magnetized. There is no difference between the Positive and Negative charges of Magnetize except in how the two charges interact with each other. If a target is hit by a Positive or Negative Jiton jutsu they gain a charge of the appropriate type.
-
-A Magnetized target has their charge increase by 1 severity if a jutsu of the same charge strikes them. For example, Someone with Positive Magnetize 1 who's hit by a Positive Charge Jiton technique is elevated to Positive Magnetize 2\. However, if they are struck by a Jiton technique of the opposite Charge, then their Charge will decrease by 1 severity as one Charge cancels the other, up to possibly 0, becoming "Neutral" and losing the Magnetize Status Effect Entirely.
-
-The Severity of Positive and Negative Charges can only go up to a maximum of 3\.
-
-If you attack a Magnetized target with Jiton technique of the opposite Charge as theirs, then you gain a bonus to your Accuracy according to the total severity of each Charge. A Positive Charge 2 target attacked by a Negative Charge 1 Jiton attack gives a \+3 to ACC. However, an attack of the same Charge provides a penalty equal to the total severity of both charges as the two Positive or Negative Charges repel each other.
-
-Magnetize disappears completely an hour after the last time it was applied.
-
-### Prepared Sand Reserve
-{:#prepared-sand-reserve}
-
-A Jiton inheritor begins every mission with a sealed or carried reserve of metal-infused sand equal to 20 \+ CHA gallons. This reserve is replenished for free during normal downtime and cannot be sold. Drawing up to half of it into the battlefield is a Speed 2 action; drawing all of it is Speed 4\. If the character is already carrying it openly, no action is required.
-
-## Abilities
-{:#abilities-13}
-
-### Kazekage Education
-{:#kazekage-education}
-
-**Type:** Ability  
-**Base Cost:** 8  
-**Scale:** 6  
-**Limit:** 3
-
-**Effects**
-
-Gain \+1 per rank to Diplomacy and Research checks concerning military planning or settlement administration.
-
-When an ally within CHA/2 yards gains Knockback, Immobilization, or Cover from one of your effects, you can grant them 2 AP per rank, up to their maximum.
-
-This Ability grants no authority over other characters.
-
-## Jutsu
-{:#jutsu-13}
-
-**D-Rank**
-
-### Suna no Yoroi - Sand Armor
-{:#suna-no-yoroi-sand-armor}
-
-**Type:** Jiton Ninjutsu, Rank D  
-**Chakra:** 10 \+ X/2  
-**Upkeep:** 1 \+ X/10 (Rounded Up)  
-**Speed:** 10  
-**Seal Speed:** 10  
-**Tags:** Utility, Self, Creation
-
-**Effects**
-
-You craft any number of Armor pieces spending a collective of X Artisan Points up to your Chakra Control \- 5\. These are automatically worn and disappear into sand after being broken.
-
-The Armor Piece(s) gains the following effects:
-
-Its Absorption is tripled
-
-Its Durability is reduced to a third
-
-**C-Rank**
-
-### Jiton: Sabaku Kyū - Sand Coffin
-{:#jiton-sabaku-kyu-sand-coffin}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** \+8  
-**Speed:** \+4  
-**Tags:** Link, Control
-
-**Effects**
-
-Add this to a damaging Jiton Attack. On hit, consume 4 gallons of Sand and apply Immobilization equal to 2 \+ the Rank of the linked technique (E=1 through A=5), maximum 7\. If the Jiton already applies Immobilization, instead increase that status by 2\. Sand used this way remains attached to the target until the Immobilization ends, then returns to the battlefield.
-
-### Mujona Kaiho - Merciless World Order
-{:#mujona-kaiho-merciless-world-order}
-
-**Type:** Jiton Ninjutsu, Rank C  
-**Chakra:** 10  
-**Area:** CHA/2  
-**Upkeep:** 4  
-**Speed:** 4
-
-**Effects**
-
-As a Speed 5 Action, you can magnetize up to CHA\*2 weapons in the area that aren’t occupied. This gives them a Negative or Positive Charge of Severity 1\. If they are used in some form of an attack against somebody with the Magnetize Status Effect, then they will gain double the normal ACC bonus or Penalty depending on the charge. They, however, do not gain other effects such as the Speed Reduction or Increase.
-
-Every 10 IC, you can take a Speed 0 action to spend AP to make any number of attacks with these magnetized weapons. These weapons don't benefit from weapon-specific abilities but you can multi-throw using the normal rules to do so. After being used to attack a weapon loses its magnetism.
-
-This costs 1 AP per 2 Speed it would normally cost to attack with the weapon; the weapon uses its base Speed for damage purposes. This uses your CHA instead of DEX for Accuracy with a \-3 penalty, CHA for determining damage/damage bonus, and replaces the normal Stamina cost of the attack with an equivalent Chakra cost.
-
-Defenses declared against attacks from Merciless World Order do not advance initiative count, but the defense still needs to be speed legal to be used.
-
-**B-Rank**
-
-### Jiton: Sabaku Sōsō - Sand Burial
-{:#jiton-sabaku-soso-sand-burial}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 20 \+ 3X  
-**Damage:** X x 4d20  
-**Speed:** 20  
-**Delay:** 10  
-**Seal Speed:** 20  
-**Tags:** Attack, Control, Blunt, Slashing  
-**Requires:** Target suffering Immobilization from Sand Coffin
-
-**Effects**
-
-X is the target's Sand Coffin Immobilization, maximum 8\. This attack cannot be Dodged, because the Sand is already attached, though other valid defenses still apply. After resolving the attack, remove the Sand Coffin Immobilization. If it inflicts a Wound, also inflict a second Blunt Wound one severity lower, minimum Minor.
-
-### Jiton: Satetsu Shigure - Iron Sand Drizzle
-{:#jiton-satetsu-shigure-iron-sand-drizzle}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 34  
-**Speed:** 16  
-**Range:** 30  
-**Area:** 8  
-**Tags:** Attack, AoE, Projectile, Piercing
-
-**Effects**
-
-Consume 12 gallons of Sand and attack the entire area with needle-like metal grains. Damage is 12d10 and ignores 25% of Armor Absorption. Anyone hit becomes Magnetized 2 with a polarity of your choice.
-
-# Senju
-{:#senju}
-
-*The Senju name survives in Haven Ember as scattered families, broad training, and unusually resilient chakra rather than a ruling house. Rare descendants still manifest Mokuton, giving the Ember Corps a lineage that can build cover, restrain movement, and turn an empty battlefield into living terrain.*
-
-**Starting Features**
-
-* Senju begin with Elemental Aptitude for Suiton and Doton, and Elemental Affinity: Mokuton, which includes Suiton and Doton.
-
-## Passives
-{:#passives-7}
-
-### Body of the Forest
-{:#body-of-the-forest}
-
-Senju inherit more than elemental access. Increase maximum Vitality by RES x 3 and gain \+2 to Stamina rolls and \+1 to Chakra Exhaustion rolls. When you take the Rest action while touching Mokuton you created, recover an additional Vitality equal to RES/2. This healing cannot raise you above maximum and does not remove Wounds.
-
-### Mokuton - Wood Release
-{:#mokuton-wood-release}
-
-* \+3 Chakra cost, but \-1 to your CE penalty when casting
-
-* Suiton techniques that would create or require Gallons instead do not. For each Gallon that you would pay for a Suiton technique, you may instead increase the Chakra Cost of that Jutsu by 4, and it’s Seal Speed by 1\.
-
-* Suiton jutsu have its Gallon maximum increased by double the Rank of Jutsu, but any cost above the normal cap is doubled. Jutsu used in this way apply Sea of Thorns across their area.
-
-* Doton jutsu that apply Immobility or Rocky Terrain instead apply Sea of Thorns across their Area. All other Doton Jutsu create Seed’s equal to the Chakra/10 (rounded up).
-
-* Doton attacks have their final Area increased by 5, or gain an Area of 5\.
-
-* Whenever you create Sea of Thorns you can gain an irreducible Upkeep 2\. While you have this Upkeep, when a portion of that Sea of Thorns is destroyed it regenerates by each surviving Sea of Thorns spreading to its adjacent destroyed square at a rate of 1 Yard per IC.
-
-* If "Water-Cutting Blade" or “Rock Smashing Staff” is turned into a Mokuton Jutsu, then it gains the following Upgrade: (2) Missing an attack makes an Area 1 underneath the target that becomes Sea of Thorns 1\. \+1 area for every additional rank in this Upgrade.
-
-Sea of Thorns
-
-This is a Condition applied to an area as the Senju creates forests of vines covered in supernaturally sharp thorns that shred through anything. Senju are immune to all effects of Sea of Thorns.
-
-Anyone inside the affected area moving by any means or dodging, takes NDB\*(Yards moved inside the Area) Damage. And every cumulative 15 yards moved inside a “Sea of Thorns” area grants Immobility 1, or \+1, that fades 10 IC after exiting the Area. Dodging counts as moving 1 \+ Speed of Dodge yards for both damage calculations and the stacking immobilization.
-
-The area can be targeted by any damaging Area attack and each square Yard has HP equal to your CHA. Single target attacks deal 3 times their normal damage and any excess damage may have that damage carried over to the next square. Area jutsu targets each square in its area as normal.
-
-Elements that are strong against Mokuton are treated as dealing twice the amount of damage.
-
-## Abilities
-{:#abilities-6}
-
-*No Heritage-specific purchasable abilities.*
-
-## Jutsu
-{:#jutsu-6}
-
-**D-Rank**
-
-### Jukai Shinshoku - Sea of Trees Erosion
-{:#jukai-shinshoku-sea-of-trees-erosion}
-
-**Type:** Mokuton Ninjutsu, Rank D  
-**Chakra:** 10 \+ X/3  
-**Speed:** Variable  
-**Seal Speed:** 12  
-**Tags:** Utility
-
-**Effects**
-
-Choose an instance of Sea of Trees on the battlefield. You move that Environmental Effect X Yards at a rate of CHA/80 Yards per IC spent using this jutsu. For every Yard moved, this increases the Yard count of anyone inside the Sea of Thorns for applying Immobility only. However, this method cannot increase Yards moved past Immobility 3\.
-
-**C-Rank**
-
-### Moku Bunshin no Jutsu - Wood Clone Technique
-{:#moku-bunshin-no-jutsu-wood-clone-technique}
-
-**Type:** Mokuton Ninjutsu, Rank C  
-**Upkeep:** 3\*X  
-**Speed:** 10 \+ 3\*X  
-**Cost:** 1 Willpower per clone  
-**Tags:** Utility, Clone
-
-**Effects**
-
-You create X Wood clones up to 3, which follow most normal rules for clones, but have your CHA as HP and do not suffer wounds. They may perform any action you normally could, by spending 1 AP per 3 Speed of that action. Wood clones may not take actions with a chakra or stamina cost greater than 15+(your RES for taijutsu, or CHA for ninjutsu)/10.
-
-Wood clones have your mind, and can act independently. You are aware of their location, and they yours, though your senses are not linked. You can reabsorb a 'living' wood clone by touching it, in which case you 'download' all its memories.
-
-### Mokuton: Mokujōheki - Wood Dome Wall
-{:#mokuton-mokujoheki-wood-dome-wall}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** 24  
-**Speed:** 8  
-**Seal Speed:** 14  
-**Tags:** Interrupt, Utility, Ground-Based
-
-**Effects**
-
-Raise a curved wooden shell around yourself and allies within 3 yards. It has HP equal to CHA x 5 \+ RES x 3 and DR equal to CHA/5. It may intercept one incoming attack as part of its creation. Anyone inside may leave normally; enemies must destroy or bypass it.
-
-**B-Rank**
-
-### Mokuton: Jukai Koutan - Wood Release: Nativity of a Sea of Trees
-{:#mokuton-jukai-koutan-wood-release-nativity-of-a-sea-of-trees}
-
-**Type:** Mokuton Ninjutsu, Rank B  
-**Chakra:** 5 \+ X  
-**Range:** NDB\*5  
-**Area:** X  
-**Speed:** 8  
-**Seal Speed:** 16  
-**Tags:** Attack, AoE, Environmental
-
-**Effects**
-
-This overwrites any terrain-based effects on the area it's used on. By changing the cost to 5 \+ X\*2, it can be used to create a one-story building. The complexity of this building is determined by your Chakra Control:
-
-At 10 Chakra Control or less, it's more like a crude bundle of tree trunks and branches that will at least keep most of the rain out.
-
-From 11 \- 20, it's about as well-built as a log cabin, with up to three rooms.
-
-At 21 \- 30, it could actually pass for a real building, aside from the lack of anything made of metal.
-
-At 31+ Chakra Control, you can add a second story to the building.
-
-### Mokuton: Mokuryū - Wood Dragon
-{:#mokuton-mokuryu-wood-dragon}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 36  
-**Upkeep:** 6  
-**Speed:** 18  
-**Seal Speed:** 24  
-**Range:** 25  
-**Tags:** Attack, Projectile, Grapple, Control
-
-**Effects**
-
-Create a wooden dragon that makes a Grapple attack using your Ninjutsu Accuracy and CHA in place of STR. On a successful grapple, the target suffers Immobilization 4\. At the end of each 10 IC it remains grappled, increase its next Chakra Exhaustion penalty by 2 and reduce the dragon's Upkeep by 1, minimum 2, as it feeds on the target's leaking chakra.
-
-**A-Rank**
-
-### Mokuton: Kajukai Kōrin - Advent of Flowering Trees
-{:#mokuton-kajukai-korin-advent-of-flowering-trees}
-
-**Type:** Ninjutsu, Rank A  
-**Chakra:** 50  
-**Upkeep:** 10  
-**Speed:** 28  
-**Area:** 20  
-**Tags:** Utility, AoE, Environmental, Ground-Based
-
-**Effects**
-
-Create a flowering forest. It counts as your Mokuton for Body of the Forest and provides heavy cover. Hostile creatures entering or beginning an Action within the area make Resistance against your Chakra Control. Failure applies Drowsy 2; a target already Drowsy increases its severity by 1, maximum 6\. This effect can occur only once per target per 10 IC.
-
-# Shakuton
-{:#shakuton}
-
-***RARE KEKKEI GENKAI***
-
-*Scorch Release appears only rarely among Haven Ember families, combining Fire and Wind into murderous dry heat. Ember Corps doctrine treats Shakuton as a bloodline rather than a surname: a specialist inheritance built around penetration, dehydration, and controlling how long an enemy can keep spending resources in the heat.*
-
-## Passives
-{:#passives-16}
-
-### Dehydration
-{:#dehydration}
-
-You are suffering from extreme Dehydration, with the moisture literally stripped out of your cells, causing skin and bone to become brittle and sapping them of vigor. For every 3 stacks of Dehydrate, your Wounding thresholds are reduced by 5% and the amount of AP you gain every 20 ICs reduced by 1\.
-
-Every 10 IC you reduce your Dehydration by 1 and when you advance a fatigue level, you halve your Dehydration Status (Rounding up). Additionally, as Speed (X \* 2\) Action, you can drink X gallons of water from a container or from linking Water Creation Technique to the action (not off the battlefield; have some dignity\!), which removes X \* 2 points of Dehydration.
-
-Shrivel
-
-Your very Chakra is calamitous to others’ existence, with a simple burst of intense Scorch Release you can cause water to evaporate and plant-life to wither. This is a Speed 8 action, and removes X\*3 gallons of water from the battlefield, with a Chakra cost of 5+X. The maximum for X is CHA/10.
-
-This cannot target water used as part of a sustained jutsu (i.e. one with an Upkeep). It affects things similar to Gallons of Water, such as Yuki clan's Ice and Senju’s Seeds, but only at half effectiveness. For example, if you were to have X=10, then you’d remove 15 Gallons of Ice or 15 Seeds. Rather than the full 30\.
-
-### Dehydration Pressure
-{:#dehydration-pressure}
-
-A creature at Dehydration 4 or higher cannot benefit from regeneration. At Dehydration 6 or higher, all healing it receives is halved. These effects end immediately when Dehydration falls below those thresholds.
-
-### Scorch Is Lethal
-{:#scorch-is-lethal}
-
-Against a target at Dehydration 3 or higher, damaging Shakuton counts as 10% higher for Wounding. Shakuton retains its normal strengths, weaknesses, and counterplay.
-
-### Scorch Orbs
-{:#scorch-orbs}
-
-At the start of combat, or as a Speed 8, Chakra 15 action, create three Scorch Orbs, maximum 3+(XP/800). They orbit you until spent or the scene ends. You can spend one Orb for one of the following:
-
-* Pursuit: \+2 Accuracy to one Shakuton Attack.
-
-* Heat Shield: when targeted by an Attack, gain DR 15 against that attack.
-
-* Desiccate: after you hit with Shakuton, increase Dehydration inflicted by 1, maximum normal limits.
-
-Creating new Orbs while any remain restores the total to three rather than adding more.
-
-### Shakuton Conversion
-{:#shakuton-conversion}
-
-Combining fire and wind chakra results in the advanced nature of Shakuton, or “scorch release”; as the name suggests, it involves using extreme heat as a weapon, with powerful users being able to reduce opponents to ash or evaporate the liquid inside their body.
-
-Any Katon or Fuuton Technique may be converted to Shakuton, with the following effects:
-
-* \+5 Chakra cost
-
-* Ignores half of the target's DR, and ignores Armor.
-
-* Shakuton Techniques receive \+(CHA/30) Accuracy Bonus to a max of jutsu rank
-
-* Whenever a Shakuton Damage Dealing Technique hits a target, it applies a Dehydration status of severity equal to the Rank of the jutsu.
-
-* Dehydration may not be increased past 3+CHA/8.
-
-* Katon transformed Shakuton Techniques do not inflict Ignite or Burns. Instead, they deal \+5% more Wounding for every stack of Burn and \+10% for each stack of Ignite.
-
-* Fuuton transformed Shakuton Techniques do not have their inherent Wounding bonuses (The Wounding bonus from Shakuton, Uniques, and Abilities is still applied, however). Instead, those Techniques gain a Stun equal to (Wounding Bonus)%/15, rounded up. 
-
-* If "Burning Spear Technique" or “Fan of Wind” is turned into a Shakuton Jutsu, then it gains the following Upgrade: (4) Your weapon gains a Dehydration \+(Rank of weapon jutsu used) from this weapon. Max 1
-
-## Abilities
-{:#abilities-15}
-
-*No Heritage-specific purchasable abilities.*
-
-## Jutsu
-{:#jutsu-15}
-
-**C-Rank**
-
-### Kasou no Jutsu - Cremation Technique
-{:#kasou-no-jutsu-cremation-technique}
-
-**Type:** Shakuton Ninjutsu, Rank C  
-**Chakra:** 20  
-**Range:** CHA/2  
-**Speed:** 12  
-**Seal Speed:** 8
-
-**Effects**
-
-This technique makes no Accuracy Roll. Instead, the target makes the normal opposed Status Check against the technique. On failure, they gain Ignite equal to their current Dehydration, maximum Ignite 6\. Then halve their current Dehydration, rounded down. Effects that specifically protect against Status Attacks apply normally.
-
-### Shakuton: Kajōsatsu - Scorching Murder
-{:#shakuton-kajosatsu-scorching-murder}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** 24  
-**Speed:** 10  
-**Range:** 20  
-**Tags:** Attack, Projectile, Energy
-
-**Effects**
-
-Spend one Scorch Orb and attack a single target. Deal 8d10 Energy damage. On hit apply Dehydration 2; if the target already has Dehydration, increase it by another 1\. If the attack inflicts a Wound, the target also takes irreducible HP damage equal to 5 \+ twice its Dehydration severity.
-
-**B-Rank**
-
-### Sabaku no Keshin - Incarnation of Desert
-{:#sabaku-no-keshin-incarnation-of-desert}
-
-**Type:** Shakuton Ninjutsu, Rank B  
-**Chakra:** 21  
-**Upkeep:** 6  
-**Speed:** 12  
-**Seal Speed:** 14  
-**Area:** NDB \* 3 centered on self.
-
-**Effects**
-
-Change the Weather Condition within the Area to Extreme Heat. Everyone within the area except you has to roll a 5+(your CHA/8) TN Stamina Check when you activate this technique, and every 20 ICs they spend inside of it.
-
-Furthermore, the heat makes explosive expenditure difficult. Whenever a creature other than you spends AP during an Action or Clash Beat, the first 5 AP it spends during that declaration each cost 1 additional AP. This surcharge cannot exceed 5 AP on a single Action or Beat. Once per Action or Beat after that creature spends AP, it takes unreducible damage equal to twice its current Dehydration, maximum 10\. A creature with 0 Dehydration takes no damage from this effect.
-
-### Shakuton: Taiyōrin - Solar Halo
-{:#shakuton-taiyorin-solar-halo}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 30  
-**Upkeep:** 5  
-**Speed:** 10  
-**Tags:** Utility, Self
-
-**Effects**
-
-Immediately create three Scorch Orbs. While maintained, the first Orb you spend on each Action or Interrupt is not consumed. Enemies entering melee range from outside it take Energy damage equal to CHA and gain Dehydration 1\.
-
-**A-Rank**
-
-### Shakuton: Sōshiki Taiyō - Funeral Sun
-{:#shakuton-soshiki-taiyo-funeral-sun}
-
-**Type:** Ninjutsu, Rank A  
-**Chakra:** 45  
-**Speed:** 24  
-**Area:** 12  
-**Tags:** Attack, AoE, Energy
-
-**Effects**
-
-Consume all Scorch Orbs. Deal 10d12 Energy damage plus 4d12 per Orb consumed. Apply Dehydration equal to 1 \+ Orbs consumed. Targets already at Dehydration 4+ treat the damage as 25% higher for Wounding.
-
-# Uzumaki
-{:#uzumaki}
-
-*Uzumaki bloodlines are prized in Haven Ember for the same reasons old powers feared and courted them: vitality, reserves, and sealing talent. Within the Ember Corps they are natural binders, ward-makers, jailers, and rescue specialists trusted with problems that become catastrophic if containment fails.*
-
-**Starting Features**
-
-* Uzumaki may start with Elemental Affinity for Sealing Jutsu.
-
-* As an Uzumaki, you can learn your Clan Jutsu regardless of Keywords.
-
-## Passives
-{:#passives-9}
-
-### Adamantine Heritage
-{:#adamantine-heritage}
-
-Kongō Fūsa \- Adamantine Sealing Chains is part of the Uzumaki lineage rather than a separate purchase. Over the course of an IC month, you can bond with one chain, enhancing it with the power of your soul. Bonding to your first chain does not permanently reduce maximum Willpower. You can end your bond as a Downtime Action, and can bond additional specialised chains only if another rule permits it. While you are in contact with your Bonded Chain, you have complete control over each link.
-
-Your Bonded Chain has its Artisan Points increased to a total cap of 2 \+ (XP/400), which you can spend following the normal reforging rules. It requires no hands to hold, but you cannot hold another weapon while controlling it. All Uzumaki Clan Jutsu require your Bonded Chain. Any Sealing Jutsu cast through it is applied to its WDP according to the Jutsu's Chakra cost. While you have any HP remaining, the Chain cannot be destroyed. If anybody else holds it, it loses all features of Adamantine Heritage.
-
-The Chain counts as extra limbs for Grapple actions and can perform Disarm, Grab, and Restrain using CHA in place of STR. A creature Restrained by an Adamantine Chain suffers \-2 on Chakra Exhaustion rolls.
-
-When a creature Restrained by your Bonded Chain spends Chakra on an Action or attempts to Escape, gain 1 Tension on that creature, maximum 3\. Before that creature declares another Chakra-costing Action, you can spend 1 Tension; it chooses either to increase that Action's final Speed by 3 or increase its Chakra cost by 5\. Before it declares an Escape, you can instead spend 1 Tension to increase the Escape's final Speed by 3\. A successful Escape removes all Tension on that creature. Upkeep and passive Chakra loss do not generate Tension.
-
-### Uzumaki Life Force
-{:#uzumaki-life-force}
-
-Increase maximum Vitality by RES x 3, maximum HP by CHA x 2, and gain \+3 to Chakra Exhaustion rolls. Once per combat, when a Chakra Exhaustion failure would advance your Fatigue, you can take HP damage equal to CHA instead and reduce that Fatigue increase by 1 category.
-
-## Abilities
-{:#abilities-8}
-
-### Secondary Reserves
-{:#secondary-reserves}
-
-**Type:** Ability  
-**Base Cost:** 5  
-**Scale:** 2  
-**Limit:** 1 \+ (Chakra Control Ranks / 7\)
-
-**Effects**
-
-You have a secondary fatigue pool with a bonus equal to your ranks in this ability which cannot be increased by anything. You can use this pool to pay for any chakra or stamina cost as if you were rolling for fatigue normally.
-
-It accrues Fatigue penalties separately from your Stamina and Chakra Exhaustion, and any penalty increase it suffers is increased by 2\. These penalties are neither Stamina Penalty nor Chakra Penalty and cannot be reduced by effects that target those resources unless an effect explicitly states that it can reduce Secondary Reserves.
-
-Failing a fatigue roll with this ability causes you to advance 1 less fatigue level without removing your fatigue penalties to your Stamina or Chakra Exhaustion and shuts this reserve for the remainder of the day.
-
-## Jutsu
-{:#jutsu-8}
-
-**D-Rank**
-
-### Kingusari no Jutsu - Golden Chain Technique
-{:#kingusari-no-jutsu-golden-chain-technique}
-
-**Type:** D Rank \- Sealing  
-**Stamina:** As Weapon \+ 5  
-**Chakra:** \+5  
-**Delay:** As Weapon  
-**Accuracy:** As Weapon  
-**Tags:** Link
-
-**Effects**
-
-This is added on to any Sealing jutsu with the Mark Tag increasing its range to the base range of your Chain \+ 5\. This gives the jutsu the projectile tag (removing its melee tag if it had one). You do not need to perform handseals for this jutsu, instead increase the delay of this jutsu for every IC of handseals you would have to perform.
-
-### Kusari Gitai - Chain Mimicry
-{:#kusari-gitai-chain-mimicry}
-
-**Type:** D Rank \- Bukijutsu  
-**Chakra:** 10 \+ X\*5  
-**Delay:** \+X\*3  
-**Tags:** Chain
-
-**Effects**
-
-You temporarily create X additional copies of your chain to a maximum of Chakra Control Ranks / 10\. Then you make a Dual-Wield attack using all the Chains (including your base) with each treated as an individual weapon.
-
-**C-Rank**
-
-### Kagura no Inochi - Life-Force Transfer
-{:#kagura-no-inochi-life-force-transfer}
-
-**Type:** Medical Ninjutsu, Rank C  
-**Chakra:** 20  
-**Speed:** 12  
-**Tags:** Utility, Healing, Melee
-
-**Effects**
-
-Touch a willing target. Lose up to CHA HP and restore five times that amount as Vitality to the target. For every 10 HP you give, the target may also reduce one Poison, Bleed, or Burn severity by 1\. This cannot restore your own Vitality and cannot transfer more HP than would leave you at 1 HP.
-
-### Kongō Fūsa - Chakra Suppression Lock
-{:#kongo-fusa-chakra-suppression-lock}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** 22  
-**Speed:** 10  
-**Range:** Chain Range  
-**Tags:** Attack, Grapple, Sealing, Control  
-**Requires:** Adamantine Sealing Chains
-
-**Effects**
-
-Make a Grapple attack with a chain. On success, in addition to normal Grapple effects, the target gains Sealed Chakra 2\. While it remains Grappled by the chain, each failed Chakra Exhaustion roll increases Sealed Chakra by 1, maximum 6\. Sealed Chakra is a penalty to Chakra Exhaustion and Seal Speed. It falls by 1 whenever the target successfully uses Break Grapple, Rest, or spends a Speed 6 action to force their chakra through the seal.
-
-### Kongō Kekkai - Adamantine Barrier
-{:#kongo-kekkai-adamantine-barrier}
-
-**Type:** C Rank \- Sealing  
-**Upkeep:** X\*3  
-**Delay:** As Weapon  
-**Accuracy:** As Weapon  
-**Tags:** Link
-
-**Effects**
-
-X is the Rank of Jutsu linked. This is added on to any Sealing jutsu with the Barrier Tag increasing its range to the base range of your Chain \+ 5\. The chain substitutes its Seals cost and can account for up to Artisan Points /7 seals (+1 for large or extreme) which may be placed in any valid location connected to the original seal even if it’s outside the range of this jutsu. The maximum distance between each seal is half your normal amount. Even if the Seals provided by this jutsu is higher than the amount required, the Barrier applies to each seal equally.
-
-From its initial activation until it ends you must use a Variable Action to maintain this technique, and taking any other action aside from Moving at half Speed breaks it. You must remain within range of one edge of the Barrier. While this Barrier is maintained you lose access to your Bonded Chain.
-
-**A-Rank**
-
-### Shishō Kekkai - Four-Corner Adamantine Barrier
-{:#shisho-kekkai-four-corner-adamantine-barrier}
-
-**Type:** Fūinjutsu, Rank A  
-**Chakra:** 45  
-**Upkeep:** 10  
-**Speed:** 22  
-**Seal Speed:** 28  
-**Area:** 12  
-**Tags:** Utility, Barrier, Sealing
-
-**Effects**
-
-Four chains anchor around the area and form a barrier with HP equal to CHA x 8 \+ RES x 4\. Teleportation, Summoning, and Space-Time effects cannot cross it unless their user wins an opposed Chakra Control roll against you. Hostile creatures inside suffer \-2 Chakra Exhaustion; allies gain \+2 Resistance against possession, forced transformation, and sealing effects.
-
-# Yōton
-{:#yoton}
-
-***RARE KEKKEI GENKAI***
-
-*Lava Release survives in Haven Ember in several expressions \- magma, molten stone, volcanic pressure, and heat driven through solid terrain. The Ember Corps treats Yōton users as dangerous terrain-makers first and simple firepower second: once they commit, the ground itself becomes part of the attack.*
-
-**Starting Features**
-
-* A Yōton inheritor begins with Elemental Aptitude for Katon and Doton, and Elemental Affinity: Yōton, which includes Katon and Doton.
-
-## Passives
-{:#passives-21}
-
-### Heat-Born
-{:#heat-born}
-
-Gain 2 ranks of Heat Resistance at no XP cost. You are immune to environmental damage from your own Yōton creations.
-
-### Volcanic Expression
-{:#volcanic-expression}
-
-When you choose Yōton, choose one expression of the bloodline. This choice can be changed only through major retraining.
-
-* Magma: Your Yōton keeps its normal Magma environmental effects. Damaging Yōton counts as 20% higher for Wounding against a target standing in your Magma. When you damage a creature standing in your Magma, increase that Magma's severity against it by 1 for its next damage tick.
-
-* Quicklime: Your Yōton does not create Magma. Instead, when a target is hit by your damaging Yōton, apply Immobilization 3\. A target already affected increases that status by 2, maximum 8\. As a Speed 5 Utility Action, a creature can make a Resistance roll against your Chakra Control, removing 2 Quicklime-Based Immobilization affecting them, and an additional 1 for every 5 they beat your roll by.
-
-* Rubber: Your Yōton does not create Magma and its damage type becomes Blunt. Defensive Yōton barriers block 40% more final damage, and damaging Yōton applies Knockback 5\. When your Rubber Yōton causes forced movement, you can redirect that movement by up to 90 degrees.
-
-## Abilities
-{:#abilities-20}
-
-### Heat Resistance
-{:#heat-resistance}
-
-**Limit:** 1+RES/30
-
-**Effects**
-
-The Yōton user reduce any Ignite, or Ignite-like effects (such as Blaze), that they take by 1 per rank in this Ability and halve all damage from Magma. Furthermore, the first time you take this, you gain the ability to touch any small to medium sources of fire without burning yourself (such as torches, campfires, stoves, furnaces, etc). Besides resisting Ignite better, This does not help in any way against Katon attacks (don't even ask if it can).
-
-Yōton Conversion
-
-Combining earth and fire chakra results in the advanced nature of Yoton, or “Lava Release”; a cataclysmically destructive nature release which involves bringing raging rivers of magma and sulfur from the very cores of the earth to melt your enemies, or creating them yourself.
-
-Any attack Doton or Katon Technique may be converted to Yoton, with the following effects:
-
-* \+5 Chakra cost
-
-* Yoton always deals Energy damage.
-
-* For elemental strengths, weaknesses, negation, and suppression, Yōton counts as both Katon and Doton.
-
-* A converted Yōton technique retains the parent Element it was converted from (Katon or Doton) for prerequisites and effects that explicitly require or trigger from that Element. For all other purposes, it is Yōton.
-
-* Yoton techniques have their Base Speed increased by Rank of Jutsu for all purposes.
-
-* Doton transformed Yoton techniques gain a \-2 Accuracy and have their Area increased by \+5. Non-Area Doton attacks instead gain an Area of 5 and the appropriate tag.
-
-* Doton transformed Yoton Techniques lose any Immobility or Rocky Terrain replaced with Magma of the same severity applied over its area. A technique without Immobility or Rocky Terrain gains Jutsu Rank/2 (rounded up) Magma across its area.
-
-* You can cause any Katon transformed Yoton Attack to apply to the area of a Magma field (removing its previous range and/or Area). Doing so removes the \-2 penalty from Gates of Brimstone.
-
-* If "Burning Spear Technique" or “Rock Smashing Staff” is turned into a Yoton Jutsu, then it gains the following Upgrade: (5) Missing an attack makes an Area 1 underneath the target that becomes Magma 3 \+3 area for every additional rank in this Upgrade
-
-Magma
-
-This is a Status Effect applied across its entire Area that lasts for 10 \+ Chakra Control/5 \+ 5 per Rank of the Jutsu used to apply it IC. If multiple Magma fields overlap, add half the lower Severity to the highest field for damage only; overlapping fields do not create multiple damage ticks. Movement across Magma is reduced by Magma Severity × 5%. A creature takes Energy Damage equal to CHA/50 \+ Magma Severity when Magma is first created beneath it or when it enters the field, and again for every 5 IC it remains inside. This damage ignores half of DR rather than all DR.
-
-## Jutsu
-{:#jutsu-19}
-
-**E-Rank**
-
-### Caustic Passion
-{:#caustic-passion}
-
-**Type:** E Rank \- Yoton Ninjutsu  
-**Chakra:** 10  
-**Speed:** 5  
-**Tags:** Utility
-
-**Effects**
-
-You melt any unoccupied (Not carried or used by anybody) non-Chakra Reinforced (Such as from the Strengthening Seal) metallic or rocky object or material within CHA/2 yards. The size of this object can be no larger than 1 cubic foot.
-
-Or you can render up to CHA/10 Projectile Weapons you can see or know the location of useless, melting them just enough to be rendered ineffective. If the weapons are hidden, you'll need to discover their existence beforehand to destroy them. This power cannot work on Puppets or the Weapons held by Puppets as they are both considered Chakra Reinforced.
-
-**D-Rank**
-
-### Lava Release: Gates of Brimstone
-{:#lava-release-gates-of-brimstone}
-
-**Type:** D Rank \- Yoton Ninjutsu  
-**Chakra:** \+4, \+1 per Rank  
-**Accuracy:** \-2  
-**Speed:** \+2  
-**Seal Speed:** \+4  
-**Tags:** Link, Environmental, Ground-Based
-
-**Effects**
-
-This may be added to any Damage-Dealing Katon or Yoton Technique. The target has their DR reduced by the rank of jutsu this is linked to \+1 per severity of wounds applied. This lasts for 20 IC and the duration resets whenever the target is hit by a Yoton jutsu.
-
-While a target’s DR is below 0, that negative amount is instead added to any damage dealt including damage which would normally ignore DR. So if a tick of Magma would normally deal 4 damage, someone with \-3 DR would take 7 damage per tick.
-
-**C-Rank**
-
-### Yōton: Yōgan Yoroi - Lava Armour
-{:#yoton-yogan-yoroi-lava-armour}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** 24  
-**Upkeep:** 5  
-**Speed:** 10  
-**Tags:** Utility, Self
-
-**Effects**
-
-Coat your body in your chosen Yōton expression. Gain DR 15\. When a melee attacker hits you, it takes CHA Energy or Blunt damage according to your expression and suffers its expression rider. Rubber instead gives DR 25 but deals no retaliation damage.
-
-**B-Rank**
-
-### Lava Release: Nine Hells Erupting Armageddon
-{:#lava-release-nine-hells-erupting-armageddon}
-
-**Type:** B Rank \- Yoton Ninjutsu  
-**Chakra:** 36  
-Special Upkeep: 10
-
-**Damage:** 10d20\!\>8  
-**Range:** Special  
-**Area:** 15  
-**Speed:** 20, Delay 15  
-**Seal Speed:** 23  
-**Special:** Magma 8, Ignite 12
-
-**Tags:** Attack, AoE, Energy, Environmental
-
-**Effects**
-
-You cause 3 spots in the battlefield that are no less than 20 yards away from each other to erupt into miniature volcanos of either flames or molten magma. Each of these eruptions is treated as its own attack that must be defended against individually. For the sake of techniques such as "Smokescreen" or "Gates of Brimstone" each chosen spot creates its own instance of that technique, though you only pay the cost for them once, not three times.
-
-So long as the upkeep is maintained, those three chosen spots will erupt again every 15 ICs later at no extra cost to you. These extra eruptions are treated as a Speed 15 Attack, use your base ACC at Fatigue 0, and deal 5d20\!o\>16. Each eruption reapplies the Magma but has its severity reduced by 2 each time. So the first eruption would be Magma 6, then 4, and 2\. When Magma is reduced to 0 this jutsu ends.
-
-### Yōton: Kazanryū - Volcanic Surge
-{:#yoton-kazanryu-volcanic-surge}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 34  
-**Speed:** 18  
-**Range:** 20  
-**Area:** Line 6, 20  
-**Tags:** Attack, AoE, Ground-Based
-
-**Effects**
-
-Deal 10d12 damage appropriate to your expression and leave the line transformed for 20 IC. Magma becomes damaging terrain, Quicklime becomes Immobilizing terrain, and Rubber becomes elastic terrain that doubles forced movement and allows allies to bounce 5 yards as part of movement.
-
-**A-Rank**
-
-### Yōton: Karyū Shōten - Eruption Ascendant
-{:#yoton-karyu-shoten-eruption-ascendant}
-
-**Type:** Ninjutsu, Rank A  
-**Chakra:** 48  
-**Speed:** 26  
-**Area:** 15  
-**Tags:** Attack, AoE, Environmental
-
-**Effects**
-
-Erupt the battlefield beneath the target area, dealing 12d12 damage. For 30 IC the area remains an extreme version of your Expression: Magma inflicts 3d10 Energy on anyone moving through 3+ yards of it; Quicklime applies Immobilization 2 each 5 IC spent within; Rubber grants you control over knockback, allowing you to redirect any forced movement inside the area by up to 90 degrees.
-
-# Yuki
-{:#yuki}
-
-***CANON CLAN \- RARE***
-
-*Yuki families in Haven Ember preserve Hyōton as a rare Water-and-Wind inheritance. Ember Corps users are taught to think in geometry: mirrors, frozen surfaces, projectiles, and temporary structures that alter sightlines and movement until the enemy is fighting the shape of the ice instead of the person who made it.*
-
-**Starting Features**
-
-* Yuki begin with Elemental Aptitude for Suiton and Fuuton, and Elemental Affinity: Hyōton, which includes Suiton and Fuuton.
-
-## Passives
-{:#passives-24}
-
-### Hyouton - Ice Release
-{:#hyouton-ice-release}
-
-Yuki have the ability to use one of the coolest advanced chakra natures: ice release. This is obtained through a combination of water chakra and wind chakra. Ice Release combines the flexibility of water with the penetrating power of wind. You can convert any Suiton or Fuuton technique into a Hyouton technique, with the following effects:
-
-* \+8 Chakra cost.
-
-* Blocking reduces the damage from Hyouton techniques by 25%
-
-* Unless an individual jutsu specifies otherwise, Hyouton inflicts Piercing wounds.
-
-* Hyouton's damage for the purpose of wounding is considered 15% higher, which stacks additively with any existing increases on converted jutsu (50%+15% \= 65%).
-
-* When you would inflict a wound with a Hyouton technique, you may instead decide not to, and inflict a “Permanent” Freeze to the limb the wound affected. Each leg affected this way can hold up to Immob 3, each Hand may hold up to Immob 3, for a total of 12 Immob applied to a target. Applied to the head or torso, this applies Suffocation without a limit. When the wound is applied, compared the location to the relevant Freeze effect (Immob for Legs and Arms, Suffocation for Torso and Head), and apply a severity equal to the wound category (Major=1,Severe=2,Critical=3). The Legs can only ever give a total of 6 Immob, as well as the arms. The Suffocation applied this way can fade naturally, but the Frozen Arms and Leg immob remains until the creature spends atleast an hour in a hot area thawing. 
-
-* You can forgo rolling any or all damage dice when using a Hyouton Technique. Instead, treat those dice as though they rolled their average result, rounded down (IE; a d4 would be a 2, a D6 a 3…). You must make the decision of how many dice to convert before you roll damage.
-
-* Fuuton converted into Hyouton may not be used with a fan, and gains a gallon-of-water requirement equal to a third of its chakra cost.
-
-* Gallons of Ice may be used instead of Gallons of Water to pay any part of the Jutsu’s Cost.
-
-* Anything that creates Gallons of Water instead creates Gallons of Ice.
-
-* Hyouton that use Ice to pay for its cost, or that create Ice, that hit an opponent apply an Immobilize penalty based on its Rank (E \= 1, D \= 2, C \= 3, B \= 4, A \= 5). This penalty fades at a rate of 1 per 10 IC since the opponent was last hit with a Hyouton Jutsu. This only applies once per casting, even on persistent damage effects. 
-
-* If "Water-Cutting Blade" or “Fan of Wind” is turned into a Hyouton Jutsu, then it gains the following Upgrade: (3) Your weapon attacks count as Hyouton Jutsu for the purpose of fading Immobilize penalties.
-
-### Living Ice
-{:#living-ice}
-
-As a Speed 1 Action, freeze or liquefy up to 2 gallons of water you can see within CHA/2 yards. This cannot directly damage a creature or destroy an attended object. 
-
-While within 2 yards of Ice you created, gain \+2 Dodge and \+20% movement. When you enter Ice you created, you can move an additional 3 yards without increasing your IC. Your own Ice never imposes difficult terrain or Immobilization on you unless a technique explicitly says it does.
-
-Hyōton conversion costs are reduced by 2 Chakra, minimum \+1. Ice structures you create gain 25% more HP and Durability.
-
-### Suitenhoufukyuu - Water Sky Convergence
-{:#suitenhoufukyuu-water-sky-convergence}
-
-You can use any water scattered about the battlefield to fuel your Suiton or Hyouton techniques, even if it’s normally inaccessible. This does allow you to seize control of someone else's water or techniques. Even if it's in a container, or is infused with someone's chakra, it's not off limits
-
-You can take a Speed X action, with a Chakra cost of 5+2\*X, to freeze or liquify (CHA/30, minimum 1)\*X gallons of water on the battlefield. Ice may not be used in Suiton techniques; it can, however, be used to perform Hyouton (including Suiton jutsu which you have converted into Hyouton).
-
-You can perform Suiton (but not Hyouton) jutsu without hand seals, by adding (the base Seal Speed \- CHA/10)/2, rounded up, to the action's base Speed. Normal alterations to Seal Speed (such as from Ninjutsu Specialist) do not apply to this ability.
-
-There are even legends of Yuki once being able to drop rivers on people.
-
-## Abilities
-{:#abilities-23}
-
-*No Heritage-specific purchasable abilities.*
-
-## Jutsu
-{:#jutsu-22}
-
-**D-Rank**
-
-### Hijutsu: Sensatsu Suishou - Secret Technique: Thousand Flying Water Needles
-{:#hijutsu-sensatsu-suishou-secret-technique-thousand-flying-water-needles}
-
-**Type:** Suiton Ninjutsu, Rank D  
-**Chakra:** 16  
-**Damage:** (CHA/8)d10  
-**Range:** CHA/3  
-**Speed:** 12  
-**Seal Speed:** 12  
-Gallon: 1 per 1d10
-
-**Tags:** Attack, Projectile, Piercing
-
-**Effects**
-
-This technique's damage is considered 25% higher for the purpose of inflicting wounds, and it always inflicts Piercing wounds. If it wounds an enemy, it also applies one wound of the next-lower rank.
-
-**C-Rank**
-
-### Hijutsu: Makyo Hyosho - Secret Technique: Demonic Mirror Ice Crystals
-{:#hijutsu-makyo-hyosho-secret-technique-demonic-mirror-ice-crystals}
-
-**Type:** Hyoton Ninjutsu, Rank C  
-**Chakra:** 15+X/2  
-**Upkeep:** X/2  
-**Range:** CHA/4  
-**Speed:** 12  
-**Seal Speed:** 10+X/2  
-**Requires:** X\*2 Gallons of Water and/or Ice in any combination  
-**Tags:** Utility, Environmental
-
-**Effects**
-
-You create X Demonic Ice Mirrors. These remain stationary on the battlefield, even floating mid air. They are one yard wide, two yards tall, and a few inches thick. They may be attacked, but you must deal CHA\*2 Damage in a single attack to destroy one (otherwise they just regenerate). While within 1 yard of a Mirror you can step into it and out any other mirror at will. Practically speaking, this means that you can go from one mirror to any other mirror using only 1 yard of movement, and you can draw range and line of sight from any of the other mirrors. This includes taking the Observe action (which is done from every Mirror) and things like Dodge, where you can calculate your movement versus an AoE as beginning at any Mirror.
-
-If X is 20 or higher, this Jutsu forms a cage around an area. Stop tracking individual Ice Mirrors. Instead note a space on the battlefield as being the Cage, which has a Radius of up to your CHA/4 Yards. While within this area, the user steps into the Mirrors and begins bouncing between the Mirrors too quickly for the eye to see. This grants the following benefits:
-
-* The user enters Level 1 Stealth, and may perform the Hide Action without any further justification.
-
-* You can perform any form of attack while in Stealth without breaking that Stealth. The attack lowers the Stealth TN as though it were a Ranged Weapon attack.
-
-* Until an enemy defeats the user's Stealth, that enemy suffers \-4 Accuracy on attacks against the user and cannot make Called Shots against them. An Area attack that covers the entire cage ignores this penalty.
-
-* Once per 10 IC, when a creature attempts to leave the cage, you can convert their next non-Interrupt Action into a single-target Attack with a final Speed of 10 or less and resolve it as an Interrupt against that creature. Pay all normal costs. After it resolves, set the user's next IC no earlier than the current IC plus that Attack's final Speed. On a full hit that deals damage, the creature's movement ends at the edge of the cage. This is the user's next Action, not a free additional attack.
-
-* You can consider themselves to be anywhere within the cage when they take an action.
-
-* An enemy who has found you (usually by beating your Stealth TN) is tracking your movements. They may attack you normally, treating you as being anywhere inside of the Cage when they attack. If you Hide again, this penalty is lost until the opponent again finds you.
-
-* Mirrors that form the cage reform instantly if they are destroyed.
-
-This user cannot benefit from this Jutsu, either the individual mirrors or the cage, if they are Grabbed or incapable of movement. Using this Jutsu again removes all previously established Demonic Ice Mirrors, releasing their Upkeep appropriately.
-
-### Hyōton: Hyōheki - Ice Dome
-{:#hyoton-hyoheki-ice-dome}
-
-**Type:** Ninjutsu, Rank C  
-**Chakra:** 22  
-**Speed:** 7  
-**Seal Speed:** 12  
-**Tags:** Interrupt, Utility
-
-**Effects**
-
-Raise an ice shell around yourself or a point within 10 yards. It has HP equal to CHA x 5 and DR 15\. It can intercept one incoming Attack when created. When destroyed, it leaves 6 gallons of usable Ice on the battlefield.
-
-**B-Rank**
-
-### Hyouton: Jisarenhyo - Ice Release: Earthen Consecutive Chains of Ice
-{:#hyouton-jisarenhyo-ice-release-earthen-consecutive-chains-of-ice}
-
-**Type:** Hyoton Ninjutsu, Rank B  
-**Chakra:** 28  
-**Upkeep:** 6  
-**Speed:** 14  
-**Seal Speed:** 16  
-**Tags:** Attack, Melee
-
-**Effects**
-
-On a hit, you gain Upkeep 6 and this jutsu applies Immobilization 5 that is lowered by 1 every 10 IC the opponent goes without being hit by a Hyouton. So long as the upkeep is maintained, the ice particles on their body freeze them whenever their chakra fluctuates. If the opponent attempts a Chakra roll, their immobilization penalty is maintained as though they were hit by a Hyouton Ninjutsu. Further, they lose (Immobilization Penalty from Hyouton \+ Chakra TN/5)% of their current Vitality (or HP, if Vitality is depleted) plus their current Immobilization Penalty from Hyouton as damage that cannot be reduced.
-
-Creatures who can’t use Chakra that are affected by this jutsu freeze to death in 100 IC. The upkeep can be maintained for up to one day. If you can reduce the Seal Speed to 0, then you can apply this Jutsu with the slightest touch. Done covertly or out of combat, you can forgo the Immobilization penalty and apply the Upkeep portion of this Jutsu. If done covertly, the opponent may make an Awareness roll against your Espionage to realize what you have done.
-
-### Hyōton: Sensatsu Kōri - Thousand Ice Needles
-{:#hyoton-sensatsu-kori-thousand-ice-needles}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 32  
-**Speed:** 15  
-**Range:** 25  
-**Area:** 8  
-**Tags:** Attack, AoE, Projectile, Piercing
-
-**Effects**
-
-Create or consume up to 10 gallons of Ice. Deal 8d10 plus 1d10 per gallon used, maximum 18d10. Targets hit suffer Immobilization 2\. Against a target already suffering your Frostbite/Immobilization, this attack gains \+2 Accuracy.
-
-### Makyō Reversal - Mirror Step
-{:#makyo-reversal-mirror-step}
-
-**Type:** Ninjutsu, Rank B  
-**Chakra:** 20  
-**Speed:** 5  
-**Tags:** Interrupt, Movement  
-**Requires:** At least two of your Demonic Ice Mirrors active
-
-**Effects**
-
-When targeted by an Attack, move instantly from your current position into or adjacent to another mirror within the technique's network. Treat this as a Dodge using Ninjutsu Accuracy. If successful, you can emerge from any mirror and gain \+2 Accuracy on your next Hyōton or Senbon attack before the end of your next Action.
-
-<div id="heritage-up-3" class="clan-cost-banner"><span class="clan-cost-value">3 UP</span><span class="clan-cost-caption">HERITAGES <span class="clan-cost-count">03 ENTRIES</span></span></div>
 
 # Bakuton
 {:#bakuton}
