@@ -61,7 +61,7 @@
         {% endif %}
       {% endfor %}
     </nav>
-    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a><a href="https://github.com/EvilbAz/TheEmberCorps" target="_blank" rel="noopener">GitHub <span>↗</span></a></div>
+    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
     <header class="topbar">
@@ -73,7 +73,7 @@
       {% if page.volume_slug %}
       <div class="rulebook-main">
         <div class="breadcrumbs"><a href="{{ '/' | relative_url }}">THE ARCHIVE</a><span>/</span><span>VOL. {{ page.volume }}</span></div>
-        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}Character creation and the rules of play.{% when 'uniques' %}Creation Uniques and their upgrade paths.{% when 'clans' %}Heritage rules, grouped by UP cost.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline to browse its techniques.{% else %}Techniques and rules for this discipline.{% endif %}{% when 'talents' %}Talent categories and rank benefits.{% when 'equipment' %}Weapons, equipment and crafting rules.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="{{ page.source }}" target="_blank" rel="noopener">Original Google Doc ↗</a><span class="meta-sep">·</span><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Discord rules updates ↗</a></div></div>
+        <div class="book-hero"><div class="eyebrow">FIELD MANUAL <span class="accent-bar"></span> VOLUME {{ page.volume }}</div><h1>{{ page.title | escape }}</h1><p class="book-subtitle">{% case page.volume_slug %}{% when 'core' %}Character creation and the rules of play.{% when 'uniques' %}Creation Uniques and their upgrade paths.{% when 'clans' %}Heritage rules, grouped by UP cost.{% when 'jutsu' %}{% if page.jutsu_index %}Choose a discipline to browse its techniques.{% else %}Techniques and rules for this discipline.{% endif %}{% when 'talents' %}Talent categories and rank benefits.{% when 'equipment' %}Weapons, equipment and crafting rules.{% endcase %}</p><div class="book-meta"><span>EMBER CORPS 1.0</span><span class="meta-sep">·</span><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Discord rules updates ↗</a></div></div>
         {% if page.volume_slug == 'talents' %}
           <nav class="talent-tabbar" aria-label="Talent categories">
             {% for tab in site.data.talent_navigation.tabs %}
