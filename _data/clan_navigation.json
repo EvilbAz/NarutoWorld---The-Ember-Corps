@@ -129,10 +129,6 @@
           "anchor": "jugo-s-bloodline"
         },
         {
-          "name": "Karashi (Puppets)",
-          "anchor": "karashi-puppets"
-        },
-        {
           "name": "Kazekage Clan / Jiton",
           "anchor": "kazekage-clan-jiton"
         },
@@ -173,6 +169,10 @@
         {
           "name": "Uchiha",
           "anchor": "uchiha"
+        },
+        {
+          "name": "Karashi (Puppets)",
+          "anchor": "karashi-puppets"
         }
       ]
     }
