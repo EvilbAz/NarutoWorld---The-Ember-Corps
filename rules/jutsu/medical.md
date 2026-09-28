@@ -259,7 +259,7 @@ Effects:
 
 On a full hit, for 20 IC whenever the target declares a physical Action involving movement or attack, roll 1d4: 1 no change, 2 Movement is reduced 50%, 3 Accuracy \-3, 4 Action Speed \+3.
 
-At the start of each turn the target may spend Speed 6 and pass Medicine or Chakra Control against your Medicine roll to end the effect.
+Beginning 6 IC after the effect is applied, and once every 6 IC thereafter while it persists, the target may spend Speed 6 to attempt to end it. Roll Medicine or Chakra Control against the user's Medicine roll; on a success, the effect ends. Each 6 IC interval grants at most one attempt, regardless of how many Actions the target takes. An unused attempt expires when the next interval begins. The attempt is a Non-Interrupt Action and remains subject to the derangement's effects.
 
 #### Saikan Chuushutsu no Jutsu - Delicate Illness Extraction Technique
 {:#saikan-chuushutsu-no-jutsu-delicate-illness-extraction-technique}
