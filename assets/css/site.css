@@ -514,3 +514,7 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .ec-logo .ec-monster{background-color:var(--ec-monster)!important;filter:none!important}
 .ec-logo .ec-letters{background-color:var(--ec-letters)!important;filter:none!important}
 :root[data-theme=primal] .brand-mark .ec-logo,:root[data-theme=abyss] .brand-mark .ec-logo{filter:none!important}
+
+/* Live Discord community panel */
+.discord-home{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,350px);align-items:center;gap:clamp(24px,5vw,80px);padding:clamp(36px,6vw,88px);background:var(--panel,#1b2024);border-top:1px solid var(--line,#384047);border-bottom:1px solid var(--line,#384047)}
+.discord-home-copy{min-width:0}.discord-home-copy h2{font-family:var(--display-font,Impact,sans-serif);font-size:clamp(40px,5vw,76px);line-height:1;margin:22px 0}.discord-home-copy h2 em{color:var(--accent,#dc5965);font-style:normal}.discord-home-copy p{max-width:520px;line-height:1.75;color:var(--muted,#b8c1c8);margin-bottom:28px}.discord-home-embed{width:100%;max-width:350px;justify-self:center}.discord-home-embed iframe{display:block;width:100%;max-width:350px;height:500px;border:0;border-radius:8px;background:#2b2d31}.discord-home-embed p{font-size:12px;color:var(--muted,#b8c1c8);line-height:1.5;margin:10px 0 0}.discord-home-embed a{color:var(--accent,#dc5965)}@media(max-width:850px){.discord-home{grid-template-columns:minmax(0,1fr);padding:36px 24px}.discord-home-embed{justify-self:start}}
