@@ -2,11 +2,15 @@
 layout: rulebook
 title: "New Player Guide"
 volume: "00"
+description: "Start here: character creation, Discord roleplay, Initiative Counts, combat and your first hunt."
 permalink: "/guide/"
 ---
 
-# Welcome to Ember Corps
-{:#welcome}
+<div class="guide-hero" id="welcome"><div class="guide-hero-copy"><span class="guide-eyebrow">EMBER CORPS / FIELD MANUAL 00</span><h1>YOUR STORY<br>STARTS <em>HERE.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
+
+<div class="guide-stat-strip"><div><strong>250 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
+
+<nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version"><span>01</span> GET STARTED</a><a href="#ic-and-ooc"><span>02</span> IC &amp; OOC</a><a href="#server-loop"><span>03</span> LIFE ON DISCORD</a><a href="#speed"><span>04</span> SPEED &amp; IC</a><a href="#first-day"><span>05</span> FIRST DAY</a></nav>
 
 **Naruto World: Ember Corps** is a persistent, text-based Naruto-inspired roleplaying game. You make a Hunter, roleplay them with other players in Discord, improve them with XP and Downtime, and take them on missions and hunts in a shared world.
 
@@ -18,7 +22,7 @@ This page teaches the *shape* of the game. You do not need to memorise the ruleb
 
 [Join the Ember Corps Discord](https://discord.gg/TheEmberCorps)
 
-## The Five-Minute Version
+## Your First Five Minutes
 {:#five-minute-version}
 
 1. **Make a Hunter.** Every player character belongs to Haven Ember and the wider Ember Corps. New characters begin with **250 XP at Genin status**.
@@ -30,7 +34,7 @@ This page teaches the *shape* of the game. You do not need to memorise the ruleb
 
 You can ask for help. A new player is not expected to know every Jutsu tag, crafting option or combat interaction on day one.
 
-## IC and OOC: The First Thing to Learn
+## IC and OOC: Two Different Worlds
 {:#ic-and-ooc}
 
 If you have only played games around a physical or virtual tabletop, **IC** may be unfamiliar.
@@ -38,6 +42,8 @@ If you have only played games around a physical or virtual tabletop, **IC** may 
 **IC means In Character.** When you post IC, the words and actions belong to your Hunter inside the fictional world.
 
 **OOC means Out of Character.** This is you, the player, speaking about rules, scheduling, questions, jokes or anything else that is not your character acting in the world.
+
+<div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>. Same abbreviation, completely different jobs.</p></div>
 
 For example:
 
@@ -49,26 +55,34 @@ An IC scene is simply a piece of roleplay happening between characters. It does 
 
 Your character does **not** automatically know something because you read it OOC. Likewise, hostility between characters is not hostility between players. Keep the two layers separate.
 
+<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter, ask another player for a scene and start a conversation in an appropriate IC location. Check the server's channel guidance for where to post and use OOC spaces for scheduling.</p></div>
+
 ## What Do I Actually Do on the Server?
 {:#server-loop}
 
 Most play falls into four broad activities.
 
+<div class="guide-feature-grid"><a href="#roleplay"><span>01 / SOCIAL</span><strong>ROLEPLAY</strong><small>Meet Hunters, make friends, create rivalries and earn XP.</small></a><a href="#missions"><span>02 / ADVENTURE</span><strong>MISSIONS</strong><small>GM-run expeditions, mysteries and dangerous jobs.</small></a><a href="#hunts"><span>03 / DANGER</span><strong>HUNTS</strong><small>Investigate, prepare for and confront monsters.</small></a><a href="#downtime"><span>04 / PROGRESSION</span><strong>DOWNTIME</strong><small>Train, research, craft and develop between scenes.</small></a></div>
+
 ### Roleplay
+{:#roleplay}
 
 Talk to other characters and build a life in Haven Ember. Active IC roleplay awards **4 XP per 30 minutes**. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change.
 
 This is not filler between "real sessions." It is one of the main ways Ember Corps is played.
 
 ### Missions
+{:#missions}
 
 Missions are GM-run jobs: expeditions, escorts, investigations, infiltrations, rescues, dangerous journeys and similar operations. They normally award XP based on time and danger, plus Ryō and whatever consequences or discoveries come from the mission.
 
 ### Hunts
+{:#hunts}
 
 Hunts are encounters focused around monsters. They can involve preparation and investigation as well as the fight itself. Rewards depend on the creature and its Fight Value.
 
 ### Downtime
+{:#downtime}
 
 Downtime represents meaningful work your Hunter does away from active scenes. You receive **2 Downtime Slots each week** and can earn additional slots through play, up to 6 per week. Downtime can be used for things such as training, research, crafting and other long-term development.
 
@@ -110,6 +124,8 @@ In 5e, everybody gets a turn each round. A fast character may go earlier, but ev
 
 Combat runs on a continuous timeline called **Initiative Counts**, usually shortened to **IC**. Lower IC is earlier in time. Every action has a **Speed**. After you act, add that Speed to your current IC. The result is when you can act again.
 
+<div class="guide-speed-banner"><span>COMBAT / THE ONE FORMULA TO REMEMBER</span><strong>YOUR IC <b>+</b> ACTION SPEED <b>=</b> NEXT IC</strong><small>Lower Speed means you act again sooner. The action resolves on your current IC.</small></div>
+
 ### The simplest possible example
 
 You are ready to act on **IC 5**.
@@ -126,6 +142,8 @@ Another Hunter might use a Speed 10 technique on IC 5 and next act on IC 15. You
 
 **That is what Speed means. Lower Speed is faster.**
 
+<div class="guide-example"><span>TRY IT YOURSELF</span><p>You act on <b>IC 5</b> and choose a <b>Speed 6</b> attack. Your next action is <strong>IC 11</strong>. Someone using Speed 10 at IC 5 would next act on IC 15.</p></div>
+
 ### A tiny timeline
 
 | IC | What happens |
@@ -134,6 +152,8 @@ Another Hunter might use a Speed 10 technique on IC 5 and next act on IC 15. You
 | 3 | Bo acts and uses a Speed 4 attack. His next action is IC 7. |
 | 7 | Bo acts again. |
 | 8 | Aya acts again. |
+
+<div class="guide-timeline" aria-label="Example of two Hunters on the Initiative Count timeline"><div class="guide-timeline-track"><span>IC 0</span><span>IC 3</span><span>IC 7</span><span>IC 8</span></div><div class="guide-timeline-events"><div><b>AYA</b><small>Speed 8</small></div><div><b>BO</b><small>Speed 4</small></div><div><b>BO</b><small>Acts again</small></div><div><b>AYA</b><small>Acts again</small></div></div></div>
 
 Bo did not receive a special "extra turn." His action simply took less time.
 
@@ -223,6 +243,8 @@ Treat them as Ember Corps progression systems. Read them after you understand yo
 
 The **Pre-Made Weapon Catalogue** and **Pre-Made Armor Catalogue** exist specifically so you can buy functional equipment without becoming an armorsmith on your first day.
 
+<div class="guide-callout"><strong>STILL CONFUSED ABOUT SPEED?</strong><p>Forget everything else for a moment: act when your IC arrives, resolve your action, add its Speed, and write down your next IC. The timeline moves to the next character due to act.</p><a href="{{ '/rules/core/#initiative-rolls' | relative_url }}">READ THE FULL COMBAT RULES ↗</a></div>
+
 ## A Good First Day
 {:#first-day}
 
@@ -240,6 +262,8 @@ If you have just joined, this is enough:
 
 Nobody benefits from you trying to memorise the entire archive before writing your first IC post.
 
+<div class="guide-final-cta"><span>YOUR NEXT MISSION</span><h2>MAKE YOUR HUNTER.<br><em>JOIN THE STORY.</em></h2><p>Start with a character concept. The community can help you with the numbers.</p><a class="guide-cta" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">ENTER THE DISCORD ↗</a></div>
+
 ## Where to Go Next
 {:#next}
 
@@ -251,9 +275,9 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 
 **Talents and progression:** [Talents, Ranks & Hunter Classes]({{ '/rules/talents/' | relative_url }})
 
-**Buying or crafting gear:** [Equipment & Crafting]({{ '/rules/equipment/' | relative_url }})
+**Buying or crafting gear:** [Equipment & Crafting]({{ '/rules/equipment/' | relative_url }}) · [Pre-Made Weapons]({{ '/rules/standard-weapons/' | relative_url }}) · [Pre-Made Armor]({{ '/rules/standard-armor/' | relative_url }})
 
-**Understanding the setting:** [World & Lore]({{ '/lore/' | relative_url }})
+**Understanding the setting:** [World & Lore]({{ '/rules/lore/' | relative_url }})
 
 **Need a human being:** [Join the Discord](https://discord.gg/TheEmberCorps)
 
