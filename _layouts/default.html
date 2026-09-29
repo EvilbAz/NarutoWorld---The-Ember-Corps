@@ -57,6 +57,23 @@
                   {% endfor %}
                 {% endfor %}
               </nav>
+            {% elsif page.volume_slug == 'uniques' %}
+              <nav id="toc" class="toc unique-side-links" aria-label="Uniques categories">
+                <span class="core-side-label">UNIQUES / CONTENTS</span>
+                {% assign unique_sections = "Overview|uniques,Creation Uniques|creation-uniques,Clan Creation Uniques|clan-creation-uniques,1 Point Uniques|1-point-uniques,2 Point Uniques|2-point-uniques,3 Point Uniques|3-point-uniques" | split: "," %}
+                {% for section in unique_sections %}{% assign part = section | split: "|" %}
+                  <a href="{{ '/rules/uniques/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+                {% endfor %}
+              </nav>
+            {% elsif page.volume_slug == 'equipment' %}
+              <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting categories">
+                <span class="core-side-label">EQUIPMENT / CONTENTS</span>
+                <a href="{{ '/rules/standard-weapons/' | relative_url }}" class="{% if page.equipment_catalogue %}active{% endif %}">PRE-MADE WEAPONS ↗</a>
+                {% assign equipment_sections = "Crafting|crafting,Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poison|poison,Equipment Rules|equipment-core-rules,Melee Weapons|melee-weapons,Ranged Weapons|ranged-weapons-3,Gear & Pharmaceuticals|gear-pharmaceuticals,Exploding Tags|exploding-tags" | split: "," %}
+                {% for section in equipment_sections %}{% assign part = section | split: "|" %}
+                  <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+                {% endfor %}
+              </nav>
             {% elsif page.volume_slug == 'talents' %}
               <nav class="toc talent-side-links" aria-label="Talent categories">
               {% for tab in site.data.talent_navigation.tabs %}
