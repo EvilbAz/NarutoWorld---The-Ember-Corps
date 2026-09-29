@@ -67,13 +67,13 @@
               </nav>
             {% elsif page.volume_slug == 'equipment' %}
               <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting sections">
-                {% if page.equipment_catalogue %}
+                {% if page.equipment_catalogue or page.armor_catalogue %}
                   <a href="{{ '/rules/equipment/' | relative_url }}" class="equipment-return-link">← EQUIPMENT &amp; CRAFTING</a>
-                  <span class="equipment-side-group">WEAPON CATALOGUE</span>
+                  {% if page.armor_catalogue %}<span class="equipment-side-group">ARMOR CATALOGUE</span>{% assign armor_sections = "Mobile Armor|armor-mobile,Protective Armor|armor-protective,Encased Armor|armor-encased" | split: "," %}{% for section in armor_sections %}{% assign part = section | split: "|" %}<a href="{{ '/rules/standard-armor/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>{% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Browse ready-made weapons ↗</small></a></div>{% else %}<span class="equipment-side-group">WEAPON CATALOGUE</span>
                   {% assign catalogue_sections = "Small Weapons|catalog-small-weapons,Medium Weapons|catalog-medium-weapons,Large Weapons|catalog-large-weapons,Extreme Weapons|catalog-extreme-weapons,Matched Weapons|catalog-matched-weapons,Bows|catalog-bows-2,Crossbows|catalog-crossbows-2,Kunai Launchers|catalog-kunai-launchers-2,Shuriken Launchers|catalog-shuriken-launchers-2,Kunai & Shuriken|catalog-projectiles,Ammunition|catalog-ammunition" | split: "," %}
                   {% for section in catalogue_sections %}{% assign part = section | split: "|" %}
                     <a href="{{ '/rules/standard-weapons/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
-                  {% endfor %}
+                  {% endfor %}<div class="equipment-catalogue-slot"><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong><small>Browse ready-made armor ↗</small></a></div>{% endif %}
                 {% else %}
                   <span class="equipment-side-group">CRAFTING</span>
                   {% assign craft_sections = "Crafting Overview|crafting,Melee Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poisons|poison" | split: "," %}
@@ -87,7 +87,7 @@
                   {% endfor %}
                   <div class="equipment-catalogue-slot">
                     <span>FIELD ARMORY</span>
-                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Illustrated ready-made weapons ↗</small></a>
+                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Illustrated ready-made weapons ↗</small></a><a class="equipment-catalogue-link" href="{{ '/rules/standard-armor/' | relative_url }}"><strong>ARMOR CATALOGUE</strong><small>Illustrated ready-made armor ↗</small></a>
                   </div>
                 {% endif %}
               </nav>
