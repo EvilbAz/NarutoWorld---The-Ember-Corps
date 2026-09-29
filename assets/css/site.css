@@ -548,3 +548,21 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .guide-hero{margin-top:0}.guide-reading .guide-feature-grid a{text-decoration:none}.guide-reading .guide-quicknav a{text-decoration:none}
 @media(max-width:760px){.guide-page{padding:26px 22px 72px}.guide-channel-grid,.guide-build-grid{grid-template-columns:1fr}.guide-reading>h2{margin-top:54px}.guide-reading>table{display:block;overflow-x:auto}.guide-hero{padding:25px}}
 @media(max-width:420px){.guide-page{padding-left:17px;padding-right:17px}.guide-reading{font-size:14px}.guide-channel,.guide-build-grid>div{padding:18px}}
+
+/* Guide final rendering safeguards */
+.guide-page,.guide-page *{box-sizing:border-box}
+.guide-reading{width:100%;max-width:1060px}
+.guide-reading>h2,.guide-reading>h3,.guide-reading>p,.guide-reading>ol,.guide-reading>ul,.guide-reading>blockquote{clear:both}
+.guide-reading>h2{max-width:100%;margin-top:64px}
+.guide-reading>h2:first-of-type{margin-top:48px}
+.guide-reading>p,.guide-reading>ol,.guide-reading>ul,.guide-reading>blockquote{max-width:790px}
+.guide-reading>ol li,.guide-reading>ul li{line-height:1.8}
+.guide-reading .guide-hero h1{margin:24px 0;max-width:none;border:0;padding:0;text-transform:none}
+.guide-reading .guide-hero p{max-width:520px}
+.guide-reading .guide-stat-strip,.guide-reading .guide-quicknav{clear:both}
+.guide-reading .guide-quicknav a,.guide-reading .guide-feature-grid a{color:var(--text);text-decoration:none}
+.guide-reading .guide-feature-grid a:hover,.guide-reading .guide-quicknav a:hover{color:var(--accent)}
+.guide-reading .guide-final-cta h2{border:0;padding:0;max-width:none;margin:17px 0}
+.guide-reading .guide-final-cta p{max-width:480px}
+.guide-reading .guide-timeline{max-width:810px}
+@media(max-width:640px){.guide-page{padding:26px 20px 75px}.guide-reading .guide-hero h1{font-size:clamp(46px,12vw,66px)}.guide-reading .guide-stat-strip{grid-template-columns:1fr 1fr 1fr}.guide-reading .guide-timeline{overflow-x:auto}.guide-reading .guide-timeline-track,.guide-reading .guide-timeline-events{min-width:310px}}
