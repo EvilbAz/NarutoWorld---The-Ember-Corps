@@ -46,7 +46,7 @@ A Hunter's reputation is built through what they do, who survives to tell the st
 ## People of Haven Ember
 {:#people}
 
-The names below appear in the Corps’ field reports, medical rosters, training stories and the accounts of Hunters returning from the Wastes. A title can mark a great deed, a warning, or a reputation that has grown in the telling. Not every rumour in these dossiers is confirmed.
+All the Hunters documented here belong to Haven Ember. Their names appear in the Corps’ field reports, medical rosters, training stories and the accounts of Hunters returning from the Wastes. A title can mark a great deed, a warning, or a reputation that has grown in the telling. Not every rumour in these dossiers is confirmed.
 
 ### The Haven’s Inner Circle
 
@@ -58,7 +58,7 @@ The names below appear in the Corps’ field reports, medical rosters, training 
 ## Renowned Hunters
 {:#reputation}
 
-Across the Wastes, reputation travels with caravan guards, rescued civilians, survivors and the Bingo Book. A Hunter may be celebrated for a single rescue, feared for their methods, or quietly respected for decades of service. The following are recorded figures of Haven Ember; their standing elsewhere depends on who has heard their stories.
+Across the Wastes, reputation travels with caravan guards, rescued civilians, survivors and the Bingo Book. A Hunter may be celebrated for a single rescue, feared for their methods, or quietly respected for decades of service. **Every Hunter in this roster serves Haven Ember.** Their standing elsewhere depends on who has heard their stories.
 
 <div class="lore-dossiers lore-roster">
 <section class="lore-dossier lore-profile" id="amot"><span class="lore-stamp">FRONTLINE / TRAINER</span><h3>Amot <span class="lore-alias">“The Dragon”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Slayer <span>·</span> Hoshigaki</p><p>A wyrm-like descendant of the Hoshigaki who turned from his lineage’s usual association with water to Katon. Amot pairs fire Ninjutsu with an enormous sword and is rarely far from the heaviest fighting. His long combat history has made him a demanding instructor, sometimes pushing trainees beyond what they can safely manage. Arrogant and reckless though he can be, his loyalty to Haven Ember is not in question.</p></section>
@@ -74,7 +74,7 @@ Across the Wastes, reputation travels with caravan guards, rescued civilians, su
 
 ### Names Beyond the Dossiers
 
-The **Ember Lord** is remembered in Corps accounts as the Hunter who stopped Ikidomari’s near-frenzy. **Genzo Arakane** belongs to the same generation as Ikidomari. Their full biographies, along with the names and deeds of famous Hunters from other Havens, remain to be documented rather than invented here.
+The **Ember Lord**, a figure of Haven Ember, is remembered in Corps accounts as the Hunter who stopped Ikidomari’s near-frenzy. **Genzo Arakane** belongs to the same generation as Ikidomari. Their full biographies, along with the names and deeds of famous Hunters from other Havens, remain to be documented rather than invented here.
 
 ### The Bingo Book
 
