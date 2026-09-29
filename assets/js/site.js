@@ -19,7 +19,7 @@ if(rule){
  const clans=heads.filter(h=>h.tagName==='H1');
  const side=$('#toc'),rail=$('#rail-toc');
  const render=(dest,items)=>{if(!dest)return;dest.innerHTML=items.map(h=>'<a href="#'+encodeURIComponent(h.id)+'" class="depth-'+(h.tagName==='H1'?1:2)+'">'+escape(h.textContent.trim())+'</a>').join('')};
- if(!isJutsu && !isClans && !isTalents && document.body.dataset.volume!=='core')render(side,primary.slice(0,120));
+ if(!isJutsu && !isClans && !isTalents && !['core','uniques','equipment'].includes(document.body.dataset.volume))render(side,primary.slice(0,120));
  if(isJutsuIndex)render(rail,primary.slice(0,42));
  else if(isJutsu)render(rail,primary.slice(0,42));
  else if(isClans && side && rail)rail.innerHTML=side.innerHTML;
