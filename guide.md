@@ -45,7 +45,28 @@ If you have only played games around a physical or virtual tabletop, **IC** may 
 
 <div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>. Same abbreviation, completely different jobs.</p></div>
 
-<div class="guide-channel-grid"><div class="guide-channel guide-channel-ic"><span>IN CHARACTER / IC CHANNEL</span><strong>#haven-location</strong><p>Write what your Hunter says and does. Other characters can respond here.</p></div><div class="guide-channel guide-channel-ooc"><span>OUT OF CHARACTER / OOC CHANNEL</span><strong>#player-discussion</strong><p>Ask questions, coordinate with players and discuss the rules here.</p></div></div>
+<div class="guide-channel-grid"><div class="guide-channel guide-channel-ic"><span>IN CHARACTER / IC CHANNEL</span><strong>#rp-thread · #mission-ic · #hunting-ic</strong><p>Write what your Hunter says and does in the appropriate roleplay, mission or hunting channel.</p></div><div class="guide-channel guide-channel-ooc"><span>OUT OF CHARACTER / OOC CHANNEL</span><strong>#general-ooc · #mission-ooc · #hunting-ooc</strong><p>Ask questions, coordinate scenes and discuss rules in the matching OOC channel.</p></div></div>
+
+### Finding your way around Discord
+
+These are the actual channels you will use most often. Some are forum-style channels or threads, so open the relevant post rather than creating a new scene in the wrong place.
+
+| What you want to do | Where to go |
+| :--- | :--- |
+| Ask a general question or meet other players | `#general-ooc` |
+| Find a roleplay partner or arrange a spar | `#rp-and-spar-request` |
+| Play a normal IC scene | `#rp-thread` |
+| Play out a spar | `#sparing-thread` |
+| Read the roleplay and sparring rules | `#rp-and-spar-rules` |
+| Find an available mission | `#mission-posting` |
+| Request a mission | `#mission-requests` |
+| Play or discuss a mission | `#mission-ic` / `#mission-ooc` |
+| Keep mission records | `#mission-log` |
+| Find out about a hunt | `#hunt-announcements` or `#hunts` |
+| Play or discuss a hunt | `#hunting-ic` / `#hunting-ooc` |
+| Discuss the Wastes outside character | `#the-wilds-ooc` |
+
+**Example:** See a mission in `#mission-posting`, organise with the other players in `#mission-ooc`, then write your Hunter's actions in `#mission-ic`. For a hunt, use the corresponding hunting channels. Voice channels such as Mission VC 1/2 are for speaking to other players, not IC text scenes.
 
 **Activity and XP:** Activity is counted wherever you are actively participating on the server, whether that is an IC or an OOC channel. **Activity being counted does not mean every message earns roleplay XP.** The normal roleplay award of 4 XP per 30 minutes still requires active in-character interaction; follow the relevant rules when logging other activity. Never mix IC and OOC posts just to keep an activity timer going.
 
@@ -53,7 +74,7 @@ For example:
 
 > **IC:** Ren pulls his coat tighter around himself and eyes the broken gate. "Something came through here. Recently."
 >
-> **OOC:** Does Survival apply to tracking whatever made the footprints?
+> **OOC (in the matching OOC channel):** Does Survival apply to tracking whatever made the footprints?
 
 An IC scene is simply a piece of roleplay happening between characters. It does not need a GM unless the scene needs the world to answer a question, adjudicate something, or provide opposition. Two Hunters talking over food is an IC scene. Training together is an IC scene. An argument is an IC scene. Investigating a GM-created threat can be an IC scene too.
 
@@ -61,7 +82,7 @@ An IC scene is simply a piece of roleplay happening between characters. It does 
 
 Your character does **not** automatically know something because you read it OOC. Likewise, hostility between characters is not hostility between players. Keep the two layers separate.
 
-<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter, ask another player for a scene and start a conversation in an appropriate IC location. Check the server's channel guidance for where to post and use OOC spaces for scheduling.</p></div>
+<div class="guide-tip"><span>FIELD TIP / 01</span><strong>You don't have to wait for a GM to start playing.</strong><p>Introduce your Hunter, ask another player for a scene and arrange a scene in `#rp-and-spar-request`, then write it in `#rp-thread`. Keep planning and rules questions in OOC channels.</p></div>
 
 ## What Do I Actually Do on the Server?
 {:#server-loop}
