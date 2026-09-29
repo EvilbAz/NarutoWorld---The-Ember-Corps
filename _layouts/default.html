@@ -66,13 +66,30 @@
                 {% endfor %}
               </nav>
             {% elsif page.volume_slug == 'equipment' %}
-              <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting categories">
-                <span class="core-side-label">EQUIPMENT / CONTENTS</span>
-                <a href="{{ '/rules/standard-weapons/' | relative_url }}" class="{% if page.equipment_catalogue %}active{% endif %}">PRE-MADE WEAPONS ↗</a>
-                {% assign equipment_sections = "Crafting|crafting,Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poison|poison,Equipment Rules|equipment-core-rules,Melee Weapons|melee-weapons,Ranged Weapons|ranged-weapons-3,Gear & Pharmaceuticals|gear-pharmaceuticals,Exploding Tags|exploding-tags" | split: "," %}
-                {% for section in equipment_sections %}{% assign part = section | split: "|" %}
-                  <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
-                {% endfor %}
+              <nav id="toc" class="toc equipment-side-links" aria-label="Equipment and Crafting sections">
+                {% if page.equipment_catalogue %}
+                  <a href="{{ '/rules/equipment/' | relative_url }}" class="equipment-return-link">← EQUIPMENT &amp; CRAFTING</a>
+                  <span class="equipment-side-group">WEAPON CATALOGUE</span>
+                  {% assign catalogue_sections = "Small Weapons|catalog-small-weapons,Medium Weapons|catalog-medium-weapons,Large Weapons|catalog-large-weapons,Extreme Weapons|catalog-extreme-weapons,Matched Weapons|catalog-matched-weapons,Bows|catalog-bows-2,Crossbows|catalog-crossbows-2,Kunai Launchers|catalog-kunai-launchers-2,Shuriken Launchers|catalog-shuriken-launchers-2,Kunai & Shuriken|catalog-projectiles,Ammunition|catalog-ammunition" | split: "," %}
+                  {% for section in catalogue_sections %}{% assign part = section | split: "|" %}
+                    <a href="{{ '/rules/standard-weapons/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+                  {% endfor %}
+                {% else %}
+                  <span class="equipment-side-group">CRAFTING</span>
+                  {% assign craft_sections = "Crafting Overview|crafting,Melee Weapon Crafting|weapon-crafting,Ranged Weapon Crafting|ranged-weapon-crafting,Armor Crafting|armor-crafting,Craftsman|craftsman,Poisons|poison" | split: "," %}
+                  {% for section in craft_sections %}{% assign part = section | split: "|" %}
+                    <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+                  {% endfor %}
+                  <span class="equipment-side-group">EQUIPMENT</span>
+                  {% assign equipment_sections = "Equipment Rules|equipment-core-rules,Weapon Actions|weapon-specific-actions,Durability|weapon-durability,Armor Protection|armor-protection,Melee Weapons|melee-weapons,Standard Melee Weapons|standard-weapons,Ranged Weapons|ranged-weapons-3,Standard Ranged Weapons|standard-ranged-weapons,Gear & Pharmaceuticals|gear-pharmaceuticals,Exploding Tags|exploding-tags" | split: "," %}
+                  {% for section in equipment_sections %}{% assign part = section | split: "|" %}
+                    <a href="{{ '/rules/equipment/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
+                  {% endfor %}
+                  <div class="equipment-catalogue-slot">
+                    <span>FIELD ARMORY</span>
+                    <a class="equipment-catalogue-link" href="{{ '/rules/standard-weapons/' | relative_url }}"><strong>WEAPON CATALOGUE</strong><small>Illustrated ready-made weapons ↗</small></a>
+                  </div>
+                {% endif %}
               </nav>
             {% elsif page.volume_slug == 'talents' %}
               <nav class="toc talent-side-links" aria-label="Talent categories">
@@ -86,7 +103,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="volume-link {% if page.equipment_catalogue %}selected{% endif %}" href="{{ '/rules/standard-weapons/' | relative_url }}"><span class="volume-number">↗</span><span>Pre-Made Weapons</span>{% if page.equipment_catalogue %}<span class="active-spark"></span>{% endif %}</a>
       <a class="volume-link lore-volume-link {% if page.permalink == '/lore/' %}selected{% endif %}" href="{{ '/lore/' | relative_url }}"><span class="volume-number">VII</span><span>World &amp; Lore</span>{% if page.permalink == '/lore/' %}<span class="active-spark"></span>{% endif %}</a>
     </nav>
     <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
@@ -124,6 +140,6 @@
  <div class="search-backdrop" id="search-backdrop"></div>
  <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search all six rulebooks"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH ACROSS ALL SIX VOLUMES</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
 </div>
-<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-expanded-nav-v3" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-equipment-nav-v4" defer></script>
 </body>
 </html>
