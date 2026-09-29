@@ -233,3 +233,9 @@
 .lore-profile-meta span{color:var(--accent);margin:0 5px}
 .lore-profile p:last-child{margin-bottom:0}
 @media(max-width:720px){.lore-roster{grid-template-columns:1fr}.lore-profile{min-height:0}}
+
+/* Keep the lore entry immediately below the six rules volumes on every page. */
+.sidebar>.volume-nav{flex:0 1 auto;overflow-y:auto}
+.lore-side-nav{flex:none;padding:5px 0 8px;border-top:1px solid var(--line);margin-top:6px}
+.lore-side-nav .volume-link{min-height:43px}
+.sidebar-bottom{margin-top:auto}
