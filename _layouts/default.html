@@ -21,7 +21,7 @@
     <button class="sidebar-search search-trigger" type="button" aria-label="Search all rules"><span class="magnify">⌕</span><span>Search the rules...</span><kbd>⌘ K</kbd></button>
     <div class="nav-eyebrow">FIELD MANUAL <span>06 VOLUMES</span></div>
     <nav class="volume-nav">
-      {% assign books = "core|Core Rules|I,uniques|Uniques|II,clans|Clans & Lineages|III,jutsu|Jutsu Compendium|IV~talents|Talents, Ranks & Hunter Classes|V~equipment|Equipment & Crafting|VI" | replace: ",", "~" | split: "~" %}
+      {% assign books = "core|Core Rules|I;uniques|Uniques|II;clans|Clans & Lineages|III;jutsu|Jutsu Compendium|IV;talents|Talents, Ranks & Hunter Classes|V;equipment|Equipment & Crafting|VI" | split: ";" %}
       {% for entry in books %}{% assign b = entry | split: "|" %}
         <a class="volume-link {% if page.volume_slug == b[0] %}selected{% endif %}" href="{{ '/rules/' | append: b[0] | append: '/' | relative_url }}"><span class="volume-number">{{ b[2] }}</span><span>{{ b[1] }}</span>{% if page.volume_slug == b[0] %}<span class="active-spark"></span>{% endif %}</a>
         {% if page.volume_slug == b[0] %}
