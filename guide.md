@@ -3,11 +3,11 @@ title: "New Player Guide"
 description: "A beginner-friendly introduction to Ember Corps, Discord roleplay, character creation, and IC-based combat."
 permalink: /guide/
 ---
-<div class="simple-page new-player-guide">
+<div class="simple-page new-player-guide" markdown="1">
 <div class="eyebrow">NEW RECRUIT / YOUR FIRST FIELD MANUAL</div>
 <h1>WELCOME TO<br><span>EMBER CORPS.</span></h1>
 <p class="lead">New to text roleplay? Coming from D&D 5e? Start here. You don't need to memorize six rulebooks to play your first scene.</p>
-<div class="guide-quick"><a href="#first-hour">YOUR FIRST HOUR ↓</a><a href="#speed">SPEED &amp; IC ↓</a><a href="#discord">HOW DISCORD WORKS ↓</a><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE SERVER ↗</a></div>
+<div class="guide-quick" markdown="0"><a href="#first-hour">YOUR FIRST HOUR ↓</a><a href="#speed">SPEED &amp; IC ↓</a><a href="#discord">HOW DISCORD WORKS ↓</a><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE SERVER ↗</a></div>
 
 ## 1. What is Ember Corps?
 {:#what-is-ember-corps}
@@ -94,7 +94,7 @@ Imagine two Hunters. **A** starts at IC 0 and **B** starts at IC 4.
 | 8 | A acts again and uses another **Speed 8** action. A's next action is at **IC 16**. |
 | 16 | Both are ready. Their actions are **simultaneous** under the combat rules. |
 
-<div class="guide-ic-track" role="img" aria-label="Timeline: A acts at IC 0, 8 and 16; B acts at IC 4 and 16"><div><b>A</b><span>0</span><i></i><span>8</span><i></i><span>16</span></div><div><b>B</b><span>4</span><i></i><span>16</span></div></div>
+<div markdown="0" class="guide-ic-track" role="img" aria-label="Timeline: A acts at IC 0, 8 and 16; B acts at IC 4 and 16"><div><b>A</b><span>0</span><i></i><span>8</span><i></i><span>16</span></div><div><b>B</b><span>4</span><i></i><span>16</span></div></div>
 
 **The key distinction:** Speed is *not* the number of seconds your attack takes to hit. A normal action generally happens on your current IC; Speed measures how long before you get another action. **Every 100 IC represents 30 seconds** of in-world combat time.
 
@@ -103,7 +103,7 @@ Imagine two Hunters. **A** starts at IC 0 and **B** starts at IC 4.
 ### Try the IC calculator
 {:#calculator}
 
-<div class="guide-calc"><label for="guide-current">Current IC</label><input id="guide-current" type="number" value="4" min="0"><label for="guide-speed">Action's final Speed</label><input id="guide-speed" type="number" value="8" min="0"><div class="guide-calc-answer" aria-live="polite">Your next action: <strong id="guide-next">IC 12</strong></div><small>Simple actions only: apply relevant AP, Interrupt, handseal and Delay rules separately.</small></div>
+<div markdown="0" class="guide-calc"><label for="guide-current">Current IC</label><input id="guide-current" type="number" value="4" min="0"><label for="guide-speed">Action's final Speed</label><input id="guide-speed" type="number" value="8" min="0"><div class="guide-calc-answer" aria-live="polite">Your next action: <strong id="guide-next">IC 12</strong></div><small>Simple actions only: apply relevant AP, Interrupt, handseal and Delay rules separately.</small></div>
 <script>(function(){const c=document.getElementById('guide-current'),s=document.getElementById('guide-speed'),o=document.getElementById('guide-next');if(!c||!s||!o)return;const update=()=>o.textContent='IC '+(Math.max(0,Number(c.value)||0)+Math.max(0,Number(s.value)||0));c.addEventListener('input',update);s.addEventListener('input',update)})();</script>
 
 ### What about Action Points?
@@ -161,5 +161,5 @@ You receive **2 downtime slots each real-world week**. You can earn up to **4 mo
 - [ ] I'm ready to meet another Hunter, try a short spar or join an event.
 
 <div class="note-box"><strong>YOUR FIRST SCENE DOESN'T NEED TO BE EPIC.</strong><p>Introduce yourself at Haven Ember, ask another Hunter about their last mission, or look for someone willing to demonstrate combat. You can learn the rest as you play.</p></div>
-<div class="external-resources"><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE DISCORD ↗</a><a href="{{ '/start/' | relative_url }}">CHARACTER CREATION ↗</a><a href="{{ '/rules/core/#initiative-3' | relative_url }}">FULL COMBAT RULES ↗</a></div>
+<div markdown="0" class="external-resources"><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE DISCORD ↗</a><a href="{{ '/start/' | relative_url }}">CHARACTER CREATION ↗</a><a href="{{ '/rules/core/#initiative-3' | relative_url }}">FULL COMBAT RULES ↗</a></div>
 </div>
