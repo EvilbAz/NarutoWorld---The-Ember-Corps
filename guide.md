@@ -1,165 +1,260 @@
 ---
+layout: rulebook
 title: "New Player Guide"
-description: "A beginner-friendly introduction to Ember Corps, Discord roleplay, character creation, and IC-based combat."
-permalink: /guide/
+volume: "00"
+permalink: "/guide/"
 ---
-<div class="simple-page new-player-guide" markdown="1">
-<div class="eyebrow">NEW RECRUIT / YOUR FIRST FIELD MANUAL</div>
-<h1>WELCOME TO<br><span>EMBER CORPS.</span></h1>
-<p class="lead">New to text roleplay? Coming from D&D 5e? Start here. You don't need to memorize six rulebooks to play your first scene.</p>
-<div class="guide-quick" markdown="0"><a href="#first-hour">YOUR FIRST HOUR ↓</a><a href="#speed">SPEED &amp; IC ↓</a><a href="#discord">HOW DISCORD WORKS ↓</a><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE SERVER ↗</a></div>
 
-## 1. What is Ember Corps?
-{:#what-is-ember-corps}
+# Welcome to Ember Corps
+{:#welcome}
 
-Ember Corps is a persistent, text-based Naruto-inspired roleplaying game. You play a **Hunter** based in **Haven Ember**, one of humanity's surviving refuges after the **Bloom** transformed the world into monster-haunted Wastes. You can meet other Hunters, roleplay your everyday life, train, invent techniques, take missions, and join dangerous monster Hunts. Your character keeps progressing between sessions.
+**Naruto World: Ember Corps** is a persistent, text-based Naruto-inspired roleplaying game. You make a Hunter, roleplay them with other players in Discord, improve them with XP and Downtime, and take them on missions and hunts in a shared world.
 
-**There is no fixed adventuring party or weekly campaign you must attend.** Casual scenes and organised GM events coexist in the same shared world. Your choices and relationships can carry forward into future stories.
+If you are coming from D&D 5e, the most important thing to know is this: **Ember Corps is not played as a weekly party campaign with six-second rounds.** The server is the game table. Your character exists between missions. You can roleplay with other characters, train, craft, spar, investigate the world, join GM events and develop relationships whenever play is available.
 
-### Coming from D&D 5e?
-{:#from-5e}
+This page teaches the *shape* of the game. You do not need to memorise the rulebooks before playing.
 
-| If you know 5e... | Think of Ember Corps like this |
-| :--- | :--- |
-| Class and subclass | Your heritage, abilities, jutsu, talents and Hunter Class combine into a build. |
-| Level | You spend XP directly on improvements; rank progression also matters. |
-| Spell slots | Jutsu consume resources such as Chakra or Stamina and may require handseals. |
-| Initiative and six-second rounds | Everyone acts on a shared **Initiative Count (IC)** timeline; there are no conventional rounds. |
-| Action / bonus action | Each action has a **Speed** determining when you can act again. |
-| Reaction | Many defenses are **Interrupts** that can push back your next action. |
-| Short and long rests | Recovery, Fatigue and Wounds have their own rules. |
-| A DM-led session | You can roleplay freely between organised GM-run missions and Hunts. |
+> **5e translation:** think of your character sheet as your persistent character, Discord scenes as the campaign table, Missions as adventures, Jutsu as techniques/spells, and XP as both advancement and the currency used to buy much of that advancement.
 
-These are comparisons, not one-to-one rule conversions. In particular, **low Speed is fast**, not slow.
+[Join the Ember Corps Discord](https://discord.gg/TheEmberCorps)
 
-## 2. Your first hour
-{:#first-hour}
+## The Five-Minute Version
+{:#five-minute-version}
 
-1. **[Join the Discord](https://discord.gg/TheEmberCorps)** and read its welcome information, rules and channel descriptions. Ask staff which channels are currently used for introductions and character approval.
-2. **Make a character concept.** Who is your Hunter? Why do they live in Haven Ember? What drives them into the Wastes? One paragraph is enough.
-3. **[Open the character sheet](https://docs.google.com/spreadsheets/d/1JUl_Dk76RWStPWmWN40mYhrzSiZE-TJBj4RKNIWAM9s/edit)** and follow [Character Creation]({{ '/rules/core/#character-creation' | relative_url }}). New Hunters start with **250 XP** at **Genin** status.
-4. **Choose your heritage, Uniques and a simple combat idea.** You do not need an elaborate combo to begin. Staff can help check your sheet.
-5. **Request a GM review.** Once approved, introduce your Hunter in an appropriate IC scene, try a friendly spar if you want to learn combat, and look for an upcoming mission.
+1. **Make a Hunter.** Every player character belongs to Haven Ember and the wider Ember Corps. New characters begin with **250 XP at Genin status**.
+2. **Get the sheet reviewed.** A GM checks that the character follows the rules.
+3. **Roleplay in character.** Find other Hunters, start scenes and let your character become part of the setting.
+4. **Join Missions and Hunts.** These are GM-run adventures and major encounters.
+5. **Spend XP and Downtime.** Learn techniques, buy abilities, develop talents, craft or invent equipment, research threats and improve your character.
+6. **Keep playing the person, not just the build.** Relationships, rivalries, discoveries and consequences carry between scenes.
 
-<div class="note-box"><strong>DON'T BUILD EVERYTHING AT ONCE.</strong><p>Start with a character you want to play. Your first build can be simple, and the rules allow characters below 1,500 XP to rework their sheets outside combat and events.</p></div>
+You can ask for help. A new player is not expected to know every Jutsu tag, crafting option or combat interaction on day one.
 
-## 3. Roleplay and server language
-{:#roleplay}
+## IC and OOC: The First Thing to Learn
+{:#ic-and-ooc}
 
-**IC = In Character.** You are speaking or acting as your Hunter in the shared world. **OOC = Out of Character.** You are speaking as yourself to ask questions, arrange a scene, or discuss rules. A **scene** is an interaction happening at a particular place and time. **GM** means Gamemaster: the person running or adjudicating an event. **RP** simply means roleplay.
+If you have only played games around a physical or virtual tabletop, **IC** may be unfamiliar.
 
-You do not need to be a novelist. Describe what your character does, says, and notices, and leave room for the other player to respond.
+**IC means In Character.** When you post IC, the words and actions belong to your Hunter inside the fictional world.
 
-> **IC example:** The Hunter drops a battered pack beside the canteen table. "Anyone know who's taking the next salvage job?"  
-> **OOC example:** I'm new—would anyone like to do a short introduction scene?
+**OOC means Out of Character.** This is you, the player, speaking about rules, scheduling, questions, jokes or anything else that is not your character acting in the world.
 
-**Do not decide another player's actions or injuries for them.** You can attempt to grab someone, threaten them or throw a punch; the other player and the rules determine how they respond. If you're uncertain whether a scene involves PvP, lasting injuries or sensitive subject matter, discuss expectations OOC first and involve staff where needed.
+For example:
 
-### What can I actually do between events?
-{:#between-events}
+> **IC:** Ren pulls his coat tighter around himself and eyes the broken gate. "Something came through here. Recently."
+>
+> **OOC:** Does Survival apply to tracking whatever made the footprints?
 
-Chat with other Hunters, make friends and rivals, pursue character goals, train, spar, research monsters, prepare gear, or take a downtime action. RP is not filler: it develops your character and earns XP. Organised missions and Hunts bring groups together for higher-stakes stories.
+An IC scene is simply a piece of roleplay happening between characters. It does not need a GM unless the scene needs the world to answer a question, adjudicate something, or provide opposition. Two Hunters talking over food is an IC scene. Training together is an IC scene. An argument is an IC scene. Investigating a GM-created threat can be an IC scene too.
 
-## 4. Build a Hunter without getting lost
-{:#build}
+Your character does **not** automatically know something because you read it OOC. Likewise, hostility between characters is not hostility between players. Keep the two layers separate.
 
-The [full creation rules]({{ '/rules/core/#character-creation' | relative_url }}) are authoritative. This is the short version:
+## What Do I Actually Do on the Server?
+{:#server-loop}
 
-- **Attributes:** STR (strength), RES (toughness), CHA (chakra), DEX (precision and seals), and AGI (agility and initiative). Start at **20 each** and distribute **25 additional points**, no more than 10 to one attribute.
-- **Heritage:** Your Primary Heritage defines your inherited abilities. Standard Mode lets you choose and pay its UP cost; Realistic Mode uses the special d100 lineage rules and an additional UP cost. See [Clans & Lineages]({{ '/rules/clans/' | relative_url }}).
-- **Uniques:** Character-defining traits and their upgrades. See [Uniques]({{ '/rules/uniques/' | relative_url }}).
-- **Skills:** Your trained noncombat and specialist capabilities, such as Survival, Research, Medicine, Awareness and Artisan.
-- **Abilities and jutsu:** Spend XP on improvements and techniques. See [Core Abilities]({{ '/rules/core/#abilities' | relative_url }}) and the [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }}).
-- **Talents, ranks and Hunter Classes:** Longer-term milestones and specialisation. [Explore Volume V]({{ '/rules/talents/' | relative_url }}).
-- **Equipment:** You can buy ready-made gear without learning crafting. Browse [Pre-Made Weapons]({{ '/rules/standard-weapons/' | relative_url }}) and [Pre-Made Armor]({{ '/rules/standard-armor/' | relative_url }}).
+Most play falls into four broad activities.
 
-Your sheet does much of the bookkeeping, but understanding what each number means will make play easier. Ask for a sheet review before joining a serious fight.
+### Roleplay
 
-## 5. Combat: the idea in sixty seconds
-{:#combat}
+Talk to other characters and build a life in Haven Ember. Active IC roleplay awards **4 XP per 30 minutes**. Meaningful moments can also earn Roleplay Beats for Bond, Reveal, Drive and Change.
 
-Ember Corps uses a **shared timeline**, not a series of full turns in rounds. Everyone rolls initiative; the highest roll begins on **IC 0**. Other combatants start later by the difference between their roll and the highest roll.
+This is not filler between "real sessions." It is one of the main ways Ember Corps is played.
 
-When your IC comes up, choose an action. It usually resolves immediately. Add the action's **Speed** to your current IC to find when you can act again. The timeline advances to whoever is next. **Lower Speed = your next action comes sooner.**
+### Missions
 
-### Speed and IC, step by step
+Missions are GM-run jobs: expeditions, escorts, investigations, infiltrations, rescues, dangerous journeys and similar operations. They normally award XP based on time and danger, plus Ryō and whatever consequences or discoveries come from the mission.
+
+### Hunts
+
+Hunts are encounters focused around monsters. They can involve preparation and investigation as well as the fight itself. Rewards depend on the creature and its Fight Value.
+
+### Downtime
+
+Downtime represents meaningful work your Hunter does away from active scenes. You receive **2 Downtime Slots each week** and can earn additional slots through play, up to 6 per week. Downtime can be used for things such as training, research, crafting and other long-term development.
+
+Completed Downtime actions using a slot grant **5 XP**.
+
+## Your Character Sheet, Without the Panic
+{:#sheet}
+
+Ember Corps has more numbers than 5e, but you only need to understand what your own character uses.
+
+Your **Attributes** are the foundation of the character. They feed into secondary statistics such as Vitality, HP, Accuracy, Dodge and damage bonuses.
+
+**Vitality** is your first layer of staying power. Damage removes Vitality first.
+
+**HP** represents serious bodily harm. Once Vitality is gone, damage carries into HP.
+
+**Stamina and Chakra** power different parts of your kit. Techniques and strenuous actions cost resources; managing them matters.
+
+**Skills** cover learned competencies outside and inside combat.
+
+**Abilities** are purchased improvements and special capabilities.
+
+**Talents** are larger packages of expertise that develop over time.
+
+**Jutsu** are specific techniques. Their Rank, cost, Speed, Accuracy, damage and tags tell you how they function.
+
+**Equipment** matters. Weapons and armor have their own rules, and players who do not want to craft from scratch can use the pre-made catalogues.
+
+You do not need to optimise all of these simultaneously. Pick a character fantasy first, then make the numbers support it.
+
+## The Big Difference from 5e: Combat Has No Rounds
 {:#speed}
 
-Imagine two Hunters. **A** starts at IC 0 and **B** starts at IC 4.
+This is the rule most likely to feel strange at first.
+
+In 5e, everybody gets a turn each round. A fast character may go earlier, but everybody generally receives one turn before the next round begins.
+
+**Ember Corps does not work like that.**
+
+Combat runs on a continuous timeline called **Initiative Counts**, usually shortened to **IC**. Lower IC is earlier in time. Every action has a **Speed**. After you act, add that Speed to your current IC. The result is when you can act again.
+
+### The simplest possible example
+
+You are ready to act on **IC 5**.
+
+You use a **Speed 6** attack.
+
+The attack happens on IC 5. Then:
+
+**5 + 6 = 11**
+
+Your next normal action is therefore on **IC 11**.
+
+Another Hunter might use a Speed 10 technique on IC 5 and next act on IC 15. You used the faster action, so you get another opportunity sooner.
+
+**That is what Speed means. Lower Speed is faster.**
+
+### A tiny timeline
 
 | IC | What happens |
 | :--- | :--- |
-| 0 | A uses a **Speed 8** attack. A's next action is at **IC 8**. |
-| 4 | B uses a **Speed 12** attack. B's next action is at **IC 16**. |
-| 8 | A acts again and uses another **Speed 8** action. A's next action is at **IC 16**. |
-| 16 | Both are ready. Their actions are **simultaneous** under the combat rules. |
+| 0 | Aya acts and uses a Speed 8 attack. Her next action is IC 8. |
+| 3 | Bo acts and uses a Speed 4 attack. His next action is IC 7. |
+| 7 | Bo acts again. |
+| 8 | Aya acts again. |
 
-<div markdown="0" class="guide-ic-track" role="img" aria-label="Timeline: A acts at IC 0, 8 and 16; B acts at IC 4 and 16"><div><b>A</b><span>0</span><i></i><span>8</span><i></i><span>16</span></div><div><b>B</b><span>4</span><i></i><span>16</span></div></div>
+Bo did not receive a special "extra turn." His action simply took less time.
 
-**The key distinction:** Speed is *not* the number of seconds your attack takes to hit. A normal action generally happens on your current IC; Speed measures how long before you get another action. **Every 100 IC represents 30 seconds** of in-world combat time.
+### Starting combat
 
-**Handseals, Delay and Interrupts are exceptions worth learning next.** Handseals can require time before a jutsu is ready. Some actions have a Delay. A defensive Interrupt such as a dodge can move your next action later—even if it is not otherwise your turn. Read [Initiative and Flow of Time]({{ '/rules/core/#initiative-3' | relative_url }}) and [Combat Actions]({{ '/rules/core/#actions' | relative_url }}) before your first spar.
+Everyone rolls:
 
-### Try the IC calculator
-{:#calculator}
+**1d20 + AGI/10**
 
-<div markdown="0" class="guide-calc"><label for="guide-current">Current IC</label><input id="guide-current" type="number" value="4" min="0"><label for="guide-speed">Action's final Speed</label><input id="guide-speed" type="number" value="8" min="0"><div class="guide-calc-answer" aria-live="polite">Your next action: <strong id="guide-next">IC 12</strong></div><small>Simple actions only: apply relevant AP, Interrupt, handseal and Delay rules separately.</small></div>
-<script>(function(){const c=document.getElementById('guide-current'),s=document.getElementById('guide-speed'),o=document.getElementById('guide-next');if(!c||!s||!o)return;const update=()=>o.textContent='IC '+(Math.max(0,Number(c.value)||0)+Math.max(0,Number(s.value)||0));c.addEventListener('input',update);s.addEventListener('input',update)})();</script>
+The highest Initiative roll begins on **IC 0**. Everyone else subtracts their roll from the highest roll; the difference is their starting IC.
 
-### What about Action Points?
-{:#action-points}
+If the rolls are 16, 12 and 6, the characters begin on IC 0, IC 4 and IC 10 respectively.
 
-**AP** is a resource for making your actions faster and supporting other combat options. You start combat with **0 AP** and gain **5 AP** each time the shared timeline reaches a multiple of **20 IC**. Your maximum is **AGI/2**. Spending **1 AP** reduces an action's Speed by **1**, subject to minimum-Speed restrictions; AP cannot normally reduce Stuns, Delays or Seal Speeds. You don't have to master AP optimisation to join your first spar.
+### Three rules worth remembering
 
-### How do I defend?
-{:#defending}
+**Lower Speed is better.** Speed 5 happens again sooner than Speed 10.
 
-Unlike 5e, you do not simply wait for your next turn while everything hits your AC. When targeted, you may have defensive options such as Dodge, Block or Parry, depending on the attack and your situation. These are governed by **Interrupts** and can affect your next IC. Declare the defense and make the required roll; let the attacker and GM resolve the outcome. The [Actions chapter]({{ '/rules/core/#actions' | relative_url }}) gives the exact costs and conditions.
+**There are no rounds to wait for.** The timeline simply advances to whoever acts next.
 
-### What happens when I get hurt?
-{:#getting-hurt}
+**100 IC = 30 seconds.** IC measures actual combat time, not abstract rounds.
 
-**Vitality** helps you absorb punishment; **HP, Wounds and Fatigue** reflect more serious consequences. Chakra and Stamina limit what you can sustain. You can be injured without immediately dying, but wounds can have lasting effects. Learn the basics of [Wounds]({{ '/rules/core/#wounds' | relative_url }}) and [Fatigue]({{ '/rules/core/#fatigue' | relative_url }}) before a dangerous Hunt.
+Do not worry about advanced Speed manipulation when learning. If you can add your action's Speed to your current IC, you can participate in combat.
 
-## 6. Discord: where everything happens
-{:#discord}
+## Defending Yourself
+{:#defence}
 
-The server is both our meeting place and the game's shared play space. **Channel names and permissions can change**, so follow the current Discord channel list and staff instructions. Here is what the main channel *functions* mean:
+You are not normally forced to stand there until your next scheduled action when somebody attacks you. Defensive mechanics can respond to attacks through **Interrupts**.
 
-| Area / channel function | What to use it for |
-| :--- | :--- |
-| Welcome, rules and announcements | Find server expectations, news, rules changes and upcoming events. |
-| Help, questions and build discussion | Ask about character creation, rulings, builds and mechanics **OOC**. |
-| Character submissions / review | Share your sheet and get staff approval before playing. |
-| IC locations | Write scenes as your Hunter; respect the location and scene context. |
-| Mission / Hunt sign-ups | Join GM-run events and follow their participation instructions. |
-| Sparring / combat | Practice the IC system or fight under the applicable rules. |
-| Logs / downtime | Record XP, downtime declarations, outcomes and links to required rolls. |
-| Bot spam / dice rolls | Declare your roll first, roll with the server's current bot, and link the result where required. |
-| Forums / lore submissions | Participate in ongoing discussions and community worldbuilding when available. |
+Dodge, Parry, Block and more specialised defensive options each solve different problems. The exact choice depends on the attack, your build and what you have available.
 
-**Example downtime workflow:** choose an available downtime action → post a declaration in your log → make any required roll in bot spam → link the roll and record the outcome in your log. See the [Downtime rules]({{ '/rules/core/#downtime-2' | relative_url }}) for eligibility, slot limits and each action's requirements.
+For your first fight, the useful habit is simply:
 
-**Never assume a dice roll or XP claim is automatic.** Read the applicable rules, keep your logs clear, and ask staff if a result or scene needs adjudication.
+> **When somebody attacks you, check whether you can defend before assuming the hit lands.**
 
-## 7. How progression works
-{:#progression}
+Ask the GM or another player which defence applies if you are unsure. Learning when to Dodge, Parry or Block is much easier in play than by memorising every edge case beforehand.
 
-You earn XP by actively roleplaying, fighting, completing downtime actions and taking part in GM events. **Normal RP awards 4 XP per active 30 minutes.** Meaningful Roleplay Beats can add **3 XP each**, up to **12 bonus XP per scene**. Combat also awards **4 XP per 30 minutes**, with additional rules for Fatigue and Wounds. Missions and Hunts have their own event awards rather than stacking normal RP and combat time awards.
+## Damage, Wounds and Fatigue
+{:#damage}
 
-You receive **2 downtime slots each real-world week**. You can earn up to **4 more**, one each for completing a Spar, six hours of RP, a Mission and a Hunt, for a maximum of **6 weekly slots**. A completed downtime action using a slot awards **5 XP**. Spend your XP and resources outside combat and events, according to the [Experience rules]({{ '/rules/core/#experience-advancement' | relative_url }}).
+Taking damage is not just watching one enormous HP bar decrease.
 
-## 8. Your first session checklist
-{:#checklist}
+**Vitality** absorbs damage before HP. When attacks become serious, **Wounds** can impose consequences beyond raw damage. **Fatigue** tracks accumulated exhaustion and can make continued fighting increasingly dangerous.
 
-- [ ] I've read the server's current rules and asked where new characters are approved.
-- [ ] I have a simple Hunter concept and a character sheet.
-- [ ] I know **IC = Initiative Count** and **lower Speed = sooner next action**.
-- [ ] I know **IC = In Character** when people are talking about roleplay; context tells you which meaning they intend.
-- [ ] I know where to ask OOC questions and where to post IC scenes.
-- [ ] I know to declare rolls, keep logs and ask before assuming another player's response.
-- [ ] I'm ready to meet another Hunter, try a short spar or join an event.
+This means winning a fight can still leave consequences. A battered Hunter may need recovery even if they never reached 0 HP.
 
-<div class="note-box"><strong>YOUR FIRST SCENE DOESN'T NEED TO BE EPIC.</strong><p>Introduce yourself at Haven Ember, ask another Hunter about their last mission, or look for someone willing to demonstrate combat. You can learn the rest as you play.</p></div>
-<div markdown="0" class="external-resources"><a href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener noreferrer">JOIN THE DISCORD ↗</a><a href="{{ '/start/' | relative_url }}">CHARACTER CREATION ↗</a><a href="{{ '/rules/core/#initiative-3' | relative_url }}">FULL COMBAT RULES ↗</a></div>
-</div>
+The system deliberately rewards dangerous experiences: Fatigue and Wounds suffered during qualifying combat can contribute additional XP. That does not mean you should deliberately injure your character; it means the game recognises that surviving costly fights teaches them something.
+
+## Jutsu and Builds
+{:#jutsu}
+
+Jutsu are closer to a mixture of 5e spells, attacks and class features than to any one of those things.
+
+A Jutsu entry tells you what it costs, how fast it is, how accurately it attacks, what damage it deals and which tags or special rules it uses. Your clan, elements, Talents, equipment and abilities can all change what kinds of techniques make sense for you.
+
+Do not begin by searching for the mathematically strongest Jutsu. A much easier first build starts with a sentence:
+
+> "I want to be a close-range Hyūga who uses a weapon."
+>
+> "I want to be a fast lightning user."
+>
+> "I want to control the battlefield with earth techniques."
+>
+> "I want to hunt monsters with traps and a crossbow."
+
+Then choose mechanics that make that sentence true.
+
+## XP Is Not a 5e Level Bar
+{:#xp}
+
+XP is progression, but Ember Corps does not simply wait until you cross a threshold and replace your character with the next level.
+
+XP is used throughout character advancement. Abilities and other improvements have costs, while your total XP also matters for progression and prerequisites.
+
+Your character therefore grows piece by piece. Two Hunters with similar total XP can spend it very differently and play nothing alike.
+
+## Hunter Ranks and Classes
+{:#ranks}
+
+Hunter progression represents your place within Ember Corps as well as mechanical development. Rank is not a direct replacement for a 5e character level, and **Hunter Classes are not D&D classes**. Do not assume that choosing one locks you into a traditional Fighter/Wizard/Rogue progression.
+
+Treat them as Ember Corps progression systems. Read them after you understand your basic character concept rather than trying to build around unfamiliar labels immediately.
+
+## Money and Gear
+{:#gear}
+
+**Ryō** buys equipment. The Equipment & Crafting volume contains the full building system for players who enjoy designing gear, but you do not need to learn crafting to begin.
+
+The **Pre-Made Weapon Catalogue** and **Pre-Made Armor Catalogue** exist specifically so you can buy functional equipment without becoming an armorsmith on your first day.
+
+## A Good First Day
+{:#first-day}
+
+If you have just joined, this is enough:
+
+1. Read this guide.
+2. Look through Character Creation in Core Rules.
+3. Decide what your Hunter is like as a person and what they are good at.
+4. Build a 250 XP Genin with help from the community if you want it.
+5. Get the sheet reviewed by a GM.
+6. Introduce the character IC.
+7. Join a scene.
+8. When combat happens, remember **current IC + Speed = next IC**.
+9. Learn the more detailed rules when they actually become relevant.
+
+Nobody benefits from you trying to memorise the entire archive before writing your first IC post.
+
+## Where to Go Next
+{:#next}
+
+**Making your character:** [Core Rules — Character Creation]({{ '/rules/core/#character-creation' | relative_url }})
+
+**Learning combat properly:** [Core Rules — Initiative Rolls & Flow of Time]({{ '/rules/core/#initiative-rolls' | relative_url }})
+
+**Choosing techniques:** [Jutsu Compendium]({{ '/rules/jutsu/' | relative_url }})
+
+**Talents and progression:** [Talents, Ranks & Hunter Classes]({{ '/rules/talents/' | relative_url }})
+
+**Buying or crafting gear:** [Equipment & Crafting]({{ '/rules/equipment/' | relative_url }})
+
+**Understanding the setting:** [World & Lore]({{ '/lore/' | relative_url }})
+
+**Need a human being:** [Join the Discord](https://discord.gg/TheEmberCorps)
+
+The full rules are a reference library, not an entrance exam. Start with a Hunter you want to play. The rest becomes much easier once the rules have a character and a scene to attach themselves to.
