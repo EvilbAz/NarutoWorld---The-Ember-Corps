@@ -504,3 +504,13 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .brand-mark .ec-logo{width:42px;height:42px}
 .hero-kicker .hero-logo{width:50px;height:50px;border:0;border-radius:0;object-fit:unset}
 :root[data-theme=primal] .brand-mark .ec-logo,:root[data-theme=abyss] .brand-mark .ec-logo{filter:none!important}
+
+/* EC logo palette: only the monster follows the color scheme. */
+:root{--ec-monster:#e12b32;--ec-letters:#f6f6f4}
+:root[data-theme=primal]{--ec-monster:#85db62}
+:root[data-theme=abyss]{--ec-monster:#58c8f0}
+:root[data-appearance=light]{--ec-letters:#111317}
+:root[data-appearance=dark]{--ec-letters:#f6f6f4}
+.ec-logo .ec-monster{background-color:var(--ec-monster)!important;filter:none!important}
+.ec-logo .ec-letters{background-color:var(--ec-letters)!important;filter:none!important}
+:root[data-theme=primal] .brand-mark .ec-logo,:root[data-theme=abyss] .brand-mark .ec-logo{filter:none!important}
