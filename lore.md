@@ -3,11 +3,11 @@ title: "World & Lore"
 description: "The Fall, the Bloom, Haven Ember, and the people whose names travel beyond its walls."
 permalink: /lore/
 ---
-<div class="simple-page lore-page">
+<div class="simple-page lore-page" markdown="1">
 <div class="eyebrow">EMBER ARCHIVE / WORLD RECORD</div>
 <h1>THE WORLD<br><span>BEYOND THE WALLS.</span></h1>
 <p class="lead">The old nations are gone. The Bloom is not. Here are the places, events and people a Hunter might know before setting foot in the Wastes.</p>
-<nav class="lore-index" aria-label="Lore chapters"><a href="#history">01 / History</a><a href="#world">02 / The World</a><a href="#haven">03 / Haven Ember</a><a href="#people">04 / Known People</a><a href="#reputation">05 / Famous Hunters</a><a href="#open-records">06 / Open Records</a></nav>
+<nav class="lore-index" aria-label="Lore chapters"><a href="#history">01 / History</a><a href="#world">02 / The World</a><a href="#haven">03 / Haven Ember</a><a href="#people">04 / Haven Figures</a><a href="#reputation">05 / Renowned Hunters</a><a href="#open-records">06 / Unwritten History</a></nav>
 
 ## History
 {:#history}
@@ -43,25 +43,47 @@ The Corps is not an old-world standing army. It brings together Hunters, scouts,
 
 A Hunter's reputation is built through what they do, who survives to tell the story and which settlements hear it. Some become household names. Others are remembered only by the people they brought home.
 
-## Known People
+## People of Haven Ember
 {:#people}
 
+The names below appear in the Corps’ field reports, medical rosters, training stories and the accounts of Hunters returning from the Wastes. A title can mark a great deed, a warning, or a reputation that has grown in the telling. Not every rumour in these dossiers is confirmed.
+
+### The Haven’s Inner Circle
+
 <div class="lore-dossiers">
-<section class="lore-dossier"><span class="lore-stamp">EMBER HAVEN / CHIEF ADVISOR</span><h3>Giari</h3><p><strong>Heritage:</strong> Uzumaki · <strong>Specialty:</strong> Fūinjutsu</p><p>Giari serves as Ember Haven's Chief Advisor. His recorded specialties include advanced sealing arts and an extensive knowledge of Uzumaki techniques. His dossier lists the distinctions Seal Savant, Living Archive, Impossible Formulae, Fūinjutsu Master, Sun-Sealer and Grand Sealwright. His influence is documented through his position and technical expertise; stories about individual exploits should be treated as unconfirmed until entered into the archive.</p></section>
-<section class="lore-dossier"><span class="lore-stamp">EMBER HAVEN / CHARACTER RECORD</span><h3>Kagetsu Yoton</h3><p><strong>Heritage:</strong> Yōton · <strong>Recorded standing:</strong> Stray</p><p>A Yōton Hunter associated with Haven Ember. His recorded traits include Strong-Willed, Energetic and Surging Power. His reputation and history are still being written; his inclusion here is a character record, not a claim that he is already known across the world.</p></section>
+<section class="lore-dossier"><span class="lore-stamp">HAVEN LEADERSHIP / CHIEF ADVISOR</span><h3>Giari</h3><p class="lore-profile-meta">Uzumaki · Fūinjutsu</p><p>Giari serves as the Haven’s Chief Advisor and is associated with advanced sealing arts and the preservation of Uzumaki techniques. His recorded distinctions include Seal Savant, Living Archive, Impossible Formulae, Fūinjutsu Master, Sun-Sealer and Grand Sealwright. His position and technical expertise are established; particular exploits have yet to be entered into the public archive.</p></section>
+<section class="lore-dossier"><span class="lore-stamp">CORPS RECORD / STRAY</span><h3>Kagetsu Yoton</h3><p class="lore-profile-meta">Yōton · Stray</p><p>A Hunter of Haven Ember whose recorded traits include Strong-Willed, Energetic and Surging Power. His story is still unfolding, and his place in the archive is a character record rather than a claim to worldwide renown.</p></section>
 </div>
 
-## Famous Hunters & the Bingo Book
+## Renowned Hunters
 {:#reputation}
 
-The most dangerous or widely recognised people in the Wastes appear in stories, trade-route warnings and Bingo Book records. **Fame, Infamy and combat strength are different things.** A powerful Hunter might remain unknown, while a rescuer, explorer, criminal or political figure becomes famous without being the strongest fighter in the room.
+Across the Wastes, reputation travels with caravan guards, rescued civilians, survivors and the Bingo Book. A Hunter may be celebrated for a single rescue, feared for their methods, or quietly respected for decades of service. The following are recorded figures of Haven Ember; their standing elsewhere depends on who has heard their stories.
 
-A complete worldwide register has not yet been established. Rather than invent deeds or rankings for existing characters, this archive will add named Hunters when their identities, affiliations and recorded actions have been approved for publication. Giari's advisory position and Kagetsu's character record are documented above; neither entry is presented as a worldwide fame ranking.
+<div class="lore-dossiers lore-roster">
+<section class="lore-dossier lore-profile" id="amot"><span class="lore-stamp">FRONTLINE / TRAINER</span><h3>Amot <span class="lore-alias">“The Dragon”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Slayer <span>·</span> Hoshigaki</p><p>A wyrm-like descendant of the Hoshigaki who turned from his lineage’s usual association with water to Katon. Amot pairs fire Ninjutsu with an enormous sword and is rarely far from the heaviest fighting. His long combat history has made him a demanding instructor, sometimes pushing trainees beyond what they can safely manage. Arrogant and reckless though he can be, his loyalty to Haven Ember is not in question.</p></section>
+<section class="lore-dossier lore-profile" id="seiza"><span class="lore-stamp">RECONNAISSANCE / WALL WATCH</span><h3>Seiza <span class="lore-alias">“Red Hood”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Pathfinder <span>·</span> Hyūga</p><p>Raised among stories of legendary Hunters, Seiza came to distrust the pursuit of fame. She believes the strongest Hunters are often those whose names never travel beyond the people they save. Quietly observing Strays in training or keeping watch from the Haven’s walls, she favours poison-tipped arrows and the blade. The Red Hood’s gaze is a warning that a target may never know it has been found.</p></section>
+<section class="lore-dossier lore-profile" id="rias"><span class="lore-stamp">BEAST STUDIES / MONSTER TAMING</span><h3>Rias <span class="lore-alias">“The Black Asp”</span></h3><p class="lore-profile-meta"><strong>Warden</strong> <span>·</span> Chirurgeon <span>·</span> Clanless</p><p>Raised in the wilderness, Rias is more comfortable among beasts than crowds. A pioneer of monster taming and raising, she ventures beyond the walls with her constant companion, Seto. Her understanding of monster behaviour and anatomy makes her an authority on both their care and their destruction. Her reputation rests on knowledge and fieldcraft rather than overwhelming personal strength.</p></section>
+<section class="lore-dossier lore-profile" id="noriko"><span class="lore-stamp">BREACH / EMERGENCY RESPONSE</span><h3>Noriko <span class="lore-alias">“The Unstoppable Force”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Breaker <span>·</span> Jūgo</p><p>Where many of the Jūgo bloodline struggle to restrain their battle instincts, Noriko meets danger head-on. She earned her title by smashing through Haven Ember’s own walls to reach Strays stranded outside during a monster attack. The breach became a story told throughout the Corps: an extraordinary rescue that left the Haven with one more repair to make. Her appetite for direct confrontation remains as famous as her strength.</p></section>
+<section class="lore-dossier lore-profile" id="ikidomari"><span class="lore-stamp">MEDICAL LOGISTICS / RESTRICTED DEPLOYMENT</span><h3>Ikidomari <span class="lore-alias">“The Mercifully Bloody Blade”</span></h3><p class="lore-profile-meta"><strong>Warder (Legend)</strong> <span>·</span> Slayer <span>·</span> Ouyoku</p><p>Older than she appears, Ikidomari belongs to the same generation as Genzo Arakane, a fact known to only a few senior Corps members. In her youth she was among Ember’s most bloodthirsty Hunters, the central figure in stories of sword sages. An incident brought her close to becoming a Frenzied Hunter before the Ember Lord subdued her; she was subsequently barred from active combat without permission. She now oversees the Corps’ medical logistics and is widely respected as a gentle, maternal physician. Few of those she treats know the history of the blade she no longer carries openly.</p></section>
+<section class="lore-dossier lore-profile" id="tsundora"><span class="lore-stamp">CLAN PATRIARCH / CORPS COMMAND</span><h3>Tsundora <span class="lore-alias">“The Tundra”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Trapper <span>·</span> Yuki</p><p>Patriarch of the diminished Yuki clan and a leading traditionalist in Haven Ember’s internal politics, Tsundora demands discipline from relatives and comrades alike. His responsibilities to his clan and the Corps often collide. He has forced his granddaughter Yuna towards the Hunter’s path against her wishes, straining their relationship. In command he is willing to sacrifice a few to protect the many, yet his fierce loyalty to the Yuki also gives his opponents a point of leverage.</p></section>
+<section class="lore-dossier lore-profile" id="idetara"><span class="lore-stamp">TRACKING / RECORD RESTRICTED</span><h3>Idetara <span class="lore-alias">“Forgotten Son”</span></h3><p class="lore-profile-meta"><strong>Warden</strong> <span>·</span> Hound <span>·</span> Uchiha</p><p>A solitary, gloomy Hunter whose arrival and history remain unclear even to those who work beside him. Rumours insist that anyone who grows close to him dies, and that hearing him speak your name seals your fate. The archive records these as stories, not established supernatural abilities. What returning patrols do agree on is that monsters encountered by Idetara seldom survive; the aftermath is described in ash and darkness.</p></section>
+<section class="lore-dossier lore-profile" id="shiki"><span class="lore-stamp">DEFENCE / EVACUATION</span><h3>Shiki <span class="lore-alias">“The Boundary”</span></h3><p class="lore-profile-meta"><strong>Huntsman</strong> <span>·</span> Anchor <span>·</span> Shiin</p><p>Shiki enters a battlefield with the confidence of a performer stepping onto a stage. Her title reportedly comes from the defence of another Haven, where she erected an enormous Fūinjutsu barrier that bought civilians time to evacuate. She measures success less by the enemies she defeats than by the people a threat never reaches. For those sheltering behind her, her flamboyance is a promise that the line will hold.</p></section>
+<section class="lore-dossier lore-profile" id="chisato"><span class="lore-stamp">ARCHIVES / RUIN RECOVERY</span><h3>Chisato <span class="lore-alias">“The Library’s Crow”</span></h3><p class="lore-profile-meta"><strong>Warden</strong> <span>·</span> Scavenger <span>·</span> Clanless</p><p>Chisato’s family has reportedly preserved fragments of the old world for generations: burned scrolls, damaged journals, forgotten records and broken Jutsu manuscripts. She continues that work in ruins beyond the Havens, recovering knowledge regardless of whether it is useful, dangerous or forbidden. Her command of reconstructed and obscure Jutsu makes her fighting style difficult to anticipate. Whispers suggest not all of her knowledge comes from study, though no reliable account explains them. She fears humanity forgetting its past more than whatever may be waiting in the ruins.</p></section>
+</div>
+
+### Names Beyond the Dossiers
+
+The **Ember Lord** is remembered in Corps accounts as the Hunter who stopped Ikidomari’s near-frenzy. **Genzo Arakane** belongs to the same generation as Ikidomari. Their full biographies, along with the names and deeds of famous Hunters from other Havens, remain to be documented rather than invented here.
+
+### The Bingo Book
+
+The Bingo Book records people whose deeds, threats or value make them worth identifying. **Fame, Infamy and combat strength are not interchangeable.** The public archive records known stories and affiliations; an official Bingo Card, when issued, remains the source for a Hunter’s mechanical standing.
 
 ## Open Records
 {:#open-records}
 
-This archive is deliberately incomplete. The dates of the Bloom, the fate of particular old-world sites, the full list of Havens and the identities of every legendary Hunter remain subjects for future discoveries and approved lore submissions. Accounts may disagree, especially when the only witnesses are returning expeditions.
+This archive is deliberately incomplete. The precise dates of the Bloom, the fate of particular old-world sites, the full list of Havens and the identities of legendary Hunters beyond the currently documented Corps remain subjects for future discoveries and approved lore submissions. Accounts may disagree, especially when the only witnesses are returning expeditions.
 
 The [Core Rules]({{ '/rules/core/' | relative_url }}) remain the authority for mechanics, while this archive records the setting. As missions, character stories and approved community submissions become canon, their history and dossiers can be added here without rewriting the rules.
 </div>
