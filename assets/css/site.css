@@ -291,3 +291,36 @@
 @media(max-width:1000px){.home-v2 .hero{min-height:650px}.home-v2 .hero h1{font-size:clamp(65px,9vw,110px)}}
 @media(max-width:700px){.home-v2 .hero{min-height:650px;padding:70px 27px 35px}.home-v2 .hero h1{font-size:clamp(62px,13vw,92px)}.home-v2 .hero-index{margin-top:55px;gap:15px;flex-wrap:wrap}.home-v2 .hero-index span:nth-child(2){display:none}.home-v2 .hero-glyph{right:-18%;top:23%;opacity:.1}.home-v2 .home-quicklinks{grid-template-columns:1fr}.home-v2 .home-quicklinks a{padding:22px 28px;border-right:0;border-bottom:1px solid var(--line)}.home-v2 .home-section{padding:65px 24px}.home-v2 .book-grid{grid-template-columns:1fr}.home-v2 .lore-home-teaser{padding:55px 27px}.home-v2 .home-end{padding:40px 27px;flex-wrap:wrap}}
 @media(prefers-reduced-motion:reduce){.home-v2 .book-card,.home-v2 .hero-actions a,.home-v2 .hero-actions button{transition:none}}
+
+/* The Bloom: quiet motion, ember drift, and responsive tactile feedback. */
+@keyframes ember-rise{0%{transform:translate3d(0,22px,0) scale(.65);opacity:0}15%{opacity:.7}65%{opacity:.55}100%{transform:translate3d(38px,-180px,0) scale(.25);opacity:0}}
+@keyframes ember-breathe{0%,100%{opacity:.65;transform:scale(1)}50%{opacity:1;transform:scale(1.075)}}
+@keyframes ember-mist{0%,100%{transform:translate3d(0,0,0);opacity:.55}50%{transform:translate3d(-24px,-10px,0);opacity:.85}}
+@keyframes ember-arrive{from{opacity:0;transform:translateY(23px)}to{opacity:1;transform:translateY(0)}}
+@keyframes ember-sweep{from{transform:translateX(-120%)}to{transform:translateX(200%)}}
+.home-v2 .hero-embers{position:absolute;inset:0;z-index:2;overflow:hidden;pointer-events:none}
+.home-v2 .hero-embers i{position:absolute;display:block;bottom:7%;left:61%;width:3px;height:3px;border-radius:50%;background:#e87b6b;box-shadow:0 0 8px 2px rgba(214,73,60,.35);animation:ember-rise 10s linear infinite;will-change:transform,opacity}
+.home-v2 .hero-embers i:nth-child(2){left:68%;bottom:19%;width:2px;height:2px;animation-duration:13s;animation-delay:-4s}
+.home-v2 .hero-embers i:nth-child(3){left:76%;bottom:9%;animation-duration:12s;animation-delay:-8s}
+.home-v2 .hero-embers i:nth-child(4){left:83%;bottom:23%;width:2px;height:2px;animation-duration:15s;animation-delay:-2s}
+.home-v2 .hero-embers i:nth-child(5){left:92%;bottom:6%;animation-duration:11s;animation-delay:-7s}
+.home-v2 .hero-embers i:nth-child(6){left:56%;bottom:30%;width:2px;height:2px;animation-duration:16s;animation-delay:-11s}
+.home-v2 .hero-embers i:nth-child(7){left:72%;bottom:35%;animation-duration:14s;animation-delay:-5s}
+.home-v2 .hero-embers i:nth-child(8){left:88%;bottom:41%;width:2px;height:2px;animation-duration:17s;animation-delay:-13s}
+.home-v2 .hero-sun{animation:ember-breathe 13s ease-in-out infinite;transform-origin:center}
+.home-v2 .hero-horizon{animation:ember-mist 24s ease-in-out infinite}
+.home-v2 .hero-glyph{animation:ember-breathe 18s ease-in-out infinite}
+.home-v2 .hero-kicker{animation:ember-arrive .75s ease-out both}
+.home-v2 .hero h1{animation:ember-arrive .85s .12s ease-out both}
+.home-v2 .hero-content>p{animation:ember-arrive .85s .28s ease-out both}
+.home-v2 .hero-actions{animation:ember-arrive .85s .43s ease-out both}
+.home-v2 .hero-index{animation:ember-arrive .85s .58s ease-out both}
+.home-v2 .home-quicklinks a{position:relative;overflow:hidden}
+.home-v2 .home-quicklinks a:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(110deg,transparent 30%,rgba(210,94,102,.075) 50%,transparent 70%);transform:translateX(-120%)}
+.home-v2 .home-quicklinks a:hover:after{animation:ember-sweep .8s ease-out 1}
+.home-v2 .home-quicklinks a strong,.home-v2 .book-card .card-arrow,.home-v2 .book-card .view-chapter span{transition:transform .22s ease,color .22s ease}
+.home-v2 .home-quicklinks a:hover strong{transform:translateX(5px);color:var(--accent)}
+.home-v2 .book-card:hover .card-arrow,.home-v2 .book-card:hover .view-chapter span{transform:translate(3px,-2px)}
+.home-v2 .hero-actions a:focus-visible,.home-v2 .home-quicklinks a:focus-visible,.home-v2 .book-card:focus-visible{outline:2px solid var(--accent2);outline-offset:4px}
+@media(max-width:700px){.home-v2 .hero-embers i:nth-child(n+5){display:none}.home-v2 .hero-horizon{animation:none}}
+@media(prefers-reduced-motion:reduce){.home-v2 .hero-embers i,.home-v2 .hero-sun,.home-v2 .hero-horizon,.home-v2 .hero-glyph,.home-v2 .hero-kicker,.home-v2 .hero h1,.home-v2 .hero-content>p,.home-v2 .hero-actions,.home-v2 .hero-index,.home-v2 .home-quicklinks a:hover:after{animation:none!important}.home-v2 .home-quicklinks a strong,.home-v2 .book-card .card-arrow,.home-v2 .book-card .view-chapter span{transition:none!important}.home-v2 .hero-embers{display:none}}
