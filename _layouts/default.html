@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="dark" data-appearance="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -7,8 +7,8 @@
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ec-monster.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-layout-repair-v3">
-  <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark'}catch(e){}</script>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-ec-palette-v4">
+  <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
 <a class="skip-link" href="#main">Skip to content</a>
@@ -140,6 +140,6 @@
  <div class="search-backdrop" id="search-backdrop"></div>
  <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search all six rulebooks"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH ACROSS ALL SIX VOLUMES</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
 </div>
-<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-equipment-nav-v4" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-ec-palette-v4" defer></script>
 </body>
 </html>
