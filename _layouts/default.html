@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#0b0c0d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-  <link rel="icon" href="{{ '/assets/img/ember-server-logo.jpg' | relative_url }}" type="image/jpeg">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-equipment-nav-v5">
+  <link rel="icon" href="{{ '/assets/img/ember.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-layout-repair-v1">
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark'}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -15,13 +15,13 @@
 <div class="site-shell">
   <aside class="sidebar" id="sidebar" aria-label="Rulebook navigation">
     <a href="{{ '/' | relative_url }}" class="brand">
-      <span class="brand-mark"><img src="{{ '/assets/img/ember-server-logo.jpg' | relative_url }}" alt=""></span>
+      <span class="brand-mark"><img src="{{ '/assets/img/ember.svg' | relative_url }}" alt=""></span>
       <span class="brand-copy"><strong>EMBER CORPS</strong><small>NARUTO WORLD · 1.0</small></span>
     </a>
     <button class="sidebar-search search-trigger" type="button" aria-label="Search all rules"><span class="magnify">⌕</span><span>Search the rules...</span><kbd>⌘ K</kbd></button>
     <div class="nav-eyebrow">FIELD MANUAL <span>06 VOLUMES</span></div>
     <nav class="volume-nav">
-      {% assign books = "core|Core Rules|I,uniques|Uniques|II,clans|Clans & Lineages|III,jutsu|Jutsu Compendium|IV,talents|Talents, Ranks & Hunter Classes|V,equipment|Equipment & Crafting|VI" | split: "," %}
+      {% assign books = "core|Core Rules|I,uniques|Uniques|II,clans|Clans & Lineages|III,jutsu|Jutsu Compendium|IV~talents|Talents, Ranks & Hunter Classes|V~equipment|Equipment & Crafting|VI" | replace: ",", "~" | split: "~" %}
       {% for entry in books %}{% assign b = entry | split: "|" %}
         <a class="volume-link {% if page.volume_slug == b[0] %}selected{% endif %}" href="{{ '/rules/' | append: b[0] | append: '/' | relative_url }}"><span class="volume-number">{{ b[2] }}</span><span>{{ b[1] }}</span>{% if page.volume_slug == b[0] %}<span class="active-spark"></span>{% endif %}</a>
         {% if page.volume_slug == b[0] %}
