@@ -6,8 +6,6 @@ description: "Start here: character creation, Discord roleplay, Initiative Count
 permalink: "/guide/"
 ---
 
-<div class="guide-page"><div class="guide-reading">
-
 <div class="guide-hero" id="welcome"><div class="guide-hero-copy"><span class="guide-eyebrow">EMBER CORPS / FIELD MANUAL 00</span><h1>YOUR STORY<br>STARTS <em>HERE.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
 <div class="guide-stat-strip"><div><strong>250 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
@@ -336,4 +334,3 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 
 The full rules are a reference library, not an entrance exam. Start with a Hunter you want to play. The rest becomes much easier once the rules have a character and a scene to attach themselves to.
 
-</div></div>
