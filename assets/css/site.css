@@ -473,3 +473,19 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 
 /* Homepage and sidebar repair */
 .brand-mark{flex:0 0 40px;overflow:hidden}.brand-mark img{display:block;width:100%;height:100%;object-fit:contain}.brand-copy{min-width:0}.volume-link{min-height:45px;line-height:1.35}.volume-link .volume-number{flex:0 0 24px}.hero{overflow:hidden}.hero-content{min-width:0}.hero-kicker{flex-wrap:wrap;line-height:1.5}.hero-logo{display:block;flex:0 0 42px;width:42px;height:42px;object-fit:contain;border-radius:8px}.hero h1{font-size:clamp(48px,5.5vw,100px);overflow-wrap:normal}.hero-actions{gap:12px}.hero-actions .primary-btn,.hero-actions .secondary-btn{gap:15px;white-space:nowrap}@media(max-width:1150px){.hero{padding:60px 36px 28px}.hero h1{font-size:clamp(48px,6vw,82px)}.hero-glyph{opacity:.35}}@media(max-width:700px){.hero{padding:48px 24px 26px}.hero h1{font-size:clamp(44px,11vw,70px)}.hero-actions>a,.hero-actions>button{width:100%}.hero-index{gap:15px;flex-wrap:wrap}}
+
+/* Layout repair v3: size the hero against its actual content column, not the viewport. */
+.home-v2 .hero{container-type:inline-size;min-width:0;min-height:620px;padding:clamp(28px,5vw,66px) clamp(22px,4vw,64px) 34px;overflow:hidden}
+.home-v2 .hero-content{width:100%;max-width:760px;min-width:0}
+.home-v2 .hero h1{font-size:clamp(46px,10cqw,104px);line-height:.91;max-width:100%;margin:34px 0 24px;overflow-wrap:normal}
+.home-v2 .hero-kicker{display:flex;flex-wrap:wrap;align-items:center;gap:9px;font-size:10px;letter-spacing:1.4px;max-width:100%}
+.home-v2 .hero-logo{flex:none;width:42px;height:42px;display:block;object-fit:cover;border-radius:7px}
+.home-v2 .hero-actions{display:flex;flex-wrap:wrap;gap:10px;max-width:100%}
+.home-v2 .hero-actions .primary-btn,.home-v2 .hero-actions .secondary-btn{font-size:11px;gap:12px;padding:12px 14px;max-width:100%;white-space:normal}
+.home-v2 .hero-index{max-width:100%;gap:12px;flex-wrap:wrap;margin-top:48px}
+.brand-mark{background:#f5f1ec;border-radius:7px;overflow:hidden;flex:0 0 40px}
+.brand-mark img{width:100%;height:100%;object-fit:cover}
+.volume-link{align-items:flex-start;line-height:1.4;gap:12px}
+.volume-number{flex:0 0 24px}
+@container (max-width:650px){.home-v2 .hero h1{font-size:clamp(43px,10.5cqw,72px)}.home-v2 .hero-actions .primary-btn,.home-v2 .hero-actions .secondary-btn{flex:1 1 170px}.home-v2 .hero-glyph{opacity:.14;right:-18%}}
+@container (max-width:420px){.home-v2 .hero h1{font-size:clamp(39px,10cqw,50px)}.home-v2 .hero-actions .primary-btn,.home-v2 .hero-actions .secondary-btn{flex:1 1 100%}.home-v2 .hero-kicker .kicker-rule{display:none}}
