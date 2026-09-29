@@ -594,3 +594,9 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .sage-shared-note{padding:21px;margin:43px 0 24px;border-left:3px solid var(--accent);background:var(--surface2)}.sage-shared-note strong{font:900 25px 'Barlow Condensed',sans-serif}.sage-shared-note p{color:var(--muted)}.sage-shared-note a{color:var(--accent);font-size:12px;font-weight:800}
 @media(max-width:900px){.sage-directory-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.sage-directory-grid{grid-template-columns:1fr}.sage-tradition>summary{padding:16px;gap:11px}.sage-tradition-title{font-size:24px}.sage-tradition-toggle{font-size:9px}}
+
+/* Sage tradition emblems */
+.sage-directory-card .sage-symbol{display:grid;place-items:center;width:56px;height:56px;margin:3px 0 8px;border:1px solid var(--line);border-radius:50%;background:color-mix(in srgb,var(--accent) 9%,var(--surface2));font:32px/1 system-ui,sans-serif;letter-spacing:0;color:var(--accent)}
+.sage-tradition>summary .sage-symbol-small{display:grid;place-items:center;flex:0 0 46px;width:46px;height:46px;border:1px solid var(--line);border-radius:50%;background:var(--surface);font:27px/1 system-ui,sans-serif;color:var(--accent)}
+.sage-directory-card:hover .sage-symbol,.sage-tradition[open]>summary .sage-symbol-small{border-color:var(--accent)}
+@media(max-width:560px){.sage-tradition>summary .sage-symbol-small{flex-basis:37px;width:37px;height:37px;font-size:23px}.sage-directory-card .sage-symbol{width:49px;height:49px;font-size:28px}}
