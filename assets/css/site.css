@@ -239,3 +239,55 @@
 .lore-side-nav{flex:none;padding:5px 0 8px;border-top:1px solid var(--line);margin-top:6px}
 .lore-side-nav .volume-link{min-height:43px}
 .sidebar-bottom{margin-top:auto}
+
+/* Navigation: one continuous rules + lore list, never split by flex space. */
+.sidebar{overflow:hidden}
+.sidebar>.volume-nav{flex:1 1 auto;min-height:0;overflow-y:auto;overscroll-behavior:contain}
+.sidebar>.nav-eyebrow{flex:none}
+.sidebar>.sidebar-bottom{flex:none;margin-top:0}
+.sidebar>.archive-nav,.sidebar>.lore-side-nav{display:none}
+.sidebar>.nav-eyebrow:has(+ .archive-nav){display:none}
+.sidebar-bottom>a[href*="/lore/"]{display:none}
+.lore-volume-link{border-top:1px solid var(--line);margin-top:9px;padding-top:17px;padding-bottom:17px}
+@media(min-height:800px){.sidebar>.volume-nav{flex:0 1 auto}.sidebar>.sidebar-bottom{margin-top:auto}}
+/* Landing page: Wastes expedition / atmospheric field archive. */
+.home-v2{--hero-red:#a83b4a}
+.home-v2 .hero{isolation:isolate;min-height:min(800px,91vh);padding:90px clamp(35px,6vw,110px) 54px;overflow:hidden;background:radial-gradient(ellipse at 76% 22%,rgba(163,43,56,.2),transparent 42%),linear-gradient(115deg,#111517 13%,#1c2021 60%,#15191a)}
+.home-v2 .hero-grid{opacity:.13;background-size:56px 56px;mask-image:linear-gradient(90deg,#000,transparent 80%)}
+.home-v2 .hero-content{position:relative;z-index:4;max-width:850px}
+.home-v2 .hero-kicker{color:#c4b2ae;letter-spacing:2.3px;font-size:10px}
+.home-v2 .hero h1{font-size:clamp(64px,8vw,140px);line-height:.86;letter-spacing:-.015em;margin:38px 0 30px;text-shadow:0 12px 35px rgba(0,0,0,.3)}
+.home-v2 .hero h1 span{color:#d3545d;text-shadow:0 0 55px rgba(182,39,51,.28)}
+.home-v2 .hero p{font-size:clamp(14px,1.45vw,17px);line-height:1.9;max-width:520px;color:#d0c6c4}
+.home-v2 .hero-actions{margin-top:35px}
+.home-v2 .hero-actions a,.home-v2 .hero-actions button{min-height:54px;padding:16px 22px;letter-spacing:1.1px}
+.home-v2 .hero-actions .primary-btn{background:#a63544;border-color:#c44755;box-shadow:0 12px 30px rgba(0,0,0,.2)}
+.home-v2 .hero-actions .primary-btn:hover{background:#c44755;transform:translateY(-3px)}
+.home-v2 .hero-actions .secondary-btn{background:rgba(17,20,22,.7);border-color:#6a5050}
+.home-v2 .hero-actions .secondary-btn:hover{border-color:#cc7379;transform:translateY(-3px)}
+.home-v2 .hero-index{max-width:750px;margin-top:78px;border-top:1px solid rgba(255,255,255,.19);padding-top:20px;color:#c6aaaa}
+.home-v2 .hero-index a:hover{color:#fff}
+.home-v2 .hero-glyph{right:3%;top:7%;opacity:.18;color:#b84b56;z-index:1;font-size:clamp(230px,30vw,500px)}
+.home-v2 .hero-atmosphere{position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+.home-v2 .hero-sun{position:absolute;right:5%;top:11%;width:min(35vw,430px);aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(187,65,73,.25) 0 34%,rgba(152,41,51,.08) 58%,transparent 73%);filter:blur(2px)}
+.home-v2 .hero-horizon{position:absolute;right:-9%;bottom:0;width:75%;height:54%;opacity:.72;background:linear-gradient(transparent 5%,rgba(12,15,17,.65) 75%),repeating-linear-gradient(101deg,transparent 0 40px,rgba(137,47,54,.11) 41px 42px,transparent 43px 90px);clip-path:polygon(0 100%,0 72%,7% 66%,13% 74%,19% 47%,26% 60%,33% 33%,39% 50%,48% 25%,55% 47%,63% 19%,70% 39%,77% 14%,84% 35%,92% 11%,100% 29%,100% 100%)}
+.home-v2 .hero-ruins{position:absolute;right:0;bottom:0;width:66%;height:32%;background:linear-gradient(0deg,#0a0e10,rgba(11,15,17,.72) 45%,transparent);clip-path:polygon(0 100%,0 73%,10% 73%,10% 55%,14% 55%,14% 68%,26% 68%,26% 43%,32% 43%,32% 66%,41% 66%,41% 25%,45% 25%,45% 57%,54% 57%,54% 41%,59% 41%,59% 62%,69% 62%,69% 23%,75% 23%,75% 49%,84% 49%,84% 31%,90% 31%,90% 64%,100% 64%,100% 100%)}
+.home-v2 .home-quicklinks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin:-1px auto 0;border-bottom:1px solid var(--line);background:var(--side)}
+.home-v2 .home-quicklinks a{padding:28px clamp(20px,3vw,45px);display:flex;flex-direction:column;gap:8px;border-right:1px solid var(--line);transition:background .2s}
+.home-v2 .home-quicklinks a:hover{background:color-mix(in srgb,var(--accent) 13%,var(--side))}
+.home-v2 .home-quicklinks a:last-child{border-right:0}
+.home-v2 .home-quicklinks span{font:800 10px 'DM Sans',sans-serif;letter-spacing:1.7px;color:var(--accent)}
+.home-v2 .home-quicklinks strong{font:850 clamp(22px,2.3vw,34px)/1 'Barlow Condensed',sans-serif}
+.home-v2 .home-quicklinks small{font-size:12px;color:var(--muted)}
+.home-v2 .home-section{padding-top:90px}
+.home-v2 .book-card{min-height:335px;border-top:2px solid var(--line);transition:transform .2s,border-color .2s,box-shadow .2s}
+.home-v2 .book-card:hover{transform:translateY(-5px);border-color:var(--accent);box-shadow:0 18px 32px rgba(0,0,0,.22)}
+.home-v2 .book-card:nth-child(3n){border-top-color:var(--accent)}
+.home-v2 .book-card:after{display:block}
+.home-v2 .book-card:hover:after{width:100%}
+.home-v2 .lore-home-teaser{max-width:none;margin:0;padding:70px clamp(30px,6vw,100px);background:radial-gradient(ellipse at 80% 20%,rgba(142,40,54,.2),transparent 60%),var(--surface2);border-top:2px solid var(--accent)}
+.home-v2 .lore-home-teaser h2{font:850 clamp(44px,5vw,78px)/.95 'Barlow Condensed',sans-serif}
+.home-v2 .home-end{padding:60px clamp(30px,6vw,100px)}
+@media(max-width:1000px){.home-v2 .hero{min-height:650px}.home-v2 .hero h1{font-size:clamp(65px,9vw,110px)}}
+@media(max-width:700px){.home-v2 .hero{min-height:650px;padding:70px 27px 35px}.home-v2 .hero h1{font-size:clamp(62px,13vw,92px)}.home-v2 .hero-index{margin-top:55px;gap:15px;flex-wrap:wrap}.home-v2 .hero-index span:nth-child(2){display:none}.home-v2 .hero-glyph{right:-18%;top:23%;opacity:.1}.home-v2 .home-quicklinks{grid-template-columns:1fr}.home-v2 .home-quicklinks a{padding:22px 28px;border-right:0;border-bottom:1px solid var(--line)}.home-v2 .home-section{padding:65px 24px}.home-v2 .book-grid{grid-template-columns:1fr}.home-v2 .lore-home-teaser{padding:55px 27px}.home-v2 .home-end{padding:40px 27px;flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){.home-v2 .book-card,.home-v2 .hero-actions a,.home-v2 .hero-actions button{transition:none}}
