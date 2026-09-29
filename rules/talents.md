@@ -1,6 +1,6 @@
 ---
 layout: rulebook
-title: "Talents & Rank Benefits"
+title: "Talents, Ranks & Hunter Classes"
 volume: "V"
 volume_slug: "talents"
 talent_section: "overview"
@@ -11,7 +11,7 @@ Milestone talents and rank benefits for long-term character growth.
 
 “Experience does not merely make a hunters stronger. It changes what they are capable of becoming.”
 
-# Talents & Rank Benefits
+# Talents, Ranks & Hunter Classes
 {:#talents-rank-benefits}
 
 ## Talents
