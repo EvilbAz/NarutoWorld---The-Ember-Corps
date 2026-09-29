@@ -489,3 +489,18 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 .volume-number{flex:0 0 24px}
 @container (max-width:650px){.home-v2 .hero h1{font-size:clamp(43px,10.5cqw,72px)}.home-v2 .hero-actions .primary-btn,.home-v2 .hero-actions .secondary-btn{flex:1 1 170px}.home-v2 .hero-glyph{opacity:.14;right:-18%}}
 @container (max-width:420px){.home-v2 .hero h1{font-size:clamp(39px,10cqw,50px)}.home-v2 .hero-actions .primary-btn,.home-v2 .hero-actions .secondary-btn{flex:1 1 100%}.home-v2 .hero-kicker .kicker-rule{display:none}}
+
+/* Two-color EC logo: monster follows theme; monogram follows light/dark preference. */
+:root{--ec-monster:#e12b32;--ec-letters:#f6f6f4}
+:root[data-theme=light]{--ec-letters:#111317}
+:root[data-theme=primal]{--ec-monster:#85db62}
+:root[data-theme=abyss]{--ec-monster:#58c8f0}
+:root[data-theme=light][data-primal=true]{--ec-monster:#85db62}
+:root[data-theme=light][data-abyss=true]{--ec-monster:#58c8f0}
+.ec-logo{position:relative;display:inline-block;width:100%;height:100%;flex:none;isolation:isolate;background:transparent!important;border:0!important;box-shadow:none!important;filter:none!important}
+.ec-logo .ec-monster,.ec-logo .ec-letters{position:absolute;inset:0;display:block;background:var(--ec-monster);-webkit-mask:url('/TheEmberCorps/assets/img/ec-monster.svg') center/contain no-repeat;mask:url('/TheEmberCorps/assets/img/ec-monster.svg') center/contain no-repeat}
+.ec-logo .ec-letters{background:var(--ec-letters);-webkit-mask-image:url('/TheEmberCorps/assets/img/ec-letters.svg');mask-image:url('/TheEmberCorps/assets/img/ec-letters.svg')}
+.brand-mark{background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0!important}
+.brand-mark .ec-logo{width:42px;height:42px}
+.hero-kicker .hero-logo{width:50px;height:50px;border:0;border-radius:0;object-fit:unset}
+:root[data-theme=primal] .brand-mark .ec-logo,:root[data-theme=abyss] .brand-mark .ec-logo{filter:none!important}
