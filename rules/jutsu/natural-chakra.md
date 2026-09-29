@@ -887,3 +887,9 @@ Senjutsu — Senjutsu is a tag for an effect empowered by balanced Natural Chakr
 
 
 <div class="jutsu-breadcrumb jutsu-end"><a href="{{ '/rules/jutsu/' | relative_url }}">← ALL JUTSU TYPES</a></div>
+
+<script>
+document.querySelectorAll('[data-sage-link]').forEach(link=>link.addEventListener('click',()=>{const panel=document.getElementById(link.dataset.sageLink+'-panel');if(panel){document.querySelectorAll('.sage-tradition').forEach(item=>item.open=item===panel);setTimeout(()=>panel.scrollIntoView({behavior:'smooth',block:'start'}),30)}}));
+document.querySelectorAll('.sage-tradition').forEach(panel=>panel.addEventListener('toggle',()=>{if(panel.open){document.querySelectorAll('.sage-tradition').forEach(other=>{if(other!==panel)other.open=false})}}));
+const sageHash=location.hash.replace('#','');const sageTarget=document.getElementById(sageHash+'-panel')||document.getElementById(sageHash)?.closest('.sage-tradition');if(sageTarget){sageTarget.open=true;}
+</script>
