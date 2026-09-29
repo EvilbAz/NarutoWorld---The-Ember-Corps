@@ -86,6 +86,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      <a class="volume-link {% if page.equipment_catalogue %}selected{% endif %}" href="{{ '/rules/standard-weapons/' | relative_url }}"><span class="volume-number">↗</span><span>Pre-Made Weapons</span>{% if page.equipment_catalogue %}<span class="active-spark"></span>{% endif %}</a>
       <a class="volume-link lore-volume-link {% if page.permalink == '/lore/' %}selected{% endif %}" href="{{ '/lore/' | relative_url }}"><span class="volume-number">VII</span><span>World &amp; Lore</span>{% if page.permalink == '/lore/' %}<span class="active-spark"></span>{% endif %}</a>
     </nav>
     <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/start/' | relative_url }}">Getting started <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
@@ -123,6 +124,6 @@
  <div class="search-backdrop" id="search-backdrop"></div>
  <div class="search-panel"><div class="search-input-row"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Jutsu, clans, wounds, downtime..." autocomplete="off" spellcheck="false" aria-label="Search all six rulebooks"><button id="search-close" type="button" aria-label="Close search">ESC</button></div><div id="search-info" class="search-info">SEARCH ACROSS ALL SIX VOLUMES</div><div class="search-results" id="search-results" aria-live="polite"><div class="empty-search">Type a rule, jutsu or keyword to begin.</div></div><div class="search-footer"><span>↑ ↓ Navigate &nbsp; ↵ Open &nbsp; ESC Close</span><span>EMBER ARCHIVE</span></div></div>
 </div>
-<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-abyss-fix-v2" defer></script>
+<script src="{{ '/assets/js/site.js' | relative_url }}?v=20260929-expanded-nav-v3" defer></script>
 </body>
 </html>
