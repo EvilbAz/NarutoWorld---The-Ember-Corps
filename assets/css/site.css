@@ -324,3 +324,51 @@
 .home-v2 .hero-actions a:focus-visible,.home-v2 .home-quicklinks a:focus-visible,.home-v2 .book-card:focus-visible{outline:2px solid var(--accent2);outline-offset:4px}
 @media(max-width:700px){.home-v2 .hero-embers i:nth-child(n+5){display:none}.home-v2 .hero-horizon{animation:none}}
 @media(prefers-reduced-motion:reduce){.home-v2 .hero-embers i,.home-v2 .hero-sun,.home-v2 .hero-horizon,.home-v2 .hero-glyph,.home-v2 .hero-kicker,.home-v2 .hero h1,.home-v2 .hero-content>p,.home-v2 .hero-actions,.home-v2 .hero-index,.home-v2 .home-quicklinks a:hover:after{animation:none!important}.home-v2 .home-quicklinks a strong,.home-v2 .book-card .card-arrow,.home-v2 .book-card .view-chapter span{transition:none!important}.home-v2 .hero-embers{display:none}}
+
+/* PRIMAL — the Bloom reclaims the field archive. Toggle is available on every page. */
+.primal-toggle{display:inline-flex;align-items:center;gap:7px;padding:6px 10px;border:1px solid var(--line);border-radius:4px;background:var(--surface);color:var(--muted);font:800 10px 'DM Sans',sans-serif;letter-spacing:1.3px;white-space:nowrap;transition:color .2s,border-color .2s,background .2s}
+.primal-toggle:first-letter{font-size:19px}.primal-toggle:hover,.primal-toggle[aria-pressed=true]{color:var(--accent);border-color:var(--accent);background:var(--surface2)}
+.primal-toggle:focus-visible{outline:2px solid var(--accent2);outline-offset:3px}
+:root[data-theme=primal]{color-scheme:dark;--bg:#0c1510;--side:#111e16;--surface:#192b20;--surface2:#243629;--line:#3d6046;--text:#e0f1d7;--muted:#b4cda9;--dim:#91af89;--accent:#a5eb69;--accent2:#7dd8aa;--steel:#a4c7a4;--green:#c0f58d;--deep-red:#3d8550;--ink:#0b160d}
+:root[data-theme=primal] body{background:radial-gradient(ellipse at 88% 3%,rgba(72,123,50,.1),transparent 35%),var(--bg)}
+:root[data-theme=primal] .sidebar{background:linear-gradient(160deg,#15271a,#0c1b12 78%);box-shadow:inset -8px 0 24px rgba(9,23,9,.3)}
+:root[data-theme=primal] .sidebar:before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.21;background:repeating-linear-gradient(118deg,transparent 0 98px,rgba(113,181,83,.12) 99px 101px,transparent 102px 180px);mask-image:linear-gradient(#000,transparent 75%)}
+:root[data-theme=primal] .sidebar>*{position:relative}
+:root[data-theme=primal] .topbar{background:color-mix(in srgb,#0e1a11 92%,transparent);border-bottom-color:#456a48}
+:root[data-theme=primal] .top-status,.primal-toggle[aria-pressed=true]{color:var(--accent)}
+:root[data-theme=primal] .status-dot{background:var(--accent);box-shadow:0 0 14px rgba(145,241,91,.6)}
+:root[data-theme=primal] .volume-link.selected{background:linear-gradient(90deg,rgba(121,196,80,.17),transparent)}
+:root[data-theme=primal] .toc{background:rgba(94,155,76,.08)}
+:root[data-theme=primal] .brand-mark{background:#1d3421;box-shadow:0 0 16px rgba(110,181,68,.15)}
+:root[data-theme=primal] .brand-mark img{filter:hue-rotate(105deg) saturate(.7) brightness(1.4)}
+:root[data-theme=primal] .hero{background:radial-gradient(ellipse at 80% 22%,rgba(90,174,67,.22),transparent 50%),linear-gradient(115deg,#0b170f,#18321d 58%,#101e14)!important}
+:root[data-theme=primal] .hero-grid{opacity:.13;background-image:linear-gradient(#80ba6d 1px,transparent 1px),linear-gradient(90deg,#80ba6d 1px,transparent 1px)}
+:root[data-theme=primal] .hero:before{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;opacity:.55;background:radial-gradient(ellipse at 90% 65%,rgba(95,178,75,.19),transparent 55%),repeating-linear-gradient(111deg,transparent 0 110px,rgba(100,176,73,.06) 112px 114px,transparent 116px 185px);mask-image:linear-gradient(90deg,transparent 30%,#000 100%)}
+:root[data-theme=primal] .hero:after{content:"";position:absolute;inset:0;z-index:2;pointer-events:none;opacity:.63;background:
+radial-gradient(ellipse 16px 32px at 83% 16%,rgba(113,192,75,.37) 0 38%,transparent 44%),
+radial-gradient(ellipse 15px 30px at 89% 28%,rgba(113,192,75,.4) 0 38%,transparent 44%),
+radial-gradient(ellipse 18px 34px at 96% 45%,rgba(113,192,75,.33) 0 38%,transparent 44%),
+radial-gradient(ellipse 14px 29px at 77% 64%,rgba(113,192,75,.28) 0 38%,transparent 44%),
+linear-gradient(125deg,transparent 0 79%,rgba(73,132,55,.24) 79.1% 79.5%,transparent 79.7%),
+linear-gradient(155deg,transparent 0 87%,rgba(83,150,58,.22) 87.1% 87.5%,transparent 87.7%);
+mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
+:root[data-theme=primal] .home-v2 .hero-sun{background:radial-gradient(circle,rgba(123,209,79,.3) 0 34%,rgba(81,154,64,.1) 58%,transparent 73%)}
+:root[data-theme=primal] .home-v2 .hero-horizon{filter:hue-rotate(105deg) saturate(.8)}
+:root[data-theme=primal] .home-v2 .hero-ruins{background:linear-gradient(0deg,#07130a,rgba(20,46,23,.85) 45%,transparent)}
+:root[data-theme=primal] .home-v2 .hero-embers i{background:#b6fa7b;box-shadow:0 0 10px 3px rgba(127,240,81,.55)}
+:root[data-theme=primal] .home-v2 .hero h1 span{color:var(--accent);text-shadow:0 0 48px rgba(113,226,73,.3)}
+:root[data-theme=primal] .home-v2 .hero-glyph{color:rgba(137,224,92,.2)}
+:root[data-theme=primal] .home-v2 .hero-actions .primary-btn{background:#9cde68;color:#102011;border-color:#c1f59b;box-shadow:0 12px 32px rgba(41,111,40,.28)}
+:root[data-theme=primal] .home-v2 .hero-actions .primary-btn:hover{background:#b9f38b}
+:root[data-theme=primal] .home-v2 .hero-actions .secondary-btn{background:rgba(15,37,19,.8);border-color:#527e50}
+:root[data-theme=primal] .home-v2 .home-quicklinks a:after{background:linear-gradient(110deg,transparent 30%,rgba(148,230,103,.13) 50%,transparent 70%)}
+:root[data-theme=primal] .home-v2 .book-card{background:linear-gradient(145deg,#1b3020,#17271c);border-top-color:#67964d}
+:root[data-theme=primal] .home-v2 .book-card:nth-child(3n){border-top-color:var(--accent)}
+:root[data-theme=primal] .home-v2 .lore-home-teaser{background:radial-gradient(ellipse at 80% 20%,rgba(90,169,63,.2),transparent 60%),var(--surface2)}
+:root[data-theme=primal] .prose a,:root[data-theme=primal] .simple-page a{color:var(--accent2)}
+:root[data-theme=primal] .prose a:hover,:root[data-theme=primal] .simple-page a:hover{color:var(--accent)}
+:root[data-theme=primal] .lore-profile{background:linear-gradient(145deg,#1b3020,#142419);border-top-color:#80bc65}
+:root[data-theme=primal] .lore-alias{color:var(--accent)}
+:root[data-theme=primal] .book-hero{background:radial-gradient(ellipse at 90% 20%,rgba(101,177,67,.16),transparent 50%)}
+@media(max-width:680px){.primal-toggle{padding:6px 8px}.primal-toggle span{display:none}:root[data-theme=primal] .hero:after{opacity:.3}}
+@media(prefers-reduced-motion:reduce){:root[data-theme=primal] .hero:after{animation:none}}
