@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#0b0c0d">
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-  <link rel="icon" href="{{ '/assets/img/ember.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-layout-repair-v1">
+  <link rel="icon" href="{{ '/assets/img/ember-ec-logo.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-layout-repair-v3">
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark'}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -15,7 +15,7 @@
 <div class="site-shell">
   <aside class="sidebar" id="sidebar" aria-label="Rulebook navigation">
     <a href="{{ '/' | relative_url }}" class="brand">
-      <span class="brand-mark"><img src="{{ '/assets/img/ember.svg' | relative_url }}" alt=""></span>
+      <span class="brand-mark"><img src="{{ '/assets/img/ember-ec-logo.svg' | relative_url }}" alt=""></span>
       <span class="brand-copy"><strong>EMBER CORPS</strong><small>NARUTO WORLD · 1.0</small></span>
     </a>
     <button class="sidebar-search search-trigger" type="button" aria-label="Search all rules"><span class="magnify">⌕</span><span>Search the rules...</span><kbd>⌘ K</kbd></button>
