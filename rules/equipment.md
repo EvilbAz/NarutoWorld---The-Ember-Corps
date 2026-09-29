@@ -2071,3 +2071,9 @@ Type 3, like Type 2, deal double damage to inanimate objects. They deal 20d10.op
 Requires: Jounin Rank
 
 Cost: 30000 Ryo
+
+
+<div class="equipment-armory-promo">
+  <div><strong>FIELD ARMORY — WEAPON CATALOGUE</strong><p>Browse illustrated ready-made melee weapons, bows, crossbows, launchers, kunai and ammunition. Each weapon links back to its full equipment rules.</p></div>
+  <a href="{{ '/rules/standard-weapons/' | relative_url }}">EXPLORE WEAPONS ↗</a>
+</div>
