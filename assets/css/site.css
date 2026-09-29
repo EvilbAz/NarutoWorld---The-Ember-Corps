@@ -449,3 +449,24 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 :root[data-theme=abyss] .home-v2 .hero-index{border-color:#3b657c}
 :root[data-theme=abyss] .home-v2 .hero-actions .secondary-btn{color:#e5f7ff}
 :root[data-theme=abyss] .home-v2 .hero-glyph:before{color:rgba(132,211,250,.4)}
+
+/* Equipment volume: nested field-manual index, with the armory as a bottom callout. */
+.toc.equipment-side-links{padding:8px 12px 14px 37px;max-height:calc(100vh - 315px);overflow-y:auto;scrollbar-width:thin;border-left-color:var(--accent)}
+.equipment-side-links .equipment-side-group{display:block;margin:12px 0 5px;padding:10px 0 2px;border-top:1px solid var(--line);color:var(--steel);font:800 10px/1.3 'DM Sans',sans-serif;letter-spacing:1.4px}
+.equipment-side-links .equipment-side-group:first-child{border-top:0;margin-top:0;padding-top:4px}
+.equipment-side-links>a{display:block;padding:5px 7px;border-left:2px solid transparent;font-size:11px;line-height:1.4;color:var(--muted)}
+.equipment-side-links>a:hover,.equipment-side-links>a.active{color:var(--text);border-left-color:var(--accent);background:var(--surface2)}
+.equipment-side-links .equipment-return-link{margin:3px 0 14px;color:var(--accent);font-weight:800;letter-spacing:.4px}
+.equipment-catalogue-slot{margin:20px 0 2px;padding-top:14px;border-top:1px solid var(--line)}
+.equipment-catalogue-slot>span{display:block;margin:0 0 8px;color:var(--dim);font:800 9px 'DM Sans',sans-serif;letter-spacing:1.6px}
+.equipment-side-links .equipment-catalogue-link{display:flex;flex-direction:column;gap:4px;padding:12px;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:4px;background:var(--surface2);text-decoration:none}
+.equipment-side-links .equipment-catalogue-link strong{font:800 12px 'Barlow Condensed','DM Sans',sans-serif;letter-spacing:1.3px;color:var(--text)}
+.equipment-side-links .equipment-catalogue-link small{font-size:10px;color:var(--muted)}
+.equipment-side-links .equipment-catalogue-link:hover{border-color:var(--accent);background:var(--surface)}
+.equipment-side-links .equipment-catalogue-link:hover strong{color:var(--accent)}
+.equipment-armory-promo{display:flex;align-items:center;justify-content:space-between;gap:22px;margin:42px 0 10px;padding:25px;border:1px solid var(--line);border-left:4px solid var(--accent);background:var(--surface2);border-radius:5px}
+.equipment-armory-promo strong{font:800 clamp(22px,3vw,30px) 'Barlow Condensed',sans-serif;letter-spacing:.7px}
+.equipment-armory-promo p{margin:5px 0 0;color:var(--muted);font-size:13px}
+.equipment-armory-promo a{display:inline-block;padding:10px 15px;border:1px solid var(--accent);color:var(--text);font:800 11px 'DM Sans',sans-serif;letter-spacing:.7px;white-space:nowrap;text-decoration:none}
+.equipment-armory-promo a:hover{background:var(--accent);color:var(--ink)}
+@media(max-width:670px){.equipment-armory-promo{flex-direction:column;align-items:flex-start}.equipment-side-links{max-height:45vh}}
