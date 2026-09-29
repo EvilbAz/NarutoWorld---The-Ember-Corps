@@ -122,6 +122,10 @@ If you reach 0 Sage Chakra, Sage Mode ends after the effect which spent your fin
 # SAGE TRADITIONS
 {:#sage-traditions}
 
+<div class="sage-directory" id="sage-directory"><div class="sage-directory-heading"><span>FIELD GUIDE / NINE TRADITIONS</span><h2>CHOOSE YOUR SAGE</h2><p>Every tradition is collected on this page. Select one below to open its full Signature Trait and Sage Arts without losing your place.</p></div><div class="sage-directory-grid"><a class="sage-directory-card" href="#wild-sage" data-sage-link="wild-sage"><span>01 / SAGE TRADITION</span><strong>WILD SAGE</strong><small>An untethered path shaped by the living world.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#great-toad-sage" data-sage-link="great-toad-sage"><span>02 / SAGE TRADITION</span><strong>GREAT TOAD SAGE</strong><small>Patience, powerful leaps and battlefield impact.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#serpent-sage" data-sage-link="serpent-sage"><span>03 / SAGE TRADITION</span><strong>SERPENT SAGE</strong><small>Coils, venom and relentless pursuit.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#roc-sage" data-sage-link="roc-sage"><span>04 / SAGE TRADITION</span><strong>ROC SAGE</strong><small>Aerial movement and mastery of the sky.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#tortoise-sage" data-sage-link="tortoise-sage"><span>05 / SAGE TRADITION</span><strong>TORTOISE SAGE</strong><small>Endurance, protection and unyielding defence.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#moth-sage" data-sage-link="moth-sage"><span>06 / SAGE TRADITION</span><strong>MOTH SAGE</strong><small>Powder, concealment and heightened senses.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#carrion-sage" data-sage-link="carrion-sage"><span>07 / SAGE TRADITION</span><strong>CARRION SAGE</strong><small>Tracking, attrition and exploiting the wounded.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#fungal-sage" data-sage-link="fungal-sage"><span>08 / SAGE TRADITION</span><strong>FUNGAL SAGE</strong><small>Spores, roots and interconnected terrain.</small><b aria-hidden="true">↗</b></a><a class="sage-directory-card" href="#salamander-sage" data-sage-link="salamander-sage"><span>09 / SAGE TRADITION</span><strong>SALAMANDER SAGE</strong><small>Regeneration, resilience and survival.</small><b aria-hidden="true">↗</b></a></div></div>
+
+
+
 Natural Chakra does not look the same in every body. A Sage Tradition is the shape given to Natural Chakra by the creature, place or lineage that taught you to understand it.
 
 Most Sage Traditions are taught by Summon Tribes. Your Tradition determines the visible changes caused by Sage Mode, grants one Signature Trait, and gives access to a small list of Tradition Sage Arts. A Tradition may also alter one narrow rule for Gathering or spending Sage Chakra.
@@ -165,6 +169,9 @@ Sage Kata count as Sage Arts for the purpose of learning and selecting them. Whe
 
 If your Source does not belong to an established Sage Tradition, use Wild Sage.
 
+<details class="sage-tradition" id="wild-sage-panel" markdown="1" open>
+<summary><span class="sage-tradition-number">01</span><span class="sage-tradition-title">WILD SAGE<small>An untethered path shaped by the living world.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
+
 ## WILD SAGE
 {:#wild-sage}
 
@@ -184,6 +191,10 @@ Spirit — Gain Sage Power to Chakra Control rolls.
 Wild Sage has no exclusive list of Tradition Arts or Kata. Its strength is flexibility: a Wild Sage builds entirely from General Sage Arts and Sage Kata, reflecting a discipline learned from a place, phenomenon or solitary teacher rather than a school with generations of named techniques.
 
 The Traditions below are established examples known in the wider world. Their names are human conveniences. A cliff-dwelling bird tribe may never call its teaching "Roc Sage," and a fungal network may not think of what it does as teaching at all. The entries below are complete Traditions and may be taught by any appropriate Source.
+</details>
+
+<details class="sage-tradition" id="great-toad-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">02</span><span class="sage-tradition-title">GREAT TOAD SAGE<small>Patience, powerful leaps and battlefield impact.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## GREAT TOAD SAGE
 {:#great-toad-sage}
@@ -243,6 +254,10 @@ Requires: Sage Rank 4\.
 Cost: 2 Sage Chakra.
 
 Leap up to 5 × Sage Power yards, then make either a Basic Attack: Unarmed or a Basic Attack: Weapon using a melee weapon you are wielding against a legal target. Use the chosen Basic Attack under the Sage Kata rules. On a full hit, add Sage Power Damage Dice and deal 3 × Sage Power Knockback. After the Knockback resolves, make an Athletics Status Roll against the target's Resistance. On a failure, they are knocked Prone. This Attack counts as Senjutsu.
+</details>
+
+<details class="sage-tradition" id="serpent-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">03</span><span class="sage-tradition-title">SERPENT SAGE<small>Coils, venom and relentless pursuit.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SERPENT SAGE
 {:#serpent-sage}
@@ -292,6 +307,10 @@ Using Gather Natural Chakra while in Sage Mode does not reduce your current Stea
 Requires: Sage Rank 4\.
 
 Once per Sage Mode, as a Speed 3 Utility Action, you may spend 1 Sage Chakra to reduce one Bleed, Burn, Immobilization, Paralysis or Poison affecting you by 2 \+ Sage Power. Perfect Shedding cannot remove Wounds or penalties caused directly by a Wound.
+</details>
+
+<details class="sage-tradition" id="roc-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">04</span><span class="sage-tradition-title">ROC SAGE<small>Aerial movement and mastery of the sky.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## ROC SAGE
 {:#roc-sage}
@@ -349,6 +368,10 @@ Choose one willing creature in Melee. Move yourself and that creature up to 3 \+
 Requires: Sage Rank 4\.
 
 You may use Gather Natural Chakra while unsupported in the air. While Gathering this way you remain suspended instead of Falling. Your Movement Speed is 0 unless another Sage Art specifically allows you to move while Gathering. When Gather resolves or is aborted, if you are still unsupported you immediately begin Falling.
+</details>
+
+<details class="sage-tradition" id="tortoise-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">05</span><span class="sage-tradition-title">TORTOISE SAGE<small>Endurance, protection and unyielding defence.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## TORTOISE SAGE
 {:#tortoise-sage}
@@ -396,6 +419,10 @@ After you successfully use Take The Hit, you may spend 1 Sage Chakra to Block th
 Requires: Sage Rank 4\.
 
 Once per battle, using Block while Gathering Natural Chakra does not abort Gather. The Block still uses its normal Interrupt Speed and all other effects of the Attack resolve normally.
+</details>
+
+<details class="sage-tradition" id="moth-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">06</span><span class="sage-tradition-title">MOTH SAGE<small>Powder, concealment and heightened senses.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## MOTH SAGE
 {:#moth-sage}
@@ -449,6 +476,10 @@ When a damaging Taijutsu or Ninjutsu Attack fully hits and deals at least 1 dama
 Requires: Sage Rank 4\.
 
 You may use Gather Natural Chakra at Stealth Level 3 without reducing your Stealth level or Stealth TN for declaring Gather. All other Actions and all other causes of losing Stealth function normally.
+</details>
+
+<details class="sage-tradition" id="carrion-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">07</span><span class="sage-tradition-title">CARRION SAGE<small>Tracking, attrition and exploiting the wounded.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## CARRION SAGE
 {:#carrion-sage}
@@ -506,6 +537,10 @@ Requires: Sage Rank 4\.
 Cost: 1 Sage Chakra.
 
 Add Last Descent to a damaging Taijutsu Attack against a creature at 0 Vitality or suffering a Severe or Critical Wound. On a full hit, add 1 \+ Sage Power Damage Dice. The Attack counts as Senjutsu.
+</details>
+
+<details class="sage-tradition" id="fungal-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">08</span><span class="sage-tradition-title">FUNGAL SAGE<small>Spores, roots and interconnected terrain.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## FUNGAL SAGE
 {:#fungal-sage}
@@ -563,6 +598,10 @@ While touching natural earth, living vegetation or your Mycelial Ground, reduce 
 Requires: Sage Rank 4 and Nature Pulse.
 
 While touching natural earth, living vegetation or your Mycelial Ground, double the range of Nature Pulse. You also increase Sage Sense by 5 for Survival rolls made to read disturbances, tracks or recent movement through that terrain.
+</details>
+
+<details class="sage-tradition" id="salamander-sage-panel" markdown="1">
+<summary><span class="sage-tradition-number">09</span><span class="sage-tradition-title">SALAMANDER SAGE<small>Regeneration, resilience and survival.</small></span><span class="sage-tradition-toggle">EXPAND +</span></summary>
 
 ## SALAMANDER SAGE
 {:#salamander-sage}
@@ -618,7 +657,9 @@ Choose one non-Wound Bleed, Burn, Immobilization, Paralysis or Poison affecting 
 Requires: Sage Rank 4\.
 
 Once per battle, when a Stamina or Chakra Exhaustion roll would advance you beyond maximum Fatigue and Incapacitate you, you may spend 2 Sage Chakra after the roll. The triggering Action resolves and you remain at maximum Fatigue instead, even if the normal Fatigue rules would cause that Action or technique to fail to activate. Refuse the Ash does not prevent Incapacitation caused by HP, Wounds or another effect, and you must have at least 2 Sage Chakra to use it.
+</details>
 
+<div class="sage-shared-note"><strong>SHARED SAGE ARTS</strong><p>The techniques below are shared options. Your tradition-specific Arts and Kata are listed inside its expandable section above.</p><a href="#sage-directory">↑ BACK TO SAGE TRADITIONS</a></div>
 
 # SAGE ARTS
 {:#sage-arts}
