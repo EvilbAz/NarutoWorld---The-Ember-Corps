@@ -372,3 +372,30 @@ mask-image:linear-gradient(90deg,transparent 42%,#000 90%)}
 :root[data-theme=primal] .book-hero{background:radial-gradient(ellipse at 90% 20%,rgba(101,177,67,.16),transparent 50%)}
 @media(max-width:680px){.primal-toggle{padding:6px 8px}.primal-toggle span{display:none}:root[data-theme=primal] .hero:after{opacity:.3}}
 @media(prefers-reduced-motion:reduce){:root[data-theme=primal] .hero:after{animation:none}}
+
+/* Primal transformation: a living forest and a watching horned beast. */
+.home-v2 .primal-beast-glyph{display:none}
+:root[data-theme=primal] .home-v2 .hero{background:linear-gradient(90deg,rgba(5,15,10,.95) 0%,rgba(7,22,13,.85) 34%,rgba(8,23,14,.22) 100%),url('../img/primal-forest.svg') center center/cover no-repeat!important}
+:root[data-theme=primal] .home-v2 .hero:before{background:linear-gradient(90deg,rgba(3,12,7,.6),transparent 75%);opacity:1}
+:root[data-theme=primal] .home-v2 .hero:after{opacity:.28}
+:root[data-theme=primal] .home-v2 .hero-horizon,:root[data-theme=primal] .home-v2 .hero-ruins{opacity:0}
+:root[data-theme=primal] .home-v2 .hero-grid{opacity:.04}
+:root[data-theme=primal] .home-v2 .hero-sun{right:12%;top:10%;background:radial-gradient(circle,rgba(169,255,139,.28),rgba(104,183,90,.07) 53%,transparent 72%);animation:primal-canopy-glow 9s ease-in-out infinite}
+:root[data-theme=primal] .home-v2 .hero-embers i{width:4px;height:4px;background:#c1ffa3;box-shadow:0 0 13px 4px rgba(140,255,124,.55);animation:primal-spore-drift 12s ease-in-out infinite}
+:root[data-theme=primal] .home-v2 .hero-embers i:nth-child(2n){animation-duration:17s;animation-direction:reverse}
+:root[data-theme=primal] .home-v2 .hero-embers i:nth-child(3n){animation-duration:14s;animation-delay:-6s}
+:root[data-theme=primal] .home-v2 .hero-glyph{right:6%;top:13%;width:min(32vw,460px);height:min(39vw,520px);display:flex;align-items:center;justify-content:center;opacity:.75;animation:primal-beast-breathe 6s ease-in-out infinite;filter:drop-shadow(0 0 26px rgba(126,233,105,.23))}
+:root[data-theme=primal] .home-v2 .hero-glyph .hunter-glyph{display:none}
+:root[data-theme=primal] .home-v2 .hero-glyph .primal-beast-glyph{display:block;width:100%;height:100%;object-fit:contain;opacity:.85;animation:primal-beast-awaken 1.15s ease-out both}
+:root[data-theme=primal] .home-v2 .hero-glyph .glyph-ring{border-color:rgba(147,237,111,.22);box-shadow:0 0 55px rgba(96,191,80,.12);animation:primal-ring-pulse 7s ease-in-out infinite}
+:root[data-theme=primal] .home-v2 .hero-content{z-index:5}
+:root[data-theme=primal] .home-v2 .hero-kicker{color:#b8edaa}
+:root[data-theme=primal] .home-v2 .hero p{color:#e0f2d9;text-shadow:0 2px 15px #07150d}
+@keyframes primal-spore-drift{0%{transform:translate3d(-18px,45px,0) scale(.5);opacity:0}20%{opacity:.8}55%{transform:translate3d(28px,-55px,0) scale(1);opacity:.65}100%{transform:translate3d(-10px,-170px,0) scale(.3);opacity:0}}
+@keyframes primal-beast-breathe{0%,100%{transform:translateY(0) scale(1);opacity:.66}50%{transform:translateY(-12px) scale(1.035);opacity:.87}}
+@keyframes primal-beast-awaken{from{opacity:0;transform:translateY(22px) scale(.91);filter:blur(9px)}to{opacity:.85;transform:translateY(0) scale(1);filter:blur(0)}}
+@keyframes primal-ring-pulse{0%,100%{opacity:.35;transform:scale(.98)}50%{opacity:.72;transform:scale(1.08)}}
+@keyframes primal-canopy-glow{0%,100%{opacity:.4;transform:scale(.97)}50%{opacity:.8;transform:scale(1.07)}}
+@media(max-width:900px){:root[data-theme=primal] .home-v2 .hero{background-position:center,right center}:root[data-theme=primal] .home-v2 .hero-glyph{right:-8%;top:20%;width:53vw;height:55vw;opacity:.28}}
+@media(max-width:700px){:root[data-theme=primal] .home-v2 .hero{background-position:center,63% center!important}:root[data-theme=primal] .home-v2 .hero-glyph{right:-20%;top:22%;width:78vw;height:85vw;opacity:.2}:root[data-theme=primal] .home-v2 .hero-content{position:relative;z-index:5}}
+@media(prefers-reduced-motion:reduce){:root[data-theme=primal] .home-v2 .hero-sun,:root[data-theme=primal] .home-v2 .hero-embers i,:root[data-theme=primal] .home-v2 .hero-glyph,:root[data-theme=primal] .home-v2 .hero-glyph .primal-beast-glyph,:root[data-theme=primal] .home-v2 .hero-glyph .glyph-ring{animation:none!important}:root[data-theme=primal] .home-v2 .hero-glyph .primal-beast-glyph{opacity:.85}}
