@@ -836,6 +836,25 @@ Requires: STR 80
 ### Grapple
 {:#grapple}
 
+#### Grapple Expertise
+{:#grapple-expertise}
+
+You have trained to take control of an opponent the moment you get your hands on them.
+
+Each rank gives you +1 to Grapple Offense.  
+Cost: 10  
+Limit: RES / 40, rounded down, maximum 3
+
+#### Grapple Mastery
+{:#grapple-mastery}
+
+Your knowledge of grappling techniques makes every hold and counter more effective.
+
+Each rank gives you +1 to Grapple rolls.  
+Cost: 2  
+Scale: 4  
+Limit: Number of distinct Grapple Jutsu you know
+
 #### Pressure
 {:#pressure}
 
