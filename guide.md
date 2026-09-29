@@ -39,11 +39,15 @@ You can ask for help. A new player is not expected to know every Jutsu tag, craf
 
 If you have only played games around a physical or virtual tabletop, **IC** may be unfamiliar.
 
-**IC means In Character.** When you post IC, the words and actions belong to your Hunter inside the fictional world.
+**IC means In Character.** IC channels are the fictional locations where your Hunter speaks, moves and interacts with other characters. Keep all in-world writing in those channels.
 
-**OOC means Out of Character.** This is you, the player, speaking about rules, scheduling, questions, jokes or anything else that is not your character acting in the world.
+**OOC means Out of Character.** OOC channels are where you, the player, ask rules questions, organise scenes, discuss builds, chat and make jokes. **IC and OOC always belong in separate channels**—do not interrupt an IC scene with a rules question or treat an OOC conversation as something your Hunter heard.
 
 <div class="guide-callout"><strong>IMPORTANT: TWO MEANINGS OF IC</strong><p>In roleplay, IC means <b>In Character</b>. In combat, IC means <b>Initiative Count</b>. Same abbreviation, completely different jobs.</p></div>
+
+<div class="guide-channel-grid"><div class="guide-channel guide-channel-ic"><span>IN CHARACTER / IC CHANNEL</span><strong>#haven-location</strong><p>Write what your Hunter says and does. Other characters can respond here.</p></div><div class="guide-channel guide-channel-ooc"><span>OUT OF CHARACTER / OOC CHANNEL</span><strong>#player-discussion</strong><p>Ask questions, coordinate with players and discuss the rules here.</p></div></div>
+
+**Activity and XP:** Activity is counted wherever you are actively participating on the server, whether that is an IC or an OOC channel. **Activity being counted does not mean every message earns roleplay XP.** The normal roleplay award of 4 XP per 30 minutes still requires active in-character interaction; follow the relevant rules when logging other activity. Never mix IC and OOC posts just to keep an activity timer going.
 
 For example:
 
@@ -52,6 +56,8 @@ For example:
 > **OOC:** Does Survival apply to tracking whatever made the footprints?
 
 An IC scene is simply a piece of roleplay happening between characters. It does not need a GM unless the scene needs the world to answer a question, adjudicate something, or provide opposition. Two Hunters talking over food is an IC scene. Training together is an IC scene. An argument is an IC scene. Investigating a GM-created threat can be an IC scene too.
+
+**Example:** If someone announces a monster's weakness in an OOC planning channel, your Hunter does not automatically know it. Discover that information through IC play or an appropriate GM-approved source.
 
 Your character does **not** automatically know something because you read it OOC. Likewise, hostility between characters is not hostility between players. Keep the two layers separate.
 
@@ -113,6 +119,25 @@ Your **Attributes** are the foundation of the character. They feed into secondar
 
 You do not need to optimise all of these simultaneously. Pick a character fantasy first, then make the numbers support it.
 
+## Your First Build: Start With a Job
+{:#buildcraft}
+
+Your first build should have a clear answer to **what do I do when a fight begins?** You are building a toolkit, not choosing a 5e class that automatically supplies one.
+
+<div class="guide-build-grid"><div><span>01 / IDENTITY</span><strong>PICK YOUR FANTASY</strong><p>A lightning-fast melee Hunter, a Hyūga duelist, a ranged scout or a battlefield controller. Choose one primary role first.</p></div><div><span>02 / ATTRIBUTES</span><strong>SUPPORT YOUR PLAN</strong><p>All five attributes start at 20. Distribute 25 extra points, no more than 10 in one attribute. STR supports physical power, RES durability, CHA chakra, DEX precision and AGI speed.</p></div><div><span>03 / CORE LOOP</span><strong>CHOOSE 2–3 GO-TO ACTIONS</strong><p>Pick a reliable attack, a defence or escape, and a useful second option. Check their Speed, costs, accuracy and range together.</p></div><div><span>04 / BACKUP</span><strong>COVER A WEAKNESS</strong><p>Can you handle a distant enemy? What happens when Chakra or Stamina runs low? Do you have a useful skill outside combat?</p></div></div>
+
+### A sample beginner build: the fast close-range Hunter
+
+*This is a concept, not a mandatory or fully costed character sheet.* Prioritise AGI and the attributes your chosen attacks use. Take one quick, affordable melee technique, one defensive option and a way to approach or escape an opponent. Buy abilities that reinforce your chosen attack style rather than spreading XP across unrelated upgrades. Select a weapon from the [pre-made catalogue]({{ '/rules/standard-weapons/' | relative_url }}) if you want to avoid crafting initially.
+
+For example, a Speed 6 attack used twice can create more frequent opportunities than a Speed 12 attack—but only if you can afford its resource costs, reach the enemy and actually hit. A powerful technique that misses or leaves you unable to defend is not automatically a good choice.
+
+### Spend your starting XP deliberately
+
+You begin at **250 XP, Genin status**. Spend XP on the attributes, Jutsu and abilities that make your central idea work. Starting characters also receive Skill Points based on total XP; use those for things your Hunter can do in and out of battle. Choose Uniques and heritage according to their own creation rules, then have a GM review your sheet. If you are under **1,500 XP**, the Core Rules allow you to rework your sheet outside combat and events—so your first build is not a permanent trap.
+
+<div class="guide-tip"><span>BUILD CHECK / BEFORE YOU SUBMIT</span><strong>Can you describe your character in three actions?</strong><p>“I close the distance, strike quickly, and dodge away.” If your chosen stats, techniques, abilities and gear all help you do that, you have a coherent starting build.</p></div>
+
 ## The Big Difference from 5e: Combat Has No Rounds
 {:#speed}
 
@@ -167,6 +192,14 @@ The highest Initiative roll begins on **IC 0**. Everyone else subtracts their ro
 
 If the rolls are 16, 12 and 6, the characters begin on IC 0, IC 4 and IC 10 respectively.
 
+### When actions happen at the same IC
+
+If two Hunters are due to act on the same Initiative Count, they declare and resolve their actions **simultaneously**. Both actions take effect at the end of that IC. This matters when two attacks might defeat one another, or when techniques physically collide. Advanced Clashes have their own rules; learn them after you are comfortable with the basic timeline.
+
+### How Speed reductions work
+
+An ability or effect might reduce an action's Speed. Normally, its final Speed cannot fall below **half its Base Speed, rounded up**, and cannot be reduced below **3**. Interrupts have special exceptions. A Speed 10 action therefore normally cannot be reduced below Speed 5. Do not assume you can stack discounts until every action costs 1 IC.
+
 ### Three rules worth remembering
 
 **Lower Speed is better.** Speed 5 happens again sooner than Speed 10.
@@ -176,6 +209,13 @@ If the rolls are 16, 12 and 6, the characters begin on IC 0, IC 4 and IC 10 resp
 **100 IC = 30 seconds.** IC measures actual combat time, not abstract rounds.
 
 Do not worry about advanced Speed manipulation when learning. If you can add your action's Speed to your current IC, you can participate in combat.
+
+## Reading a Jutsu Stat Block
+{:#reading-jutsu}
+
+When you find a technique you like, read it in this order: **Rank** tells you its tier; **cost** tells you what resource it consumes; **Speed** tells you when you act again; **Accuracy** affects whether it connects; **Damage** tells you what happens on a hit; and **Tags** determine which other rules and abilities interact with it. Some techniques have additional requirements, handseals, delays, conditions or special effects—read the entire entry before buying it.
+
+A quick attack is only useful if it fits your resources and the rest of your build. A slow technique can still be worthwhile if it creates an opening, controls the battlefield or deals enough damage to justify its time cost.
 
 ## Defending Yourself
 {:#defence}
@@ -188,7 +228,16 @@ For your first fight, the useful habit is simply:
 
 > **When somebody attacks you, check whether you can defend before assuming the hit lands.**
 
+An **Interrupt** lets you respond to something happening outside your normal action slot, but it follows its own costs and timing rules. **Dodge** avoids an attack, **Parry** uses an appropriate weapon or technique to turn it aside, and **Block** absorbs or mitigates it. Check the attack's tags and your available defences before choosing. Interrupts and Action Points can affect your future timing, so track them rather than treating defence as a free reaction every round.
+
 Ask the GM or another player which defence applies if you are unsure. Learning when to Dodge, Parry or Block is much easier in play than by memorising every edge case beforehand.
+
+## Skills, Rolls and Non-Combat Play
+{:#skills}
+
+Your twelve Skills cover everything from Athletics and Awareness to Research, Medicine, Survival, Espionage and Artisan. When an outcome is uncertain, a GM may call for a relevant roll against a **Target Number (TN)**. Tell the GM what you are attempting and what you are using; do not roll repeatedly until you get a result you like. Researching a monster, preparing supplies and negotiating with another faction can matter as much as attacking it.
+
+**Logs** are your record of advancement and Downtime. Declare rolls in the appropriate bot channel when required, then link the result and describe your action in your log. Your sheet shows what your Hunter can do; your logs show how they got there.
 
 ## Damage, Wounds and Fatigue
 {:#damage}
@@ -257,7 +306,7 @@ If you have just joined, this is enough:
 5. Get the sheet reviewed by a GM.
 6. Introduce the character IC.
 7. Join a scene.
-8. When combat happens, remember **current IC + Speed = next IC**.
+8. Before your first fight, pick one reliable attack and one defence; check their costs and Speed. When combat happens, remember **current IC + Speed = next IC**.
 9. Learn the more detailed rules when they actually become relevant.
 
 Nobody benefits from you trying to memorise the entire archive before writing your first IC post.
@@ -268,6 +317,8 @@ Nobody benefits from you trying to memorise the entire archive before writing yo
 {:#next}
 
 **Making your character:** [Core Rules — Character Creation]({{ '/rules/core/#character-creation' | relative_url }})
+
+**Buildcrafting:** [Attributes and Character Creation]({{ '/rules/core/#determine-attributes' | relative_url }}) · [Abilities]({{ '/rules/core/#abilities' | relative_url }})
 
 **Learning combat properly:** [Core Rules — Initiative Rolls & Flow of Time]({{ '/rules/core/#initiative-rolls' | relative_url }})
 
