@@ -7,7 +7,7 @@
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ec-favicon.svg' | relative_url }}?v=2" type="image/svg+xml">
-  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-guide-layout-v2">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260929-guide-render-v3">
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -131,7 +131,7 @@
         <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
         <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
       </div>
-      {% else %}{{ content }}{% endif %}
+      {% else %}{% if page.url == '/guide/' %}<div class="guide-page"><article class="guide-reading">{{ content }}</article></div>{% else %}{{ content }}{% endif %}{% endif %}
       <footer class="footer"><span>© EMBER CORPS · AN UNOFFICIAL NARUTO FAN PROJECT</span><span>THE WASTES DON'T READ THEMSELVES.</span></footer>
     </main>
   </div>
