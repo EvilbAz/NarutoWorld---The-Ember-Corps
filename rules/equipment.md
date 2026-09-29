@@ -729,6 +729,45 @@ So… You want to create your own armor, huh? Maybe you’re too poor to afford 
 
 You can craft weapons with X Artisan Points up to a max of your Artisan Ranks which you can spend on its traits (see below). Weapons have a crafting TN of 15 \+ 3\*X and a cost of 5 \+ X thousand ryo. This consists of the cost for resources, tools, and any extra parts necessary.
 
+### Standard Armor
+{:#standard-armor}
+
+Standard Armor is ready-made armorsmith equipment for Hunters who would rather buy protection than design it. Each entry is **one armor piece**, not a full suit. The listed price replaces the normal custom-crafting cost; buying one requires no Artisan ranks or crafting choices. The listed Artisan Points are the sum of its Structure and Body Part costs. All patterns use their normal Structure, location benefits and location penalties, with no additional features or wondrous materials. Standard Armor can be modified later using the normal Armor Crafting rules.
+
+Armor Immobilization and Stealth penalties stack across all worn pieces. Reduce combined Armor Immobilization by (RES + STR/30), to a minimum of 0, as described in Armor Penalties. When reduced to 0, halve the inherent location penalties of the affected armor types, rounded down; Stealth penalties are never reduced this way. Durability and Absorption apply only when an attack strikes the protected location. Arm and leg armor covers both limbs.
+
+### Mobile Armor
+
+**Hooded Scout Cowl — 8,000 Ryō. AP 3.** Mobile Head armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -2 Awareness. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Padded Hunter Vest — 9,000 Ryō. AP 4.** Mobile Torso / Abdomen armor. Durability 150; Absorption 10%; Armor Immobilization -1; Stealth -1; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -1 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Leather Bracers — 7,000 Ryō. AP 2.** Mobile Arms / Hands armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +2 Seal Speed. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Trailrunner Greaves — 7,000 Ryō. AP 2.** Mobile Legs / Feet armor. Durability 100; Absorption 5%; Armor Immobilization -1; Stealth -1; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -10% Movement Speed; -2 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+### Protective Armor
+
+**Reinforced Field Helm — 7,000 Ryō. AP 2.** Protective Head armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -4 Awareness; consecutive searches gain one less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Hunter Half-Plate — 8,000 Ryō. AP 3.** Protective Torso / Abdomen armor. Durability 250; Absorption 15%; Armor Immobilization -2; Stealth -2; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -3 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Chainmail Vambraces — 6,000 Ryō. AP 1.** Protective Arms / Hands armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +3 Seal Speed; -1 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Steel-Shod Legguards — 6,000 Ryō. AP 1.** Protective Legs / Feet armor. Durability 200; Absorption 10%; Armor Immobilization -2; Stealth -2; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -15% Movement Speed; -3 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+### Encased Armor
+
+**Ironclad War Helm — 9,000 Ryō. AP 4.** Encased Head armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 10; Remove Delay 5. Flash and jutsu Visibility Penalties are halved. -5 Awareness; consecutive searches gain two less bonus. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Fortress Cuirass — 10,000 Ryō. AP 5.** Encased Torso / Abdomen armor. Durability 350; Absorption 20%; Armor Immobilization -3; Stealth -3; Equip Speed 16; Remove Delay 8. +50 Durability and +5% Absorption. -4 Dodge. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Full Plate Gauntlets — 8,000 Ryō. AP 3.** Encased Arms / Hands armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 12; Remove Delay 6. Parry weapon attacks unarmed; blocking weapons ignores the inherent -25% Block penalty, but half the blocked damage is dealt to this armor. +4 Seal Speed; -2 Parry. No additional Basic Features, Unique Features or Wondrous Materials.
+
+**Bastion Sabatons — 8,000 Ryō. AP 3.** Encased Legs / Feet armor. Durability 300; Absorption 15%; Armor Immobilization -3; Stealth -3; Equip Speed 14; Remove Delay 7. Reduce Knockback by 25% (50% for Encased). -20% Movement Speed; -5 Athletics. No additional Basic Features, Unique Features or Wondrous Materials.
+
+[Browse the illustrated Pre-Made Armor Catalogue]({{ '/rules/standard-armor/' | relative_url }})
+
 ### 1. Structure
 {:#1-structure-2}
 
