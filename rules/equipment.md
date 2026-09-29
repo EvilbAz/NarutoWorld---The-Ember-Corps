@@ -1248,25 +1248,18 @@ When you hit with a weapon jutsu or are parried the STM is added to your WDP and
 ## Damage Levels
 {:#damage-levels}
 
-1 | \-1 Damage Dice
-
-2 | \-5% Wounding
-
-3 |  \-1 Parry
-
-4 | \-2 Damage Dice
-
-5 | \-5% Wounding
-
-6 | \+1 Stamina Cost
-
-7 | Die size reduced by 2, \-10% Wounding
-
-8 | \-1 Acc, \-1 Parry
-
-9 | \+2 Speed
-
-10 | The weapon breaks. A broken weapon may be used to perform attacks as the original but has 0 Artisan Points and uses the base stats of 1 size smaller (small weapons cannot be used in this way).
+| Level | Effect |
+| :--- | :--- |
+| 1 | -1 Damage Die |
+| 2 | -5% Wounding |
+| 3 | -1 Parry |
+| 4 | -2 Damage Dice |
+| 5 | -5% Wounding |
+| 6 | +1 Stamina Cost |
+| 7 | Die size reduced by 2, -10% Wounding |
+| 8 | -1 Accuracy, -1 Parry |
+| 9 | +2 Speed |
+| 10 | The weapon breaks. A broken weapon may still be used to attack, but has 0 Artisan Points and uses the base stats of a weapon one size smaller. Small weapons cannot be used this way. |
 
 ## Armor Protection
 {:#armor-protection}
