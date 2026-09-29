@@ -8,7 +8,7 @@ permalink: "/guide/"
 
 <div class="guide-hero" id="welcome"><div class="guide-hero-copy"><span class="guide-eyebrow">EMBER CORPS / FIELD MANUAL 00</span><h1>YOUR STORY<br>STARTS <em>HERE.</em></h1><p>A field guide for fresh Hunters, first-time roleplayers and veterans arriving from D&amp;D 5e.</p><div class="guide-hero-actions"><a class="guide-cta" href="#five-minute-version">START READING ↘</a><a class="guide-ghost" href="https://discord.gg/TheEmberCorps" target="_blank" rel="noopener">JOIN THE DISCORD ↗</a></div></div><div class="guide-hero-emblem ec-logo" aria-hidden="true"><span class="ec-monster"></span><span class="ec-letters"></span></div></div>
 
-<div class="guide-stat-strip"><div><strong>250 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
+<div class="guide-stat-strip"><div><strong>500 XP</strong><span>YOUR STARTING BUILD</span></div><div><strong>2 / WEEK</strong><span>FREE DOWNTIME SLOTS</span></div><div><strong>NO ROUNDS</strong><span>CONTINUOUS COMBAT</span></div></div>
 
 <nav class="guide-quicknav" aria-label="Guide chapters"><a href="#five-minute-version"><span>01</span> GET STARTED</a><a href="#ic-and-ooc"><span>02</span> IC &amp; OOC</a><a href="#server-loop"><span>03</span> LIFE ON DISCORD</a><a href="#speed"><span>04</span> SPEED &amp; IC</a><a href="#first-day"><span>05</span> FIRST DAY</a></nav>
 
@@ -25,7 +25,7 @@ This page teaches the *shape* of the game. You do not need to memorise the ruleb
 ## Your First Five Minutes
 {:#five-minute-version}
 
-1. **Make a Hunter.** Every player character belongs to Haven Ember and the wider Ember Corps. New characters begin with **250 XP at Genin status**.
+1. **Make a Hunter.** Every player character belongs to Haven Ember and the wider Ember Corps. New characters begin with **500 XP at Genin status**.
 2. **Get the sheet reviewed.** A GM checks that the character follows the rules.
 3. **Roleplay in character.** Find other Hunters, start scenes and let your character become part of the setting.
 4. **Join Missions and Hunts.** These are GM-run adventures and major encounters.
@@ -134,7 +134,7 @@ For example, a Speed 6 attack used twice can create more frequent opportunities 
 
 ### Spend your starting XP deliberately
 
-You begin at **250 XP, Genin status**. Spend XP on the attributes, Jutsu and abilities that make your central idea work. Starting characters also receive Skill Points based on total XP; use those for things your Hunter can do in and out of battle. Choose Uniques and heritage according to their own creation rules, then have a GM review your sheet. If you are under **1,500 XP**, the Core Rules allow you to rework your sheet outside combat and events—so your first build is not a permanent trap.
+You begin at **500 XP, Genin status**. Spend XP on the attributes, Jutsu and abilities that make your central idea work. Starting characters also receive Skill Points based on total XP; use those for things your Hunter can do in and out of battle. Choose Uniques and heritage according to their own creation rules, then have a GM review your sheet. If you are under **1,500 XP**, the Core Rules allow you to rework your sheet outside combat and events—so your first build is not a permanent trap.
 
 <div class="guide-tip"><span>BUILD CHECK / BEFORE YOU SUBMIT</span><strong>Can you describe your character in three actions?</strong><p>“I close the distance, strike quickly, and dodge away.” If your chosen stats, techniques, abilities and gear all help you do that, you have a coherent starting build.</p></div>
 
@@ -302,7 +302,7 @@ If you have just joined, this is enough:
 1. Read this guide.
 2. Look through Character Creation in Core Rules.
 3. Decide what your Hunter is like as a person and what they are good at.
-4. Build a 250 XP Genin with help from the community if you want it.
+4. Build a 500 XP Genin with help from the community if you want it.
 5. Get the sheet reviewed by a GM.
 6. Introduce the character IC.
 7. Join a scene.
