@@ -33,6 +33,8 @@
                 {% assign part = section | split: "|" %}
                 <a href="{{ '/rules/core/#' | append: part[1] | relative_url }}">{{ part[0] }}</a>
               {% endfor %}
+              <span class="core-side-label">QUICK REFERENCES</span>
+              <a class="{% if page.wounds_reference %}active{% endif %}" href="{{ '/rules/wounds/' | relative_url }}">Wounds Reference ↗</a>
             </nav>
           {% elsif page.volume_slug == 'jutsu' %}
             <nav id="toc" class="toc jutsu-side-links" aria-label="Jutsu types">
