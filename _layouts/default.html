@@ -8,6 +8,7 @@
   <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" href="{{ '/assets/img/ec-favicon.svg' | relative_url }}?v=2" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v=20260930-license-fix-v2">
+  {% if page.url == '/minecraft/' %}<link rel="stylesheet" href="{{ '/assets/css/minecraft.css' | relative_url }}?v=20260930-mc-v1">{% endif %}
   <script>try{document.documentElement.dataset.theme=['dark','light','primal','abyss'].includes(localStorage.getItem('ember-theme'))?localStorage.getItem('ember-theme'):'dark';document.documentElement.dataset.appearance=localStorage.getItem('ember-appearance')||(['light','dark'].includes(document.documentElement.dataset.theme)?document.documentElement.dataset.theme:'dark')}catch(e){}</script>
 </head>
 <body data-base="{{ site.baseurl }}" data-volume="{{ page.volume_slug | default: '' }}" data-talent-section="{{ page.talent_section | default: '' }}" data-jutsu-index="{{ page.jutsu_index | default: false }}">
@@ -108,7 +109,7 @@
       <a class="volume-link lore-volume-link {% if page.permalink == '/lore/' %}selected{% endif %}" href="{{ '/lore/' | relative_url }}"><span class="volume-number">VII</span><span>World &amp; Lore</span>{% if page.permalink == '/lore/' %}<span class="active-spark"></span>{% endif %}</a>
       <a class="volume-link lore-volume-link {% if page.permalink == '/timeline/' %}selected{% endif %}" href="{{ '/timeline/' | relative_url }}"><span class="volume-number">◈</span><span>Timeline of Events</span>{% if page.permalink == '/timeline/' %}<span class="active-spark"></span>{% endif %}</a>
     </nav>
-    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/guide/' | relative_url }}">New Player Guide <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Character Creation <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
+    <div class="sidebar-bottom"><div class="side-line"></div><a href="{{ '/guide/' | relative_url }}">New Player Guide <span>↗</span></a><a href="{{ '/minecraft/' | relative_url }}">Minecraft Server <span>↗</span></a><a href="{{ '/start/' | relative_url }}">Character Creation <span>↗</span></a><a href="https://discord.com/channels/1538632131402793080/1542862638663344289" target="_blank" rel="noopener noreferrer">Rules updates on Discord <span>↗</span></a></div>
   </aside>
   <div class="content-wrap">
     <header class="topbar">
@@ -134,7 +135,7 @@
         <div class="reading-layout {% if page.jutsu_index %}catalog-reading{% endif %}"><article class="prose rulebook-content" id="rule-content">{{ content }}</article><aside class="reading-rail"><div class="rail-label">ON THIS PAGE</div><nav id="rail-toc" aria-label="Contents on this page"></nav><a class="back-top" href="#">↑ BACK TO TOP</a></aside></div>
         <div class="book-bottom"><span>END OF VOLUME {{ page.volume }}</span><a href="{{ '/' | relative_url }}">Return to the archive →</a></div>
       </div>
-      {% else %}{% if page.url == '/guide/' %}<div class="guide-page"><article class="guide-reading">{{ content }}</article></div>{% else %}{{ content }}{% endif %}{% endif %}
+      {% else %}{% if page.url == '/guide/' %}<div class="guide-page"><article class="guide-reading">{{ content }}</article></div>{% elsif page.url == '/minecraft/' %}<div class="minecraft-page">{{ content }}</div>{% else %}{{ content }}{% endif %}{% endif %}
       <footer class="footer"><span>CREATIVE COMMONS · EMBER CORPS · UNOFFICIAL NARUTO & MONSTER HUNTER FAN PROJECT</span><span>THE WASTES DON'T READ THEMSELVES.</span></footer>
     </main>
   </div>
