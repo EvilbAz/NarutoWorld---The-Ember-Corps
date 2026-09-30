@@ -1,127 +1,138 @@
 ---
 title: "Minecraft Server"
-description: "Player guide for the Ember Corps Minecraft 1.12.2 modpack: controls, progression, quests, outposts and the server's goals."
+description: "Enter the Ember Corps Minecraft server: become a ninja, hunt monsters, explore the Wastes and build a home worth defending."
 permalink: "/minecraft/"
 ---
 
 <section class="mc-hero">
   <div class="mc-hero-copy">
-    <span class="mc-kicker">EMBER CORPS / MINECRAFT 1.12.2 / PACK 1.2.0</span>
-    <h1>BUILD AN OUTPOST.<br><em>HUNT THE WASTES.</em></h1>
-    <p>The Minecraft server is a survival side of Ember Corps: a persistent wilderness where Hunters establish outposts, learn jutsu, chase contracts, build infrastructure and survive a world packed with hostile creatures, ruins and strange terrain.</p>
-    <div class="mc-actions"><a href="#first-steps">START HERE ↓</a><a class="mc-ghost" href="#controls">CONTROLS</a></div>
+    <span class="mc-kicker">EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.0</span>
+    <h1>BUILD A HOME.<br><em>HUNT THE WASTES.</em></h1>
+    <p>Ember Corps has a Minecraft world of its own: a dangerous multiplayer survival server where you become a ninja, explore the Wastes, hunt monsters, discover strange places and help turn scattered shelters into thriving Hunter outposts.</p>
+    <div class="mc-actions">
+      <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↓</a>
+      <a class="mc-ghost" href="#first-steps">HOW TO PLAY</a>
+    </div>
   </div>
-  <div class="mc-hero-mark"><span>1.12.2</span><strong>THE BLOOM</strong><small>SERVER PACK 1.2.0</small></div>
+  <div class="mc-hero-mark"><span>1.12.2</span><strong>THE BLOOM</strong><small>PLAYER PACK 1.2.0</small></div>
 </section>
 
-<div class="mc-strip"><div><strong>QUEST-LED</strong><span>Progress without guessing</span></div><div><strong>BUILD & HUNT</strong><span>Outposts matter</span></div><div><strong>NINJA + SURVIVAL</strong><span>Chakra is not electricity</span></div><div><strong>KEEP INVENTORY</strong><span>Death still has a cost</span></div></div>
+<div class="mc-strip"><div><strong>BECOME A NINJA</strong><span>Choose your path and grow stronger</span></div><div><strong>HUNT & EXPLORE</strong><span>The wilds are full of threats</span></div><div><strong>BUILD TOGETHER</strong><span>Create outposts worth returning to</span></div><div><strong>QUEST & DISCOVER</strong><span>Learn the pack as you play</span></div></div>
 
-## What is the server?
+## Welcome to the Wastes
 {:#what-is-it}
 
-This is not vanilla Minecraft with a Naruto mod dropped on top. The pack is built around the **Hunter fantasy**: leave safety, explore hostile terrain, recover resources, train, return alive, and slowly turn a rough shelter into a functioning Corps outpost.
+This is Ember Corps translated into Minecraft: a persistent world built around the fantasy of being a Hunter beyond the safety of Haven.
 
-The pack combines ninja progression with exploration, monsters, modular equipment, farming, cooking, ritual craft, storage and light engineering. The in-game quest book is the intended route through all of it. You can specialise, build communally, or spend most of your time hunting—but the server works best when players bring what they find back into the shared world.
+You might spend one night tracking monsters through unfamiliar country, the next expanding a communal kitchen, and the next disappearing underground looking for something nobody else has found yet. Ninja abilities sit alongside dangerous creatures, strange ruins, farming, cooking, modular equipment, ritual magic, engineering and a much harsher wilderness than vanilla Minecraft.
 
-<div class="mc-callout"><strong>THE SERVER GOAL</strong><p>There is no single “beat Minecraft” finish line. The long-term objective is to make the Wastes survivable: establish and improve outposts, master your chosen ninja path, hunt dangerous creatures, recover rare materials, connect useful infrastructure and leave the world safer and stranger than you found it.</p></div>
+You do **not** need to know every mod before joining. The quest book introduces the important parts as you play.
+
+<div class="mc-callout"><strong>WHAT ARE WE TRYING TO DO?</strong><p>Explore the Wastes and leave your mark on them. Grow from a newly arrived ninja into an experienced Hunter, bring back rare discoveries, establish safe places beyond Haven and build a world that becomes richer because people actually lived in it.</p></div>
+
+## Get the pack
+{:#download}
+
+<div class="mc-download">
+  <div><span>CURRENT PLAYER VERSION</span><strong>Ember Corps 1.2.0</strong><p>Minecraft 1.12.2 · Client pack · CurseForge-ready ZIP</p></div>
+  <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↗</a>
+</div>
+
+Download the ZIP above and import it into **CurseForge as a new profile**. Launch the pack from that profile, then use the current server details from the Ember Corps community to join.
+
+The pack is already configured for the server. You should not need to assemble the mods yourself.
 
 ## Your first night
 {:#first-steps}
 
 <div class="mc-steps">
-  <article><span>01</span><h3>Choose an Origin</h3><p>New ninjas receive the Origin Selection screen. Reveal three options, read their traits and confirm one. If you close it, your choices remain; reopen Origin Selection from its keybind.</p></article>
-  <article><span>02</span><h3>Open the Quest Log</h3><p>The quest book is your progression guide. Start with the welcome chapter, then work through shelter, exploration, hunting, farming and engineering.</p></article>
-  <article><span>03</span><h3>Make a Foothold</h3><p>Get wood, cobblestone, food, a bed and lighting. The wilds are deliberately dangerous; a roof and a route home matter more than rushing loot.</p></article>
-  <article><span>04</span><h3>Train Before You Hunt</h3><p>Choose your ninja path, learn what your caster does and carry basic tools. Quest rewards provide Ninja XP, training scrolls, kunai and shuriken as you establish yourself.</p></article>
+  <article><span>01</span><h3>Choose Your Origin</h3><p>Your first major choice is what kind of ninja you are. Reveal your available Origins, read through them and choose the one that sounds the most fun to play.</p></article>
+  <article><span>02</span><h3>Follow the Quest Book</h3><p>The quests are your tour through the pack. They introduce survival, ninja training, hunting, building, food, crafting and technology without expecting you to know everything immediately.</p></article>
+  <article><span>03</span><h3>Make Somewhere Safe</h3><p>Get a bed, food, light and somewhere to store what you find. The world outside is dangerous enough that having a place to return to genuinely matters.</p></article>
+  <article><span>04</span><h3>Go Hunting</h3><p>Once you have supplies and a few tricks of your own, head out. Explore, fight, loot, find new terrain and bring something useful—or at least a good story—back with you.</p></article>
 </div>
 
-## Controls you actually need
+## Controls
 {:#controls}
 
-Keybinds can conflict in a large 1.12.2 pack, so **Options → Controls** is the authority for your installation. Press **F7** to print your current Ember Corps bindings and refresh the controls report after rebinding.
+Most of Minecraft works exactly as you expect. These are the extra controls worth knowing when you first join. If you ever lose a binding, press **F7** to print your current Ember Corps controls.
 
-| Action | Default / use |
+| Action | Default |
 | :--- | :--- |
-| Quest Log | Open from <code>Esc → QUEST LOG</code>; check Controls if you bind a direct key |
-| Origin Selection | <code>F6</code> by default |
-| Controls report | <code>F7</code> |
-| Voice menu | <code>V</code> |
+| Origin Selection | <code>F6</code> |
+| Show Ember Corps controls | <code>F7</code> |
+| Voice chat menu | <code>V</code> |
 | Push to talk | <code>Caps Lock</code> |
-| Target lock | <code>G</code> |
+| Lock onto a target | <code>G</code> |
 | Scout Zoom | Hold <code>Z</code> |
-| JEI recipe | Hover an item and press <code>R</code> |
-| JEI uses | Hover an item and press <code>U</code> |
-| Improved Backpack | Check the assigned backpack key in Controls / F7 |
-| Held-item reader | Search **Held item reader** in Controls; hold its binding, and use <code>Shift + binding</code> to page details |
-| StepUp | Search **StepUp** in Controls to find or change its toggle |
+| View an item's recipe | Hover it in JEI and press <code>R</code> |
+| See what an item is used for | Hover it in JEI and press <code>U</code> |
+| Quest Log | <code>Esc → QUEST LOG</code> |
 
-**Movement:** StepUp lets you walk up ledges without vanilla auto-jump; sneaking returns you to normal step height. Ninja dashes consume stamina. If you die, stamina begins empty and maximum stamina is temporarily reduced, so do not immediately dash back into danger.
+You can rebind anything from **Options → Controls**.
 
-**Combat:** target lock helps the camera follow a target; it does not attack for you or increase reach. SwingThroughGrass prevents harmless vegetation from eating melee swings. Loot beams mark selected valuable drops, but walls block them and labels only appear when you are close and looking toward the item.
+**Movement feels faster than vanilla.** You can step smoothly up blocks, use ninja movement abilities and lock the camera onto enemies during fights. Sneak when you want normal, careful movement.
 
-## Progression: what should I be doing?
+**Use JEI whenever you are confused by an item.** The item list beside your inventory is effectively your recipe book: hover something and press **R** to learn how to make it or **U** to see what it can become.
+
+## What can I do?
 {:#progression}
 
-The five broad quest paths are **starting out, building a home, hunting threats, farming/ritual craft, and outpost engineering**. Rewards are one-time, and ninja progression rewards require you to have chosen your origin first.
+There is no single correct way to play. The server is at its best when people develop their own corner of the world and then cross paths with everyone else's.
 
 <div class="mc-paths">
-  <article><span>忍</span><h3>Ninja Training</h3><p>Learn jutsu, gain Ninja XP and use training scrolls. Naruto equipment keeps its native behaviour; do not assume every normal Minecraft upgrade system can modify it.</p></article>
-  <article><span>狩</span><h3>Hunting</h3><p>Prepare for expeditions, mark routes home and hunt monsters, patrols and dangerous structures. Better carrying capacity means longer hunts—not immortality.</p></article>
-  <article><span>工</span><h3>Outpost Engineering</h3><p>Build storage networks and workshop machines. Actually Additions power is a separate technology layer: electricity does not refill chakra or stamina.</p></article>
-  <article><span>薬</span><h3>Food & Ritual Craft</h3><p>HarvestCraft, Cooking for Blockheads and Rustic turn farms into expedition supplies. Roots offers a separate druidic ritual path with server-restricted spells.</p></article>
+  <article><span>忍</span><h3>Become a Ninja</h3><p>Choose an Origin, learn techniques, collect training rewards and gradually build a character with their own fighting style.</p></article>
+  <article><span>狩</span><h3>Hunt the Wastes</h3><p>Leave the roads, explore new country and take on creatures that make ordinary Minecraft mobs look like wildlife.</p></article>
+  <article><span>築</span><h3>Build an Outpost</h3><p>Turn a hole in the ground into somewhere Hunters recognise: beds, kitchens, workshops, farms, storage, roads and places worth visiting.</p></article>
+  <article><span>探</span><h3>Find Something New</h3><p>Ruins, resources, creatures and useful locations are scattered through the world. Exploration is valuable even when you are not looking for a fight.</p></article>
 </div>
 
-### A sensible early-game route
+### A good way to start
 
-Start with the quest book rather than trying to learn every mod at once. Build shelter and storage, secure food, choose your origin, learn your caster, make an Improved Backpack, then prepare a real expedition. From there, branch into a better outpost, Tetra equipment, farming/rituals or engineering depending on what your group needs.
+Don't try to speedrun the modpack. Follow the opening quests, get a backpack, make yourself a proper home and learn how your ninja abilities work. Then pick a direction and go far enough that returning safely starts to feel like an achievement.
 
-Use **JEI** constantly. Search by mod with terms such as <code>@tetra</code>, <code>@actuallyadditions</code> or <code>@fairylights</code>; press **R** for recipes and **U** for uses. The pack deliberately leaves recipe discovery in JEI rather than expecting players to memorise a wiki.
+As you settle in, decide what your character contributes. Maybe you are the person who hunts dragons. Maybe you cook for expeditions, build roads between settlements, obsess over weapon crafting, run a farm, maintain the workshop or keep wandering until the map has no blank spaces left.
 
-## The mods that shape the server
+## A few things you'll meet
 {:#mods}
 
 <div class="mc-mod-grid">
-  <article class="mc-mod-card"><img src="https://www.9minecraft.net/wp-content/uploads/2019/12/Tetra-mod-for-minecraft-06.jpg" alt="Tetra modular crafting interface"><div><span>EQUIPMENT</span><h3>Tetra</h3><p>Modular tools, swords and toolbelts. Build a hammer, convert a crafting table into a workbench, then customise equipment piece by piece.</p><a href="https://tetra.mickelus.se/" target="_blank" rel="noopener">Tetra site ↗</a></div></article>
-  <article class="mc-mod-card"><img src="https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A448%2Ccw%3A1152%2Cch%3A1152%2Cq%3A80%2Cw%3A1152/UjtDmUVAi2riiMGDqoWpGG.jpg" alt="A dragon from Ice and Fire flying over Minecraft terrain"><div><span>THREATS</span><h3>Ice and Fire</h3><p>Dragons and other mythic creatures make long-distance travel dangerous. Treat the horizon as hostile until you know otherwise.</p><a href="https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons" target="_blank" rel="noopener">CurseForge ↗</a></div></article>
-  <article class="mc-mod-card"><img src="https://minecraft-inside.ru/uploads/files/2016-06/sgPVZpX.png" alt="Roots ritual blocks arranged in a grassy field"><div><span>RITUAL CRAFT</span><h3>Roots</h3><p>A nature-magic crafting route using herbs, mortars, pyres and ritual components. It is separate from Naruto chakra and has server restrictions for disruptive spells.</p><a href="https://www.curseforge.com/minecraft/mc-mods/roots" target="_blank" rel="noopener">CurseForge ↗</a></div></article>
+  <article class="mc-mod-card"><img src="https://www.9minecraft.net/wp-content/uploads/2019/12/Tetra-mod-for-minecraft-06.jpg" alt="Tetra modular crafting interface"><div><span>CRAFT YOUR GEAR</span><h3>Tetra</h3><p>Build modular tools and weapons at your workshop, then change their parts as you find better materials and decide what kind of equipment suits you.</p><a href="https://tetra.mickelus.se/" target="_blank" rel="noopener">SEE TETRA ↗</a></div></article>
+  <article class="mc-mod-card"><img src="https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A448%2Ccw%3A1152%2Cch%3A1152%2Cq%3A80%2Cw%3A1152/UjtDmUVAi2riiMGDqoWpGG.jpg" alt="A dragon flying over Minecraft terrain"><div><span>BIG PROBLEMS</span><h3>Ice and Fire</h3><p>The wilderness contains creatures you are absolutely not expected to punch on sight. Dragons and other monsters turn expeditions into actual hunts.</p><a href="https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons" target="_blank" rel="noopener">SEE ICE & FIRE ↗</a></div></article>
+  <article class="mc-mod-card"><img src="https://minecraft-inside.ru/uploads/files/2016-06/sgPVZpX.png" alt="Roots ritual blocks arranged in a grassy field"><div><span>WITCHCRAFT & RITUALS</span><h3>Roots</h3><p>Grow herbs, prepare strange ingredients and experiment with nature magic. It gives builders, farmers and explorers another path beyond machines and combat.</p><a href="https://www.curseforge.com/minecraft/mc-mods/roots" target="_blank" rel="noopener">SEE ROOTS ↗</a></div></article>
 </div>
 
-<p class="mc-caption">Mod screenshots are illustrative; the Ember Corps pack is pinned to its own Minecraft 1.12.2 versions and configuration.</p>
+The pack also expands food, farming, storage, decoration, exploration and workshop machinery. You will discover most of it naturally through quests and other players.
 
-## Equipment, storage and building
-{:#equipment}
+## Life at an outpost
+{:#outposts}
 
-**Improved Backpacks** are your main expedition storage. The first tier has 18 slots and later tiers scale up to a 63-slot diamond pack. You can equip one in the Baubles body slot to keep your chest armour available.
-
-**Simple Storage Network** connects existing containers. A Storage Network Master, Request Table and Link Cables let an outpost search and access its chests and drawers from one place. The network does not create storage capacity by itself.
-
-**Tetra** is for modular workshop gear. Search <code>@tetra</code> in JEI for its hammer and workbench route. Naruto kunai, casters, eye items and special armour retain their own systems; Tetra is not a universal Naruto-item upgrader.
-
-**Actually Additions** provides the engineering branch. The quests introduce the Coal Generator, Powered Furnace and Crusher. This is mundane workshop infrastructure, not chakra technology.
-
-## Death, safety and multiplayer
-{:#safety}
-
-**KeepInventory is enabled**, but death is not free. You lose 10% of your vanilla Minecraft XP, your stamina starts empty, and maximum stamina is limited to 75% for two minutes. A short join/respawn ward protects you for roughly five seconds and also prevents you dealing damage during that protection.
-
-Spawn restrictions give new players breathing room, but your own outposts still need lighting and defence. New structures, ores, gardens and other world-generation features only appear in **newly generated chunks**; old explored terrain is not retroactively refilled.
-
-Local voice chat is part of the pack. Normal speech reaches about **32 blocks**, whisper about **8 blocks**, and voice groups are disabled. Pick the correct microphone and unmute it in the voice menu before assuming the mod is broken.
-
-## Outpost goals
-{:#goals}
-
-The best server projects create reasons for other Hunters to return. A useful outpost has safe beds, lighting, food, organised storage and a workshop before it becomes decorative. From there, build kitchens, farms, ritual spaces, machine rooms, roads, waystations and specialised hunting lodges.
+Outposts are the heart of the server. They are places made by players for players: a safe bed after a long trip, a stocked kitchen before a hunt, a workshop for new equipment, a storehouse full of materials or simply somewhere memorable enough that people start using its name.
 
 <div class="mc-goal-board">
-  <div><span>SHORT TERM</span><strong>Come home alive.</strong><p>Secure shelter, food, light, storage and enough ninja training to survive your first real expedition.</p></div>
-  <div><span>MID TERM</span><strong>Make the outpost useful.</strong><p>Upgrade backpacks, centralise storage, establish farms and workshops, and create infrastructure other players can actually use.</p></div>
-  <div><span>LONG TERM</span><strong>Push back the Wastes.</strong><p>Explore new terrain, hunt major threats, recover rare resources, establish remote footholds and turn dangerous routes into known territory.</p></div>
+  <div><span>START</span><strong>Survive the night.</strong><p>Make shelter, light the area, find food and give yourself somewhere safe to return to.</p></div>
+  <div><span>GROW</span><strong>Make it useful.</strong><p>Add farms, storage, kitchens, workshops and whatever your group needs to stay away from Haven for longer.</p></div>
+  <div><span>LEAVE A MARK</span><strong>Make it a place.</strong><p>Build roads, lodges and settlements. Name them. Give other Hunters reasons to visit. Let the server develop its own geography and history.</p></div>
 </div>
 
-## Quick troubleshooting
-{:#troubleshooting}
+## Hunting, death and getting home
+{:#survival}
 
-If you cannot find a control, use **F7** and Options → Controls. If you cannot find a recipe, use **JEI**. If the multiplayer quest log is empty, the server needs the included quest definitions loaded. If voice shows disconnected, the voice port may need checking. If a world update adds terrain features, travel into new chunks.
+**Keep Inventory is enabled.** Dying will not erase hours of equipment progress, but it still leaves you vulnerable for a while. The aim is to make dangerous expeditions exciting without making one bad encounter ruin your character.
 
-The current player pack is **Ember Corps 1.2.0 for Minecraft 1.12.2**. Import the client ZIP as a new CurseForge profile for the cleanest installation. The server address is intentionally not published on this page; use the community's current server information when joining.
+Bring food. Bring light. Bring enough inventory space. Know roughly how you are getting home. If you see something enormous in the distance, remember that turning around is also a ninja technique.
+
+Loot beams help valuable drops stand out after fights, and backpacks let you stay away from home much longer than vanilla inventory would. As your outpost improves, preparing for expeditions becomes quicker and the places you can safely reach become farther away.
+
+## Play together
+{:#multiplayer}
+
+The server includes **proximity voice chat**. Press **V** to set up your microphone and use **Caps Lock** to talk. Voices become quieter with distance, so stumbling across another Hunter in the wild feels very different from sitting together at an outpost.
+
+You are free to wander alone, but the world is deliberately more fun when players rely on one another. Share discoveries. Build places together. Rescue somebody who went too far from home. Organise hunts. Leave supplies at distant shelters. Create things future players will stumble across.
+
+<div class="mc-final-cta">
+  <span>READY TO ENTER THE WASTES?</span>
+  <h2>Make a ninja. Pack your supplies.<br>See how far you get.</h2>
+  <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD EMBER CORPS 1.2.0 ↗</a>
+</div>
