@@ -3,7 +3,7 @@ import net.minecraftforge.fml.common.Mod;import net.minecraftforge.fml.common.ev
 import net.minecraftforge.common.MinecraftForge;import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent;import net.minecraftforge.fml.common.network.NetworkRegistry;
 import net.minecraftforge.fml.common.network.simpleimpl.*;import net.minecraftforge.fml.relauncher.Side;import io.netty.buffer.ByteBuf;
-@Mod(modid="embercorpsstamina",name="Ember Corps Stamina",version="0.2.5",dependencies="required-after:narutomod")
+@Mod(modid="embercorpsstamina",name="Ember Corps Stamina",version="0.2.6",dependencies="required-after:narutomod")
 public class StaminaMod {
  public static SimpleNetworkWrapper channel;
  @Mod.EventHandler public void init(FMLInitializationEvent e){channel=NetworkRegistry.INSTANCE.newSimpleChannel("emberstamina");channel.registerMessage(DashHandler.class,DashRequest.class,0,Side.SERVER);MinecraftForge.EVENT_BUS.register(this);MinecraftForge.EVENT_BUS.register(new ServerRules());}
