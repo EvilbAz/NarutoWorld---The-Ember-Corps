@@ -1424,9 +1424,6 @@ Twin Tonfa — 24,000 Ryō. AP 1\. \[Small, Club, One-Handed, Blunt, Dual\]. A m
 # Ranged Weapons
 {:#ranged-weapons-2}
 
-# Ranged Weapons
-{:#ranged-weapons-3}
-
 ### Standard Ranged Weapons
 {:#standard-ranged-weapons}
 
