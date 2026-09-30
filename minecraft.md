@@ -5,6 +5,8 @@ permalink: "/minecraft/"
 ---
 
 <section class="mc-hero">
+  <div class="mc-hero-orb" aria-hidden="true"></div>
+  <div class="mc-scanline" aria-hidden="true"></div>
   <div class="mc-hero-copy">
     <span class="mc-kicker">EMBER CORPS / MINECRAFT 1.12.2 / PLAYER PACK 1.2.0</span>
     <h1>BUILD A HOME.<br><em>HUNT THE WASTES.</em></h1>
@@ -14,7 +16,7 @@ permalink: "/minecraft/"
       <a class="mc-ghost" href="#first-steps">HOW TO PLAY</a>
     </div>
   </div>
-  <div class="mc-hero-mark mc-logo-mark"><img src="https://drive.google.com/thumbnail?id=19R8sFNXUqMEQbG77I4PeWbT9BBOYSFXq&sz=w1000" alt="Ember Corps server logo"><small>PLAYER PACK 1.2.0</small></div>
+  <div class="mc-hero-mark mc-logo-mark"><div class="mc-logo-frame"><span class="mc-corner mc-corner-a"></span><span class="mc-corner mc-corner-b"></span><span class="mc-corner mc-corner-c"></span><span class="mc-corner mc-corner-d"></span><img src="https://drive.google.com/thumbnail?id=19R8sFNXUqMEQbG77I4PeWbT9BBOYSFXq&sz=w1000" alt="Ember Corps server logo"></div><div class="mc-logo-meta"><span>EMBER CORPS</span><small>PLAYER PACK 1.2.0</small></div></div>
 </section>
 
 <div class="mc-strip"><div><strong>BECOME A NINJA</strong><span>Choose your path and grow stronger</span></div><div><strong>HUNT & EXPLORE</strong><span>The wilds are full of threats</span></div><div><strong>BUILD TOGETHER</strong><span>Create outposts worth returning to</span></div><div><strong>QUEST & DISCOVER</strong><span>Learn the pack as you play</span></div></div>
