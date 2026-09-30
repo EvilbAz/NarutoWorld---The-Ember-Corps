@@ -12,7 +12,7 @@ permalink: "/minecraft/"
     <h1>BUILD A HOME.<br><em>HUNT THE WASTES.</em></h1>
     <p>Ember Corps has a Minecraft world of its own: a dangerous multiplayer survival server where you become a ninja, explore the Wastes, hunt monsters, discover strange places and help turn scattered shelters into thriving Hunter outposts.</p>
     <div class="mc-actions">
-      <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↓</a>
+      <a href="https://drive.google.com/file/d/12od8XQ2aILFVVn84MaEkbVbNKo1Lm0Ls/view" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↓</a>
       <a class="mc-ghost" href="#first-steps">HOW TO PLAY</a>
     </div>
   </div>
@@ -43,7 +43,7 @@ You do **not** need to know every mod before joining. The quest book introduces 
 
 <div class="mc-download">
   <div><span>CURRENT PLAYER VERSION</span><strong>Ember Corps 1.2.1</strong><p>Minecraft 1.12.2 · Client pack · CurseForge-ready ZIP</p></div>
-  <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↗</a>
+  <a href="https://drive.google.com/file/d/12od8XQ2aILFVVn84MaEkbVbNKo1Lm0Ls/view" target="_blank" rel="noopener">DOWNLOAD PLAYER PACK ↗</a>
 </div>
 
 Download the ZIP above and import it into **CurseForge as a new profile**. Launch the pack from that profile, then use the current server details from the Ember Corps community to join.
@@ -179,5 +179,5 @@ You are free to wander alone, but the world is deliberately more fun when player
 <div class="mc-final-cta">
   <span>READY TO ENTER THE WASTES?</span>
   <h2>Make a ninja. Pack your supplies.<br>See how far you get.</h2>
-  <a href="https://drive.google.com/file/d/118_7gwdbIJQIEVoHKt4qtF1Miq2u079u/view?usp=drivesdk" target="_blank" rel="noopener">DOWNLOAD EMBER CORPS 1.2.1 ↗</a>
+  <a href="https://drive.google.com/file/d/12od8XQ2aILFVVn84MaEkbVbNKo1Lm0Ls/view" target="_blank" rel="noopener">DOWNLOAD EMBER CORPS 1.2.1 ↗</a>
 </div>
