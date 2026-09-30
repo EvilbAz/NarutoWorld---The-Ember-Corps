@@ -14,7 +14,7 @@ permalink: "/minecraft/"
       <a class="mc-ghost" href="#first-steps">HOW TO PLAY</a>
     </div>
   </div>
-  <div class="mc-hero-mark"><span>1.12.2</span><strong>THE BLOOM</strong><small>PLAYER PACK 1.2.0</small></div>
+  <div class="mc-hero-mark mc-logo-mark"><img src="https://drive.google.com/thumbnail?id=19R8sFNXUqMEQbG77I4PeWbT9BBOYSFXq&sz=w1000" alt="Ember Corps server logo"><small>PLAYER PACK 1.2.0</small></div>
 </section>
 
 <div class="mc-strip"><div><strong>BECOME A NINJA</strong><span>Choose your path and grow stronger</span></div><div><strong>HUNT & EXPLORE</strong><span>The wilds are full of threats</span></div><div><strong>BUILD TOGETHER</strong><span>Create outposts worth returning to</span></div><div><strong>QUEST & DISCOVER</strong><span>Learn the pack as you play</span></div></div>
@@ -99,7 +99,7 @@ As you settle in, decide what your character contributes. Maybe you are the pers
 <div class="mc-mod-grid">
   <article class="mc-mod-card"><img src="https://www.9minecraft.net/wp-content/uploads/2019/12/Tetra-mod-for-minecraft-06.jpg" alt="Tetra modular crafting interface"><div><span>CRAFT YOUR GEAR</span><h3>Tetra</h3><p>Build modular tools and weapons at your workshop, then change their parts as you find better materials and decide what kind of equipment suits you.</p><a href="https://tetra.mickelus.se/" target="_blank" rel="noopener">SEE TETRA ↗</a></div></article>
   <article class="mc-mod-card"><img src="https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A448%2Ccw%3A1152%2Cch%3A1152%2Cq%3A80%2Cw%3A1152/UjtDmUVAi2riiMGDqoWpGG.jpg" alt="A dragon flying over Minecraft terrain"><div><span>BIG PROBLEMS</span><h3>Ice and Fire</h3><p>The wilderness contains creatures you are absolutely not expected to punch on sight. Dragons and other monsters turn expeditions into actual hunts.</p><a href="https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons" target="_blank" rel="noopener">SEE ICE & FIRE ↗</a></div></article>
-  <article class="mc-mod-card"><img src="https://minecraft-inside.ru/uploads/files/2016-06/sgPVZpX.png" alt="Roots ritual blocks arranged in a grassy field"><div><span>WITCHCRAFT & RITUALS</span><h3>Roots</h3><p>Grow herbs, prepare strange ingredients and experiment with nature magic. It gives builders, farmers and explorers another path beyond machines and combat.</p><a href="https://www.curseforge.com/minecraft/mc-mods/roots" target="_blank" rel="noopener">SEE ROOTS ↗</a></div></article>
+  <article class="mc-mod-card"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/shiroiseijin/20250624/20250624114559.png" alt="Roots ritual blocks arranged in a grassy field"><div><span>WITCHCRAFT & RITUALS</span><h3>Roots</h3><p>Grow herbs, prepare strange ingredients and experiment with nature magic. It gives builders, farmers and explorers another path beyond machines and combat.</p><a href="https://www.curseforge.com/minecraft/mc-mods/roots" target="_blank" rel="noopener">SEE ROOTS ↗</a></div></article>
 </div>
 
 The pack also expands food, farming, storage, decoration, exploration and workshop machinery. You will discover most of it naturally through quests and other players.
