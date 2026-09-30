@@ -7923,7 +7923,7 @@ If it cannot legally change Actions, it must Be Read. This cannot trigger from b
 {:#saimingan-eye-of-hypnotism}
 
 **Requires:** Stage 1 Sharingan  
-You can perform single-target Genjutsu without handseals through direct eye contact. The target may avoid eye contact, but doing so imposes the normal Visibility penalties for deliberately refusing to look at you.
+You can perform single-target Genjutsu without handseals through direct eye contact. The target may avoid eye contact; as a Speed 0 non-interrupt, they may look away. Doing so imposes a Visibility penalty of 4 until they use a Speed 0 action to look at you again, or take a Major or higher Wound, breaking their focus.
 
 At Stage 2, Genjutsu cast this way reduce their final Speed by 4\. At Stage 3, reduce it by 8 instead and gain \+1 Genjutsu Accuracy. Saimingan cannot convert an Area Genjutsu into an eye-contact attack.
 
