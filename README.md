@@ -31,4 +31,6 @@ Use a pull request or GitHub issue for typos, broken links or rules discrepancie
 
 ## Disclaimer
 
-This is a non-commercial, unofficial fan project. Naruto and its characters belong to their respective rights holders; this site is not affiliated with or endorsed by them.
+This is a non-commercial, unofficial fan project inspired by Naruto and Monster Hunter. Naruto, Monster Hunter, and their respective characters, settings, terminology, and other protected material belong to their respective rights holders. Ember Corps is not affiliated with or endorsed by those rights holders.
+
+The repository's Creative Commons dedication applies only to original Ember Corps material to the extent its contributors have the right to license or dedicate that material. It does not grant rights to any third-party intellectual property used or referenced by the project.
