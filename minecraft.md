@@ -59,8 +59,11 @@ The pack is already configured for the server. You should not need to assemble t
 
 Most of Minecraft works exactly as you expect. These are the extra controls worth knowing when you first join. If you ever lose a binding, press **F7** to print your current Ember Corps controls.
 
-| Action | Default |
+| Action | Default / How |
 | :--- | :--- |
+| Charge chakra | Hold <code>Y</code> |
+| Ninja dash | Sprint, then use your Ninja Dash binding while you have stamina |
+| Wall movement | Run into a wall while moving and use your ninja movement controls to climb; keep chakra and stamina available |
 | Origin Selection | <code>F6</code> |
 | Show Ember Corps controls | <code>F7</code> |
 | Voice chat menu | <code>V</code> |
@@ -76,6 +79,37 @@ You can rebind anything from **Options → Controls**.
 **Movement feels faster than vanilla.** You can step smoothly up blocks, use ninja movement abilities and lock the camera onto enemies during fights. Sneak when you want normal, careful movement.
 
 **Use JEI whenever you are confused by an item.** The item list beside your inventory is effectively your recipe book: hover something and press **R** to learn how to make it or **U** to see what it can become.
+
+<div class="mc-callout"><strong>CHAKRA IS YOUR LIFELINE</strong><p>Hold <code>Y</code> to charge chakra whenever you have breathing room. Your techniques and mobility depend on it, and running dry in the middle of a hunt can turn a winning fight into a very short trip home. Stamina matters too: dashing and repeated movement can leave you unable to escape when you need it most.</p></div>
+
+## Becoming a stronger ninja
+{:#ninja-growth}
+
+Your character has two kinds of growth to care about. **Ninja XP** advances your overall ninja progression, while individual **Jutsu have their own XP**. Using and training a technique improves that technique toward its next unlocks rather than instantly mastering your entire arsenal.
+
+Hold your Ninjutsu caster to inspect the techniques available to you and their progress. **Training Scrolls** are especially valuable: hold the scroll in your main hand and the appropriate caster in your offhand, then use the scroll to train the selected Jutsu. A training scroll grants **+75 Jutsu XP** when that technique can still gain XP, and is not consumed if it cannot.
+
+The quest book is one of your most reliable early sources of Ninja XP and Training Scrolls. Hunt, complete objectives, train the techniques you actually want to use and keep checking your caster as new options open up.
+
+<div class="mc-ninja-tips">
+  <article><span>01</span><h3>Charge Before Trouble</h3><p>Top up your chakra before leaving shelter, entering a cave or committing to a dangerous fight. Do not discover that you are empty after the monster notices you.</p></article>
+  <article><span>02</span><h3>Mobility Keeps You Alive</h3><p>Dash to create distance, use vertical terrain and learn to move along walls instead of fighting everything from the ground. A ninja who can disengage gets another attempt.</p></article>
+  <article><span>03</span><h3>Train Your Favourite Jutsu</h3><p>Jutsu improve individually. Put your Training Scrolls and practice into techniques you enjoy rather than expecting every ability to grow together.</p></article>
+  <article><span>04</span><h3>Prepare Like a Hunter</h3><p>Ninja powers do not replace food, armour, storage or common sense. Carry supplies, know the route home and do not spend every resource before the real fight begins.</p></article>
+</div>
+
+## Great powers of the ninja world
+{:#great-powers}
+
+The server starts you as a ninja. It does **not** expect you to stay ordinary.
+
+<div class="mc-power-grid">
+  <article><div class="mc-power-glyph">眼</div><span>DŌJUTSU</span><h3>Eyes that change the fight</h3><p>Sharingan, Byakugan, Rinnegan and other rare eyes exist within the world. Dōjutsu can completely change what your character is capable of, and some of the rarest eye powers are prizes worth building an entire journey around.</p></article>
+  <article><div class="mc-power-glyph">尾</div><span>TAILED BEASTS</span><h3>Power with a heartbeat</h3><p>The Tailed Beasts are part of the world. Finding one is one thing; surviving the encounter and reaching the point where its power can become part of your story is another. They are major goals, not starter equipment.</p></article>
+  <article><div class="mc-power-glyph">禁</div><span>FORBIDDEN HEIGHTS</span><h3>There is always something beyond you</h3><p>Bloodline powers, transformations, advanced Jutsu and exceptionally rare discoveries can push a character far beyond their beginnings. The strongest rewards are things to chase, discover and earn through play.</p></article>
+</div>
+
+<p class="mc-power-note">This guide deliberately does not tell you where every great power is or exactly how to obtain it. Discovering that is part of the server.</p>
 
 ## What can I do?
 {:#progression}
