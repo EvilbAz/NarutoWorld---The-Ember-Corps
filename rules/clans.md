@@ -7239,7 +7239,7 @@ A standard prepared clay pouch supplies a battle. Without clay you cannot perfor
 ### Bakuton: Hanekaeri - Backblast
 {:#bakuton-hanekaeri-backblast}
 
-**Type:** E Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank E  
 **Chakra:** 8  
 **Speed:** 4  
 **Tags:** Utility, Self, Link
@@ -7255,7 +7255,7 @@ Backblast cannot Link to itself.
 ### Bakuton: Jirai Dageki - Landmine Strike
 {:#bakuton-jirai-dageki-landmine-strike}
 
-**Type:** E Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank E  
 **Chakra:** 8  
 **Damage:** 10d6\!\>5  
 **Accuracy:** \+1  
@@ -7274,7 +7274,7 @@ Landmine Strike requires no handseals.
 ### C1: Kibaku Kumo - Creeping Bomb
 {:#c1-kibaku-kumo-creeping-bomb}
 
-**Type:** E Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank E  
 **Chakra:** 10  
 **Damage:** 10d6\!\>4  
 **Range:** 15  
@@ -7294,7 +7294,7 @@ Before it arrives, Awareness against your Ninjutsu Accuracy spots it. If spotted
 ### Bakuton: Bakushō - Repulsive Burst
 {:#bakuton-bakusho-repulsive-burst}
 
-**Type:** D Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank D  
 **Chakra:** 15  
 **Speed:** 6  
 **Special:** Blast 4
@@ -7310,7 +7310,7 @@ On success the Attack is Parried and the attacker suffers this technique's Blast
 ### Bakuton: Hasaishō - Breaching Palm
 {:#bakuton-hasaisho-breaching-palm}
 
-**Type:** D Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank D  
 **Chakra:** 16  
 **Damage:** 14d12\!\>8  
 **Accuracy:** \+1  
@@ -7329,7 +7329,7 @@ When Shaped Charge is used with Breaching Palm, its structural Final Damage incr
 ### C1: Tsubasa - Explosive Clay Bird
 {:#c1-tsubasa-explosive-clay-bird}
 
-**Type:** D Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank D  
 **Chakra:** 18  
 **Damage:** 20d8\!\>8  
 **Range:** 30  
@@ -7364,7 +7364,7 @@ Place up to five invisible explosive nodes in the area. Each has Stealth TN 20 \
 ### Bakuton: Kūchū Bakuha - Airburst
 {:#bakuton-kuchu-bakuha-airburst}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank C  
 **Chakra:** 22  
 **Damage:** 25d10\!\>5  
 **Range:** 20  
@@ -7382,7 +7382,7 @@ Airburst follows the normal rules for Blast and Controlled Demolition.
 ### Bakuton: Rensa Shōgeki - Chain Impact
 {:#bakuton-rensa-shogeki-chain-impact}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank C  
 **Chakra:** \+12  
 **Speed:** \+4  
 **Tags:** Link
@@ -7402,7 +7402,7 @@ Chain Impact can only be used once during the same Action.
 ### Bakuton: Hakai Kairō - Demolition Corridor
 {:#bakuton-hakai-kairo-demolition-corridor}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 34  
 **Damage:** 30d10  
 **Area:** Line 8, 40  
@@ -7421,7 +7421,7 @@ If Concussive Detonation is used, the Line's width becomes 4\.
 ### Bakuton: Naibu Hōkai - Internal Rupture
 {:#bakuton-naibu-hokai-internal-rupture}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 32  
 **Damage:** 32d10  
 **Accuracy:** \-2  
@@ -7453,7 +7453,7 @@ Deal 10d12 Energy damage. On hit, immediately detonate every Detonation Mark on 
 ### C2: Ryū - Explosive Clay Dragon
 {:#c2-ryu-explosive-clay-dragon}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 30  
 **Upkeep:** Special 6  
 **Speed:** 18  
@@ -7471,7 +7471,7 @@ Creating another Dragon ends the old one. The Dragon never gets its own Initiati
 ### C3: Ōgata Bakudan - Grand Bomb
 {:#c3-ogata-bakudan-grand-bomb}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank B  
 **Chakra:** 40  
 **Damage:** 35d20\!o\>8  
 **Range:** 40  
@@ -7493,7 +7493,7 @@ If destroyed before the Delay ends, the technique fails harmlessly. When the Del
 ### Bakuton: Itten Hōkai - Point of Ruin
 {:#bakuton-itten-hokai-point-of-ruin}
 
-**Type:** A Rank \- Jutsu  
+**Type:** Bakuton Ninjutsu, Rank A  
 **Chakra:** 42  
 **Damage:** 55d10\!o\>5  
 **Accuracy:** \-2  
