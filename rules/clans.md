@@ -7255,7 +7255,7 @@ Backblast cannot Link to itself.
 ### Bakuton: Jirai Dageki - Landmine Strike
 {:#bakuton-jirai-dageki-landmine-strike}
 
-**Type:** Bakuton Ninjutsu, Rank E  
+**Type:** Taijutsu, Rank E  
 **Chakra:** 8  
 **Damage:** 10d6\!\>5  
 **Accuracy:** \+1  
@@ -7267,7 +7267,7 @@ Backblast cannot Link to itself.
 
 **Effects**
 
-You can use Taijutsu Accuracy instead of Ninjutsu Accuracy. The attack still uses Ninjutsu Damage Bonus.
+Landmine Strike uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Damage Bonus (PDB).
 
 Landmine Strike requires no handseals.
 
@@ -7310,7 +7310,7 @@ On success the Attack is Parried and the attacker suffers this technique's Blast
 ### Bakuton: Hasaishō - Breaching Palm
 {:#bakuton-hasaisho-breaching-palm}
 
-**Type:** Bakuton Ninjutsu, Rank D  
+**Type:** Taijutsu, Rank D  
 **Chakra:** 16  
 **Damage:** 14d12\!\>8  
 **Accuracy:** \+1  
@@ -7322,7 +7322,7 @@ On success the Attack is Parried and the attacker suffers this technique's Blast
 
 **Effects**
 
-You can use Taijutsu Accuracy.
+Breaching Palm uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Damage Bonus (PDB).
 
 When Shaped Charge is used with Breaching Palm, its structural Final Damage increase is \+100% rather than \+50%. It gains no extra benefit against living targets.
 
@@ -7382,7 +7382,7 @@ Airburst follows the normal rules for Blast and Controlled Demolition.
 ### Bakuton: Rensa Shōgeki - Chain Impact
 {:#bakuton-rensa-shogeki-chain-impact}
 
-**Type:** Bakuton Ninjutsu, Rank C  
+**Type:** Taijutsu, Rank C  
 **Chakra:** \+12  
 **Speed:** \+4  
 **Tags:** Link
@@ -7421,7 +7421,7 @@ If Concussive Detonation is used, the Line's width becomes 4\.
 ### Bakuton: Naibu Hōkai - Internal Rupture
 {:#bakuton-naibu-hokai-internal-rupture}
 
-**Type:** Bakuton Ninjutsu, Rank B  
+**Type:** Taijutsu, Rank B  
 **Chakra:** 32  
 **Damage:** 32d10  
 **Accuracy:** \-2  
@@ -7433,7 +7433,7 @@ If Concussive Detonation is used, the Line's width becomes 4\.
 
 **Effects**
 
-You can use Taijutsu Accuracy.
+Internal Rupture uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Damage Bonus (PDB).
 
 On a full hit, treat Damage as 20% higher only for determining Wounds. This bonus does not apply on a Partial Hit.
 
@@ -7493,7 +7493,7 @@ If destroyed before the Delay ends, the technique fails harmlessly. When the Del
 ### Bakuton: Itten Hōkai - Point of Ruin
 {:#bakuton-itten-hokai-point-of-ruin}
 
-**Type:** Bakuton Ninjutsu, Rank A  
+**Type:** Taijutsu, Rank A  
 **Chakra:** 42  
 **Damage:** 55d10\!o\>5  
 **Accuracy:** \-2  
@@ -7506,7 +7506,7 @@ If destroyed before the Delay ends, the technique fails harmlessly. When the Del
 
 **Effects**
 
-You are not targeted by this Area and may use Taijutsu Accuracy.
+You are not targeted by this Area. Point of Ruin uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Damage Bonus (PDB).
 
 The original target is attacked normally. Every other creature in the Area is attacked at an additional \-3 Accuracy and takes 75% of rolled Damage.
 
@@ -7522,6 +7522,8 @@ The original target cannot also be hit by the Area portion.
 **Tags:** Attack, Melee, Energy, Blunt
 
 **Effects**
+
+Worldbreaker uses your Ninjutsu Damage Bonus (NDB) instead of your Physical Damage Bonus (PDB).
 
 Strike the ground, structure, or creature and detonate inward. Deal 14d12 Energy damage and Blast 10\. Against structures and barriers, deal double final damage. Against a creature with 2 or more Detonation Marks, consume two Marks to make this attack count as 25% higher for Wounding and apply Stun 8\.
 
