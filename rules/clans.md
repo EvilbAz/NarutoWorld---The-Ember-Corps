@@ -131,7 +131,7 @@ Once per attack, reduce penalties from Cover against a thrown weapon by 1 per ra
 ### Kage Shuriken no Jutsu - Shadow Shuriken Technique
 {:#kage-shuriken-no-jutsu-shadow-shuriken-technique}
 
-**Type:** D Rank \- Jutsu  
+**Type:** Bukijutsu, Rank D  
 **Stamina:** 12  
 **Damage:** As Weapon  
 **Range:** Weapon Range  
@@ -212,11 +212,11 @@ Suiton techniques using at least 20 gallons of natural water cost 1 less Chakra 
 ### Suiton: Kairyū no Michi - Sea Dragon Wake
 {:#suiton-kairyu-no-michi-sea-dragon-wake}
 
-Type: C Rank \- Jutsu
+**Type:** Suiton Ninjutsu, Rank C
 
-Chakra: 24
+**Chakra:** 24
 
-Range: 30
+**Range:** 30
 
 Area: Line 10, 30
 
@@ -308,13 +308,13 @@ Until the end of your next Action, reduce penalties to Stealth caused by moving 
 ### Kemuri Utsusemi - Smoke Cicada Escape
 {:#kemuri-utsusemi-smoke-cicada-escape}
 
-Type: C Rank \- Jutsu
+**Type:** Ninjutsu, Rank C
 
-Chakra: 20
+**Chakra:** 20
 
-Speed: 4
+**Speed:** 4
 
-Tags: Interrupt, Self, Movement
+**Tags:** Interrupt, Self, Movement
 
 Effects
 
@@ -413,7 +413,7 @@ The Junsugan does not see through solid cover and does not identify techniques a
 ### Kyōkai Ayumi - Boundary Step
 {:#kyokai-ayumi-boundary-step}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Ninjutsu, Rank C  
 **Chakra:** 20  
 **Range:** Self  
 **Speed:** 8  
@@ -480,7 +480,7 @@ A weapon must have a defined striking edge or point to use Hien.
 ### Haisekishō - Burning Ash
 {:#haisekisho-burning-ash}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Katon Ninjutsu, Rank C  
 **Chakra:** 24  
 **Damage:** 18d8\>\!8  
 **Range:** 20  
@@ -610,13 +610,13 @@ If cast through Sound-Hidden Tradition, targets must be able to hear you when th
 ### Kioku Sōshitsu - Memory Blocking Technique
 {:#kioku-soshitsu-memory-blocking-technique}
 
-Type: C Rank \- Jutsu
+**Type:** Genjutsu, Rank C
 
-Chakra: 24
+**Chakra:** 24
 
-Accuracy: \-1
+**Accuracy:** \-1
 
-Range: 15
+**Range:** 15
 
 Speed: 14
 
@@ -692,11 +692,11 @@ Thunder Intercept cannot move through barriers or effects that would normally st
 ### Raiton: Raimei Tate - Thunder Guard
 {:#raiton-raimei-tate-thunder-guard}
 
-Type: C Rank \- Jutsu
+**Type:** Raiton Ninjutsu, Rank C
 
-Chakra: 22
+**Chakra:** 22
 
-Speed: \+3
+**Speed:** \+3
 
 Tags: Interrupt, Link, Raiton, Self
 
@@ -896,7 +896,7 @@ At the second Rank of this ability, your speed doubles while swimming, and you d
 ### Suiton: Sameodori Kekkai - Shark-Dance Water Prison
 {:#suiton-sameodori-kekkai-shark-dance-water-prison}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Suiton Ninjutsu, Rank B  
 **Chakra:** 34  
 **Upkeep:** 8  
 **Range:** 12  
@@ -1247,7 +1247,7 @@ Once per combat, after suffering a Major or worse Wound, you may spend 1 Devotio
 ### Consecrated Circle
 {:#consecrated-circle}
 
-Type: Jashin Clan Jutsu, Rank C
+**Type:** Fūinjutsu, Rank C
 
 Chakra: 16
 
@@ -1276,13 +1276,13 @@ Leaving the circle suppresses these benefits but does not end the circle.
 ### Jujutsu: Shiji Hyōketsu - Blood Rite Link
 {:#jujutsu-shiji-hyoketsu-blood-rite-link}
 
-Type: B Rank \- Jutsu
+**Type:** Fūinjutsu, Rank B
 
-Chakra: 30
+**Chakra:** 30
 
-Accuracy: \-3
+**Accuracy:** \-3
 
-Range: 20
+**Range:** 20
 
 Speed: 18
 
@@ -1405,11 +1405,11 @@ Lockjaw can trigger Predator’s Jaw normally.
 ### Beast Form
 {:#beast-form}
 
-Type: B Rank \- Jutsu
+**Type:** Ninjutsu, Rank B
 
-Chakra: 25
+**Chakra:** 25
 
-Upkeep: 6
+**Upkeep:** 6
 
 Speed: 10
 
@@ -1463,7 +1463,7 @@ After a battle, the Swarm Pool returns to maximum after 1 hour if at least 1 poi
 ### Hachimitsu Numa - Honey Mire
 {:#hachimitsu-numa-honey-mire}
 
-**Type:** D Rank \- Jutsu  
+**Type:** Ninjutsu, Rank D  
 **Chakra:** 14  
 **Damage:** 5d10+Xd4  
 **Range:** 15  
@@ -1484,7 +1484,7 @@ On a hit, apply Immobilization X/2. The affected Area remains sticky for X\*30 I
 ### Hachibakudan - Bee Bomb Swarm
 {:#hachibakudan-bee-bomb-swarm}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Ninjutsu, Rank C  
 **Chakra:** 22  
 **Damage:** 16d10  
 **Range:** 25  
@@ -1506,7 +1506,7 @@ If the attack fully hits, you can leave 5 bees behind as a visible hazard. The n
 ### Mitsurō Bunshin - Beeswax Clone
 {:#mitsuro-bunshin-beeswax-clone}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Ninjutsu, Rank B  
 **Chakra:** 28  
 **Speed:** 14  
 **Seal Speed:** 20  
@@ -1763,7 +1763,7 @@ You cannot benefit from multiple Echoes on the same roll.
 ### Samsara: White Forge
 {:#samsara-white-forge}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Ninjutsu, Rank C  
 **Chakra:** 24  
 **Range:** 10  
 **Speed:** 14  
@@ -1781,7 +1781,7 @@ Created weapons use ordinary equipment profiles and gain no free upgrades.
 ### Samsara: Black Reduction
 {:#samsara-black-reduction}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Ninjutsu, Rank B  
 **Chakra:** 32  
 **Damage:** 25d10  
 **Range:** 25  
@@ -1835,7 +1835,7 @@ A character may not hold both expressions unless a later Talent explicitly allow
 ### Feedback Break
 {:#feedback-break}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Ninjutsu, Rank C  
 **Chakra:** 20  
 **Damage:** 16d8  
 **Area:** 8  
@@ -1855,7 +1855,7 @@ This is a Sound effect and is blocked by effects that explicitly prevent sound p
 ### Anthem of the Unbroken
 {:#anthem-of-the-unbroken}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Ninjutsu, Rank B  
 **Chakra:** 30  
 **Upkeep:** 6  
 **Area:** CHA/2  
@@ -2288,7 +2288,7 @@ Mind Transmission Relay does not share senses, memories, or unwilling thoughts.
 ### Shintenshin no Jutsu - Mind Body Switch Technique
 {:#shintenshin-no-jutsu-mind-body-switch-technique}
 
-**Type:** C Rank \- Jutsu  
+**Type:** Genjutsu, Rank C  
 **Chakra:** 24  
 **Accuracy:** \-4  
 **Range:** CHA/2  
@@ -2310,7 +2310,7 @@ Each time the controlled body suffers a Major or worse Wound, the target may spe
 ### Shinranshin no Jutsu - Mind Disturbance Technique
 {:#shinranshin-no-jutsu-mind-disturbance-technique}
 
-**Type:** B Rank \- Jutsu  
+**Type:** Genjutsu, Rank B  
 **Chakra:** 34  
 **Accuracy:** \-3  
 **Range:** CHA/2  
@@ -8065,7 +8065,7 @@ At Stage 3, you can spend 2 Reads on the target when declaring this technique to
 ### Sharingan: Counter-Read
 {:#sharingan-counter-read}
 
-**Type:** Dōjutsu Technique, Rank B  
+**Type:** Ninjutsu, Rank B  
 **Chakra:** 18  
 **Speed:** 5  
 **Tags:** Interrupt, Defense, Counter  
